@@ -379,17 +379,17 @@
   <div class="flex-1 flex overflow-hidden relative">
 
     <!-- -------------------------------------------------- -->
-    <!-- LEFT SIDEBAR: Company Selector & Filters           -->
-    <!-- Mobile Width: Max 280px (leaving comfortable space)-->
+    <!-- LEFT SIDEBAR: Sleek, Narrow & Aesthetic Company Nav -->
+    <!-- Width: 260px (Ultra-clean & space-saving)          -->
     <!-- -------------------------------------------------- -->
     <aside id="sidebar" 
-           class="fixed inset-y-0 left-0 z-40 w-[80vw] max-w-[285px] sm:w-76 lg:w-80 bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-2xl lg:shadow-none">
+           class="fixed inset-y-0 left-0 z-40 w-[75vw] max-w-[260px] lg:w-[260px] bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-2xl lg:shadow-none">
       
       <!-- Mobile Close Header in Drawer -->
       <div class="lg:hidden p-3 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--bg-page)]">
         <div class="flex items-center gap-1.5">
-          <i data-lucide="building" class="w-4 h-4 text-sky-600"></i>
-          <span class="font-bold text-xs text-[var(--text-main)]">选择 500 强企业</span>
+          <i data-lucide="compass" class="w-4 h-4 text-sky-600"></i>
+          <span class="font-bold text-xs text-[var(--text-main)]">世界 500 强智库</span>
         </div>
         <button onclick="toggleMobileSidebar()" class="p-1 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-md">
           <i data-lucide="x" class="w-4 h-4"></i>
@@ -397,10 +397,10 @@
       </div>
 
       <!-- Search & Filters in Sidebar -->
-      <div class="p-3 border-b border-[var(--border-color)] bg-[var(--bg-page)] space-y-2">
+      <div class="p-2.5 border-b border-[var(--border-color)] bg-[var(--bg-page)] space-y-2">
         <!-- Search Input -->
         <div class="relative">
-          <i data-lucide="search" class="w-3.5 h-3.5 text-[var(--text-dim)] absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <i data-lucide="search" class="w-3.5 h-3.5 text-[var(--text-dim)] absolute left-2.5 top-1/2 -translate-y-1/2 pointer-events-none"></i>
           <input type="text" id="search-input" placeholder="搜索企业、创始人..." 
                  class="w-full pl-8 pr-2.5 py-1.5 bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-lg text-xs text-[var(--text-main)] placeholder-[var(--text-dim)] focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
         </div>
@@ -408,7 +408,7 @@
         <!-- Filter Dropdowns -->
         <div class="grid grid-cols-2 gap-1.5">
           <select id="country-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-1.5 py-1.5 focus:outline-none focus:border-sky-500">
-            <option value="">🌍 国家</option>
+            <option value="">🌍 全部国家</option>
             <option value="🇨🇳 中国">🇨🇳 中国</option>
             <option value="🇺🇸 美国">🇺🇸 美国</option>
             <option value="🇩🇪 德国">🇩🇪 德国</option>
@@ -418,28 +418,28 @@
           </select>
 
           <select id="industry-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-1.5 py-1.5 focus:outline-none focus:border-sky-500">
-            <option value="">🏢 行业</option>
-            <option value="💻 科技与芯片">💻 科技与芯片</option>
-            <option value="🛒 零售与电商">🛒 零售与电商</option>
-            <option value="🛢️ 石油与能源">🛢️ 石油与能源</option>
-            <option value="🏥 医疗与健康">🏥 医疗与健康</option>
-            <option value="🚗 汽车与出行">🚗 汽车与出行</option>
-            <option value="🏦 金融与银行">🏦 金融与银行</option>
-            <option value="🏗️ 建筑与工程">🏗️ 建筑与工程</option>
+            <option value="">🏢 全部行业</option>
+            <option value="💻 科技与芯片">💻 科技芯片</option>
+            <option value="🛒 零售与电商">🛒 零售电商</option>
+            <option value="🛢️ 石油与能源">🛢️ 石油能源</option>
+            <option value="🏥 医疗与健康">🏥 医疗健康</option>
+            <option value="🚗 汽车与出行">🚗 汽车出行</option>
+            <option value="🏦 金融与银行">🏦 金融银行</option>
+            <option value="🏗️ 建筑与工程">🏗️ 建筑工程</option>
           </select>
         </div>
 
         <div class="flex items-center justify-between text-[10px] text-[var(--text-dim)] px-0.5">
           <span id="filtered-count">共 100 家</span>
           <select id="sort-filter" class="bg-transparent text-[10px] text-[var(--text-muted)] focus:outline-none cursor-pointer">
-            <option value="rank-asc">按排名 (1-100)</option>
+            <option value="rank-asc">按排名 1-100</option>
             <option value="size-desc">按篇幅体量</option>
           </select>
         </div>
       </div>
 
       <!-- Scrollable Company List -->
-      <nav id="company-list" class="flex-1 overflow-y-auto p-1.5 space-y-0.5 divide-y divide-[var(--border-color)]/40">
+      <nav id="company-list" class="flex-1 overflow-y-auto p-1.5 space-y-0.5">
         <!-- List items injected here -->
       </nav>
     </aside>
@@ -645,13 +645,12 @@
       }
 
       currentFiltered.forEach((c, idx) => {
-        const isMaster = c.founder_size >= 25000;
         const isActive = allCompanies[currentIndex] && allCompanies[currentIndex].rank === c.rank;
         
         const item = document.createElement('button');
-        item.className = `w-full text-left p-2 rounded-lg transition flex items-center justify-between group ${
+        item.className = `w-full text-left px-2.5 py-2 rounded-xl transition flex items-center justify-between group ${
           isActive 
-            ? 'bg-[var(--bg-active)] text-sky-900 dark:text-sky-200 border-l-3 border-sky-600 font-semibold shadow-2xs' 
+            ? 'bg-sky-50 dark:bg-sky-950/70 text-sky-900 dark:text-sky-200 border-l-[3px] border-sky-500 shadow-2xs font-semibold' 
             : 'hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-muted)]'
         }`;
         item.onclick = () => {
@@ -662,18 +661,18 @@
 
         item.innerHTML = `
           <div class="flex items-center gap-2 min-w-0">
-            <span class="text-[10px] font-mono font-bold px-1 py-0.5 rounded ${
-              isActive ? 'bg-sky-200/80 dark:bg-sky-900 text-sky-900 dark:text-sky-200' : 'bg-[var(--bg-page)] text-[var(--text-dim)]'
+            <span class="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded-md shrink-0 ${
+              isActive ? 'bg-sky-200/90 dark:bg-sky-800 text-sky-900 dark:text-sky-100' : 'bg-[var(--bg-page)] text-[var(--text-dim)] border border-[var(--border-color)]/60'
             }">
               #${String(c.rank).padStart(3, '0')}
             </span>
             <div class="min-w-0">
-              <div class="text-xs truncate font-medium text-[var(--text-main)]">${c.name_cn}</div>
-              <div class="text-[10px] text-[var(--text-dim)] truncate">${c.name_en} · ${c.country.split(' ')[0]}</div>
+              <div class="text-xs truncate font-medium text-[var(--text-main)] group-hover:text-sky-600 transition-colors">${c.name_cn}</div>
+              <div class="text-[10px] text-[var(--text-dim)] truncate">${c.name_en}</div>
             </div>
           </div>
-          <span class="text-[10px] font-mono text-[var(--text-dim)] shrink-0 ${isMaster ? 'text-amber-600 dark:text-amber-400 font-semibold' : ''}">
-            ${c.founder_size_kb}K
+          <span class="text-xs text-[var(--text-dim)] opacity-40 group-hover:opacity-100 group-hover:text-sky-500 transition shrink-0">
+            <i data-lucide="chevron-right" class="w-3.5 h-3.5"></i>
           </span>
         `;
         listEl.appendChild(item);
