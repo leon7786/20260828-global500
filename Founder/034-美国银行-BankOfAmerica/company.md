@@ -1,0 +1,98 @@
+# 美国银行 (Bank of America Corporation) —— 全球综合金融航母与负责任增长标杆全景介绍
+
+> **《财富》世界500强排名：第 34 位**  
+> **年度营业收入：$191,567 百万美元（约 1915 亿美元）**  
+> **官方网站：[www.bankofamerica.com](https://www.bankofamerica.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 美国银行 (Bank of America Corporation) |
+| **成立时间** | 1904 年 10 月 17 日 (创立于美国旧金山，初名意大利银行 Bank of Italy) |
+| **全球总部** | 🇺🇸 美国 北卡罗来纳州 夏洛特 (Charlotte, NC) |
+| **传奇创始人** | 阿马迪奥·彼得·贾尼尼 (Amadeo Peter Giannini / A.P. Giannini, 1870–1949) |
+| **现任董事长兼 CEO** | 布莱恩·莫伊尼汉 (Brian T. Moynihan) |
+| **股票代码** | NYSE: `BAC` (道琼斯工业平均指数、标普500指数核心成份股) |
+| **全球员工总数** | 约 **213,000+ 人** |
+| **服务客户规模** | 约 **6,900 万** 个人与小微企业客户，管理总资产超 **3.2 万亿美元** |
+| **核心业务赛道** | 消费者银行 (Consumer Banking)、全球财富与投资管理 (GWIM / 美林证券 Merrill Lynch / 私人银行)、全球商业与企业银行 (Global Banking / 跨国交易银行)、全球市场 (Global Markets / 固收外汇大宗与股票投行业务) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Architecture)
+
+```mermaid
+graph TD
+    BAC["美国银行金融帝国 (Bank of America Corp.)"]
+    
+    BAC --> CB["1. 消费者零售银行 (Consumer Banking)"]
+    CB --> CB1["全美 3,800+ 家现代化金融中心与 15,000+ 台 ATM 网络"]
+    CB --> CB2["全美第一大低成本核心零售活期存款储蓄池"]
+    CB --> CB3["个人住房抵押贷款、汽车消费信贷与联名信用卡"]
+    CB --> CB4["数字金融平台 (3800万活跃移动用户 & 虚拟智能助手 Erica)"]
+    
+    BAC --> GWIM["2. 全球财富与投资管理 (GWIM)"]
+    GWIM --> GWIM1["美林财富管理 (Merrill Lynch Wealth Management): 1.5万名金牌顾问"]
+    GWIM --> GWIM2["美国银行私人银行 (Bank of America Private Bank): 超高净值家族信托"]
+    GWIM --> GWIM3["美林自我导向投资平台 (Merrill Edge)"]
+    
+    BAC --> GB["3. 全球企业与商业银行 (Global Banking)"]
+    GB --> GB1["中型市场与大型企业商业信贷及流动性支持"]
+    GB --> GB2["全球投资银行 (BofA Securities): IPO 承销、跨国并购财务顾问"]
+    GB --> GB3["全球交易服务 (GTS): 跨国资金清算、贸易融资与供应链金融"]
+    
+    BAC --> GM["4. 全球市场与大宗证券交易 (Global Markets)"]
+    GM --> GM1["固定收益、外汇与大宗商品做市交易 (FICC)"]
+    GM --> GM2["全球股票机构交易与衍生品清算"]
+    GM --> GM3["全球宏观经济与产业前沿研究 (BofA Global Research)"]
+
+    classDef main fill:#012169,stroke:#e31837,stroke-width:2px,color:#fff;
+    classDef branch fill:#00529b,stroke:#e31837,stroke-width:1px,color:#fff;
+    classDef sub fill:#f4f6fa,stroke:#00529b,stroke-width:1px,color:#000;
+    class BAC main;
+    class CB,GWIM,GB,GM branch;
+    class CB1,CB2,CB3,CB4,GWIM1,GWIM2,GWIM3,GB1,GB2,GB3,GM1,GM2,GM3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)
+
+### 1. 全美规模最大、成本最低的万亿美元零售存款基础
+- **坚不可摧的流动性护城河**：美国银行拥有近 **2 万亿美元** 的客户存款总额，其中近半数为极低成本乃至零成本的活期零售存款。无论美联储利率环境如何剧烈变动，这种庞大而忠诚的低成本资金底座，让美国银行始终享有全美银行业中最低的边际资金成本与极高的净利息收益率 (NIM)。
+
+### 2. 美林证券 (Merrill Lynch)：超 3.5 万亿美元财富管理航母
+- **全球顶尖的理财铁骑**：依托 2008 年收购华尔街“咆哮公牛”美林证券，美国银行组建了全美规模最大、牌照最全的财富管理网络。超 1.5 万名专业理财顾问将零售网点与超高净值私人银行无缝衔接，年贡献数百亿美元极其稳定的非利息资产管理费收入。
+
+### 3. 布莱恩·莫伊尼汉的“负责任增长 (Responsible Growth)”哲学
+- 自 2010 年执掌美国银行以来，CEO 莫伊尼汉确立了四项铁律：**“必须实现增长，但必须坚守风险底线；必须以客户为核心；必须实现可持续的卓越运营；必须与所服务社区共生共荣”**。这一战略让美国银行彻底清除了次贷危机阴霾，构筑起全球最坚固的堡垒级一级资本充足率 (CET1)。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1904年**：阿马迪奥·彼得·贾尼尼在旧金山北滩成立**意大利银行 (Bank of Italy)**，开启为平民与工薪阶层提供普惠金融的伟大征程。
+- **1906年**：旧金山大地震与火灾爆发，贾尼尼用运菜马车抢救出全部黄金储备，在海滩码头用两只木桶支起简易柜台率先开门放贷，成为重建旧金山的头号功臣。
+- **1920年代**：首创并全力推广全美跨区域**分支行制度 (Branch Banking)**，打破传统单体银行地理限制。
+- **1930年**：意大利银行正式更名为**美国银行 (Bank of America National Trust and Savings Association)**。
+- **1930年代**：在好莱坞与大萧条危机中，独家全资贷款支持华特·迪士尼完成世界首部彩色动画长片《白雪公主》，并全额承销旧金山金门大桥建造债券。
+- **1958年**：推出世界上第一张真正意义上的现代通用循环消费信用卡——**BankAmericard**（即全球最大支付清算组织 **VISA** 的前身）。
+- **1998年**：总部位于北卡罗来纳州夏洛特的**国家银行 (NationsBank)** 与加州美洲银行完成当时全美史上最大的 620 亿美元银行大合并，确立夏洛特为全球新总部。
+- **2008年**：在次贷危机风暴中心，果断兼并华尔街百年投行**美林证券 (Merrill Lynch)** 与全国金融公司 (Countrywide)。
+- **2010年**：**布莱恩·莫伊尼汉 (Brian Moynihan)** 出任 CEO，启动“负责任增长”大转型。
+- **2024-2026年**：美国银行年营业收入突破 **1910 亿美元**，位居世界 500 强第 **34** 位，数字金融 AI 助手 Erica 服务全美数千万家庭。
+
+---
+
+## 🎯 企业使命与核心价值观 (Mission & Purpose)
+
+- **企业崇高宗旨 (Purpose)**：
+  > **“通过连接人、思想与资源，让每一个人的财务生活变得更美好 (To help make financial lives better, through the power of every connection)”**
+- **核心价值观 (Core Values)**：
+  1. **协同共赢 (Deliver Together)**：凝聚全球全牌照合力，为客户提供一站式综合金融解决方案。
+  2. **负责任行动 (Act Responsibly)**：坚守审慎合规底线，做跨越经济周期的稳健长跑者。
+  3. **释放员工潜能 (Realize the Power of Our People)**：重视多元包容，打造全球最具幸福感的金融职场。
+  4. **彼此信任 (Trust the Team)**：以最高诚信标准赢得客户、股东与社会的终身托付。

@@ -1,0 +1,85 @@
+# 嘉能可 (Glencore plc) —— 全球大宗商品贸易与矿业巨擘全景介绍
+
+> **《财富》世界500强排名：第 24 位**  
+> **年度营业收入：$247,535 百万美元（约 2475 亿美元）**  
+> **官方网站：[www.glencore.com](https://www.glencore.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 嘉能可公司 (Glencore plc) |
+| **成立时间** | 1974 年 (由马克·里奇创立为 Marc Rich + Co AG) / 1994 年更名为 Glencore |
+| **全球总部** | 🇨🇭 瑞士 巴尔 (Baar, Canton of Zug, Switzerland) |
+| **创始人** | 马克·里奇 (Marc Rich)、平卡斯·格林 (Pincus Green) |
+| **现任 CEO** | 加里·内格尔 (Gary Nagle) |
+| **股票代码** | LSE: `GLEN`, JSE: `GLN` (富时100指数核心成分股) |
+| **全球员工总数** | 约 150,000+ 人（含矿山与承包商运营人员） |
+| **核心业务赛道** | 大宗商品全球贸易营销 (Marketing)、综合矿产资源开采与精炼 (Industrial)、能源产品 (原油/煤炭/LNG) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    GLEN["嘉能可商业帝国 (Glencore plc)"]
+    
+    GLEN --> MKT["1. 大宗商品贸易与营销 (Marketing Segment)"]
+    MKT --> MKT_MET["金属与矿产贸易 (铜、钴、锌、镍、铝、铁矿石)"]
+    MKT --> MKT_ENG["能源商品贸易 (原油、成品油、动力煤、LNG、航运物流)"]
+    MKT --> MKT_AGR["农产品贸易 (通过联营企业 Viterra)"]
+    
+    GLEN --> IND["2. 工业与矿山资产 (Industrial Mining & Smelting)"]
+    IND --> COPPER["铜矿矩阵 (秘鲁 Antamina, 智利 Collahuasi, 刚果金 Katanga/Mutanda)"]
+    IND --> COBALT["全球第一大原生钴生产商 (电动汽车动力电池核心供应链)"]
+    IND --> ZINC["全球最大锌生产商之一 (澳大利亚 Mount Isa, 加拿大, 欧洲冶炼厂)"]
+    IND --> COAL["全球核心优质动力煤与炼焦煤资产 (收购加拿大泰克资源煤炭资产 EVR)"]
+    IND --> NICKEL["镍矿与冶炼 (新喀里多尼亚 Koniambo, 澳大利亚 Murrin Murrin)"]
+
+    classDef main fill:#1a365d,stroke:#e28743,stroke-width:2px,color:#fff;
+    classDef branch fill:#e28743,stroke:#1a365d,stroke-width:1px,color:#fff;
+    classDef sub fill:#f7fafc,stroke:#1a365d,stroke-width:1px,color:#000;
+    class GLEN main;
+    class MKT,IND branch;
+    class MKT_MET,MKT_ENG,MKT_AGR,COPPER,COBALT,ZINC,COAL,NICKEL sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. 独一无二的“矿业开采 + 现货贸易”双轮驱动模型
+- 与纯矿业巨头（如必和必拓、力拓）或纯贸易商（如维多、托克）不同，嘉能可兼具顶尖矿业资产所有权与全球最大的独立大宗商品现货交易网络。
+- 贸易团队能够将自产矿石与第三方货源在全球范围内自由调配，通过跨地域、跨品质、跨交割期的精准套利（Arbitrage），在任何商品周期波动中均能锁定稳健的高额贸易利润。
+
+### 2. 全球能源转型关键金属的核心把控力
+- 嘉能可是全球第一大原生钴生产商，同时在铜和镍领域位列全球第一梯队。伴随全球新能源汽车、特高压电网与 AI 数据中心对铜（导电）与钴镍（电池）的爆炸式需求，嘉能可占据了不可逾越的资源源头壁垒。
+
+### 3. 无与伦比的全球物流与仓储调配基础设施
+- 拥有遍布全球主要海运咽喉的保税储油罐、港口专用深水泊位、数万节专用铁路货车与海运期租船队，能够在突发地缘危机导致供应链中断时迅速切换物理流向。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1974年**：马克·里奇与平卡斯·格林在瑞士楚格创立 **Marc Rich + Co AG**，开创全球现代原油现货独立交易市场。
+- **1983年**：美国司法部起诉马克·里奇涉嫌逃税与违反贸易禁运令，里奇移居瑞士。
+- **1993年**：马克·里奇在试图垄断全球锌市场的投机交易中遭受重创，公司高管团队发起管理层收购 (MBO)。
+- **1994年**：管理层完成 MBO，公司正式更名为 **Glencore (嘉能可)**，意为“全球能源商品与资源 (Global Energy Commodity Resources)”。
+- **2002年**：南非煤矿贸易老将**伊万·格拉森伯格 (Ivan Glasenberg)** 出任 CEO，全面推进从纯贸易商向重资产矿业帝国的激进转型。
+- **2011年**：在伦敦证券交易所和香港交易所完成划时代的 **100 亿美元 IPO**，彻底揭开全球顶级大宗商品巨头的神秘面纱。
+- **2013年**：完成以 **620 亿美元** 对瑞士矿业巨头**超科 (Xstrata)** 的世纪大合并，跃居全球综合矿业第一梯队。
+- **2021年**：伊万·格拉森伯格退休，**加里·内格尔 (Gary Nagle)** 接任 CEO。
+- **2023-2024年**：以 69.3 亿美元完成对加拿大泰克资源 (Teck Resources) 炼焦煤业务 Elk Valley Resources (EVR) 的战略收购。
+- **2024-2026年**：嘉能可以 2475 亿美元营业收入稳居《财富》世界500强第 24 位，领跑全球大宗商品贸易与绿色关键金属供应链。
+
+---
+
+## 🎯 企业文化与商业信条 (Corporate Principles)
+
+1. **敏锐与果决 (Entrepreneurial and Decisive)**：在大宗商品毫秒级的价格剧变中捕捉套利窗口。
+2. **责任与安全 (Safety and Responsibility)**：在全球数百座矿山贯彻严苛的工业安全与环境保护标准。
+3. **长期开放 (Openness and Transparency)**：从隐秘的私人合伙制向全球透明的公众上市公司蜕变。

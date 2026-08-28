@@ -1,0 +1,96 @@
+# 麦克森公司 (McKesson Corporation) —— 全球医药流通与健康供应链霸主全景介绍
+
+> **《财富》世界500强排名：第 7 位**  
+> **年度营业收入：$403,430 百万美元（约 4034 亿美元）**  
+> **官方网站：[www.mckesson.com](https://www.mckesson.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 麦克森公司 (McKesson Corporation) |
+| **成立时间** | 1833 年 (由约翰·麦克森与查尔斯·奥尔科特创立于纽约曼哈顿，拥有超 190 年历史) |
+| **全球总部** | 🇺🇸 美国 德克萨斯州 欧文 (Irving, TX) |
+| **创始人** | 约翰·麦克森 (John McKesson)、查尔斯·奥尔科特 (Charles Olcott) |
+| **现任掌门人** | 董事会主席：爱德华·穆勒 (Edward Mueller)；首席执行官：布莱恩·泰勒 (Brian Tyler) |
+| **股票代码** | NYSE: `MCK` (标普500指数核心成分股、全美医药流通第一股) |
+| **流通覆盖** | 分销全美超过 **三分之一 (33%+)** 的处方药，服务超 40,000 家医疗服务机构与药房 |
+| **全球员工总数** | 约 5.1+ 万人 |
+| **核心业务赛道** | 美国处方药品与生物制品分销、处方科技与预先授权解决方案 (CoverMyMeds)、肿瘤专科与精准医疗网络 (US Oncology Network)、医疗外科器械与耗材分销 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    MCK["麦克森健康供应链帝国 (McKesson Corporation)"]
+    
+    MCK --> PHARM["1. 美国处方药流通分销 (U.S. Pharmaceutical)"]
+    PHARM --> PHARM1["全美连锁药房与零售药店供应链 (CVS/沃尔玛等核心分销伙伴)"]
+    PHARM --> PHARM2["Health Mart 独立社区药房特许加盟网络 (超4000家加盟药房)"]
+    PHARM --> PHARM3["大型医院集团与卫生系统住院药品日配 (Inpatient Distribution)"]
+    
+    MCK --> TECH["2. 处方科技与数字化解决方案 (Prescription Technology Solutions)"]
+    TECH --> TECH1["CoverMyMeds (全美最大电子处方预先授权与患者自付减免平台)"]
+    TECH --> TECH2["RelayHealth (百亿级处方数据实时交换与医保报销清算路由)"]
+    
+    MCK --> ONCO["3. 肿瘤专科与特种药生态 (The US Oncology & Specialty)"]
+    ONCO --> ONCO1["The US Oncology Network (全美最大独立肿瘤医生网络, 2400+专科医生)"]
+    ONCO --> ONCO2["Ontada (肿瘤真实世界数据 RWD 分析与前沿抗癌药临床试验支持)"]
+    ONCO --> ONCO3["特种药房与冷链高敏生物制剂分销 (Biologics & Cell Therapy)"]
+    
+    MCK --> MEDSURG["4. 医疗外科耗材与器械 (Medical-Surgical Solutions)"]
+    MEDSURG --> MED1["门诊手术中心 (ASC) & 基层诊所医用器械耗材直供"]
+    MEDSURG --> MED2["急救、重症监护、诊断试剂与个人防护物资 (PPE) 全球采购"]
+
+    classDef main fill:#003B71,stroke:#002244,stroke-width:2px,color:#fff;
+    classDef branch fill:#002244,stroke:#003B71,stroke-width:1px,color:#fff;
+    classDef sub fill:#f0f5fb,stroke:#003B71,stroke-width:1px,color:#000;
+    class MCK main;
+    class PHARM,TECH,ONCO,MEDSURG branch;
+    class PHARM1,PHARM2,PHARM3,TECH1,TECH2,ONCO1,ONCO2,ONCO3,MED1,MED2 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与供应链护城河 (Core Competitive Moat)
+
+### 1. 难以逾越的规模效应与超低毛利下的极致资产周转
+- 麦克森在全美运营数十个高度自动化、恒温恒湿的巨型医药中枢配送中心（DC），日处理数百万行处方药品订单。
+- 医药流通行业毛利率极低（通常仅 1%-2% 净利率），麦克森依托近 200 年打磨的供应链精细化运营、日清日结的精准预测和高效库存周转率，构筑了极高的资本与运营壁垒，新进入者几乎无法生存。
+
+### 2. CoverMyMeds：全美处方药预先授权（ePA）的技术垄断
+- 传统处方药常因医保审批流程导致患者在药房柜台等待数天甚至放弃用药。麦克森旗下的 **CoverMyMeds** 实现了医生电子处方、医保支付方与药房系统之间的毫秒级自动化直连，覆盖全美 90% 以上的药房和数万名医生，成为全美处方药流转的核心数字化枢纽。
+
+### 3. 美国肿瘤专科网络 (The US Oncology Network) 的专科闭环
+- 汇聚全美 2400 多名独立肿瘤学家，管理着全美近 15% 的癌症患者诊疗。麦克森不仅为其提供昂贵的高精尖靶向药和细胞免疫疗法冷链分销，更提供专科电子病历与临床研究支持，牢牢锁定了全球利润最丰厚的特种药渠道。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1833年**：约翰·麦克森与查尔斯·奥尔科特在纽约曼哈顿小水街（Maiden Lane）创立 Olcott & McKesson，主营优质草药和化学药品的进口批发。
+- **1853年**：丹尼尔·罗宾斯（Daniel Robbins）成为合伙人，公司正式更名为 **McKesson & Robbins**。
+- **1861-1865年**：南北战争爆发，公司成为联邦军队主要的标准化药品箱和野战急救药品核心供应商。
+- **1920年代**：开创性地并购全美数十家区域药品批发商，建立起全美第一个真正意义上的全国性药品分销网络。
+- **1938年**：遭遇科斯特洛（Coster/Musica）虚构存货丑闻危机后，配合监管部门全面重组，催生了现代注册会计师（CPA）对实物资产进行实地盘点的全球审计准则。
+- **1980年代**：率先在医药分销领域引入条形码扫描枪、电脑自动化拣货系统与手持电子终端。
+- **1999年**：以 140 亿美元并购医疗软件先驱 HBO & Company (HBOC)，完成由传统药品搬运工向医疗健康 IT 与科技巨头的战略蜕变。
+- **2010年**：收购全美最大肿瘤专科医生联合会 US Oncology，奠定在癌症特种药领域的统治地位。
+- **2020年**：被美国联邦政府选为 **COVID-19 疫苗集中分销总协调商**，成功向全美安全分发数亿剂冷链疫苗。
+- **2024-2026年**：年营业收入突破 **4030 亿美元**，位列《财富》世界500强第 7 位。
+
+---
+
+## 🎯 企业文化与核心价值观 (I²CARE Values)
+
+麦克森以 **I²CARE 核心价值观** 作为全球运营的最高道德指南：
+
+1. **诚信 (Integrity)**：在药品安全、患者隐私与商业合作中永远坚持最高道德底线。
+2. **客户第一 (Customer-first)**：将医院、药房、医生与患者的需求置于一切决策的中心。
+3. **责任担当 (Accountability)**：对每一次处方药品的精准准时送达负起绝对责任。
+4. **相互尊重 (Respect)**：倡导包容多元的文化，珍视每一位员工与合作伙伴的价值。
+5. **追求卓越 (Excellence)**：持续优化供应链效率，利用前沿科技解决复杂医疗挑战。

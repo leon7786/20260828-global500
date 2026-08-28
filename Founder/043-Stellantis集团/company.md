@@ -1,0 +1,100 @@
+# Stellantis集团 (Stellantis N.V.) —— 全球多元化汽车与出行工业巨擘全景介绍
+
+> **《财富》世界500强排名：第 43 位**  
+> **年度营业收入：$173,144 百万美元（约 1731 亿美元）**  
+> **官方网站：[www.stellantis.com](https://www.stellantis.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | Stellantis集团 (Stellantis N.V.，拉丁语意为“用繁星点亮”) |
+| **成立时间** | 2021 年 1 月 16 日 (由 PSA 标致雪铁龙集团与 FCA 菲亚特克莱斯勒集团 50:50 对等合并) |
+| **全球总部** | 🇳🇱 荷兰 阿姆斯特丹 (法定注册地) / 法国巴黎、意大利都灵、美国奥本山运营中心 |
+| **董事长** | 约翰·埃尔坎 (John Elkann，阿涅利家族第五代掌门人) |
+| **首席执行官 (CEO)**| 卡洛斯·塔瓦雷斯 (Carlos Tavares) |
+| **股票代码** | Euronext Paris / Borsa Italiana / NYSE: `STLA` |
+| **全球员工总数** | 约 **28+ 万人**（研发生产基地遍布全球近30个国家，产品销往130多个市场） |
+| **核心业务赛道** | 乘用车与轻型商用车制造、纯电动与混合动力出行、汽车软件与车联网、Free2move 移动出行服务 |
+
+---
+
+## 🌐 核心业务矩阵与 14 大品牌版图 (Brand Architecture)
+
+```mermaid
+graph TD
+    STLA["Stellantis 汽车帝国 (Stellantis N.V.)"]
+    
+    STLA --> NA["1. 美系标志性品牌 (North American Titans)"]
+    NA --> NA1["Jeep: 全球传奇越野与高端SUV领航者"]
+    NA --> NA2["Ram: 强悍全尺寸皮卡与重载商用车"]
+    NA --> NA3["Dodge & Chrysler: 美式肌肉车与家庭出行"]
+    
+    STLA --> IT["2. 意系豪华与动感 (Italian Heritage)"]
+    IT --> IT1["Maserati (玛莎拉蒂): 超豪华GT跑车与SUV"]
+    IT --> IT2["Alfa Romeo (阿尔法·罗密欧): 赛道基因运动豪华"]
+    IT --> IT3["Fiat & Abarth (菲亚特): 意式国民精品车与小钢炮"]
+    IT --> IT4["Lancia (蓝旗亚): 意式高端优雅复兴"]
+    
+    STLA --> EU["3. 法德主流与先锋 (French & German Core)"]
+    EU --> EU1["Peugeot (标致): 动感驾趣与法式先锋设计"]
+    EU --> EU2["Citroën (雪铁龙): 极致舒适与创新家庭用车"]
+    EU --> EU3["DS Automobiles: 法式法式高定时装奢华理念"]
+    EU --> EU4["Opel & Vauxhall (欧宝): 德国精工与实用科技"]
+    
+    STLA --> TECH["4. 全球平台与未来科技 (Tech & Platforms)"]
+    TECH --> TECH1["四大纯电架构 (STLA Small, Medium, Large, Frame)"]
+    TECH --> TECH2["三大软件平台 (STLA Brain, SmartCockpit, AutoDrive)"]
+    TECH --> TECH3["零跑国际 (Leapmotor International) 全球反向合资"]
+
+    classDef main fill:#0b2341,stroke:#00a3e0,stroke-width:2px,color:#fff;
+    classDef branch fill:#00a3e0,stroke:#0b2341,stroke-width:1px,color:#fff;
+    classDef sub fill:#f3f3f3,stroke:#0b2341,stroke-width:1px,color:#000;
+    class STLA main;
+    class NA,IT,EU,TECH branch;
+    class NA1,NA2,NA3,IT1,IT2,IT3,IT4,EU1,EU2,EU3,EU4,TECH1,TECH2,TECH3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. 极致跨国平台模块化与年 50 亿欧元协同效应
+- 依托合并后年销量数百万台的庞大体量，Stellantis 实现了底盘架构、动力总成、采购网络与车机软件的深度通用化。合并后每年实现超 **50 亿欧元** 的固定成本与研发协同节约，单车研发成本大幅摊薄。
+
+### 2. 极具互补性的全球利润引擎与多元品牌护城河
+- **北美市场利润奶牛**：Jeep 与 Ram 皮卡在北美市场占据极高单车售价与强劲毛利率，提供充沛现金流。
+- **欧洲轻型商用车与小型车霸主**：标致、雪铁龙、菲亚特和欧宝在欧洲轻型商用车（LCV）市场连续多年占据市场份额第一。
+
+### 3. Dare Forward 2030 战略与中国反向合资新路径
+- 集团承诺到 2030 年在欧洲实现 100% 乘用车纯电动化，北美实现 50% 纯电销售。
+- 战略入股中国造车新势力**零跑汽车 (Leapmotor)** 并组建合资公司“零跑国际”，首创欧洲跨国巨头引入中国高性价比三电与智能化技术的出海新模式。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1896年**：阿尔芒·标致（Armand Peugeot）在法国创立标致汽车公司。
+- **1899年**：乔瓦尼·阿涅利（Giovanni Agnelli）在意大利都灵创立菲亚特汽车（FIAT）。
+- **1925年**：沃尔特·克莱斯勒（Walter Chrysler）创立克莱斯勒汽车公司。
+- **2009-2014年**：马尔乔内（Sergio Marchionne）操盘菲亚特奇迹般收购破产重组的克莱斯勒，组建菲亚特克莱斯勒集团（FCA）。
+- **2017年**：PSA 标致雪铁龙在卡洛斯·塔瓦雷斯带领下，成功收购通用汽车旗下的欧宝与沃克斯豪尔（Opel/Vauxhall），并在一年内实现历史性扭亏为盈。
+- **2019年12月**：PSA 与 FCA 正式签署 50:50 对等合并具有法律约束力的协议。
+- **2021年1月16日**：**Stellantis 集团正式宣告成立**并在巴黎、米兰和纽约三地挂牌上市。
+- **2022年**：发布“Dare Forward 2030”长远战略规划，全年调整后营业利润创历史新高。
+- **2023年**：斥资 15 亿欧元入股零跑汽车获得 20% 股权，开辟全球化反向赋能新格局。
+- **2024-2026年**：Stellantis 集团年营业收入达 1730 亿美元，稳居全球前五大汽车制造集团行列。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Culture)
+
+### 1. 核心理念：“Powered by Diversity”（因多元而强大）
+- 汇聚来自全球 160 多个不同国籍的员工，尊重法、意、美、德等多国工业传统，不搞“大一统文化抹杀”，鼓励各品牌百花齐放。
+
+### 2. 核心行为准则
+- **我们以客户为中心 (Customer Obsessed)**：制造高可靠性与高驾乘乐趣的出行工具。
+- **我们追求卓越执行 (Agility & Execution)**：坚决压缩低效官僚层级，崇尚速度与高投资回报率。
+- **我们关爱未来 (Care for the Future)**：坚定迈向 2038 年净零碳排放目标。

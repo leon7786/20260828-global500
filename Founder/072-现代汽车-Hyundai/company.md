@@ -1,0 +1,93 @@
+# 现代汽车公司 (Hyundai Motor Company) —— 全球前三汽车帝国与未来智能出行巨头全景介绍
+
+> **《财富》世界500强排名：第 72 位**  
+> **年度营业收入：$131,021 百万美元（约 1310.2 亿美元）**  
+> **官方网站：[www.hyundai.com](https://www.hyundai.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 现代汽车株式会社 (Hyundai Motor Company / 현대자동차주식회사) |
+| **成立时间** | 1967 年 12 月 29 日 (创立于韩国首尔) |
+| **全球总部** | 🇰🇷 韩国 首尔特别市 瑞草区 献陵路 12 (Yangjae-dong, Seoul) |
+| **创始人** | 郑周永 (Chung Ju-yung, 1915–2001) |
+| **现任掌门人** | 郑义宣 (Euisun Chung, 现代汽车集团会长) / 张在勋 (Jaehoon Chang, 社长兼 CEO) |
+| **股票代码** | KRX: `005380` (韩国综合股价指数 KOSPI 核心成分股) |
+| **全球员工总数** | 约 120,000+ 人（现代汽车集团整体超 30 万人） |
+| **核心业务赛道** | 乘用车与商用车制造、Genesis 捷尼赛思豪华汽车、IONIQ 纯电架构、氢燃料电池系统 (HTWO)、波士顿动力机器人与城市空中交通 (Supernal) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    HMC["现代汽车集团 (Hyundai Motor Group)"]
+    
+    HMC --> PASS["1. 乘用车与豪华品牌 (Passenger Vehicles)"]
+    PASS --> PASS1["现代乘用车主品牌 (Elantra/Tucson/Santa Fe/Palisade)"]
+    PASS --> PASS2["Genesis 捷尼赛思独立豪华品牌 (G80/G90/GV70/GV80)"]
+    PASS --> PASS3["N 系列高性能赛道级品牌 (Ioniq 5 N / Elantra N)"]
+    
+    HMC --> EV["2. 电动化与氢能科技 (EV & Hydrogen Innovation)"]
+    EV --> EV1["IONIQ 纯电系列 (800V E-GMP 超快充架构)"]
+    EV --> EV2["HTWO 氢燃料电池系统 (NEXO SUV & 氢能重卡 XCIENT)"]
+    EV --> EV3["全固态电池与下一代三电自研系统"]
+    
+    HMC --> ROBOT["3. 未来智能出行与机器人 (Future Mobility & Robotics)"]
+    ROBOT --> ROBOT1["波士顿动力 (Boston Dynamics: Spot / Atlas / Stretch)"]
+    ROBOT --> ROBOT2["Motional 自动驾驶合资公司 (L4级 Robotaxi)"]
+    ROBOT --> ROBOT3["Supernal 城市空中交通 (eVTOL 电动垂直起降飞行器)"]
+    
+    HMC --> VERT["4. 垂直整合产业链生态 (Integrated Ecosystem)"]
+    VERT --> VERT1["现代摩比斯 (Hyundai Mobis - 核心零部件与电驱)"]
+    VERT --> VERT2["现代制铁 (Hyundai Steel - 车用高强超轻钢材)"]
+    VERT --> VERT3["现代格罗唯视 (Hyundai Glovis - 全球滚装船汽车物流)"]
+
+    classDef main fill:#002c5f,stroke:#00aad2,stroke-width:2px,color:#fff;
+    classDef branch fill:#003478,stroke:#002c5f,stroke-width:1px,color:#fff;
+    classDef sub fill:#f0f4f8,stroke:#003478,stroke-width:1px,color:#000;
+    class HMC main;
+    class PASS,EV,ROBOT,VERT branch;
+    class PASS1,PASS2,PASS3,EV1,EV2,EV3,ROBOT1,ROBOT2,ROBOT3,VERT1,VERT2,VERT3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)
+
+### 1. 全球独一无二的全产业链纵向一体化闭环 (Vertical Integration)
+- **从铁矿砂到整车下线**：现代汽车拥有全球汽车行业中最完整、最强悍的垂直整合体系。从集团旗下的**现代制铁 (Hyundai Steel)** 冶炼专属超高强汽车钢板，到**现代摩比斯 (Hyundai Mobis)** 制造底盘、传感器与三电系统，再到**现代格罗唯视 (Hyundai Glovis)** 拥有数十艘巨型远洋汽车滚装船队直通全球码头。
+- **超强抗周期与成本优势**：这种一体化闭环让现代汽车在遭遇全球芯片短缺、供应链危机和原材料暴涨时，具备远超同业的供应链韧性与极低制造成本。
+
+### 2. 领先全球的 E-GMP 800V 纯电平台架构
+- **极致超充与性能标杆**：现代自主研发的 **E-GMP (Electric-Global Modular Platform)** 架构原生支持 **800V 高压超充**，可实现 18 分钟内将电量从 10% 充至 80%，并具备 V2L 外部供电与后驱/四驱模块化扩展能力。
+- **国际横扫大奖**：基于该架构的 IONIQ 5、IONIQ 6 连续包揽“世界年度风云车 (World Car of the Year)”大奖，高性能电动车 **IONIQ 5 N** 更在纽博格林赛道树立了纯电驾驶乐趣的全球新标杆。
+
+### 3. 全球单体最大生产基地与极致柔性制造
+- **蔚山超级工厂 (Ulsan Plant)**：占地超过 500 万平方米，拥有 5 个独立整车制造厂、专属发动机变速箱生产线以及私有深水海运码头，日产整车近 6,000 辆，是全球规模最大、综合效率最高的汽车制造航母。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1967年**：郑周永在首尔创立现代汽车株式会社，最初与英国福特合作组装“柯蒂纳 (Cortina)”轿车。
+- **1974-1975年**：在都灵车展发布由乔治亚罗设计的韩国首款自主研发轿车 **Pony (小马)**，1975年量产下线，终结韩国无法独立制造汽车的历史。
+- **1986年**：自主车型 **Excel** 正式进军美国市场，首年销量达 16.8 万辆，打破外国汽车品牌进军美国的历史首年销量纪录。
+- **1998年**：在亚洲金融危机中果断以巨资竞购破产的**起亚汽车 (Kia)**，组建现代起亚汽车集团，奠定全球前五大车企骨架。
+- **1999年**：郑梦九会长发起轰轰烈烈的“质量经营”攻坚战，在美国率先推出震惊行业的“10年/10万英里质保”，彻底逆转品牌口碑。
+- **2015年**：正式成立独立高端豪华汽车品牌 **Genesis (捷尼赛思)**，成功打破欧美豪华车对高端行政轿车和豪华SUV的垄断。
+- **2020年**：郑义宣出任现代汽车集团会长，正式发布 E-GMP 模块化纯电架构；以 11 亿美元收购全球顶尖足式机器人先驱**波士顿动力 (Boston Dynamics)** 80% 股权。
+- **2024-2026年**：现代起亚集团年销量突破 750 万辆，稳居**全球第三大汽车制造商**；现代汽车单体营业收入突破 1310 亿美元，全方位领跑软件定义汽车 (SDV) 与氢能重卡产业化。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Philosophy)
+
+1. **顾客第一 (Customer First)**：为全球消费者提供最优质的出行体验与最可靠的安全守护。
+2. **直面挑战 (Challenging the Impossible)**：继承郑周永“没有做不到的事”的开拓精神，敢于进入任何未知技术无人区。
+3. **现场主义 (On-Site Orientation)**：深入一线研发实验室、车间与全球市场，依靠第一手事实与数据快速决断。
+4. **以人为本与协同发展 (People-Centric & Synergy)**：打造尊重员工潜能的包容环境，与全球合作伙伴构建共赢生态。

@@ -1,0 +1,96 @@
+# 联合健康集团 (UnitedHealth Group Inc.) —— 全球最大健康保险与医疗科技帝国全景介绍
+
+> **《财富》世界500强排名：第 4 位**  
+> **年度营业收入：$447,567 百万美元（约 4475 亿美元）**  
+> **官方网站：[www.unitedhealthgroup.com](https://www.unitedhealthgroup.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 联合健康集团 (UnitedHealth Group Incorporated) |
+| **成立时间** | 1977 年 (由理查德·伯克创立前身 Charter Med Inc.，1984年上市并更名) |
+| **全球总部** | 🇺🇸 美国 明尼苏达州 明尼阿波利斯 / 明尼通卡 (Minnetonka, MN) |
+| **创始人** | 理查德·T·伯克 (Richard T. Burke) |
+| **现任掌门人** | 董事会执行主席：斯蒂芬·赫姆斯利 (Stephen J. Hemsley)；首席执行官：安德鲁·威蒂 (Sir Andrew Witty) |
+| **股票代码** | NYSE: `UNH` (道琼斯工业平均指数、标普500指数核心权重蓝筹股) |
+| **服务人群** | 为全球超 1.5 亿人提供健康保险与医疗服务 |
+| **全球员工总数** | 约 44+ 万人（包括超 9 万名受雇或深度合作的执业医生与专职护士） |
+| **核心业务赛道** | 商业与政府健康保险 (UnitedHealthcare)、全美最大医生诊疗网络 (OptumHealth)、药房福利管理与特种药 (OptumRx)、医疗大数据分析与AI系统 (OptumInsight) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    UNH["联合健康集团 (UnitedHealth Group)"]
+    
+    UNH --> UHC["1. UnitedHealthcare (健康险与医保支付旗舰)"]
+    UHC --> UHC1["雇主与个人商业险 (Employer & Individual, 2700+万投保人)"]
+    UHC --> UHC2["联邦老年医保 (Medicare & Retirement, 覆盖全美超700万长者)"]
+    UHC --> UHC3["州政府低收入医保 (Community & State / Medicaid, 800+万人)"]
+    UHC --> UHC4["国际健康险业务 (Global / 南美与海外市场)"]
+    
+    UNH --> OPTUM["2. Optum (高毛利医疗科技与健康服务航母)"]
+    OPTUM --> OPT_H["OptumHealth (全美最大医疗服务与初级诊疗网络)"]
+    OPT_H --> OPT_H1["90,000+ 执业医生网络与数千家社区门诊/手术中心"]
+    OPT_H --> OPT_H2["基于价值医疗 (Value-Based Care) 慢病管理与居家护理"]
+    
+    OPTUM --> OPT_R["OptumRx (全美三大药房福利管理服务商之一, PBM)"]
+    OPT_R --> OPT_R1["年处理超 15 亿张处方药福利清算与药品集采议价"]
+    OPT_R --> OPT_R2["特种药房 (Specialty Pharmacy) & 罕见病用药冷链直配"]
+    
+    OPTUM --> OPT_I["OptumInsight (医疗大数据、AI与数字化基础设施)"]
+    OPT_I --> OPT_I1["医院与诊所数字化管理系统 (Change Healthcare 整合底座)"]
+    OPT_I --> OPT_I2["AI智能理赔反欺诈审查与前瞻性临床辅助决策 (CDSS)"]
+
+    classDef main fill:#002677,stroke:#001344,stroke-width:2px,color:#fff;
+    classDef branch fill:#0051a5,stroke:#002677,stroke-width:1px,color:#fff;
+    classDef sub fill:#f0f4fa,stroke:#002677,stroke-width:1px,color:#000;
+    class UNH main;
+    class UHC,OPTUM branch;
+    class UHC1,UHC2,UHC3,UHC4,OPT_H,OPT_R,OPT_I,OPT_H1,OPT_H2,OPT_R1,OPT_R2,OPT_I1,OPT_I2 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河：Payvider 商业模式 (Competitive Moat)
+
+### 1. 独步全球的“支付方 + 服务方”一体化（Payvider）闭环
+- **打破传统零和博弈**：在传统美国医疗体系中，保险公司（支付方）千方百计少赔付，医院医生（服务方）千方百计多开检查和昂贵药品，双方陷入激烈内耗。
+- **左手收保费，右手看病控费**：联合健康通过将 **UnitedHealthcare（保险端）** 与 **Optum（医疗端）** 深度绑定，保险端收取的保费直接在内部 Optum 诊所和药房完成医疗消耗。Optum 医生有动力通过预防性保健和早期慢病干预来减少患者住院，从而从源头降低整体医疗支出，节省下来的资金又转化为两家子公司的超额利润。
+
+### 2. 医疗大数据与 AI 精算算法壁垒
+- OptumInsight 拥有全美数十年来最庞大、覆盖数亿人群的全生命周期临床电子病历（EHR）与理赔结算数据。
+- 借助顶尖的健康精算算法与 AI 风控模型，联合健康能够对每一位患者的健康风险进行毫秒级精准画像与成本预测，将医疗赔付率（Medical Loss Ratio, MLR）稳定控制在极其优异的 82%-83% 黄金区间。
+
+### 3. 全美最大的医生集团与初级诊疗实体网络
+- OptumHealth 旗下拥有或深度绑定的执业医生超过 9 万人，控制了全美近十分之一的执业医生力量，形成了牢不可破的线下分级诊疗与转诊护城河。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1977年**：理查德·伯克在明尼苏达州创立 Charter Med Inc.，开创性地为非营利性医疗机构提供管理型医疗组织（HMO）管理服务。
+- **1984年**：公司正式重组为联合健康公司 (United HealthCare Corporation) 并在美股成功挂牌上市。
+- **1991年**：威廉·麦奎尔医生出任 CEO，开启了长达十五年疾风暴雨般的全国医疗机构与地方医保网络大并购。
+- **1998年**：公司正式更名为联合健康集团 (UnitedHealth Group)，确立多品牌协同运营战略。
+- **2011年**：联合健康将旗下所有医疗服务、药房福利管理和医疗科技业务全面整合成全新品牌——**Optum（奥普腾）**，开启“保险+医疗科技”双轮驱动时代。
+- **2012年**：以约 49 亿美元收购巴西最大综合医疗保险和医院运营商 Amil Participações S.A.，加速海外扩张。
+- **2022年**：以 130 亿美元全现金完成对全美最大医疗清算平台 **Change Healthcare** 的战略收购，彻底掌控全美医疗数据支付清算咽喉。
+- **2024-2026年**：集团年营业收入跨越 4470 亿美元大关，位列《财富》世界500强全球第 4 位；基于价值医疗的签约患者突破 400 万人，持续领跑全球健康医疗行业。
+
+---
+
+## 🎯 企业文化与核心价值观 (Core Values)
+
+联合健康集团以**五大核心价值观 (Our Core Values)** 作为全球员工的行动准则：
+
+1. **诚信 (Integrity)**：信守每一份医疗承诺，在医保与理赔中坚持最高道德标准。
+2. **同理心 (Compassion)**：真正倾听病患与家庭的痛苦，以仁爱之心提供全天候关怀。
+3. **协作关系 (Relationships)**：与医生、雇主、政府和社区建立基于信任的长期共生生态。
+4. **创新突破 (Innovation)**：利用生成式 AI、大数据和前沿科技不断简化复杂繁琐的医疗流程。
+5. **卓越业绩 (Performance)**：追求无可挑剔的临床质量与稳健卓越的财务回报。

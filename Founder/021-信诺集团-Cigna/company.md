@@ -1,0 +1,86 @@
+# 信诺集团 (The Cigna Group) —— 全球医疗健康与药事服务帝国全景介绍
+
+> **《财富》世界500强排名：第 21 位**  
+> **年度营业收入：$274,900 百万美元（约 2749 亿美元）**  
+> **官方网站：[www.thecignagroup.com](https://www.thecignagroup.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 信诺集团 (The Cigna Group) |
+| **成立时间** | 1792 年 (前身北美洲保险公司 INA 创立于费城独立厅) / 1982 年 (INA 与 CG 合并成立 CIGNA) |
+| **全球总部** | 🇺🇸 美国 康涅狄格州 布卢姆菲尔德 (Bloomfield, CT) |
+| **奠基背景 / 关键领袖** | 北美洲保险公司 (INA) 创立者萨缪尔·布洛杰特等；现代转型掌舵人：戴维·科达尼 (David Cordani) |
+| **现任董事长兼 CEO** | 戴维·科达尼 (David M. Cordani) |
+| **股票代码** | NYSE: `CI` (标普500指数核心成分股) |
+| **全球员工总数** | 约 70,000+ 人 |
+| **核心业务赛道** | 药事福利管理 (PBM)、特种药房服务、商业医疗健康险、行为健康、全球外派员工健康保障 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    CIGNA["信诺集团商业帝国 (The Cigna Group)"]
+    
+    CIGNA --> EVER["1. Evernorth Health Services (健康与药事服务)"]
+    EVER --> PBM["快捷药方 (Express Scripts PBM)<br>全美第二大药事管理, 覆盖超1亿人次"]
+    EVER --> SPEC["Accredo 特种药房 (Specialty Pharmacy)<br>罕见病、肿瘤等高价值生物药分发"]
+    EVER --> CARE["Care & Behavioral (MDLive/CareCentrix)<br>全天候虚拟问诊与家庭院后照护"]
+    EVER --> DATA["Evernorth 医疗数据智能与精算平台"]
+    
+    CIGNA --> CHC["2. Cigna Healthcare (医疗健康保险)"]
+    CHC --> EMP["U.S. Commercial (美国企业雇主健康险)<br>大型企业自保管理 ASO 与中小企业健康计划"]
+    CHC --> INTL["Cigna Global (国际外派与跨国企业健康方案)<br>服务全球200+国家和地区的跨国雇员"]
+    CHC --> SELECT["Individual & Family (个人与家庭医疗险)"]
+    
+    classDef main fill:#0c4a60,stroke:#ef6c00,stroke-width:2px,color:#fff;
+    classDef branch fill:#ef6c00,stroke:#0c4a60,stroke-width:1px,color:#fff;
+    classDef sub fill:#f5f5f5,stroke:#0c4a60,stroke-width:1px,color:#000;
+    class CIGNA main;
+    class EVER,CHC branch;
+    class PBM,SPEC,CARE,DATA,EMP,INTL,SELECT sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. Evernorth：全美规模领先的药事与特种药超级枢纽
+- **Express Scripts PBM 议价权**：通过集中采购与药物目录（Formulary）精准精算，为全美数万家雇主、工会和医保计划大幅削减药品支出。
+- **Accredo 特种生物药领先地位**：在单价数万美元的基因治疗、肿瘤靶向药和自身免疫疾病特种药领域，拥有无可替代的冷链物流、药师患者共管与全美分发网络。
+
+### 2. 差异化“管理型医疗 (ASO)”轻资本模式
+- 信诺在商业健康险板块中，超过 80% 的美国企业客户采用**行政服务外包 (Administrative Services Only, ASO)** 模式。
+- 在此模式下，企业雇主自行承担理赔风险，信诺提供网络准入、折扣谈判、健康管理与数据理赔服务，赚取高稳定性的服务费，极大降低了传统全险承保的资产负债表与承保周期波动风险。
+
+### 3. 全球跨国流动人才健康保障第一品牌
+- 信诺全球 (Cigna Global) 在跨国公司外派高管、国际非政府组织和使领馆外派人员健康保险领域拥有数十年全球网络优势，覆盖全球 200 多个国家与地区上百万家医疗机构无缝直付。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1792年**：北美洲保险公司 (INA) 在美国费城独立厅宣告成立，成为美国第一家股份制保险公司，承保了美国建国初期的远洋商船与第一批房屋火险。
+- **1794年**：INA 签发了美国历史上第一批人寿保险保单。
+- **1865年**：康涅狄格通用人寿保险公司 (Connecticut General, CG) 在哈特福德成立，专注于人身保险与团体年金。
+- **1912年**：CG 开创性地推出第一批针对企业员工的团体意外伤害保险。
+- **1982年**：INA 与 CG 正式宣布平等合并，各取首字母组成 **CIGNA (信诺)**，缔造当时全美最大的金融保险集团之一。
+- **2009年**：戴维·科达尼 (David Cordani) 出任 CEO，启动向综合性“医疗健康服务公司”的战略转型。
+- **2018年**：信诺完成以 **670 亿美元** 对全美药事管理龙头**快捷药方 (Express Scripts)** 的历史性世纪收购。
+- **2020年**：整合旗下药事、特种药与健康技术服务，正式推出 **Evernorth** 品牌。
+- **2023年**：公司正式更名为 **The Cigna Group (信诺集团)**，形成 Evernorth 与 Cigna Healthcare 双轮驱动格局。
+- **2024-2026年**：信诺集团营业收入突破 2740 亿美元，位列《财富》世界500强第 21 位。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Values)
+
+1. **以人为本 (We care deeply about our clients and customers)**：把每一位患者和保户的健康福祉放在一切商业决策的第一位。
+2. **追求卓越 (We innovate and adapt)**：打破传统医保与药房壁垒，用数字化和精准医疗降低医疗通胀。
+3. **协作共赢 (We partner, collaborate and keep our promises)**：与医生、医院、药企和雇主建立长期互信的价值医疗生态。
+4. **正直诚信 (We act with integrity and earn trust)**：坚持最高级别的合规与透明度，守护公共健康基石。

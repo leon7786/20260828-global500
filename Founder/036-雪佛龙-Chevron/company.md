@@ -1,0 +1,96 @@
+# 雪佛龙公司 (Chevron Corporation) —— 全球综合能源巨头与资本回报标杆全景介绍
+
+> **《财富》世界500强排名：第 36 位**  
+> **年度营业收入：$189,031 百万美元（约 1890 亿美元）**  
+> **官方网站：[www.chevron.com](https://www.chevron.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 雪佛龙公司 (Chevron Corporation，前身太平洋海岸石油公司与加利福尼亚标准石油 Socal) |
+| **成立时间** | 1879 年 9 月 10 日 (创立于美国加利福尼亚州旧金山) |
+| **全球总部** | 🇺🇸 美国 加利福尼亚州 圣拉蒙 (San Ramon, CA / 运营中枢休斯敦) |
+| **创始人 / 关键奠基人** | 德米特里厄斯·斯科菲尔德 (Demetrius Scofield)、查尔斯·费尔顿 (Charles N. Felton)、马克斯·斯坦尼克 (Max Steineke) |
+| **现任董事长兼 CEO** | 迈克尔·沃斯 (Michael K. Wirth) |
+| **股票代码** | NYSE: `CVX` (道琼斯工业平均指数、标普500指数核心成份股) |
+| **全球员工总数** | 约 **45,000+ 人** |
+| **全球油气净产量** | 日产油气当量超 **310 万桶** (全球排名前列的国际超级石油巨头) |
+| **核心业务赛道** | 上游油气勘探开发 (二叠纪页岩油、哈萨克斯坦田吉兹、澳洲超级 LNG、墨西哥湾超深水)、下游炼油与化工 (雪佛龙、德士古 Texaco、加德士 Caltex 品牌全球零售)、雪佛龙菲利普斯化工 (CPChem 50/50合资)、新能源科技 (CCUS 碳捕集利用与封存、可再生柴油、氢能) |
+
+---
+
+## 🌐 核心业务矩阵与全球版图 (Business Architecture)
+
+```mermaid
+graph TD
+    CVX["雪佛龙全球综合能源帝国 (Chevron Corporation)"]
+    
+    CVX --> UP["1. 优质上游油气资产 (Upstream Advantage)"]
+    UP --> UP1["美国二叠纪盆地 (Permian Basin: 极低完全成本超大规模页岩油)"]
+    UP --> UP2["哈萨克斯坦合资公司 (TCO 田吉兹油田超大型扩建工程 FGP)"]
+    UP --> UP3["澳大利亚超级液化天然气 (Gorgon & Wheatstone LNG 项目)"]
+    UP --> UP4["墨西哥湾与西非超深水深海盐下勘探开采"]
+    UP --> UP5["兼并赫斯 (Hess) 资产: 圭亚那超百亿桶近海世界级特大油田"]
+    
+    CVX --> DOWN["2. 下游炼化与全球品牌营销 (Downstream & Retail)"]
+    DOWN --> DOWN1["北美及全球大型一体化现代化炼油中心 (加州/德州/密西西比)"]
+    DOWN --> DOWN2["三大全球金字招牌零售站: Chevron (含 Techron 清洁剂), Texaco, Caltex"]
+    DOWN --> DOWN3["奥伦耐 (Oronite): 全球顶尖燃油添加剂与特种润滑油添加剂研发"]
+    
+    CVX --> CHEM["3. 国际化工巨擘 (Petrochemicals - CPChem)"]
+    CHEM --> CHEM1["雪佛龙菲利普斯化工 (CPChem): 全球领先的乙烯、聚乙烯与芳烃制造"]
+    
+    CVX --> NEW["4. 新能源与低碳科技 (New Energies)"]
+    NEW --> NEW1["全球最大商业化 CCUS 碳捕集工程之一 (Gorgon 碳封存)"]
+    NEW --> NEW2["可再生柴油 (Renewable Energy Group REG 并购整合) 与绿氢试点"]
+
+    classDef main fill:#00396b,stroke:#009ddc,stroke-width:2px,color:#fff;
+    classDef branch fill:#002244,stroke:#009ddc,stroke-width:1px,color:#fff;
+    classDef sub fill:#f0f7fb,stroke:#002244,stroke-width:1px,color:#000;
+    class CVX main;
+    class UP,DOWN,CHEM,NEW branch;
+    class UP1,UP2,UP3,UP4,UP5,DOWN1,DOWN2,DOWN3,CHEM1,NEW1,NEW2 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)
+
+### 1. 二叠纪盆地 (Permian Basin) 极低完全成本王者
+- **北美页岩油核心皇冠资产**：雪佛龙在德克萨斯州和新墨西哥州的二叠纪盆地拥有超过 220 万英亩的优质净油气权益，且绝大多数没有沉重的外部土地特许使用费负担。
+- 依托工业化“工厂化钻井 (Factory Drilling)”和数字孪生技术，雪佛龙将二叠纪页岩油的新井完全平衡成本控制在 **35 美元/桶** 以下，日产量突破 100 万桶油当量，成为全球抗油价波动的超级现金流印钞机。
+
+### 2. 皇冠级超级 LNG 项目与全球气化红利
+- **亚太天然气霸主**：雪佛龙主导运营的澳大利亚 **Gorgon（高庚）** 和 **Wheatstone（惠特斯通）** 液化天然气项目，是人类工程史上投资规模最大的能源基础设施之一，锁定了日韩中等亚太高增长经济体长达数十年的高溢价长期照付不议 (Take-or-Pay) 供气长约。
+
+### 3. 严格的资本纪律与业界最高资本回报率 (ROCE)
+- 现任董事长迈克尔·沃斯 (Mike Wirth) 树立了严苛的投资纪律：坚决杜绝在油价顶峰盲目追高扩张，确保资本支出严格与自由现金流匹配，将资本使用回报率 (ROCE) 维持在全行业第一梯队，连续 37 年保持每股股息增长。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1879年**：德米特里厄斯·斯科菲尔德与查尔斯·费尔顿等在旧金山创立**太平洋海岸石油公司 (Pacific Coast Oil Company)**，在皮科峡谷 4 号井产出加利福尼亚州历史上第一桶商业原油。
+- **1900年**：标准石油公司收购太平洋海岸石油公司；1906 年正式整合组建为**加利福尼亚标准石油公司 (Standard Oil of California, Socal)**，斯科菲尔德出任总裁。
+- **1911年**：美国最高法院裁定标准石油托拉斯解体，Socal 独立成为美西最大的综合石油巨头。
+- **1938年**：Socal 首席地质师**马克斯·斯坦尼克 (Max Steineke)** 在沙特阿拉伯荒漠钻出著名的**达曼 7 号井 (Dammam No. 7 / “繁荣之井”)**，一举揭开沙特阿美 (Aramco) 辉煌序幕。
+- **1936-1939年**：Socal 与德士古 (Texaco) 各出资 50% 创立**加德士 (Caltex)**，成为横跨亚非欧的全球零售霸主。
+- **1984年**：Socal 以 **133 亿美元** 巨资收购海湾石油公司 (Gulf Oil)，创下当时人类商业史上最大并购案，合并后正式更名为**雪佛龙公司 (Chevron Corporation)**。
+- **2001年**：斥资 **450 亿美元** 兼并百年巨头**德士古 (Texaco)**，雪佛龙跃升为全球超级石油巨擘 (Supermajor)。
+- **2005年**：收购优尼科 (Unocal)，深度强化亚太近海油气与地热资产。
+- **2020-2023年**：先后完成对诺贝尔能源 (Noble Energy) 与赫斯公司 (Hess Corporation) 的重磅并购，将圭亚那世界级特大海相油田收入囊中。
+- **2024-2026年**：营业收入达 **1890 亿美元**，位列世界 500 强第 **36** 位。
+
+---
+
+## 🎯 企业文化与行动准则 (The Chevron Way)
+
+- **企业崇高愿景 (Vision)**：
+  > **“成为全球最受推崇的综合能源公司——以卓越的人才、卓越的合作与卓越的业绩赢得未来。”**
+- **雪佛龙之道 (The Chevron Way Values)**：
+  1. **崇高诚信 (Integrity and Trust)**：信守所有商业承诺，以最高道德标准赢得全球政府与伙伴信任。
+  2. **高绩效执行 (High Performance)**：追求卓越运营，在安全、环保与财务回报上力争行业第一。
+  3. **保护人类与环境 (Protect People and the Environment)**：恪守安全生产零伤害底线。

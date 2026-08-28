@@ -1,0 +1,96 @@
+# 通用汽车公司 (General Motors Company) —— 全球多品牌汽车集团奠基者与 Ultium 智能出行全景介绍
+
+> **《财富》世界500强排名：第 39 位**  
+> **年度营业收入：$185,019 百万美元（约 1850 亿美元）**  
+> **官方网站：[www.gm.com](https://www.gm.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 通用汽车公司 (General Motors Company, GM) |
+| **成立时间** | 1908 年 9 月 16 日 (创立于美国新泽西州 / 密歇根州底特律) |
+| **全球总部** | 🇺🇸 美国 密歇根州 底特律 (Detroit, MI / 复兴中心 Renaissance Center) |
+| **传奇创始人** | 威廉·C·杜兰特 (William Crapo Durant, 1861–1947)、查尔斯·斯图尔特·莫特 (Charles Stewart Mott) |
+| **现代管理奠基人** | 阿尔弗雷德·P·斯隆 (Alfred P. Sloan, 1875–1966) |
+| **现任董事长兼 CEO** | 玛丽·博拉 (Mary T. Barra) |
+| **股票代码** | NYSE: `GM` (标普500指数核心成份股) |
+| **全球员工总数** | 约 **163,000+ 人** |
+| **全球年汽车交付量** | 年交付超 **620 万辆** (连续数十年蝉联全美第一、全球前三甲) |
+| **核心业务赛道** | GM 北美与国际业务 (Chevrolet, GMC, Cadillac, Buick 四大核心品牌)、Ultium (奥特能) 纯电平台与通用自研电池生态、Cruise 全自主无人驾驶出行网络、BrightDrop 纯电商用货运车队、OnStar (安吉星) 全球车联网、GM Financial 汽车金融 |
+
+---
+
+## 🌐 核心业务矩阵与全球版图 (Business Architecture)
+
+```mermaid
+graph TD
+    GM["通用汽车全球商业版图 (General Motors Company)"]
+    
+    GM --> BRANDS["1. 四大多梯队核心品牌矩阵 (Core Automotive Brands)"]
+    BRANDS --> B1["雪佛兰 (Chevrolet): 大众普及型国民神车与皮卡 (Silverado / Tahoe)"]
+    BRANDS --> B2["GMC: 专业高端全尺寸硬派皮卡与豪华 SUV (Sierra / Yukon)"]
+    BRANDS --> B3["凯迪拉克 (Cadillac): 美系百年奢华典范与前沿纯电先锋 (Escalade / Lyriq)"]
+    BRANDS --> B4["别克 (Buick): 中高端优雅舒适轿车与都市跨界 SUV (Enclave / GL8)"]
+    
+    GM --> ULTIUM["2. Ultium 奥特能纯电与智驾生态 (EV & Software)"]
+    ULTIUM --> U1["奥特能模块化电池平台 (涵盖从平价纯电到悍马 EV 超级越野)"]
+    ULTIUM --> U2["Super Cruise & Ultra Cruise 高阶高精度全场景辅助驾驶系统"]
+    ULTIUM --> U3["自研车机软件架构平台 (Ultifi Software Platform)"]
+    
+    GM --> AV["3. 自动驾驶与未来出行 (Cruise Autonomous)"]
+    AV --> AV1["Cruise 全无人驾驶 Robotaxi 网约车常态化商业运营"]
+    AV --> AV2["Cruise Origin 专为无方向盘共享出行设计的下一代移动座舱"]
+    
+    GM --> FIN["4. 综合汽车金融与车联生态 (GM Financial & OnStar)"]
+    FIN --> F1["OnStar (安吉星): 行业最早也是规模最大的全球前装车联网安全服务"]
+    FIN --> F2["GM Financial: 全球数十个国家经销商与终端购车信贷资产管理"]
+
+    classDef main fill:#003da5,stroke:#00a3e0,stroke-width:2px,color:#fff;
+    classDef branch fill:#0c2340,stroke:#00a3e0,stroke-width:1px,color:#fff;
+    classDef sub fill:#f4f7fc,stroke:#0c2340,stroke-width:1px,color:#000;
+    class GM main;
+    class BRANDS,ULTIUM,AV,FIN branch;
+    class B1,B2,B3,B4,U1,U2,U3,AV1,AV2,F1,F2 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)
+
+### 1. 全美全尺寸 SUV 与全尺寸皮卡绝对垄断高利润堡垒
+- **美国汽车市场的印钞机**：通用汽车在全尺寸大型 SUV 市场（凯迪拉克 Escalade、雪佛兰 Tahoe/Suburban、GMC Yukon）占据全美超过 **50%** 的压倒性垄断份额；在全尺寸重载皮卡领域（雪佛兰 Silverado 与 GMC Sierra 联合销量）与福特并驾齐驱，单车毛利率超过 20%，每年为通用汽车贡献超百亿美元极其充沛的自由现金流。
+
+### 2. 斯隆奠定的“多品牌梯次跨越”用户终身价值留存
+- 依托斯隆百年前确立的品牌梯度战略（雪佛兰入门 -> 别克进阶 -> GMC 专业 -> 凯迪拉克奢华），通用汽车能够陪伴一个消费者从大学毕业买第一辆车，到成家立业、步入财富顶峰的全生命周期，实现极低获客成本的用户代际留存。
+
+### 3. 奥特能 (Ultium) 柔性架构与规模化供应链优势
+- 通用汽车的 Ultium 纯电平台具备全球最顶级的柔性组合能力：同一套模块化电芯与无线电池管理系统 (Wireless BMS)，可自由适配从 3 万美元的平价雪佛兰 Equinox EV 到 10 万美元以上的悍马 EV 和凯迪拉克 CELESTIQ 超级定制纯电旗舰，极大分摊了重资产研发与采购成本。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1908年9月16日**：威廉·C·杜兰特创立**通用汽车公司 (General Motors)**，并迅速吞并别克与奥兹莫比尔。
+- **1909年**：连续收购凯迪拉克、奥克兰（后演变为庞蒂亚克），奠定多品牌集团雏形。
+- **1911年**：杜兰特被迫退出 GM，携手路易·雪佛兰创立**雪佛兰汽车 (Chevrolet)**。
+- **1916年**：杜兰特操盘雪佛兰反向收购通用汽车，上演人类商业史上最震撼的“蛇吞象”夺权大戏。
+- **1923年**：**阿尔弗雷德·P·斯隆**出任总裁兼 CEO，创立现代多事业部制企业架构，提出著名的“A car for every purse and purpose”，全面超越福特登顶世界第一。
+- **1940-1945年**：二战期间承接全美军工生产总量的十分之一，制造了数万辆坦克、军车与数十万台航空发动机，成为盟军最坚固的装备支柱。
+- **1950年代**：通用汽车全美市场份额突破 **54%**，成为人类历史上首家年利润突破 10 亿美元的超级巨头。
+- **2009年**：在次贷危机与高额养老金负债重压下申请破产重组，在美加政府支持下迅速轻装涅槃重生。
+- **2014年**：**玛丽·博拉 (Mary Barra)** 出任董事长兼 CEO，成为全球大型汽车巨头历史上首位女性掌门人。
+- **2021-2026年**：全面推进 Ultium 纯电平台与自研软件 Ultifi，年营收达 **1850 亿美元**，位居世界 500 强第 **39** 位。
+
+---
+
+## 🎯 企业文化与愿景 (One GM)
+
+- **企业崇高愿景 (Vision)**：
+  > **“创造一个零事故、零排放、零拥堵的全新美好世界 (A world with Zero Crashes, Zero Emissions and Zero Congestion)”**
+- **One GM 核心价值观 (Values)**：
+  1. **客户至上 (Customers First)**：将客户的安全与极致体验作为一切技术研发的北极星。
+  2. **追求卓越与创新 (Excellence & Innovation)**：勇于颠覆传统，加速向电气化与智驾跃迁。
+  3. **包容与诚信 (Inclusion & Integrity)**：汇聚全球多元智慧，恪守最高商业道德底线。

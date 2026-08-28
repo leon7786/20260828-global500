@@ -1,0 +1,84 @@
+# 嘉德诺健康集团 (Cardinal Health, Inc.) —— 全球医药流通与医疗器械智造巨擎全景介绍
+
+> **《财富》世界500强排名：第 27 位**  
+> **年度营业收入：$222,578 百万美元（约 2226 亿美元）**  
+> **官方网站：[www.cardinalhealth.com](https://www.cardinalhealth.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 嘉德诺健康集团公司 (Cardinal Health, Inc.) |
+| **成立时间** | 1971 年 (创立于美国俄亥俄州都柏林，前身为 Cardinal Foods) |
+| **全球总部** | 🇺🇸 美国 俄亥俄州 都柏林 (Dublin, OH) |
+| **创始人** | 罗伯特·D·沃尔特 (Robert D. Walter) |
+| **现任 CEO** | 杰森·霍拉尔 (Jason Hollar) |
+| **股票代码** | NYSE: `CAH` (标普500指数成分股) |
+| **全球员工总数** | 约 48,000+ 人 |
+| **核心业务赛道** | 处方药与仿制药分销、特种药与肿瘤生物药服务、核药房与放射性精准诊疗、医用耗材与手术器械自研制造 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    CAH["嘉德诺健康商业帝国 (Cardinal Health)"]
+    
+    CAH --> PHARM["1. 药品与特种药分销 (Pharmaceutical & Specialty)"]
+    PHARM --> DRUG["处方药、仿制药与非处方药每日极速配送"]
+    PHARM --> SPEC["特种药与罕见病/肿瘤药品全流程冷链解决方案"]
+    PHARM --> NUCLEAR["全美最大核药房网络 (Nuclear & Precision Health 130+ 站点)"]
+    PHARM --> OUTCOMES["Outcomes 药房数字化与患者依从性管理系统"]
+    
+    CAH --> MED["2. 全球医疗产品与器械制造 (Global Medical Products GMPD)"]
+    MED --> SURG["Cardinal Health 品牌手术衣、无菌铺单、医用手套与麻醉耗材"]
+    MED --> WOUND["先进伤口护理、负压引流与静脉加压抗血栓泵 (Kangaroo / Kendall)"]
+    MED --> LAB["临床检验试剂与实验室全流程耗材分销"]
+    MED --> LOGIS["全美医院手术室无缝自动化耗材智能柜补给系统 (WaveMark RFID)"]
+
+    classDef main fill:#990000,stroke:#333,stroke-width:2px,color:#fff;
+    classDef branch fill:#cc0000,stroke:#990000,stroke-width:1px,color:#fff;
+    classDef sub fill:#fdfbfb,stroke:#990000,stroke-width:1px,color:#000;
+    class CAH main;
+    class PHARM,MED branch;
+    class DRUG,SPEC,NUCLEAR,OUTCOMES,SURG,WOUND,LAB,LOGIS sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. 全美无处不在的医疗供应链超级毛细血管网络
+- 嘉能健康每天为全美 **超过 90% 的综合医院**、**29,000 多家社区与连锁零售药房** 以及 **10,000 多家专科诊所** 提供精准的药品和医疗器械次日达/当日达直配服务，形成了不可替代的规模效益与极高的替换成本。
+
+### 2. 垄断级壁垒：全美第一大核药房与放射性药物网络 (Nuclear Pharmacy)
+- 拥有全美超过 130 座辐射级精密洁净核药房，制造并分发半衰期仅有数小时的短寿命放射性同位素药物（如 PET/SPECT 癌症与心肌造影显像剂），构建起极其严苛的技术合规与超高速冷链运输护城河。
+
+### 3. “自产高毛利耗材 + 全球第三方器械分销”双轮互补
+- 整合收购自美敦力（Medtronic）的病人康复业务（Kendall 品牌）与强生 Cordis 心血管介入产品线，使嘉德诺不仅赚取流通微利，更能获取自产高毛利医疗器械的稳定溢价。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1971年**：罗伯特·D·沃尔特在俄亥俄州都柏林创办食品批发公司 **Cardinal Foods**。
+- **1979年**：收购俄亥俄州老牌药企 **Bailey Drug Company**，开启向医药批发分销的历史性大转型。
+- **1983年**：在纳斯达克成功上市（后转至纽约证券交易所）。
+- **1990年代**：沃尔特主导展开极其凶猛的跨国与跨州兼并，连续吞并数十家区域医药分销商。
+- **1996年**：收购全美医院自动化药柜先驱 **Pyxis Corporation**，进入医院智能硬件赛道。
+- **2003年**：收购全美最大核药房连锁 **Syncor International**，一举奠定核医学与精准放疗领域霸主地位。
+- **2006年**：执掌 35 年的创始人罗伯特·沃尔特功成身退卸任 CEO。
+- **2009年**：将旗下高端医疗器械与临床技术部门剥离为独立上市公司 **CareFusion**（后被 BD 医疗并购）。
+- **2017年**：斥资 **61 亿美元** 现金收购医疗器械巨头**美敦力 (Medtronic)** 旗下的病人康复护理业务（Kendall 品牌等）。
+- **2024-2026年**：嘉德诺健康集团营业收入突破 2225 亿美元，稳居《财富》世界500强第 27 位。
+
+---
+
+## 🎯 企业文化与价值观 (Core Culture)
+
+1. **守护生命与健康 (We are deeply committed to healthcare)**：以最高的合规与质量标准确保每一盒药品和每一件手术器械安全送达。
+2. **客户第一与极速响应 (Essential to Care)**：做医疗从业者最信赖的幕后英雄。
+3. **创新与持续改进 (Relentless Execution)**：运用前沿自动化与 RFID 追踪技术消除医疗系统冗余浪费。

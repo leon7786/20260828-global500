@@ -1,0 +1,97 @@
+# 道达尔能源公司 (TotalEnergies SE) —— 全球综合多能源巨擘与低碳转型先锋全景介绍
+
+> **《财富》世界500强排名：第 40 位**  
+> **年度营业收入：$182,344 百万美元（约 1823 亿美元）**  
+> **官方网站：[www.totalenergies.com](https://www.totalenergies.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 道达尔能源公司 (TotalEnergies SE，2021年前名为 Total SE，前身法国石油公司 CFP) |
+| **成立时间** | 1924 年 3 月 28 日 (创立于法国巴黎) |
+| **全球总部** | 🇫🇷 法国 库尔布瓦 (Courbevoie, Paris La Défense / 道达尔能源超级双子塔) |
+| **传奇创始人 / 奠基人** | 欧内斯特·梅西埃 (Ernest Mercier, 1878–1955)、雷蒙·普恩加莱 (Raymond Poincaré, 法国前总理兼总统) |
+| **现任董事长兼 CEO** | 帕特里克·普扬内 (Patrick Pouyanné) |
+| **股票代码** | Euronext Paris: `TTE` (CAC 40指数核心第一大权重股), NYSE: `TTE` |
+| **全球员工总数** | 约 **102,000+ 人** |
+| **业务遍及国家** | 全球超 **120 个国家**，日产油气当量超 **250 万桶** |
+| **核心业务赛道** | 综合天然气、可再生能源与电力 (iGRP / 全球第 2 大私营 LNG 巨头)、优质上游油气勘探开发 (E&P)、全球大型炼化与特种化学品一体化平台、全球 15,000+ 座综合服务站网络 (Marketing & Services)、低碳氢能与生物燃料 |
+
+---
+
+## 🌐 核心业务矩阵与全球版图 (Business Architecture)
+
+```mermaid
+graph TD
+    TTE["道达尔能源全球综合版图 (TotalEnergies SE)"]
+    
+    TTE --> LNG["1. 综合天然气、绿电与可再生能源 (iGRP)"]
+    LNG --> LNG1["全球第二大私营液化天然气 (LNG) 运营商 (年销量超 4500 万吨)"]
+    LNG --> LNG2["卡塔尔超级 LNG 扩建工程 (North Field East / South 核心伙伴)"]
+    LNG --> LNG3["全球超 100 GW 可再生能源发电装机 (大型地面光伏与海上风电)"]
+    LNG --> LNG4["欧洲综合电力零售业务 (服务超 600 万工商业与家庭客户)"]
+    
+    TTE --> UP["2. 优质深水与低成本上游 (Exploration & Production)"]
+    UP --> UP1["西非深水盐下超级油田 (安哥拉、尼日利亚、纳米比亚深海大发现)"]
+    UP --> UP2["巴西桑托斯盆地超深水盐下核心资产 (Mero / Libra)"]
+    UP --> UP3["中东阿联酋、阿曼与伊拉克综合油气超级特许权"]
+    
+    TTE --> REF["3. 炼化与特种高分子材料 (Refining & Chemicals)"]
+    REF --> REF1["全球六大一体化超级炼化综合体 (安特卫普、诺曼底、沙特 SATORP)"]
+    REF --> REF2["汽车轻量化聚合物、特种橡胶与循环再生塑料"]
+    
+    TTE --> MKT["4. 终端出行与综合能源零售 (Marketing & Services)"]
+    MKT --> MKT1["全球 15,000+ 座多能源补能驿站 (高品质燃油、洗车、便利店)"]
+    MKT --> MKT2["欧洲主要高速走廊及中国超快充网络 (TotalEnergies Charging)"]
+    MKT --> MKT3["全系列工业与车用高品质特种润滑油"]
+
+    classDef main fill:#e0001a,stroke:#002d62,stroke-width:2px,color:#fff;
+    classDef branch fill:#002d62,stroke:#e0001a,stroke-width:1px,color:#fff;
+    classDef sub fill:#f5f7fc,stroke:#002d62,stroke-width:1px,color:#000;
+    class TTE main;
+    class LNG,UP,REF,MKT branch;
+    class LNG1,LNG2,LNG3,LNG4,UP1,UP2,UP3,REF1,REF2,MKT1,MKT2,MKT3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)
+
+### 1. 全球第二大私营 LNG 帝国的跨洋套利与全产业链控制力
+- **规模与灵活性的极致结合**：道达尔能源在全球 LNG 市场拥有无可匹敌的地位，不仅掌控从卡塔尔、美国墨西哥湾沿岸到西非的顶级液化气源，更拥有全球最大的现代化 LNG 运输船队与欧洲最大的再气化接收站枢纽，能够根据全球地缘政治与气温变化，在欧美与亚太市场之间实现毫秒级的跨洋高溢价套利。
+
+### 2. 国际超级巨头中最低的上游完全平衡成本 (<$30/桶)
+- 帕特里克·普扬内推行了最严苛的资产优选法则：坚决剥离高成本、高碳排放的老旧油田，将上游资本全额聚焦于巴西、纳米比亚、西非与中东等巨型低成本深水油气资产，新项目的完全成本压低至 **30 美元/桶** 以下，确保在极端周期中依然保持强劲造血。
+
+### 3. 多能源转型先锋：油气滋养绿电的自循环飞轮
+- 相比于其他摇摆不定的竞争对手，道达尔能源坚定践行“**更多能源、更少排放 (More Energy, Less Emissions)**”策略，将传统油气产生的巨额自由现金流以每年近三分之一的比例，精准投向高确定性的光伏、海上风电与储能资产，构筑起全球超级石油巨头中最健康、最盈利的可再生综合电力业务。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1924年3月28日**：在法国前总统雷蒙·普恩加莱推动下，欧内斯特·梅西埃创办**法国石油公司 (Compagnie Française des Pétroles, CFP)**，旨在建立法国独立的国家能源主权。
+- **1928年**：梅西埃主导签署著名的**《红线协定 (Red Line Agreement)》**，获得伊拉克石油公司 (IPC) 23.75% 控股权与基尔库克超级油田。
+- **1954年**：正式在法国及海外加油站推出 **Total** 品牌，以红白蓝三色标志深入人心。
+- **1985年**：公司正式更名为 **Total CFP**，并在 1991 年简化为 **Total**。
+- **1999年**：Total 斥资百亿美元与比利时国家石油公司 **PetroFina** 完成合并，组建 TotalFina。
+- **2000年**：TotalFina 击败所有对手，以 **480 亿欧元** 世纪大并购法国另一家石油巨头**埃尔夫-阿奎坦 (Elf Aquitaine)**，组建 TotalFinaElf，一跃成为全球第四大超级石油跨国财团。
+- **2014年**：**帕特里克·普扬内 (Patrick Pouyanné)** 出任首席执行官，开启现代化深水与 LNG 大跃升。
+- **2021年5月**：全体股东大会高票通过决议，正式更名为 **TotalEnergies SE (道达尔能源)**，全面启动向综合多能源跨国巨头战略转型。
+- **2024-2026年**：营业收入达到 **1823 亿美元**，位列《财富》世界500强第 **40** 位，LNG 与可再生电力全球领跑。
+
+---
+
+## 🎯 企业文化与价值观 (Culture & Purpose)
+
+- **企业崇高宗旨 (Purpose)**：
+  > **“为尽可能多的人提供更可负担、更清洁、更可靠且更容易获取的综合能源 (To provide energy that is more affordable, cleaner, more reliable and accessible to as many people as possible)”**
+- **五大核心价值观 (Core Values)**：
+  1. **安全第一 (Safety)**：安全是所有业务运营的不可妥协基石。
+  2. **彼此尊重 (Respect for Each Other)**：珍视多元文化与人权。
+  3. **开拓进取 (Pioneering Spirit)**：永葆百年前梅西埃深入荒原的创新拓荒勇气。
+  4. **团结共赢 (Standing Together)**：凝聚全球团队与战略伙伴合力。
+  5. **追求卓越绩效 (Performance-Minded)**：以高资本回报赢得股东与社会尊重。

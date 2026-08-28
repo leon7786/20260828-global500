@@ -1,0 +1,2502 @@
+[
+  {
+    "rank": 1,
+    "name_cn": "亚马逊",
+    "revenue_m": "716,924"
+  },
+  {
+    "rank": 2,
+    "name_cn": "沃尔玛",
+    "revenue_m": "713,163"
+  },
+  {
+    "rank": 3,
+    "name_cn": "国家电网有限公司",
+    "revenue_m": "555,371"
+  },
+  {
+    "rank": 4,
+    "name_cn": "联合健康集团",
+    "revenue_m": "447,567"
+  },
+  {
+    "rank": 5,
+    "name_cn": "沙特阿美公司",
+    "revenue_m": "445,529"
+  },
+  {
+    "rank": 6,
+    "name_cn": "苹果公司",
+    "revenue_m": "416,161"
+  },
+  {
+    "rank": 7,
+    "name_cn": "麦克森公司",
+    "revenue_m": "403,430"
+  },
+  {
+    "rank": 8,
+    "name_cn": "Alphabet公司",
+    "revenue_m": "402,836"
+  },
+  {
+    "rank": 9,
+    "name_cn": "CVS Health公司",
+    "revenue_m": "402,067"
+  },
+  {
+    "rank": 10,
+    "name_cn": "中国石油天然气集团有限公司",
+    "revenue_m": "401,927"
+  },
+  {
+    "rank": 11,
+    "name_cn": "伯克希尔－哈撒韦公司",
+    "revenue_m": "371,444"
+  },
+  {
+    "rank": 12,
+    "name_cn": "中国石油化工集团有限公司",
+    "revenue_m": "364,033"
+  },
+  {
+    "rank": 13,
+    "name_cn": "大众公司",
+    "revenue_m": "363,091"
+  },
+  {
+    "rank": 14,
+    "name_cn": "丰田汽车公司",
+    "revenue_m": "336,305"
+  },
+  {
+    "rank": 15,
+    "name_cn": "埃克森美孚",
+    "revenue_m": "332,238"
+  },
+  {
+    "rank": 16,
+    "name_cn": "Cencora公司",
+    "revenue_m": "321,333"
+  },
+  {
+    "rank": 17,
+    "name_cn": "中国建筑集团有限公司",
+    "revenue_m": "289,893"
+  },
+  {
+    "rank": 18,
+    "name_cn": "微软",
+    "revenue_m": "281,724"
+  },
+  {
+    "rank": 19,
+    "name_cn": "摩根大通公司",
+    "revenue_m": "280,345"
+  },
+  {
+    "rank": 20,
+    "name_cn": "开市客",
+    "revenue_m": "275,235"
+  },
+  {
+    "rank": 21,
+    "name_cn": "信诺集团",
+    "revenue_m": "274,900"
+  },
+  {
+    "rank": 22,
+    "name_cn": "壳牌公司",
+    "revenue_m": "273,731"
+  },
+  {
+    "rank": 23,
+    "name_cn": "鸿海精密工业股份有限公司",
+    "revenue_m": "260,084"
+  },
+  {
+    "rank": 24,
+    "name_cn": "嘉能可",
+    "revenue_m": "247,535"
+  },
+  {
+    "rank": 25,
+    "name_cn": "托克集团",
+    "revenue_m": "240,268"
+  },
+  {
+    "rank": 26,
+    "name_cn": "三星电子",
+    "revenue_m": "234,675"
+  },
+  {
+    "rank": 27,
+    "name_cn": "嘉德诺健康集团",
+    "revenue_m": "222,578"
+  },
+  {
+    "rank": 28,
+    "name_cn": "英伟达公司",
+    "revenue_m": "215,938"
+  },
+  {
+    "rank": 29,
+    "name_cn": "中国工商银行股份有限公司",
+    "revenue_m": "210,590"
+  },
+  {
+    "rank": 30,
+    "name_cn": "Meta Platforms公司",
+    "revenue_m": "200,966"
+  },
+  {
+    "rank": 31,
+    "name_cn": "Elevance Health公司",
+    "revenue_m": "199,125"
+  },
+  {
+    "rank": 32,
+    "name_cn": "Centene公司",
+    "revenue_m": "194,777"
+  },
+  {
+    "rank": 33,
+    "name_cn": "英国石油公司",
+    "revenue_m": "192,549"
+  },
+  {
+    "rank": 34,
+    "name_cn": "美国银行",
+    "revenue_m": "191,567"
+  },
+  {
+    "rank": 35,
+    "name_cn": "中国农业银行股份有限公司",
+    "revenue_m": "190,708"
+  },
+  {
+    "rank": 36,
+    "name_cn": "雪佛龙",
+    "revenue_m": "189,031"
+  },
+  {
+    "rank": 37,
+    "name_cn": "中国建设银行股份有限公司",
+    "revenue_m": "188,657"
+  },
+  {
+    "rank": 38,
+    "name_cn": "福特汽车公司",
+    "revenue_m": "187,267"
+  },
+  {
+    "rank": 39,
+    "name_cn": "通用汽车公司",
+    "revenue_m": "185,019"
+  },
+  {
+    "rank": 40,
+    "name_cn": "道达尔能源公司",
+    "revenue_m": "182,344"
+  },
+  {
+    "rank": 41,
+    "name_cn": "京东集团股份有限公司",
+    "revenue_m": "182,129"
+  },
+  {
+    "rank": 42,
+    "name_cn": "中国人寿保险（集团）公司",
+    "revenue_m": "178,215"
+  },
+  {
+    "rank": 43,
+    "name_cn": "Stellantis集团",
+    "revenue_m": "173,144"
+  },
+  {
+    "rank": 44,
+    "name_cn": "中国银行股份有限公司",
+    "revenue_m": "171,583"
+  },
+  {
+    "rank": 45,
+    "name_cn": "花旗集团",
+    "revenue_m": "168,297"
+  },
+  {
+    "rank": 46,
+    "name_cn": "家得宝",
+    "revenue_m": "164,683"
+  },
+  {
+    "rank": 47,
+    "name_cn": "房利美",
+    "revenue_m": "159,169"
+  },
+  {
+    "rank": 48,
+    "name_cn": "中国平安保险（集团）股份有限公司",
+    "revenue_m": "158,650"
+  },
+  {
+    "rank": 49,
+    "name_cn": "中国铁路工程集团有限公司",
+    "revenue_m": "152,201"
+  },
+  {
+    "rank": 50,
+    "name_cn": "宝马集团",
+    "revenue_m": "150,524"
+  },
+  {
+    "rank": 51,
+    "name_cn": "梅赛德斯-奔驰集团",
+    "revenue_m": "149,126"
+  },
+  {
+    "rank": 52,
+    "name_cn": "克罗格",
+    "revenue_m": "147,642"
+  },
+  {
+    "rank": 53,
+    "name_cn": "中国移动通信集团有限公司",
+    "revenue_m": "146,550"
+  },
+  {
+    "rank": 54,
+    "name_cn": "西班牙国家银行",
+    "revenue_m": "145,070"
+  },
+  {
+    "rank": 55,
+    "name_cn": "本田汽车",
+    "revenue_m": "144,625"
+  },
+  {
+    "rank": 56,
+    "name_cn": "阿里巴巴集团控股有限公司",
+    "revenue_m": "144,170"
+  },
+  {
+    "rank": 57,
+    "name_cn": "中国铁道建筑集团有限公司",
+    "revenue_m": "143,507"
+  },
+  {
+    "rank": 58,
+    "name_cn": "法国巴黎银行",
+    "revenue_m": "141,642"
+  },
+  {
+    "rank": 59,
+    "name_cn": "中国中信集团有限公司",
+    "revenue_m": "139,276"
+  },
+  {
+    "rank": 60,
+    "name_cn": "威瑞森电信",
+    "revenue_m": "138,191"
+  },
+  {
+    "rank": 61,
+    "name_cn": "Phillips 66公司",
+    "revenue_m": "136,560"
+  },
+  {
+    "rank": 62,
+    "name_cn": "汇丰银行控股公司",
+    "revenue_m": "135,617"
+  },
+  {
+    "rank": 63,
+    "name_cn": "马拉松原油公司",
+    "revenue_m": "135,222"
+  },
+  {
+    "rank": 64,
+    "name_cn": "俄罗斯联邦储蓄银行",
+    "revenue_m": "135,076"
+  },
+  {
+    "rank": 65,
+    "name_cn": "德国电信",
+    "revenue_m": "134,313"
+  },
+  {
+    "rank": 66,
+    "name_cn": "中国交通建设集团有限公司",
+    "revenue_m": "134,089"
+  },
+  {
+    "rank": 67,
+    "name_cn": "安联保险集团",
+    "revenue_m": "133,984"
+  },
+  {
+    "rank": 68,
+    "name_cn": "中国华润有限公司",
+    "revenue_m": "133,290"
+  },
+  {
+    "rank": 69,
+    "name_cn": "StoneX集团",
+    "revenue_m": "132,378"
+  },
+  {
+    "rank": 70,
+    "name_cn": "州立农业保险公司",
+    "revenue_m": "132,312"
+  },
+  {
+    "rank": 71,
+    "name_cn": "房地美",
+    "revenue_m": "131,688"
+  },
+  {
+    "rank": 72,
+    "name_cn": "现代汽车",
+    "revenue_m": "131,021"
+  },
+  {
+    "rank": 73,
+    "name_cn": "哈门那公司",
+    "revenue_m": "129,664"
+  },
+  {
+    "rank": 74,
+    "name_cn": "法国电力公司",
+    "revenue_m": "127,754"
+  },
+  {
+    "rank": 75,
+    "name_cn": "美国电话电报公司",
+    "revenue_m": "125,648"
+  },
+  {
+    "rank": 76,
+    "name_cn": "三菱商事株式会社",
+    "revenue_m": "125,512"
+  },
+  {
+    "rank": 77,
+    "name_cn": "高盛集团",
+    "revenue_m": "125,097"
+  },
+  {
+    "rank": 78,
+    "name_cn": "恒力集团有限公司",
+    "revenue_m": "125,085"
+  },
+  {
+    "rank": 79,
+    "name_cn": "美国康卡斯特电信公司",
+    "revenue_m": "123,707"
+  },
+  {
+    "rank": 80,
+    "name_cn": "美国富国银行",
+    "revenue_m": "123,529"
+  },
+  {
+    "rank": 81,
+    "name_cn": "华为投资控股有限公司",
+    "revenue_m": "122,563"
+  },
+  {
+    "rank": 82,
+    "name_cn": "台积公司",
+    "revenue_m": "122,258"
+  },
+  {
+    "rank": 83,
+    "name_cn": "中国海洋石油集团有限公司",
+    "revenue_m": "120,915"
+  },
+  {
+    "rank": 84,
+    "name_cn": "摩根士丹利",
+    "revenue_m": "119,662"
+  },
+  {
+    "rank": 85,
+    "name_cn": "信实工业公司",
+    "revenue_m": "119,653"
+  },
+  {
+    "rank": 86,
+    "name_cn": "中国南方电网有限责任公司",
+    "revenue_m": "118,797"
+  },
+  {
+    "rank": 87,
+    "name_cn": "山东能源集团有限公司",
+    "revenue_m": "116,559"
+  },
+  {
+    "rank": 88,
+    "name_cn": "瓦莱罗能源公司",
+    "revenue_m": "115,939"
+  },
+  {
+    "rank": 89,
+    "name_cn": "俄罗斯天然气工业股份公司",
+    "revenue_m": "114,868"
+  },
+  {
+    "rank": 90,
+    "name_cn": "戴尔科技公司",
+    "revenue_m": "113,538"
+  },
+  {
+    "rank": 91,
+    "name_cn": "比亚迪股份有限公司",
+    "revenue_m": "111,853"
+  },
+  {
+    "rank": 92,
+    "name_cn": "印度人寿保险公司",
+    "revenue_m": "110,325"
+  },
+  {
+    "rank": 93,
+    "name_cn": "雀巢公司",
+    "revenue_m": "107,737"
+  },
+  {
+    "rank": 94,
+    "name_cn": "安盛",
+    "revenue_m": "107,710"
+  },
+  {
+    "rank": 95,
+    "name_cn": "Equinor公司",
+    "revenue_m": "106,462"
+  },
+  {
+    "rank": 96,
+    "name_cn": "塔吉特公司",
+    "revenue_m": "104,780"
+  },
+  {
+    "rank": 97,
+    "name_cn": "腾讯控股有限公司",
+    "revenue_m": "104,591"
+  },
+  {
+    "rank": 98,
+    "name_cn": "皇家阿霍德德尔海兹集团",
+    "revenue_m": "104,165"
+  },
+  {
+    "rank": 99,
+    "name_cn": "中国五矿集团有限公司",
+    "revenue_m": "104,139"
+  },
+  {
+    "rank": 100,
+    "name_cn": "中国宝武钢铁集团有限公司",
+    "revenue_m": "102,980"
+  },
+  {
+    "rank": 101,
+    "name_cn": "REWE集团",
+    "revenue_m": "102,755"
+  },
+  {
+    "rank": 102,
+    "name_cn": "博世集团",
+    "revenue_m": "102,605"
+  },
+  {
+    "rank": 103,
+    "name_cn": "法国兴业银行",
+    "revenue_m": "102,423"
+  },
+  {
+    "rank": 104,
+    "name_cn": "中国电力建设集团有限公司",
+    "revenue_m": "101,854"
+  },
+  {
+    "rank": 105,
+    "name_cn": "乐购",
+    "revenue_m": "98,502"
+  },
+  {
+    "rank": 106,
+    "name_cn": "家乐福",
+    "revenue_m": "98,381"
+  },
+  {
+    "rank": 107,
+    "name_cn": "日本伊藤忠商事株式会社",
+    "revenue_m": "98,354"
+  },
+  {
+    "rank": 108,
+    "name_cn": "国家能源投资集团有限责任公司",
+    "revenue_m": "98,344"
+  },
+  {
+    "rank": 109,
+    "name_cn": "俄罗斯石油公司",
+    "revenue_m": "98,223"
+  },
+  {
+    "rank": 110,
+    "name_cn": "加拿大皇家银行",
+    "revenue_m": "98,128"
+  },
+  {
+    "rank": 111,
+    "name_cn": "日本生命保险公司",
+    "revenue_m": "98,034"
+  },
+  {
+    "rank": 112,
+    "name_cn": "厦门建发集团有限公司",
+    "revenue_m": "97,028"
+  },
+  {
+    "rank": 113,
+    "name_cn": "三菱日联金融集团",
+    "revenue_m": "97,012"
+  },
+  {
+    "rank": 114,
+    "name_cn": "日本电报电话公司",
+    "revenue_m": "95,608"
+  },
+  {
+    "rank": 115,
+    "name_cn": "浙江荣盛控股集团有限公司",
+    "revenue_m": "94,831"
+  },
+  {
+    "rank": 116,
+    "name_cn": "特斯拉",
+    "revenue_m": "94,827"
+  },
+  {
+    "rank": 117,
+    "name_cn": "华特迪士尼公司",
+    "revenue_m": "94,425"
+  },
+  {
+    "rank": 118,
+    "name_cn": "埃尼石油公司",
+    "revenue_m": "94,326"
+  },
+  {
+    "rank": 119,
+    "name_cn": "中国邮政集团有限公司",
+    "revenue_m": "94,215"
+  },
+  {
+    "rank": 120,
+    "name_cn": "强生",
+    "revenue_m": "94,193"
+  },
+  {
+    "rank": 121,
+    "name_cn": "百事公司",
+    "revenue_m": "93,925"
+  },
+  {
+    "rank": 122,
+    "name_cn": "敦豪集团",
+    "revenue_m": "93,453"
+  },
+  {
+    "rank": 123,
+    "name_cn": "中国人民保险集团股份有限公司",
+    "revenue_m": "93,111"
+  },
+  {
+    "rank": 124,
+    "name_cn": "三井物产株式会社",
+    "revenue_m": "92,861"
+  },
+  {
+    "rank": 125,
+    "name_cn": "上海汽车集团股份有限公司",
+    "revenue_m": "91,301"
+  },
+  {
+    "rank": 126,
+    "name_cn": "迪奥公司",
+    "revenue_m": "91,143"
+  },
+  {
+    "rank": 127,
+    "name_cn": "意大利国家电力公司",
+    "revenue_m": "90,624"
+  },
+  {
+    "rank": 128,
+    "name_cn": "波音",
+    "revenue_m": "89,463"
+  },
+  {
+    "rank": 129,
+    "name_cn": "中国医药集团有限公司",
+    "revenue_m": "89,352"
+  },
+  {
+    "rank": 130,
+    "name_cn": "印度石油公司",
+    "revenue_m": "89,249"
+  },
+  {
+    "rank": 131,
+    "name_cn": "巴西国家石油公司",
+    "revenue_m": "89,195"
+  },
+  {
+    "rank": 132,
+    "name_cn": "意昂集团",
+    "revenue_m": "88,771"
+  },
+  {
+    "rank": 133,
+    "name_cn": "联合包裹速递服务公司",
+    "revenue_m": "88,661"
+  },
+  {
+    "rank": 134,
+    "name_cn": "中国电信集团有限公司",
+    "revenue_m": "88,631"
+  },
+  {
+    "rank": 135,
+    "name_cn": "雷神技术公司",
+    "revenue_m": "88,603"
+  },
+  {
+    "rank": 136,
+    "name_cn": "Rajesh Exports公司",
+    "revenue_m": "88,164"
+  },
+  {
+    "rank": 137,
+    "name_cn": "联邦快递",
+    "revenue_m": "87,926"
+  },
+  {
+    "rank": 138,
+    "name_cn": "浙江吉利控股集团有限公司",
+    "revenue_m": "87,866"
+  },
+  {
+    "rank": 139,
+    "name_cn": "前进保险公司",
+    "revenue_m": "87,671"
+  },
+  {
+    "rank": 140,
+    "name_cn": "多伦多道明银行",
+    "revenue_m": "87,350"
+  },
+  {
+    "rank": 141,
+    "name_cn": "索尼",
+    "revenue_m": "87,304"
+  },
+  {
+    "rank": 142,
+    "name_cn": "SK集团",
+    "revenue_m": "87,238"
+  },
+  {
+    "rank": 143,
+    "name_cn": "西门子",
+    "revenue_m": "87,066"
+  },
+  {
+    "rank": 144,
+    "name_cn": "西班牙对外银行",
+    "revenue_m": "87,005"
+  },
+  {
+    "rank": 145,
+    "name_cn": "美国劳氏公司",
+    "revenue_m": "86,286"
+  },
+  {
+    "rank": 146,
+    "name_cn": "巴西JBS公司",
+    "revenue_m": "86,184"
+  },
+  {
+    "rank": 147,
+    "name_cn": "Energy Transfer公司",
+    "revenue_m": "85,536"
+  },
+  {
+    "rank": 148,
+    "name_cn": "英国劳埃德银行集团",
+    "revenue_m": "85,430"
+  },
+  {
+    "rank": 149,
+    "name_cn": "万喜集团",
+    "revenue_m": "85,387"
+  },
+  {
+    "rank": 150,
+    "name_cn": "法国农业信贷银行",
+    "revenue_m": "84,368"
+  },
+  {
+    "rank": 151,
+    "name_cn": "宝洁公司",
+    "revenue_m": "84,284"
+  },
+  {
+    "rank": 152,
+    "name_cn": "艾伯森公司",
+    "revenue_m": "83,173"
+  },
+  {
+    "rank": 153,
+    "name_cn": "联想集团有限公司",
+    "revenue_m": "83,075"
+  },
+  {
+    "rank": 154,
+    "name_cn": "物产中大集团股份有限公司",
+    "revenue_m": "82,984"
+  },
+  {
+    "rank": 155,
+    "name_cn": "空中客车公司",
+    "revenue_m": "82,812"
+  },
+  {
+    "rank": 156,
+    "name_cn": "山东魏桥创业集团有限公司",
+    "revenue_m": "82,303"
+  },
+  {
+    "rank": 157,
+    "name_cn": "中粮集团有限公司",
+    "revenue_m": "81,955"
+  },
+  {
+    "rank": 158,
+    "name_cn": "盛虹控股集团有限公司",
+    "revenue_m": "81,811"
+  },
+  {
+    "rank": 159,
+    "name_cn": "西斯科公司",
+    "revenue_m": "81,370"
+  },
+  {
+    "rank": 160,
+    "name_cn": "Engie集团",
+    "revenue_m": "81,147"
+  },
+  {
+    "rank": 161,
+    "name_cn": "泰国国家石油有限公司",
+    "revenue_m": "81,039"
+  },
+  {
+    "rank": 162,
+    "name_cn": "印度国家银行",
+    "revenue_m": "80,655"
+  },
+  {
+    "rank": 163,
+    "name_cn": "美国邮政",
+    "revenue_m": "80,581"
+  },
+  {
+    "rank": 164,
+    "name_cn": "江西铜业集团有限公司",
+    "revenue_m": "80,488"
+  },
+  {
+    "rank": 165,
+    "name_cn": "美国运通公司",
+    "revenue_m": "80,463"
+  },
+  {
+    "rank": 166,
+    "name_cn": "起亚公司",
+    "revenue_m": "80,292"
+  },
+  {
+    "rank": 167,
+    "name_cn": "ADM公司",
+    "revenue_m": "80,269"
+  },
+  {
+    "rank": 168,
+    "name_cn": "日产汽车",
+    "revenue_m": "79,675"
+  },
+  {
+    "rank": 169,
+    "name_cn": "墨西哥石油公司",
+    "revenue_m": "79,570"
+  },
+  {
+    "rank": 170,
+    "name_cn": "太平洋建设集团有限公司",
+    "revenue_m": "79,293"
+  },
+  {
+    "rank": 171,
+    "name_cn": "法国BPCE银行集团",
+    "revenue_m": "78,937"
+  },
+  {
+    "rank": 172,
+    "name_cn": "瑞银集团",
+    "revenue_m": "78,786"
+  },
+  {
+    "rank": 173,
+    "name_cn": "美国大都会集团",
+    "revenue_m": "77,084"
+  },
+  {
+    "rank": 174,
+    "name_cn": "伊塔乌联合银行控股公司",
+    "revenue_m": "76,791"
+  },
+  {
+    "rank": 175,
+    "name_cn": "丰田通商公司",
+    "revenue_m": "76,716"
+  },
+  {
+    "rank": 176,
+    "name_cn": "瑞士罗氏公司",
+    "revenue_m": "76,274"
+  },
+  {
+    "rank": 177,
+    "name_cn": "日本邮政控股公司",
+    "revenue_m": "75,911"
+  },
+  {
+    "rank": 178,
+    "name_cn": "HCA 医疗保健公司",
+    "revenue_m": "75,600"
+  },
+  {
+    "rank": 179,
+    "name_cn": "EP集团",
+    "revenue_m": "75,387"
+  },
+  {
+    "rank": 180,
+    "name_cn": "博枫公司",
+    "revenue_m": "75,100"
+  },
+  {
+    "rank": 181,
+    "name_cn": "洛克希德－马丁",
+    "revenue_m": "75,048"
+  },
+  {
+    "rank": 182,
+    "name_cn": "第一生命保险集团",
+    "revenue_m": "75,033"
+  },
+  {
+    "rank": 183,
+    "name_cn": "中国第一汽车集团有限公司",
+    "revenue_m": "74,398"
+  },
+  {
+    "rank": 184,
+    "name_cn": "美国纽约人寿保险公司",
+    "revenue_m": "73,146"
+  },
+  {
+    "rank": 185,
+    "name_cn": "Alimentation Couche-Tard公司",
+    "revenue_m": "72,857"
+  },
+  {
+    "rank": 186,
+    "name_cn": "巴克莱",
+    "revenue_m": "71,930"
+  },
+  {
+    "rank": 187,
+    "name_cn": "荷兰国际集团",
+    "revenue_m": "71,899"
+  },
+  {
+    "rank": 188,
+    "name_cn": "交通银行股份有限公司",
+    "revenue_m": "71,791"
+  },
+  {
+    "rank": 189,
+    "name_cn": "德意志银行",
+    "revenue_m": "71,623"
+  },
+  {
+    "rank": 190,
+    "name_cn": "日本三井住友金融集团",
+    "revenue_m": "71,600"
+  },
+  {
+    "rank": 191,
+    "name_cn": "巴斯夫公司",
+    "revenue_m": "71,513"
+  },
+  {
+    "rank": 192,
+    "name_cn": "日本永旺集团",
+    "revenue_m": "71,479"
+  },
+  {
+    "rank": 193,
+    "name_cn": "波兰国营石油公司",
+    "revenue_m": "71,277"
+  },
+  {
+    "rank": 194,
+    "name_cn": "印尼国家石油公司",
+    "revenue_m": "70,894"
+  },
+  {
+    "rank": 195,
+    "name_cn": "丰益国际",
+    "revenue_m": "70,416"
+  },
+  {
+    "rank": 196,
+    "name_cn": "邦吉公司",
+    "revenue_m": "70,329"
+  },
+  {
+    "rank": 197,
+    "name_cn": "日立",
+    "revenue_m": "70,246"
+  },
+  {
+    "rank": 198,
+    "name_cn": "纬创集团",
+    "revenue_m": "70,180"
+  },
+  {
+    "rank": 199,
+    "name_cn": "俄罗斯外贸银行",
+    "revenue_m": "69,867"
+  },
+  {
+    "rank": 200,
+    "name_cn": "慕尼黑再保险集团",
+    "revenue_m": "69,816"
+  },
+  {
+    "rank": 201,
+    "name_cn": "浙江恒逸集团有限公司",
+    "revenue_m": "69,781"
+  },
+  {
+    "rank": 202,
+    "name_cn": "苏黎世保险集团",
+    "revenue_m": "69,780"
+  },
+  {
+    "rank": 203,
+    "name_cn": "KOC集团",
+    "revenue_m": "69,742"
+  },
+  {
+    "rank": 204,
+    "name_cn": "埃森哲",
+    "revenue_m": "69,673"
+  },
+  {
+    "rank": 205,
+    "name_cn": "Seven & I 控股公司",
+    "revenue_m": "69,577"
+  },
+  {
+    "rank": 206,
+    "name_cn": "第一资本金融公司",
+    "revenue_m": "69,252"
+  },
+  {
+    "rank": 207,
+    "name_cn": "中国铝业集团有限公司",
+    "revenue_m": "68,909"
+  },
+  {
+    "rank": 208,
+    "name_cn": "印度石油天然气公司",
+    "revenue_m": "68,887"
+  },
+  {
+    "rank": 209,
+    "name_cn": "Uniper公司",
+    "revenue_m": "68,752"
+  },
+  {
+    "rank": 210,
+    "name_cn": "SK海力士公司",
+    "revenue_m": "68,338"
+  },
+  {
+    "rank": 211,
+    "name_cn": "广达电脑公司",
+    "revenue_m": "68,164"
+  },
+  {
+    "rank": 212,
+    "name_cn": "中国保利集团有限公司",
+    "revenue_m": "68,121"
+  },
+  {
+    "rank": 213,
+    "name_cn": "金川集团股份有限公司",
+    "revenue_m": "68,116"
+  },
+  {
+    "rank": 214,
+    "name_cn": "韩国电力公司",
+    "revenue_m": "67,931"
+  },
+  {
+    "rank": 215,
+    "name_cn": "好事达",
+    "revenue_m": "67,685"
+  },
+  {
+    "rank": 216,
+    "name_cn": "卡特彼勒",
+    "revenue_m": "67,589"
+  },
+  {
+    "rank": 217,
+    "name_cn": "国际商业机器公司",
+    "revenue_m": "67,535"
+  },
+  {
+    "rank": 218,
+    "name_cn": "意大利忠利保险公司",
+    "revenue_m": "67,321"
+  },
+  {
+    "rank": 219,
+    "name_cn": "日本制铁公司",
+    "revenue_m": "66,772"
+  },
+  {
+    "rank": 220,
+    "name_cn": "巴西银行",
+    "revenue_m": "66,770"
+  },
+  {
+    "rank": 221,
+    "name_cn": "招商银行股份有限公司",
+    "revenue_m": "66,303"
+  },
+  {
+    "rank": 222,
+    "name_cn": "联合利华",
+    "revenue_m": "65,638"
+  },
+  {
+    "rank": 223,
+    "name_cn": "雷诺",
+    "revenue_m": "65,331"
+  },
+  {
+    "rank": 224,
+    "name_cn": "美国礼来公司",
+    "revenue_m": "65,179"
+  },
+  {
+    "rank": 225,
+    "name_cn": "默沙东",
+    "revenue_m": "65,011"
+  },
+  {
+    "rank": 226,
+    "name_cn": "美国全国保险公司",
+    "revenue_m": "64,930"
+  },
+  {
+    "rank": 227,
+    "name_cn": "厦门象屿集团有限公司",
+    "revenue_m": "64,537"
+  },
+  {
+    "rank": 228,
+    "name_cn": "引能仕控股株式会社",
+    "revenue_m": "64,342"
+  },
+  {
+    "rank": 229,
+    "name_cn": "法国布伊格集团",
+    "revenue_m": "64,192"
+  },
+  {
+    "rank": 230,
+    "name_cn": "博通公司",
+    "revenue_m": "63,887"
+  },
+  {
+    "rank": 231,
+    "name_cn": "美的集团股份有限公司",
+    "revenue_m": "63,790"
+  },
+  {
+    "rank": 232,
+    "name_cn": "小米集团",
+    "revenue_m": "63,621"
+  },
+  {
+    "rank": 233,
+    "name_cn": "德国艾德卡公司",
+    "revenue_m": "63,534"
+  },
+  {
+    "rank": 234,
+    "name_cn": "中国能源建设集团有限公司",
+    "revenue_m": "63,442"
+  },
+  {
+    "rank": 235,
+    "name_cn": "达美航空",
+    "revenue_m": "63,364"
+  },
+  {
+    "rank": 236,
+    "name_cn": "大众超级市场公司",
+    "revenue_m": "63,209"
+  },
+  {
+    "rank": 237,
+    "name_cn": "中国远洋海运集团有限公司",
+    "revenue_m": "63,202"
+  },
+  {
+    "rank": 238,
+    "name_cn": "LG电子",
+    "revenue_m": "62,748"
+  },
+  {
+    "rank": 239,
+    "name_cn": "卢克石油公司",
+    "revenue_m": "62,644"
+  },
+  {
+    "rank": 240,
+    "name_cn": "辉瑞制药有限公司",
+    "revenue_m": "62,579"
+  },
+  {
+    "rank": 241,
+    "name_cn": "TD Synnex公司",
+    "revenue_m": "62,508"
+  },
+  {
+    "rank": 242,
+    "name_cn": "马来西亚国家石油公司",
+    "revenue_m": "62,173"
+  },
+  {
+    "rank": 243,
+    "name_cn": "康菲石油公司",
+    "revenue_m": "61,548"
+  },
+  {
+    "rank": 244,
+    "name_cn": "Galaxy Digital公司",
+    "revenue_m": "61,356"
+  },
+  {
+    "rank": 245,
+    "name_cn": "安赛乐米塔尔",
+    "revenue_m": "61,352"
+  },
+  {
+    "rank": 246,
+    "name_cn": "艾伯维",
+    "revenue_m": "61,160"
+  },
+  {
+    "rank": 247,
+    "name_cn": "保德信金融集团",
+    "revenue_m": "60,774"
+  },
+  {
+    "rank": 248,
+    "name_cn": "中国太平洋保险(集团)股份有限公司",
+    "revenue_m": "60,542"
+  },
+  {
+    "rank": 249,
+    "name_cn": "陕西煤业化工集团有限责任公司",
+    "revenue_m": "60,538"
+  },
+  {
+    "rank": 250,
+    "name_cn": "巴西布拉德斯科银行",
+    "revenue_m": "60,522"
+  },
+  {
+    "rank": 251,
+    "name_cn": "TJX公司",
+    "revenue_m": "60,372"
+  },
+  {
+    "rank": 252,
+    "name_cn": "厦门国贸控股集团有限公司",
+    "revenue_m": "60,296"
+  },
+  {
+    "rank": 253,
+    "name_cn": "日本瑞穗金融集团",
+    "revenue_m": "60,284"
+  },
+  {
+    "rank": 254,
+    "name_cn": "青山控股集团有限公司",
+    "revenue_m": "60,131"
+  },
+  {
+    "rank": 255,
+    "name_cn": "拼多多控股公司",
+    "revenue_m": "60,081"
+  },
+  {
+    "rank": 256,
+    "name_cn": "Performance Food Group公司",
+    "revenue_m": "59,899"
+  },
+  {
+    "rank": 257,
+    "name_cn": "安达保险公司",
+    "revenue_m": "59,402"
+  },
+  {
+    "rank": 258,
+    "name_cn": "百威英博",
+    "revenue_m": "59,320"
+  },
+  {
+    "rank": 259,
+    "name_cn": "联合航空控股公司",
+    "revenue_m": "59,070"
+  },
+  {
+    "rank": 260,
+    "name_cn": "宁德时代新能源科技股份有限公司",
+    "revenue_m": "58,948"
+  },
+  {
+    "rank": 261,
+    "name_cn": "东京海上日动火灾保险公司",
+    "revenue_m": "58,869"
+  },
+  {
+    "rank": 262,
+    "name_cn": "阿斯利康",
+    "revenue_m": "58,739"
+  },
+  {
+    "rank": 263,
+    "name_cn": "力拓集团",
+    "revenue_m": "57,638"
+  },
+  {
+    "rank": 264,
+    "name_cn": "法国国民互助信贷银行集团",
+    "revenue_m": "57,518"
+  },
+  {
+    "rank": 265,
+    "name_cn": "甲骨文公司",
+    "revenue_m": "57,399"
+  },
+  {
+    "rank": 266,
+    "name_cn": "河钢集团有限公司",
+    "revenue_m": "57,304"
+  },
+  {
+    "rank": 267,
+    "name_cn": "诺华公司",
+    "revenue_m": "56,674"
+  },
+  {
+    "rank": 268,
+    "name_cn": "思科公司",
+    "revenue_m": "56,654"
+  },
+  {
+    "rank": 269,
+    "name_cn": "Talanx公司",
+    "revenue_m": "56,646"
+  },
+  {
+    "rank": 270,
+    "name_cn": "西班牙ACS集团",
+    "revenue_m": "56,224"
+  },
+  {
+    "rank": 271,
+    "name_cn": "国家电力投资集团有限公司",
+    "revenue_m": "56,221"
+  },
+  {
+    "rank": 272,
+    "name_cn": "HDFC银行",
+    "revenue_m": "56,075"
+  },
+  {
+    "rank": 273,
+    "name_cn": "蒙特利尔银行",
+    "revenue_m": "55,925"
+  },
+  {
+    "rank": 274,
+    "name_cn": "戴姆勒卡车控股股份公司",
+    "revenue_m": "55,704"
+  },
+  {
+    "rank": 275,
+    "name_cn": "X5集团",
+    "revenue_m": "55,361"
+  },
+  {
+    "rank": 276,
+    "name_cn": "惠普公司",
+    "revenue_m": "55,295"
+  },
+  {
+    "rank": 277,
+    "name_cn": "丸红株式会社",
+    "revenue_m": "54,846"
+  },
+  {
+    "rank": 278,
+    "name_cn": "特许通讯公司",
+    "revenue_m": "54,774"
+  },
+  {
+    "rank": 279,
+    "name_cn": "赛诺菲",
+    "revenue_m": "54,650"
+  },
+  {
+    "rank": 280,
+    "name_cn": "美国航空集团",
+    "revenue_m": "54,633"
+  },
+  {
+    "rank": 281,
+    "name_cn": "中国联合网络通信股份有限公司",
+    "revenue_m": "54,569"
+  },
+  {
+    "rank": 282,
+    "name_cn": "雷普索尔公司",
+    "revenue_m": "54,534"
+  },
+  {
+    "rank": 283,
+    "name_cn": "泰森食品",
+    "revenue_m": "54,441"
+  },
+  {
+    "rank": 284,
+    "name_cn": "马士基集团",
+    "revenue_m": "53,988"
+  },
+  {
+    "rank": 285,
+    "name_cn": "中国华能集团有限公司",
+    "revenue_m": "53,840"
+  },
+  {
+    "rank": 286,
+    "name_cn": "松下控股公司",
+    "revenue_m": "53,405"
+  },
+  {
+    "rank": 287,
+    "name_cn": "路易达孚集团",
+    "revenue_m": "53,197"
+  },
+  {
+    "rank": 288,
+    "name_cn": "兴业银行股份有限公司",
+    "revenue_m": "53,050"
+  },
+  {
+    "rank": 289,
+    "name_cn": "英特尔公司",
+    "revenue_m": "52,853"
+  },
+  {
+    "rank": 290,
+    "name_cn": "加拿大丰业银行",
+    "revenue_m": "52,710"
+  },
+  {
+    "rank": 291,
+    "name_cn": "韩华集团",
+    "revenue_m": "52,608"
+  },
+  {
+    "rank": 292,
+    "name_cn": "Enterprise Products Partners公司",
+    "revenue_m": "52,596"
+  },
+  {
+    "rank": 293,
+    "name_cn": "英迈公司",
+    "revenue_m": "52,556"
+  },
+  {
+    "rank": 294,
+    "name_cn": "通用动力",
+    "revenue_m": "52,550"
+  },
+  {
+    "rank": 295,
+    "name_cn": "圣戈班集团",
+    "revenue_m": "52,429"
+  },
+  {
+    "rank": 296,
+    "name_cn": "Uber Technologies公司",
+    "revenue_m": "52,017"
+  },
+  {
+    "rank": 297,
+    "name_cn": "泰康保险集团股份有限公司",
+    "revenue_m": "51,921"
+  },
+  {
+    "rank": 298,
+    "name_cn": "巴拉特石油公司",
+    "revenue_m": "51,895"
+  },
+  {
+    "rank": 299,
+    "name_cn": "广州汽车工业集团有限公司",
+    "revenue_m": "51,837"
+  },
+  {
+    "rank": 300,
+    "name_cn": "软银集团",
+    "revenue_m": "51,746"
+  },
+  {
+    "rank": 301,
+    "name_cn": "联合服务汽车协会",
+    "revenue_m": "51,499"
+  },
+  {
+    "rank": 302,
+    "name_cn": "新加坡奥兰集团",
+    "revenue_m": "51,492"
+  },
+  {
+    "rank": 303,
+    "name_cn": "意大利联合圣保罗银行",
+    "revenue_m": "51,445"
+  },
+  {
+    "rank": 304,
+    "name_cn": "拜耳集团",
+    "revenue_m": "51,405"
+  },
+  {
+    "rank": 305,
+    "name_cn": "Iberdrola公司",
+    "revenue_m": "51,373"
+  },
+  {
+    "rank": 306,
+    "name_cn": "敬业集团有限公司",
+    "revenue_m": "51,354"
+  },
+  {
+    "rank": 307,
+    "name_cn": "必和必拓集团",
+    "revenue_m": "51,262"
+  },
+  {
+    "rank": 308,
+    "name_cn": "巴西联邦储蓄银行",
+    "revenue_m": "51,096"
+  },
+  {
+    "rank": 309,
+    "name_cn": "浙江省交通投资集团有限公司",
+    "revenue_m": "50,819"
+  },
+  {
+    "rank": 310,
+    "name_cn": "MS&AD保险集团控股有限公司",
+    "revenue_m": "50,780"
+  },
+  {
+    "rank": 311,
+    "name_cn": "美团公司",
+    "revenue_m": "50,761"
+  },
+  {
+    "rank": 312,
+    "name_cn": "美国教师退休基金会",
+    "revenue_m": "50,605"
+  },
+  {
+    "rank": 313,
+    "name_cn": "美国利宝互助保险集团",
+    "revenue_m": "50,465"
+  },
+  {
+    "rank": 314,
+    "name_cn": "HD现代公司",
+    "revenue_m": "50,128"
+  },
+  {
+    "rank": 315,
+    "name_cn": "法国威立雅环境集团",
+    "revenue_m": "50,075"
+  },
+  {
+    "rank": 316,
+    "name_cn": "电装公司",
+    "revenue_m": "50,029"
+  },
+  {
+    "rank": 317,
+    "name_cn": "欧莱雅",
+    "revenue_m": "49,687"
+  },
+  {
+    "rank": 318,
+    "name_cn": "日本明治安田生命保险公司",
+    "revenue_m": "49,378"
+  },
+  {
+    "rank": 319,
+    "name_cn": "东风汽车集团有限公司",
+    "revenue_m": "49,247"
+  },
+  {
+    "rank": 320,
+    "name_cn": "美洲电信",
+    "revenue_m": "49,123"
+  },
+  {
+    "rank": 321,
+    "name_cn": "Travelers公司",
+    "revenue_m": "48,828"
+  },
+  {
+    "rank": 322,
+    "name_cn": "沃尔沃集团",
+    "revenue_m": "48,828"
+  },
+  {
+    "rank": 323,
+    "name_cn": "贺利氏控股集团",
+    "revenue_m": "48,719"
+  },
+  {
+    "rank": 324,
+    "name_cn": "住友商事",
+    "revenue_m": "48,684"
+  },
+  {
+    "rank": 325,
+    "name_cn": "紫金矿业集团股份有限公司",
+    "revenue_m": "48,566"
+  },
+  {
+    "rank": 326,
+    "name_cn": "浦项制铁控股公司",
+    "revenue_m": "48,529"
+  },
+  {
+    "rank": 327,
+    "name_cn": "法国国营铁路集团",
+    "revenue_m": "48,490"
+  },
+  {
+    "rank": 328,
+    "name_cn": "百时美施贵宝公司",
+    "revenue_m": "48,194"
+  },
+  {
+    "rank": 329,
+    "name_cn": "可口可乐公司",
+    "revenue_m": "47,941"
+  },
+  {
+    "rank": 330,
+    "name_cn": "日本出光兴产株式会社",
+    "revenue_m": "47,289"
+  },
+  {
+    "rank": 331,
+    "name_cn": "沃达丰集团",
+    "revenue_m": "46,906"
+  },
+  {
+    "rank": 332,
+    "name_cn": "乔治威斯顿公司",
+    "revenue_m": "46,823"
+  },
+  {
+    "rank": 333,
+    "name_cn": "诺和诺德公司",
+    "revenue_m": "46,711"
+  },
+  {
+    "rank": 334,
+    "name_cn": "加拿大枫信金融控股公司",
+    "revenue_m": "46,674"
+  },
+  {
+    "rank": 335,
+    "name_cn": "Enbridge公司",
+    "revenue_m": "46,659"
+  },
+  {
+    "rank": 336,
+    "name_cn": "耐克公司",
+    "revenue_m": "46,309"
+  },
+  {
+    "rank": 337,
+    "name_cn": "立讯精密工业股份有限公司",
+    "revenue_m": "46,238"
+  },
+  {
+    "rank": 338,
+    "name_cn": "康帕斯集团",
+    "revenue_m": "46,070"
+  },
+  {
+    "rank": 339,
+    "name_cn": "万通互惠理财公司",
+    "revenue_m": "46,054"
+  },
+  {
+    "rank": 340,
+    "name_cn": "苏商建设集团有限公司",
+    "revenue_m": "45,907"
+  },
+  {
+    "rank": 341,
+    "name_cn": "GE航空航天公司",
+    "revenue_m": "45,855"
+  },
+  {
+    "rank": 342,
+    "name_cn": "迪尔公司",
+    "revenue_m": "45,684"
+  },
+  {
+    "rank": 343,
+    "name_cn": "Plains GP Holdings公司",
+    "revenue_m": "45,579"
+  },
+  {
+    "rank": 344,
+    "name_cn": "Orange公司",
+    "revenue_m": "45,563"
+  },
+  {
+    "rank": 345,
+    "name_cn": "英格卡集团",
+    "revenue_m": "45,531"
+  },
+  {
+    "rank": 346,
+    "name_cn": "Inditex公司",
+    "revenue_m": "45,448"
+  },
+  {
+    "rank": 347,
+    "name_cn": "Molina Healthcare公司",
+    "revenue_m": "45,426"
+  },
+  {
+    "rank": 348,
+    "name_cn": "施耐德电气",
+    "revenue_m": "45,288"
+  },
+  {
+    "rank": 349,
+    "name_cn": "上海浦东发展银行股份有限公司",
+    "revenue_m": "45,246"
+  },
+  {
+    "rank": 350,
+    "name_cn": "森宝利公司",
+    "revenue_m": "45,230"
+  },
+  {
+    "rank": 351,
+    "name_cn": "Netflix公司",
+    "revenue_m": "45,183"
+  },
+  {
+    "rank": 352,
+    "name_cn": "澳洲联邦银行",
+    "revenue_m": "45,108"
+  },
+  {
+    "rank": 353,
+    "name_cn": "联合信贷集团",
+    "revenue_m": "44,708"
+  },
+  {
+    "rank": 354,
+    "name_cn": "伍尔沃斯集团",
+    "revenue_m": "44,693"
+  },
+  {
+    "rank": 355,
+    "name_cn": "汉莎集团",
+    "revenue_m": "44,662"
+  },
+  {
+    "rank": 356,
+    "name_cn": "赛默飞世尔科技公司",
+    "revenue_m": "44,556"
+  },
+  {
+    "rank": 357,
+    "name_cn": "加拿大帝国商业银行",
+    "revenue_m": "44,358"
+  },
+  {
+    "rank": 358,
+    "name_cn": "雅培公司",
+    "revenue_m": "44,328"
+  },
+  {
+    "rank": 359,
+    "name_cn": "高通",
+    "revenue_m": "44,284"
+  },
+  {
+    "rank": 360,
+    "name_cn": "瑞士再保险股份有限公司",
+    "revenue_m": "44,090"
+  },
+  {
+    "rank": 361,
+    "name_cn": "中国通用技术(集团)控股有限责任公司",
+    "revenue_m": "44,033"
+  },
+  {
+    "rank": 362,
+    "name_cn": "澳新银行集团",
+    "revenue_m": "43,836"
+  },
+  {
+    "rank": 363,
+    "name_cn": "Fomento Económico Mexicano公司",
+    "revenue_m": "43,778"
+  },
+  {
+    "rank": 364,
+    "name_cn": "采埃孚",
+    "revenue_m": "43,774"
+  },
+  {
+    "rank": 365,
+    "name_cn": "西北互助人寿保险公司",
+    "revenue_m": "43,676"
+  },
+  {
+    "rank": 366,
+    "name_cn": "中国华电集团有限公司",
+    "revenue_m": "43,412"
+  },
+  {
+    "rank": 367,
+    "name_cn": "俄罗斯铁路公司",
+    "revenue_m": "43,386"
+  },
+  {
+    "rank": 368,
+    "name_cn": "西门子能源",
+    "revenue_m": "43,114"
+  },
+  {
+    "rank": 369,
+    "name_cn": "Mercadona公司",
+    "revenue_m": "43,062"
+  },
+  {
+    "rank": 370,
+    "name_cn": "葛兰素史克集团",
+    "revenue_m": "43,026"
+  },
+  {
+    "rank": 371,
+    "name_cn": "现代摩比斯公司",
+    "revenue_m": "42,994"
+  },
+  {
+    "rank": 372,
+    "name_cn": "顺丰控股股份有限公司",
+    "revenue_m": "42,883"
+  },
+  {
+    "rank": 373,
+    "name_cn": "美国合众银行",
+    "revenue_m": "42,861"
+  },
+  {
+    "rank": 374,
+    "name_cn": "Dollar General公司",
+    "revenue_m": "42,724"
+  },
+  {
+    "rank": 375,
+    "name_cn": "Coop集团",
+    "revenue_m": "42,696"
+  },
+  {
+    "rank": 376,
+    "name_cn": "西班牙电话公司",
+    "revenue_m": "42,540"
+  },
+  {
+    "rank": 377,
+    "name_cn": "中国机械工业集团有限公司",
+    "revenue_m": "42,444"
+  },
+  {
+    "rank": 378,
+    "name_cn": "海尔智家股份有限公司",
+    "revenue_m": "42,065"
+  },
+  {
+    "rank": 379,
+    "name_cn": "麦格纳国际",
+    "revenue_m": "42,010"
+  },
+  {
+    "rank": 380,
+    "name_cn": "东京电力公司",
+    "revenue_m": "41,991"
+  },
+  {
+    "rank": 381,
+    "name_cn": "美国诺斯洛普格拉曼公司",
+    "revenue_m": "41,954"
+  },
+  {
+    "rank": 382,
+    "name_cn": "Magnit公司",
+    "revenue_m": "41,851"
+  },
+  {
+    "rank": 383,
+    "name_cn": "奇瑞汽车股份有限公司",
+    "revenue_m": "41,778"
+  },
+  {
+    "rank": 384,
+    "name_cn": "铃木汽车",
+    "revenue_m": "41,755"
+  },
+  {
+    "rank": 385,
+    "name_cn": "百思买",
+    "revenue_m": "41,691"
+  },
+  {
+    "rank": 386,
+    "name_cn": "赛富时",
+    "revenue_m": "41,525"
+  },
+  {
+    "rank": 387,
+    "name_cn": "SAP公司",
+    "revenue_m": "41,507"
+  },
+  {
+    "rank": 388,
+    "name_cn": "KB金融集团",
+    "revenue_m": "41,284"
+  },
+  {
+    "rank": 389,
+    "name_cn": "广州工业投资控股集团有限公司",
+    "revenue_m": "41,181"
+  },
+  {
+    "rank": 390,
+    "name_cn": "晋能控股集团有限公司",
+    "revenue_m": "41,131"
+  },
+  {
+    "rank": 391,
+    "name_cn": "山东高速集团有限公司",
+    "revenue_m": "40,985"
+  },
+  {
+    "rank": 392,
+    "name_cn": "中国建材集团有限公司",
+    "revenue_m": "40,976"
+  },
+  {
+    "rank": 393,
+    "name_cn": "陕西延长石油（集团）有限责任公司",
+    "revenue_m": "40,812"
+  },
+  {
+    "rank": 394,
+    "name_cn": "纽约梅隆银行",
+    "revenue_m": "40,762"
+  },
+  {
+    "rank": 395,
+    "name_cn": "霍尼韦尔国际公司",
+    "revenue_m": "40,686"
+  },
+  {
+    "rank": 396,
+    "name_cn": "菲利普－莫里斯国际公司",
+    "revenue_m": "40,648"
+  },
+  {
+    "rank": 397,
+    "name_cn": "渣打银行",
+    "revenue_m": "40,634"
+  },
+  {
+    "rank": 398,
+    "name_cn": "Jerónimo Martins公司",
+    "revenue_m": "40,595"
+  },
+  {
+    "rank": 399,
+    "name_cn": "塔塔汽车乘用车公司",
+    "revenue_m": "40,562"
+  },
+  {
+    "rank": 400,
+    "name_cn": "世邦魏理仕集团",
+    "revenue_m": "40,550"
+  },
+  {
+    "rank": 401,
+    "name_cn": "日本KDDI电信公司",
+    "revenue_m": "40,289"
+  },
+  {
+    "rank": 402,
+    "name_cn": "德国中央合作银行",
+    "revenue_m": "40,148"
+  },
+  {
+    "rank": 403,
+    "name_cn": "Visa公司",
+    "revenue_m": "40,000"
+  },
+  {
+    "rank": 404,
+    "name_cn": "陶氏公司",
+    "revenue_m": "39,968"
+  },
+  {
+    "rank": 405,
+    "name_cn": "国民威斯敏斯特银行集团",
+    "revenue_m": "39,833"
+  },
+  {
+    "rank": 406,
+    "name_cn": "广东省广新控股集团有限公司",
+    "revenue_m": "39,788"
+  },
+  {
+    "rank": 407,
+    "name_cn": "St. James's Place公司",
+    "revenue_m": "39,727"
+  },
+  {
+    "rank": 408,
+    "name_cn": "住友生命保险公司",
+    "revenue_m": "39,640"
+  },
+  {
+    "rank": 409,
+    "name_cn": "友邦保险控股有限公司",
+    "revenue_m": "39,639"
+  },
+  {
+    "rank": 410,
+    "name_cn": "中国中车集团有限公司",
+    "revenue_m": "39,502"
+  },
+  {
+    "rank": 411,
+    "name_cn": "上海医药集团股份有限公司",
+    "revenue_m": "39,454"
+  },
+  {
+    "rank": 412,
+    "name_cn": "US Foods Holding公司",
+    "revenue_m": "39,424"
+  },
+  {
+    "rank": 413,
+    "name_cn": "北京汽车集团有限公司",
+    "revenue_m": "39,393"
+  },
+  {
+    "rank": 414,
+    "name_cn": "新华人寿保险股份有限公司",
+    "revenue_m": "39,380"
+  },
+  {
+    "rank": 415,
+    "name_cn": "杭州钢铁集团有限公司",
+    "revenue_m": "39,236"
+  },
+  {
+    "rank": 416,
+    "name_cn": "三菱电机股份有限公司",
+    "revenue_m": "39,113"
+  },
+  {
+    "rank": 417,
+    "name_cn": "巴登-符腾堡州能源公司",
+    "revenue_m": "38,789"
+  },
+  {
+    "rank": 418,
+    "name_cn": "法国邮政",
+    "revenue_m": "38,786"
+  },
+  {
+    "rank": 419,
+    "name_cn": "杭州市实业投资集团有限公司",
+    "revenue_m": "38,760"
+  },
+  {
+    "rank": 420,
+    "name_cn": "澳大利亚国民银行",
+    "revenue_m": "38,754"
+  },
+  {
+    "rank": 421,
+    "name_cn": "深圳市投资控股有限公司",
+    "revenue_m": "38,664"
+  },
+  {
+    "rank": 422,
+    "name_cn": "亿滋国际",
+    "revenue_m": "38,537"
+  },
+  {
+    "rank": 423,
+    "name_cn": "曼福集团",
+    "revenue_m": "38,432"
+  },
+  {
+    "rank": 424,
+    "name_cn": "巴西淡水河谷公司",
+    "revenue_m": "38,403"
+  },
+  {
+    "rank": 425,
+    "name_cn": "CDP集团",
+    "revenue_m": "38,170"
+  },
+  {
+    "rank": 426,
+    "name_cn": "Lithia Motors公司",
+    "revenue_m": "38,134"
+  },
+  {
+    "rank": 427,
+    "name_cn": "GE Vernova公司",
+    "revenue_m": "38,068"
+  },
+  {
+    "rank": 428,
+    "name_cn": "山东黄金集团有限公司",
+    "revenue_m": "37,936"
+  },
+  {
+    "rank": 429,
+    "name_cn": "卡塔尔国民银行",
+    "revenue_m": "37,831"
+  },
+  {
+    "rank": 430,
+    "name_cn": "广州市建筑集团有限公司",
+    "revenue_m": "37,816"
+  },
+  {
+    "rank": 431,
+    "name_cn": "文晔科技公司",
+    "revenue_m": "37,808"
+  },
+  {
+    "rank": 432,
+    "name_cn": "英国标准人寿保险公司",
+    "revenue_m": "37,779"
+  },
+  {
+    "rank": 433,
+    "name_cn": "海亮集团有限公司",
+    "revenue_m": "37,473"
+  },
+  {
+    "rank": 434,
+    "name_cn": "国际航空集团",
+    "revenue_m": "37,461"
+  },
+  {
+    "rank": 435,
+    "name_cn": "CRH公司",
+    "revenue_m": "37,447"
+  },
+  {
+    "rank": 436,
+    "name_cn": "铜陵有色金属集团控股有限公司",
+    "revenue_m": "37,391"
+  },
+  {
+    "rank": 437,
+    "name_cn": "DSV公司",
+    "revenue_m": "37,381"
+  },
+  {
+    "rank": 438,
+    "name_cn": "美光科技公司",
+    "revenue_m": "37,378"
+  },
+  {
+    "rank": 439,
+    "name_cn": "德国联邦铁路公司",
+    "revenue_m": "37,359"
+  },
+  {
+    "rank": 440,
+    "name_cn": "西太平洋银行",
+    "revenue_m": "37,338"
+  },
+  {
+    "rank": 441,
+    "name_cn": "BAE系统公司",
+    "revenue_m": "37,322"
+  },
+  {
+    "rank": 442,
+    "name_cn": "华纳兄弟探索公司",
+    "revenue_m": "37,296"
+  },
+  {
+    "rank": 443,
+    "name_cn": "日本三菱重工业股份有限公司",
+    "revenue_m": "37,275"
+  },
+  {
+    "rank": 444,
+    "name_cn": "法国航空－荷兰皇家航空集团",
+    "revenue_m": "37,229"
+  },
+  {
+    "rank": 445,
+    "name_cn": "蜀道投资集团有限责任公司",
+    "revenue_m": "37,213"
+  },
+  {
+    "rank": 446,
+    "name_cn": "星巴克公司",
+    "revenue_m": "37,184"
+  },
+  {
+    "rank": 447,
+    "name_cn": "中国民生银行股份有限公司",
+    "revenue_m": "37,039"
+  },
+  {
+    "rank": 448,
+    "name_cn": "Migros集团",
+    "revenue_m": "37,015"
+  },
+  {
+    "rank": 449,
+    "name_cn": "大和房建",
+    "revenue_m": "37,004"
+  },
+  {
+    "rank": 450,
+    "name_cn": "江苏沙钢集团有限公司",
+    "revenue_m": "36,983"
+  },
+  {
+    "rank": 451,
+    "name_cn": "中国电子信息产业集团有限公司",
+    "revenue_m": "36,981"
+  },
+  {
+    "rank": 452,
+    "name_cn": "World Kinect公司",
+    "revenue_m": "36,917"
+  },
+  {
+    "rank": 453,
+    "name_cn": "阿斯麦公司",
+    "revenue_m": "36,846"
+  },
+  {
+    "rank": 454,
+    "name_cn": "安进",
+    "revenue_m": "36,751"
+  },
+  {
+    "rank": 455,
+    "name_cn": "蒂森克虏伯",
+    "revenue_m": "36,229"
+  },
+  {
+    "rank": 456,
+    "name_cn": "中国大唐集团有限公司",
+    "revenue_m": "36,173"
+  },
+  {
+    "rank": 457,
+    "name_cn": "长江和记实业有限公司",
+    "revenue_m": "35,923"
+  },
+  {
+    "rank": 458,
+    "name_cn": "奥地利石油天然气集团",
+    "revenue_m": "35,914"
+  },
+  {
+    "rank": 459,
+    "name_cn": "和硕",
+    "revenue_m": "35,857"
+  },
+  {
+    "rank": 460,
+    "name_cn": "斯伦贝谢公司",
+    "revenue_m": "35,708"
+  },
+  {
+    "rank": 461,
+    "name_cn": "赛峰集团",
+    "revenue_m": "35,705"
+  },
+  {
+    "rank": 462,
+    "name_cn": "损保控股有限公司",
+    "revenue_m": "35,651"
+  },
+  {
+    "rank": 463,
+    "name_cn": "湖南钢铁集团有限公司",
+    "revenue_m": "35,623"
+  },
+  {
+    "rank": 464,
+    "name_cn": "通威集团有限公司",
+    "revenue_m": "35,602"
+  },
+  {
+    "rank": 465,
+    "name_cn": "Cenovus Energy公司",
+    "revenue_m": "35,567"
+  },
+  {
+    "rank": 466,
+    "name_cn": "瑞士ABB集团",
+    "revenue_m": "35,551"
+  },
+  {
+    "rank": 467,
+    "name_cn": "广州医药集团有限公司",
+    "revenue_m": "35,509"
+  },
+  {
+    "rank": 468,
+    "name_cn": "CHS公司",
+    "revenue_m": "35,463"
+  },
+  {
+    "rank": 469,
+    "name_cn": "Perusahaan Listrik Negara公司",
+    "revenue_m": "35,408"
+  },
+  {
+    "rank": 470,
+    "name_cn": "CFE公司",
+    "revenue_m": "35,371"
+  },
+  {
+    "rank": 471,
+    "name_cn": "印度工业信贷投资银行",
+    "revenue_m": "35,325"
+  },
+  {
+    "rank": 472,
+    "name_cn": "森科能源公司",
+    "revenue_m": "35,291"
+  },
+  {
+    "rank": 473,
+    "name_cn": "德国巴登-符腾堡州银行",
+    "revenue_m": "35,114"
+  },
+  {
+    "rank": 474,
+    "name_cn": "阿联酋航空集团",
+    "revenue_m": "35,054"
+  },
+  {
+    "rank": 475,
+    "name_cn": "德龙钢铁产业集团有限公司",
+    "revenue_m": "34,926"
+  },
+  {
+    "rank": 476,
+    "name_cn": "加拿大鲍尔集团",
+    "revenue_m": "34,900"
+  },
+  {
+    "rank": 477,
+    "name_cn": "荷兰合作银行集团",
+    "revenue_m": "34,873"
+  },
+  {
+    "rank": 478,
+    "name_cn": "超威半导体公司",
+    "revenue_m": "34,639"
+  },
+  {
+    "rank": 479,
+    "name_cn": "Coupang公司",
+    "revenue_m": "34,534"
+  },
+  {
+    "rank": 480,
+    "name_cn": "新希望控股集团有限公司",
+    "revenue_m": "34,462"
+  },
+  {
+    "rank": 481,
+    "name_cn": "慧与公司",
+    "revenue_m": "34,296"
+  },
+  {
+    "rank": 482,
+    "name_cn": "D.R. Horton公司",
+    "revenue_m": "34,250"
+  },
+  {
+    "rank": 483,
+    "name_cn": "怡和集团",
+    "revenue_m": "34,217"
+  },
+  {
+    "rank": 484,
+    "name_cn": "北京建龙重工集团有限公司",
+    "revenue_m": "34,202"
+  },
+  {
+    "rank": 485,
+    "name_cn": "莱纳公司",
+    "revenue_m": "34,187"
+  },
+  {
+    "rank": 486,
+    "name_cn": "俄罗斯天然气工业银行‌",
+    "revenue_m": "34,162"
+  },
+  {
+    "rank": 487,
+    "name_cn": "美国PNC金融服务集团",
+    "revenue_m": "33,996"
+  },
+  {
+    "rank": 488,
+    "name_cn": "林德集团",
+    "revenue_m": "33,986"
+  },
+  {
+    "rank": 489,
+    "name_cn": "爱信",
+    "revenue_m": "33,958"
+  },
+  {
+    "rank": 490,
+    "name_cn": "住友电工",
+    "revenue_m": "33,907"
+  },
+  {
+    "rank": 491,
+    "name_cn": "鞍钢集团有限公司",
+    "revenue_m": "33,894"
+  },
+  {
+    "rank": 492,
+    "name_cn": "Vibra Energia公司",
+    "revenue_m": "33,856"
+  },
+  {
+    "rank": 493,
+    "name_cn": "英美烟草集团",
+    "revenue_m": "33,731"
+  },
+  {
+    "rank": 494,
+    "name_cn": "康明斯公司",
+    "revenue_m": "33,670"
+  },
+  {
+    "rank": 495,
+    "name_cn": "Oneok公司",
+    "revenue_m": "33,629"
+  },
+  {
+    "rank": 496,
+    "name_cn": "美敦力公司",
+    "revenue_m": "33,537"
+  },
+  {
+    "rank": 497,
+    "name_cn": "广西投资集团有限公司",
+    "revenue_m": "33,399"
+  },
+  {
+    "rank": 498,
+    "name_cn": "大金集团",
+    "revenue_m": "33,276"
+  },
+  {
+    "rank": 499,
+    "name_cn": "LG化学公司",
+    "revenue_m": "33,190"
+  },
+  {
+    "rank": 500,
+    "name_cn": "贝宝公司",
+    "revenue_m": "33,172"
+  }
+]

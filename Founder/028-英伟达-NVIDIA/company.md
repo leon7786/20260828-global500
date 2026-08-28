@@ -1,0 +1,91 @@
+# 英伟达公司 (NVIDIA Corporation) —— 全球加速计算与人工智能基础设施霸主全景介绍
+
+> **《财富》世界500强排名：第 28 位**  
+> **年度营业收入：$215,938 百万美元（约 2159 亿美元）**  
+> **官方网站：[www.nvidia.com](https://www.nvidia.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 英伟达公司 (NVIDIA Corporation) |
+| **成立时间** | 1993 年 4 月 5 日 (创立于美国加州圣何塞 Denny's 餐厅) |
+| **全球总部** | 🇺🇸 美国 加利福尼亚州 圣克拉拉 (Santa Clara, CA) |
+| **创始人** | 黄仁勋 (Jensen Huang)、克里斯·马拉科夫斯基 (Chris Malachowsky)、柯蒂斯·普里姆 (Curtis Priem) |
+| **现任总裁兼 CEO** | 黄仁勋 (Jensen Huang) |
+| **股票代码** | NASDAQ: `NVDA` (全球市值第一梯队，突破 3 万亿美元) |
+| **全球员工总数** | 约 30,000+ 人 |
+| **核心业务赛道** | 数据中心 AI 超级计算芯片 (Hopper/Blackwell)、CUDA 软件平台、InfiniBand 高速网络、GeForce 游戏 GPU、自动驾驶芯片 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    NVDA["英伟达加速计算商业帝国 (NVIDIA)"]
+    
+    NVDA --> DC["1. 数据中心与 AI 超级算力 (Compute & Networking)"]
+    DC --> ACCEL["AI 加速芯片 (Blackwell GB200, B200, Hopper H100/H200, Vera Rubin)"]
+    DC --> NET["高速网络 (Quantum-X InfiniBand, Spectrum-X 以太网, BlueField DPU)"]
+    DC --> CUDA["CUDA 全栈计算软件生态 (cuDNN, TensorRT, NeMo, NIM 微服务)"]
+    DC --> DGX["DGX Cloud & 超级 AI 工厂机柜 (GB200 NVL72 液冷整机)"]
+    
+    NVDA --> GAMING["2. 游戏与消费图形 (Gaming & RTX)"]
+    GAMING --> GEFORCE["GeForce RTX 40/50 系列游戏显卡 (DLSS 3.5/4 神经渲染)"]
+    GAMING --> HANDHELD["任天堂 Switch 等定制游戏主机 SoC"]
+    
+    NVDA --> PRO["3. 专业可视化与数字孪生 (ProViz & Omniverse)"]
+    PRO --> OMNI["NVIDIA Omniverse 工业元宇宙与物理世界仿真平台"]
+    PRO --> WORK["RTX 移动与桌面专业工作站 GPU"]
+    
+    NVDA --> AUTO["4. 自动驾驶与机器人 (Automotive & Robotics)"]
+    AUTO --> THOR["DRIVE Thor / Orin 超高算力智驾中央计算平台"]
+    AUTO --> ISAAC["Isaac 人形机器人大模型与物理仿真具身智能平台"]
+
+    classDef main fill:#76b900,stroke:#000,stroke-width:2px,color:#000;
+    classDef branch fill:#000,stroke:#76b900,stroke-width:1px,color:#fff;
+    classDef sub fill:#f9f9f9,stroke:#000,stroke-width:1px,color:#000;
+    class NVDA main;
+    class DC,GAMING,PRO,AUTO branch;
+    class ACCEL,NET,CUDA,DGX,GEFORCE,HANDHELD,OMNI,WORK,THOR,ISAAC sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. 历时 20 年构筑的 CUDA 软件生态壁垒
+- 自 2006 年推出 CUDA 通用并行计算架构以来，全球超过 500 万开发者、顶尖科研机构与全部大模型训练框架（PyTorch, TensorFlow, JAX 等）均深度绑定在 CUDA 生态之上。竞争对手即便制造出算力相仿的芯片，也无法在短时间内重构庞大的软件兼容性与开发者习惯。
+
+### 2. “芯片 + 网络 + 软件”全栈系统级共设计 (Full-Stack Co-Design)
+- 英伟达不仅卖 GPU，而是将 GPU、Grace CPU、NVLink 交换机、InfiniBand 网卡、液冷机柜与集群通信库（NCCL）整合成一台**“数据中心即超级计算机 (The Data Center is the New Computer)”**。通过 NVLink 实现了单机柜 72 颗 GPU 之间高达 1.8TB/s 的超低延迟全互联，在万卡集群训练大模型时展现出无可匹敌的吞吐效率。
+
+### 3. 一年一代的极致迭代节奏 (One-Year Cadence)
+- 将传统半导体 2-3 年一代的更新周期缩短至 1 年（Hopper -> Blackwell -> Rubin），以狂暴的工程研发投入持续拉大与追赶者的代际差，使对手刚进入量产即面临技术落后的尴尬境地。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1993年**：黄仁勋与克里斯·马拉科夫斯基、柯蒂斯·普里姆在加州圣何塞一家 Denny's 餐厅创立 NVIDIA。
+- **1995年**：首款芯片 NV1 因采用非主流正方曲面技术遭遇商业惨败，公司濒临破产。
+- **1997年**：推出支持微软 Direct3D 的 **RIVA 128** 图形芯片，首季度狂销 100 万颗，拯救公司于危难之中。
+- **1999年**：发布 **GeForce 256**，英伟达正式在业界首创并定义了 **GPU (图形处理器)** 概念；同年在纳斯达克挂牌上市。
+- **2006年**：黄仁勋力排众议推出 **CUDA** 架构，将每一块 GeForce 显卡转化为通用超级计算设备，为此连续数年牺牲高额利润。
+- **2012年**：多伦多大学 Alex Krizhevsky 使用两块英伟达 GeForce GTX 580 训练出 AlexNet 神经网络，引爆现代深度学习革命。
+- **2016年**：黄仁勋亲自将全球第一台搭载 8 块 P100 的超级 AI 服务器 **DGX-1** 手工交付给刚成立的 OpenAI。
+- **2019年**：在与英特尔和微软的竞购战中胜出，以 **69 亿美元** 全资收购以色列高速网络巨头**迈络思 (Mellanox)**。
+- **2022年**：OpenAI 推出 ChatGPT，引爆全球生成式 AI 算力军备竞赛，英伟达 H100 成为全球最抢手的战略资源。
+- **2024年**：发布新一代 **Blackwell** 架构（GB200 NVL72），英伟达市值突破 3.3 万亿美元，超越微软与苹果登顶全球第一。
+- **2026年**：英伟达营业收入突破 2150 亿美元，位列《财富》世界500强第 28 位，全面领跑全球 AI 工厂与具身智能工业革命。
+
+---
+
+## 🎯 企业文化与核心信条 (Core Culture)
+
+1. **永远处于倒闭前 30 天 (Our company is always 30 days away from going out of business)**：在顺境中保持偏执狂般的危机感。
+2. **物理第一性原理 (First Principles Thinking)**：从物理学与计算复杂度的最根本规律出发推演问题，绝不抄袭盲从同行。
+3. **极度扁平与信息透明**：取消层层请示与冗长汇报，推行全员公开战略沟通，让行动速度匹配光速变革。

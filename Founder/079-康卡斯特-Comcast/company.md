@@ -1,0 +1,97 @@
+# 美国康卡斯特电信公司 (Comcast Corporation) —— 全球超宽带网络与跨国传媒娱乐巨擘全景介绍
+
+> **《财富》世界500强排名：第 79 位**  
+> **年度营业收入：$123,707 百万美元（约 1237.1 亿美元）**  
+> **官方网站：[www.corporate.comcast.com](https://corporate.comcast.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 康卡斯特公司 (Comcast Corporation / 原名 American Cable Systems) |
+| **成立时间** | 1963 年 6 月 28 日 (创立于美国密西西比州图珀洛，1969年在宾州重组更名为 Comcast) |
+| **全球总部** | 🇺🇸 美国 宾夕法尼亚州 费城 (One Comcast Center, 1701 JFK Blvd, Philadelphia, PA) |
+| **奠基创始人** | 拉尔夫·J·罗伯茨 (Ralph J. Roberts, 1920–2015)、丹尼尔·亚伦 (Daniel Aaron)、朱利安·布罗茨基 (Julian A. Brodsky) |
+| **现任掌门人** | 布莱恩·L·罗伯茨 (Brian L. Roberts, 董事长兼首席执行官 / 创始人次子) |
+| **股票代码** | NASDAQ: `CMCSA` (标普500指数与纳斯达克100指数核心成分股) |
+| **全球员工总数** | 约 186,000+ 人（涵盖网络通信工程师、好莱坞导演/制片人、主题公园运营专家与数字产品团队） |
+| **核心业务赛道** | 宽带连接与无线服务 (Xfinity)、影视传媒与流媒体 (NBCUniversal / Peacock)、好莱坞制片与发行 (Universal Pictures / DreamWorks / Illumination)、环球影城主题公园 (Universal Destinations)、欧洲卫星与付费电视 (Sky) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    CC["康卡斯特传媒与宽带帝国 (Comcast Corp.)"]
+    
+    CC --> CONN["1. 连接与平台基础设施 (Connectivity & Platforms)"]
+    CONN --> CONN1["Xfinity 宽带 (超 3200 万美国家庭千兆宽带网络)"]
+    CONN --> CONN2["Xfinity Mobile 移动通信 (超 650 万移动用户)"]
+    CONN --> CONN3["Comcast Business 企业级专线与安全互联"]
+    
+    CC --> NBC["2. NBC 环球传媒与流媒体 (Media & Streaming)"]
+    NBC --> NBC1["NBC 广播电视网 (全国新闻与今日秀)"]
+    NBC --> NBC2["Telemundo (全美最大西班牙语电视网)"]
+    NBC --> NBC3["Peacock 流媒体平台 (超 3400 万付费订阅用户)"]
+    NBC --> NBC4["USA Network / Bravo / CNBC / MSNBC 有线频道"]
+    
+    CC --> STUD["3. 影视与动画工作室 (Studios & IPs)"]
+    STUD --> STUD1["环球影业 (Universal Pictures: 奥本海默/侏罗纪世界/速度与激情)"]
+    STUD --> STUD2["照明娱乐 (Illumination: 小黄人/神偷奶爸/超级马力欧兄弟大电影)"]
+    STUD --> STUD3["梦工厂动画 (DreamWorks: 功夫熊猫/驯龙高手/史莱克)"]
+    
+    CC --> PARK["4. 环球影城与主题度假区 (Theme Parks & Destinations)"]
+    PARK --> PARK1["奥兰多环球度假区 (含新建 Epic Universe 超级园区)"]
+    PARK --> PARK2["好莱坞环球影城 / 日本大阪环球影城 / 北京环球度假区"]
+    
+    CC --> SKY["5. Sky 欧洲广播与宽带 (Sky Group)"]
+    SKY --> SKY1["英国、德国、意大利多频道付费电视与独家体育转播"]
+    SKY --> SKY2["Sky Glass 智能电视硬件与 Sky Broadband 宽带"]
+
+    classDef main fill:#000,stroke:#e51937,stroke-width:2px,color:#fff;
+    classDef branch fill:#1c1c1c,stroke:#00a3e0,stroke-width:1px,color:#fff;
+    classDef sub fill:#f9f9f9,stroke:#1c1c1c,stroke-width:1px,color:#000;
+    class CC main;
+    class CONN,NBC,STUD,PARK,SKY branch;
+    class CONN1,CONN2,CONN3,NBC1,NBC2,NBC3,NBC4,STUD1,STUD2,STUD3,PARK1,PARK2,SKY1,SKY2 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)
+
+### 1. 覆盖全美重度区域的最后几公里光纤同轴混合网 (HFC/DOCSIS 4.0)
+- **极高重置成本的物理管线**：康卡斯特拥有覆盖全美逾 6,000 万家庭的地下和电杆管网，通过升级 **DOCSIS 4.0** 架构，无需全量挖掘重新铺设光纤即可实现对称数千兆超低时延宽带，打造了行业最丰沛的自由现金流引擎。
+
+### 2. 全球顶级影视 IP 与全产业链变现终极闭环
+- **从大银幕到流媒体再到过山车**：旗下拥有环球影业、梦工厂与照明娱乐三大顶级制片厂，打造了《小黄人》《超级马力欧》《侏罗纪世界》《哈利波特园区》等享誉全球的超级 IP。
+- **全生命周期乘数效应**：一部全球大卖的院线电影，随后在 Peacock 流媒体收获订阅费，在 Sky 欧洲播放产生版权费，并在全球各大环球影城演化为排队数小时的超级游乐设施与衍生品销售，变现效率冠绝全球娱乐工业。
+
+### 3. 稳健保守的家族治理与跨周期并购整合力
+- **半个世纪未曾中断的战略定力**：罗伯茨家族通过超级投票权维持对公司的长期控制，历经数十年多次“蛇吞象”级超大规模并购（AT&T Broadband、NBCUniversal、Sky），每次均能迅速完成系统整合与债务去杠杆，展现了非凡的资本配置与执行力。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1963年**：拉尔夫·罗伯茨以 50 万美元收购密西西比州图珀洛一个拥有 1,200 个订户、5 个频道的社区有线天线电视系统（CATV）。
+- **1969年**：在宾州正式重组更名为 **Comcast Corporation**（将 Communication 与 Broadcast 融合命名）。
+- **1972年**：在纳斯达克成功挂牌上市（股票代码：CMCSA）。
+- **1986年**：收购 Group W Cable，订户数突破 100 万大关，跻身全美主要有线电视运营商行列。
+- **1997年**：微软公司创始人比尔·盖茨看好有线宽带未来，向康卡斯特战略注资 **10 亿美元**。
+- **2002年**：以 475 亿美元反向收购全美第一大电信公司旗下的 **AT&T Broadband**，订户规模一举突破 2,100 万，跃升为全美第一大有线宽带与电视帝国。
+- **2011-2013年**：完成从通用电气（GE）手中对百年好莱坞巨头 **NBCUniversal (NBC 环球)** 的 100% 全资收购，完成从“管线提供商”向“内容与媒体娱乐航母”的战略蜕变。
+- **2018年**：以 390 亿美元击败华特迪士尼，成功竞购英国最大的付费电视与广播运营商 **Sky**。
+- **2024-2026年**：康卡斯特年营业收入突破 1230 亿美元，奥兰多全新超级主题公园 **Epic Universe** 盛大开幕，宽带与文旅双轮驱动业绩创历史新高。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Values)
+
+1. **诚信为本 (Integrity & Respect)**：恪守对客户、员工、创作者和投资者的信诺，秉承绅士经商之道。
+2. **追求卓越品质 (Excellence in Everything)**：在宽带网络稳定性与好莱坞艺术创作中坚持最高水准。
+3. **推动创业创新 (Entrepreneurial Spirit)**：保持创业初期的敏捷嗅觉，敢于投资颠覆性未来科技与娱乐业态。
+4. **服务地方社区 (Giving Back to Communities)**：致力于消除全美数字鸿沟，通过“Internet Essentials”为数百万贫困家庭提供低成本宽带。

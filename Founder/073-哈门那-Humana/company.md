@@ -1,0 +1,89 @@
+# 哈门那公司 (Humana Inc.) —— 全球医保优势计划与整合型价值医疗巨头全景介绍
+
+> **《财富》世界500强排名：第 73 位**  
+> **年度营业收入：$129,664 百万美元（约 1296.6 亿美元）**  
+> **官方网站：[www.humana.com](https://www.humana.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 哈门那公司 (Humana Inc.) |
+| **成立时间** | 1961 年 8 月 18 日 (创立于美国肯塔基州路易斯维尔，原名 Heritage House) |
+| **全球总部** | 🇺🇸 美国 肯塔基州 路易斯维尔 (500 West Main Street, Louisville, KY) |
+| **联合创始人** | 大卫·A·琼斯 (David A. Jones Sr., 1931–2019) & 温德尔·切利 (Wendell Cherry, 1935–1991) |
+| **现任 CEO** | 吉姆·雷克托 (Jim Rechtin) / 董事会主席：库尔特·J·希尔津格 (Kurt J. Hilzinger) |
+| **股票代码** | NYSE: `HUM` (标普500指数成分股) |
+| **全球员工总数** | 约 67,000+ 人（涵盖注册护士、执业医师、精算师、健康管理师与数据科学家） |
+| **核心业务赛道** | 联邦医疗保险优势计划 (Medicare Advantage, MA)、CenterWell 整合初级诊疗与居家照护、老年慢性病健康管理、专科处方药管理与商业健康保险 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    HUM["哈门那医疗健康帝国 (Humana Inc.)"]
+    
+    HUM --> INS["1. 保险与支付端 (Insurance & Benefits)"]
+    INS --> INS1["联邦医保优势计划 (Medicare Advantage - 核心支柱)"]
+    INS --> INS2["Medicare 处方药 D 计划 (PDP 药险)"]
+    INS --> INS3["医疗补助计划 (Medicaid 州政府低保医保)"]
+    INS --> INS4["军人医疗保障计划 (TRICARE 军人与家属服务)"]
+    
+    HUM --> CW["2. CenterWell 价值医疗服务 (Healthcare Services)"]
+    CW --> CW1["CenterWell Senior Primary Care (老年专属初级诊疗中心)"]
+    CW --> CW2["CenterWell Home Health (全美最大居家医疗照护网络)"]
+    CW --> CW3["CenterWell Pharmacy (全美领先慢病与专科送药网络)"]
+    
+    HUM --> DATA["3. 数字化健康与预防医学 (Digital Health & Prevention)"]
+    DATA --> DATA1["Go365 行为健康激励与运动预防体系"]
+    DATA --> DATA2["慢性病 (糖尿病/心血管) AI 预警与远程监控"]
+    DATA --> DATA3["社交决定因素 (SDOH) 社区健康援助系统"]
+
+    classDef main fill:#78be20,stroke:#003b46,stroke-width:2px,color:#fff;
+    classDef branch fill:#00555a,stroke:#78be20,stroke-width:1px,color:#fff;
+    classDef sub fill:#f4f9f4,stroke:#00555a,stroke-width:1px,color:#000;
+    class HUM main;
+    class INS,CW,DATA branch;
+    class INS1,INS2,INS3,INS4,CW1,CW2,CW3,DATA1,DATA2,DATA3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)
+
+### 1. Medicare Advantage（联邦医保优势计划）的行业领跑者
+- **万亿美元老龄健康风口**：哈门那敏锐地抓住了美国战后婴儿潮一代全面跨入 65 岁老龄化社会的超级时代红利，拥有超 550 万名 Medicare Advantage 个人与团体会员，市场占有率常年稳居全美第二（仅次于联合健康）。
+- **极高星级评级体系 (CMS Star Ratings)**：依靠极致的客户服务与慢病管理质量，哈门那旗下绝大部分会员都处于 4 星级及以上的优质保单计划中，享受美国联邦医疗保险与医疗补助服务中心（CMS）发放的最高等级绩效返还与政策奖金。
+
+### 2. CenterWell：打通“医+险+药+居”的价值医疗闭环 (Value-Based Care)
+- **从治疗疾病到维护健康**：传统按项目付费（Fee-for-Service）鼓励医院多开药多做检查；哈门那通过 **CenterWell** 构建了价值导向医疗（Value-Based Care）体系。
+- **利益高度协同**：旗下拥有 300+ 家专门针对老年人的 CenterWell 诊所和覆盖全美 38 个州的 CenterWell Home Health 居家护理网络。医生与保司目标完全一致——通过日常精准预防和居家慢病管理，将老年患者的急诊住院率降低 20% 以上，实现“患者更健康、保司少赔付、医生获奖励”的多赢格局。
+
+### 3. 全生命周期的大数据智能风控与预防医学引擎
+- **Go365 与 SDOH 社区介入**：哈门那通过智能穿戴设备与大数据算法，对独居老人、行动不便患者的营养、心理、用药依从性进行全天候主动干预，在疾病恶化为重症前进行早筛早治，构筑了不可复制的精算与控费壁垒。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1961年**：年轻律师大卫·A·琼斯与温德尔·切利各出资 500 美元（共 1000 美元），在路易斯维尔创办名为 **Heritage House** 的单体疗养院。
+- **1968年**：更名为 Extendicare 并在纽交所成功上市，迅速扩张为全美最大的私营连锁养老院运营商。
+- **1972-1974年**：毅然卖掉全部养老院业务，转型进军急救与综合医院领域；1974年正式更名为 **Humana Inc.**。
+- **1980年代初**：Humana 成为全美规模最大、盈利能力最强的营利性综合医院集团；1984年全额赞助实施世界首例永久人工心脏（Jarvik-7）人体植入手术。
+- **1993年**：**商业史上的惊天断臂决断**：面对医院端与保险端的利益博弈，哈门那将旗下所有医院资产剥离成立独立公司 Galen Healthcare，全面转型为纯健康保险公司。
+- **2006年**：伴随美国《医疗保险现代化法案》(MMA) 实施，哈门那全面发力 Medicare Advantage 与 Part D 处方药计划，开启营收爆发式增长。
+- **2021年**：正式整合诊所、居家照护与药房服务，统一推出 **CenterWell** 价值医疗服务品牌。
+- **2024-2026年**：哈门那营业收入突破 1290 亿美元，稳居《财富》世界500强前80名，成为全球老龄化健康管理与整合医疗的标杆企业。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Values)
+
+1. **激发健康生活 (Inspire Health)**：以同理心与专业精神，陪伴每一位会员和家庭走向更健康、更幸福的长寿生活。
+2. **重塑关怀体验 (Cultivate Human Connection)**：视患者如亲人，倾听老年人最真实的身体与心理需求。
+3. **推动敏捷创新 (Rethink Routine)**：勇于颠覆传统医疗利益壁垒，通过科技与模式创新降低医疗成本。
+4. **恪守诚信与透明 (Shine With Integrity)**：在精算、理赔与医疗合作中坚持最高伦理标准。

@@ -1,0 +1,101 @@
+# 丰田汽车公司 (Toyota Motor Corporation) —— 全球汽车工业销量冠军与精益生产宗师全景介绍
+
+> **《财富》世界500强排名：第 14 位**  
+> **年度营业收入：$336,305 百万美元（约 3363 亿美元）**  
+> **全球汽车年销量：超 1100 万辆（连续多年蝉联全球汽车销量第一）**  
+> **官方网站：[global.toyota](https://global.toyota)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 丰田汽车公司 (Toyota Motor Corporation / トヨタ自動車株式会社) |
+| **成立时间** | 1937 年 8 月 28 日 (由丰田自动织机制作所汽车部分立) |
+| **全球总部** | 🇯🇵 日本 爱知县 丰田市 (Toyota City, Aichi Prefecture) |
+| **创始人** | 丰田喜一郎 (Kiichiro Toyoda) |
+| **现任会长/社长**| 丰田章男 (Akio Toyoda, 会长) / 佐藤恒治 (Koji Sato, 社长兼CEO) |
+| **股票代码** | TSE: `7203` / NYSE: `TM` |
+| **全球员工总数** | 约 **37.5+ 万人** |
+| **全球销售网络** | 业务覆盖全球 170 多个国家和地区，全球累计汽车产量突破 3 亿辆 |
+| **核心业务赛道** | 乘用车与商用车制造销售 (丰田 Toyota、雷克萨斯 Lexus、大发 Daihatsu、日野 Hino)、混合动力与氢能电驱动总成、车载互联与软件 (Arene OS)、未来智慧城市 (Woven City) |
+
+---
+
+## 🌐 核心业务矩阵与全球品牌版图 (Business Architecture)
+
+```mermaid
+graph TD
+    TOYOTA["丰田汽车集团 (Toyota Motor Corporation)"]
+    
+    TOYOTA --> MASS["1. 丰田大众乘用车体系 (Toyota Global)"]
+    MASS --> M1["全球神车卡罗拉 (Corolla - 累计销量破5000万辆)"]
+    MASS --> M2["中高级轿车凯美瑞 (Camry) / 亚洲龙 (Avalon)"]
+    MASS --> M3["SUV家族: RAV4 / 汉兰达 (Highlander) / 陆地巡洋舰 (Land Cruiser)"]
+    MASS --> M4["MPV标杆: 埃尔法 (Alphard) / 赛那 (Sienna)"]
+    
+    TOYOTA --> LEXUS["2. 雷克萨斯独立豪华品牌 (Lexus)"]
+    LEXUS --> L1["旗舰轿车与SUV (LS / LX / RX / ES)"]
+    LEXUS --> L2["极致静谧性、匠人造车工艺 (Takumi) 与五星客户服务"]
+    
+    TOYOTA --> SUB["3. 控股子品牌与战略同盟 (Affiliates & Alliances)"]
+    SUB --> S1["大发工业 (Daihatsu - 日本微型车 K-Car 领军者)"]
+    SUB --> S2["日野汽车 (Hino Motors - 重型商用卡车)"]
+    SUB --> S3["战略交叉持股生态: 斯巴鲁 (Subaru) / 铃木 (Suzuki) / 马自达 (Mazda)"]
+    
+    TOYOTA --> POWER["4. 全路径动力总成与新能源 (Multi-Pathway Powertrains)"]
+    POWER --> P1["智能电混双擎 THS (全球混动绝对霸主，累计销量超2500万辆)"]
+    POWER --> P2["氢燃料电池技术 (FCEV - Mirai 氢能轿车 / 氢能重卡系统)"]
+    POWER --> P3["固态电池与下一代高性能纯电 (BEV) 平台"]
+    
+    TOYOTA --> FUTURE["5. 未来出行与前沿智能 (Mobility & Software)"]
+    FUTURE --> F1["Woven Planet / Woven City 丰田未来智慧互联实验城市"]
+    FUTURE --> F2["GR 赛车运动部门 (TOYOTA GAZOO Racing)"]
+
+    classDef main fill:#eb0a1e,stroke:#202020,stroke-width:2px,color:#fff;
+    classDef branch fill:#58595b,stroke:#eb0a1e,stroke-width:1px,color:#fff;
+    classDef sub fill:#f5f5f5,stroke:#58595b,stroke-width:1px,color:#000;
+    class TOYOTA main;
+    class MASS,LEXUS,SUB,POWER,FUTURE branch;
+    class M1,M2,M3,M4,L1,L2,S1,S2,S3,P1,P2,P3,F1,F2 sub;
+```
+
+---
+
+## ⚡ 核心竞争护城河与精益之道 (Competitive Moats)
+
+### 1. 举世闻名的丰田生产方式 (Toyota Production System, TPS)
+- **准时化 (Just-In-Time, JIT)**：“只在需要的时候，按需要的量，生产需要的产品。”通过看板（Kanban）拉动式生产，将原料与在制品库存降至接近零。
+- **自働化 (Jidoka / 带人字旁的自动化)**：设备具备异常自动停机感知能力，赋予生产线每一名工人拉动“安灯拉绳 (Andon Cord)”暂停整条产线的权力，绝不让任何一件缺陷产品流向下道工序。
+- **精益生产的全球哲学**：TPS 成为全球现代工业（从电子制造到软件敏捷开发）争相效仿的管理圣经。
+
+### 2. 牢不可破的 QDR 质量神话与极高保值率
+- **QDR (Quality, Durability, Reliability)**：“车到山前必有路，有路必有丰田车。”极度苛刻的零部件耐用性测试与持续改善（Kaizen）循环，使得陆地巡洋舰、卡罗拉、海拉克斯（Hilux）成为全球最恶劣环境下的可靠性代名词，二手车残值率常年稳居全行业第一。
+
+### 3. THS 混动技术霸权与多路径低碳战略 (Multi-Pathway)
+- **行星齿轮动力分流天花板**：THS 混动系统通过精妙的行星齿轮机构，实现发动机与双电机的无级动力耦合，历经五代迭代，全球累计销量突破 2500 万辆，节油与耐用性无出其右。
+- **全方位技术路线储备**：坚持“混动 (HEV) + 插混 (PHEV) + 纯电 (BEV) + 氢燃料电池 (FCEV) + 氢内燃机”并进的多路径能源战略，在应对全球复杂多变的地缘与能源结构时展现出极强的抗风险能力。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1933-1937年**：丰田喜一郎在爱知县设立汽车部；1937 年正式成立**丰田自动车工业株式会社**。
+- **1950年**：战后爆发经营危机与大罢工，喜一郎辞职以保全公司；丰田英二与大野耐一确立 TPS 精益生产方式雏形。
+- **1957年**：丰田首款乘用车 Crown（皇冠）成功出口美国市场。
+- **1966年**：第一代**丰田卡罗拉 (Corolla)** 问世，成为全球累计销量突破 5000 万辆的“人类历史上最畅销单一车型”。
+- **1989年**：在北美正式推出独立豪华品牌**雷克萨斯 (Lexus)**，以 LS400 震撼欧美传统豪强。
+- **1997年**：全球首款量产混合动力轿车**普锐斯 (Prius)** 诞生，开辟全球节能汽车新纪元。
+- **2008年**：丰田全球销量首次超越美国通用汽车 (GM)，正式登顶全球第一大汽车制造商宝座。
+- **2009-2023年**：丰田章男掌舵，带领丰田渡过金融危机与“刹车门”召回风波，强化 GR 赛车运动激情与氢能前瞻布局。
+- **2024-2026年**：丰田全球年销量连续突破 1100 万辆，营业利润突破 5 万亿日元，全面加速全固态电池与软件定义汽车战略。
+
+---
+
+## 🎯 企业文化与丰田之道 (The Toyota Way)
+
+1. **造车先育人 (Monozukuri & Hitozukuri)**：制造产品的前提是培养具有敬业精神与专业素养的人才。
+2. **客户第一 (Customer First)**：销售店第一、制造厂第二；客户的信赖是丰田生存的唯一基石。
+3. **现场、现物、现实 (San-Gen Principle)**：不迷信会议室报告，管理者必须亲临第一线发现真因。
+4. **彻底消除七大浪费 (Muda Elimination)**：过量生产、等待、搬运、过度加工、库存、动作、制造缺陷皆为浪费。

@@ -1,0 +1,106 @@
+# 菲利普斯66公司 (Phillips 66) —— 全球综合能源下游与石化巨头全景介绍
+
+> **《财富》世界500强排名：第 61 位**  
+> **年度营业收入：$136,560 百万美元（约 1365.6 亿美元）**  
+> **官方网站：[www.phillips66.com](https://www.phillips66.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 菲利普斯66公司 (Phillips 66) |
+| **成立时间** | 1917 年（前身菲利普斯石油公司创立于俄克拉荷马州巴特尔斯维尔；2012 年自康菲石油分拆独立上市） |
+| **全球总部** | 🇺🇸 美国 德克萨斯州 休斯敦 (Houston, TX) |
+| **创始人** | 弗兰克·菲利普斯 (Frank Phillips) 与 L.E. 菲利普斯 (Lee Eldas Phillips) |
+| **现任 CEO** | 马克·拉希尔 (Mark E. Lashier) |
+| **股票代码** | NYSE: `PSX` (标普500指数成分股) |
+| **全球员工总数** | 约 14,000+ 人 |
+| **核心业务赛道** | 原油精炼加工 (Refining)、中游管道与天然气凝析液 (Midstream & NGL)、特种化学品 (CPChem 50/50合资)、成品油营销与特种润滑油 (Marketing & Specialties)、可再生低碳燃料 (Renewable Fuels) |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Architecture)
+
+```mermaid
+graph TD
+    PSX["菲利普斯66商业版图 (Phillips 66)"]
+    
+    PSX --> REF["1. 原油精炼 (Refining)"]
+    REF --> REF1["美湾与中西部13座高复杂度炼厂"]
+    REF --> REF2["原油加工能力超 220 万桶/日"]
+    REF --> REF3["高重质/含硫原油深度加氢裂化"]
+    REF --> REF4["欧洲英国 Humber 炼厂 (特种焦炭与SAF)"]
+    
+    PSX --> MID["2. 中游基础设施 (Midstream)"]
+    MID --> MID1["DCP Midstream 控股 (全美最大天然气采集加工之一)"]
+    MID --> MID2["超 72,000 英里输油与NGL管网"]
+    MID --> MID3["Sweeny 巨型天然气凝析液 (NGL) 分馏中心"]
+    MID --> MID4["Freeport 原油与深水出口码头"]
+    
+    PSX --> CHEM["3. 石油化工 (Chemicals - CPChem)"]
+    CHEM --> CHEM1["Chevron Phillips Chemical 50/50 顶级合资企业"]
+    CHEM --> CHEM2["全球乙烯/聚乙烯 (PE) 规模与低成本霸权"]
+    CHEM --> CHEM3["北美二叠纪低价乙烷原料裂解优势"]
+    CHEM --> CHEM4["Golden Triangle 石化超级扩产工程"]
+    
+    PSX --> MKT["4. 营销与特种产品 (Marketing & Specialties)"]
+    MKT --> MKT1["Phillips 66 / 76 / Conoco 三大零售品牌"]
+    MKT --> MKT2["全美与欧洲超 7,500 座加油服务网络"]
+    MKT --> MKT3["航空煤油与高品质工业车用润滑油 (Kendall/Shield)"]
+    REF --> REN["5. Rodeo Renewed 绿色低碳转型 (Renewable Fuels)"]
+    REN --> REN1["加州旧金山 Rodeo 炼厂彻底转型可再生燃料设施"]
+    REN --> REN2["年产超 8 亿加仑可再生柴油与可持续航空燃料 (SAF)"]
+
+    classDef main fill:#d81e05,stroke:#002244,stroke-width:2px,color:#fff;
+    classDef branch fill:#002244,stroke:#d81e05,stroke-width:1px,color:#fff;
+    classDef sub fill:#f5f5f5,stroke:#002244,stroke-width:1px,color:#000;
+    class PSX main;
+    class REF,MID,CHEM,MKT,REN branch;
+    class REF1,REF2,REF3,REF4,MID1,MID2,MID3,MID4,CHEM1,CHEM2,CHEM3,CHEM4,MKT1,MKT2,MKT3,REN1,REN2 sub;
+```
+
+---
+
+## ⚡ 核心竞争优势与行业护城河 (Moats & Strategic Strengths)
+
+### 1. 极具成本优势的高复杂度炼油一体化网络
+- **超强原料适配性**：Phillips 66 在全美及欧洲运营 13 座炼油厂，综合 Nelson 复杂度指数位居行业前列，能够高效吃进重质劣质原油、加拿大油砂合成原油（WCS）以及二叠纪轻质页岩油（WTI），凭借灵活的调配能力获取显著的原油裂解价差（Crack Spread）溢价。
+- **全美中西部与墨西哥湾枢纽联动**：炼厂紧邻北美输油管道核心节点（如库欣 Cushing 及美湾沿海），实现原油进厂成本最小化与成品油分销利润最大化。
+
+### 2. 全球石化航母 CPChem 的原料护城河 (50/50 Joint Venture)
+- 与雪佛龙（Chevron）对半合资组建的 **雪佛龙菲利普斯化工 (CPChem)**，是全球乙烯、聚乙烯、α-烯烃及芳烃领域的领头羊。
+- 依托北美页岩革命带来的极低成本天然气凝析液（乙烷 Ethane），CPChem 相比以高价石脑油为原料的欧亚石化同行拥有碾压级的现金成本优势与超周期抗风险能力。
+
+### 3. 中游全产业链整合与 DCP Midstream 控制力
+- 完成对 **DCP Midstream** 的控股整合后，Phillips 66 掌控了北美最庞大的天然气采集、加工、NGL 运输及分馏网络之一。
+- 形成了从二叠纪盆地井口采气、NGL 管道输送、Sweeny 分馏中心制成乙烷/丙烷，再直接管道直供 CPChem 石化装置或出口海外的“自闭环超长价值链”。
+
+### 4. Rodeo Renewed：全球规模领先的可再生燃料先锋转型
+- 投资超过 10 亿美元将加州旧金山湾区的 Rodeo 传统炼油厂彻底改造为全球最大的可再生燃料生产基地之一（**Rodeo Renewed**），利用废弃食用油、动物脂肪和大豆油生产可再生柴油与可持续航空燃料（SAF），日产量达 5 万桶以上，大幅降低碳排放生命周期足迹并精准享受低碳法规补贴。
+
+---
+
+## 📈 历史关键里程碑 (Historical Milestones)
+
+- **1917年**：弗兰克·菲利普斯与弟弟 L.E. 菲利普斯在俄克拉荷马州巴特尔斯维尔创办**菲利普斯石油公司 (Phillips Petroleum Company)**。
+- **1927年**：在 66 号公路上进行新型汽油路测，跑出 66 英里/小时的时速，正式确立 **“Phillips 66”** 传奇盾牌商标，并在堪萨斯州开设首家品牌加油站。
+- **1940-1944年**：发明先锋高辛烷值（100辛烷值）航空汽油提炼技术与烷基化工艺，为二战盟军皇家空军在不列颠空战及对德空战中击败轴心国战机提供核心动力保障。
+- **1951年**：菲利普斯化学家发明革命性塑料聚乙烯生产工艺（Marlex 树脂），奠定现代塑料包装、管道与容器工业基石。
+- **2000年**：菲利普斯与雪佛龙合并化学品业务，联合创立全球石化巨擘 **CPChem (Chevron Phillips Chemical)**。
+- **2002年**：菲利普斯石油与康菲公司 (Conoco Inc.) 达成世纪对等合并，组建全美第三大一体化能源巨头**康菲石油 (ConocoPhillips)**。
+- **2012年5月1日**：康菲石油正式实施历史性战略拆分，上游油气勘探开采业务保留在 ConocoPhillips，而下游炼油、中游物流、石化与营销业务独立拆分重组为全新上市公司——**菲利普斯66 (Phillips 66, NYSE: PSX)**。
+- **2023-2024年**：斥资 38 亿美元完成对 DCP Midstream 的全面私有化整合；加州 Rodeo 炼油厂全面完成可再生柴油巨型转型改造。
+- **2024-2026年**：稳居《财富》世界500强前列（Rank #61），年营业收入跨越 1360 亿美元，加速推进低碳与特种高价值能源转型。
+
+---
+
+## 🎯 企业文化与核心价值观 (Core Values)
+
+Phillips 66 秉承 **“提供能源，改善生活 (Providing Energy. Improving Lives.)”** 的企业使命，恪守四大基石价值观：
+
+1. **安全第一 (Safety)**：坚持零伤亡、零事故的最高操作规范与工艺安全管理体系。
+2. **恪守诚信 (Honor)**：在商业合作、环境保护与财报披露中保持毫不动摇的道德透明与守诺。
+3. **追求卓越 (Excellence)**：对炼厂开工率、能效管理、物流优化与资本回报率追求极致工业标准。
+4. **携手承诺 (Commitment)**：对员工福祉、多元包容社区建设与全球低碳能源过渡承担坚定责任。

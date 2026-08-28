@@ -1,0 +1,98 @@
+# 雀巢公司 (Nestlé S.A.) —— 全球第一大食品饮料与营养健康帝国全景介绍
+
+> **《财富》世界500强排名：第 93 位**  
+> **企业愿景：Good food, Good life (优质食品，美好生活)**  
+> **官方网站：[www.nestle.com](https://www.nestle.com)**
+
+---
+
+## 🏢 企业基本信息 (Corporate Snapshot)
+
+| 维度 | 详细信息 |
+| :--- | :--- |
+| **公司全称** | 雀巢公司 (Nestlé S.A.) |
+| **成立时间** | 1866 年（英美炼乳成立） / 1867 年（亨利·雀巢发明麦乳精） / 1905 年合并 |
+| **全球总部** | 🇨🇭 瑞士 沃州 沃韦 (Vevey, Vaud, Switzerland) |
+| **创始人** | 亨利·雀巢 (Henri Nestlé) & 查尔斯与乔治·佩奇兄弟 (Charles & George Page) |
+| **现任 CEO** | 洛朗·弗雷谢 (Laurent Freixe) / 董事长：保罗·薄凯 (Paul Bulcke) |
+| **股票代码** | SIX: `NESN` (瑞士证券交易所市值最大蓝筹股之一) / OTC: `NSRGY` |
+| **全球员工总数** | 约 27+ 万人（在 70 多个国家建有近 400 家先进工厂） |
+| **核心业务赛道** | 咖啡与冲调饮品、宠物食品与护理、专业婴幼儿与特医营养科学、乳制品与冰淇淋、预制食品与调味品、糖果巧克力、高端包装水 |
+
+---
+
+## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
+
+```mermaid
+graph TD
+    NESTLE["雀巢食品与营养帝国 (Nestlé S.A.)"]
+    
+    NESTLE --> BEV["1. 咖啡与饮品 (Liquid & Powder Beverages)"]
+    BEV --> BEV1["速溶与即饮咖啡: 雀巢咖啡 (Nescafé)"]
+    BEV --> BEV2["高端胶囊咖啡系统: Nespresso (浓遇咖啡) & 星巴克家享咖啡零售合作"]
+    BEV --> BEV3["可可与麦芽冲饮: 美禄 (Milo) & Nesquik"]
+    
+    NESTLE --> PET["2. 宠物护理与食品 (Purina PetCare)"]
+    PET --> PET1["高端科学配方粮: 冠能 (Pro Plan)"]
+    PET --> PET2["大众主流宠物粮: 喜跃 (Friskies) & 康多乐 (Dog Chow)"]
+    PET --> PET3["猫砂与专业兽医处方粮: 珍致 (Fancy Feast) & Purina ONE"]
+    
+    NESTLE --> NUTR["3. 营养与健康科学 (Nutrition & Health Science)"]
+    NUTR --> NUTR1["母婴营养: 雀巢能恩 (NAN)、惠氏启赋 (illuma)、嘉宝 (Gerber)"]
+    NUTR --> NUTR2["特医食品与临床营养: 雀巢健康科学 (Nestlé Health Science)"]
+    NUTR --> NUTR3["膳食营养补充剂: 健安喜 (Nature's Bounty)、Solgar"]
+    
+    NESTLE --> FOOD["4. 预制食品与烹饪调味 (Prepared Dishes & Cooking Aids)"]
+    FOOD --> FOOD1["全球调味品与方便速食: 美极 (Maggi)"]
+    FOOD --> FOOD2["冷冻预制食品: Stouffer's、Lean Cuisine、Buitoni"]
+    
+    NESTLE --> MILK["5. 乳制品、冰淇淋与糖果 (Dairy, Ice Cream & Confectionery)"]
+    MILK --> MILK1["乳制品: 鹰唛炼乳 (Eagle Brand/Milkmaid)、雀巢全脂奶粉 (Nido)"]
+    MILK --> MILK2["巧克力与糖果: 奇巧 (KitKat)、Smarties、Crunch、徐福记 (Hsu Fu Chi)"]
+    MILK --> MILK3["冰淇淋: 莫凡彼 (Mövenpick)、德雷尔 (Dreyer's / Froneri合资)"]
+
+    classDef main fill:#592c82,stroke:#000,stroke-width:2px,color:#fff;
+    classDef branch fill:#003366,stroke:#592c82,stroke-width:1px,color:#fff;
+    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
+    class NESTLE main;
+    class BEV,PET,NUTR,FOOD,MILK branch;
+    class BEV1,BEV2,BEV3,PET1,PET2,PET3,NUTR1,NUTR2,NUTR3,FOOD1,FOOD2,MILK1,MILK2,MILK3 sub;
+```
+
+---
+
+## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)
+
+### 1. 全球超 2000 个品牌矩阵与无死角渠道毛细血管 (Global 2000+ Brands & Reach)
+- 雀巢拥有涵盖 2000 多个全球及区域强势品牌的庞大矩阵，其中年销售额超过 10 亿瑞士法郎的“超级十亿美元品牌”多达 30 余个（如 Nescafé、Nespresso、Purina、Maggi、KitKat 等）。
+- 雀巢的产品销往全球 **188 个国家**，无论是欧美高端精品超市、中东传统市集还是非洲乡村夫妻店，雀巢构建了无所不在的全球分销物流网络。
+
+### 2. 雀巢洛桑研发中枢与食品生命科学研发底蕴 (Nestlé Research & Science)
+- 雀巢每年研发投入超过 17 亿瑞士法郎，在瑞士洛桑拥有全球食品行业规模最大的科研中心（Nestlé Research），拥有全球 4000 多名科学家与食品营养学家。
+- 研发覆盖从分子级营养学、肠道微生物菌群、低糖低钠重构技术到细胞农业与特种医疗用途配方食品（FSMP），构筑了竞品难以企及的技术专利与医学临床壁垒。
+
+### 3. 卓越的全球抗周期韧性与品类平衡机制 (All-Weather Consumer Resilience)
+- 雀巢的产品组合兼顾“高频大众刚需”（奶粉、速食面、调味品）与“高毛利消费升级”（Nespresso 胶囊咖啡、Purina 专业高端宠粮、特医临床营养品），具备极其强悍的跨越经济衰退周期的抗通胀与抗波动能力。
+
+---
+
+## 📈 历史里程碑年表 (Historical Milestones)
+
+- **1866年**：美国人查尔斯与乔治·佩奇兄弟在瑞士卡姆创立**英美炼乳公司 (Anglo-Swiss Condensed Milk Co.)**，建立欧洲首家现代炼乳厂。
+- **1867年**：瑞士药剂师**亨利·雀巢 (Henri Nestlé)** 在沃韦发明世界上第一种基于牛奶与谷物的婴儿麦乳精 (Farine Lactée)，成功救活早产儿。
+- **1905年**：雀巢公司与英美炼乳公司正式达成平等合并，诞生了现代**雀巢英美炼乳公司 (Nestlé and Anglo-Swiss)**。
+- **1938年**：雀巢首席化学家马克思·莫根特尔研发成功可溶性固态咖啡粉，划时代产品**雀巢咖啡 (Nescafé)** 正式上市并迅速风靡全球。
+- **1947年**：收购瑞士著名调味品与汤料先驱**美极 (Alimentana S.A. / Maggi)**，极大地丰富了主食与烹饪产品线。
+- **1986年**：推出高端意式浓缩胶囊咖啡系统 **Nespresso (浓遇咖啡)**，彻底颠覆全球高端家用咖啡体验。
+- **2001年**：以 103 亿美元斥巨资收购美国著名宠物食品巨头**罗尔斯顿·普瑞纳 (Ralston Purina)**，一举奠定全球宠物食品龙头地位。
+- **2012年**：以 118.5 亿美元收购辉瑞旗下的**惠氏营养品 (Wyeth Nutrition)**，大幅强化在新兴市场特别是中国的高端母婴营养优势。
+- **2018年**：以 71.5 亿美元与**星巴克 (Starbucks)** 达成全球咖啡联盟，获得星巴克包装消费品在零售和餐饮渠道的永久独家全球销售权。
+- **2024-2026年**：全面推进“优质食品，美好生活”与高增长健康科学战略，年营收突破 900 亿瑞士法郎，持续领跑《财富》世界500强食品饮料行业第一。
+
+---
+
+## 🎯 企业文化与核心价值观 (Corporate Culture)
+
+1. **Good food, Good life（优质食品，美好生活）**：坚信食物不仅是维系生命的卡路里，更是提升人类健康、幸福与生命质量的核心媒介。
+2. **创造共享价值 (Creating Shared Value, CSV)**：雀巢提出著名的 CSV 战略，强调企业创造的商业价值必须与种植农户、供应商社区以及全球消费者的环境福祉紧密相连（如雀巢咖啡可持续农业培育计划）。
+3. **长期主义与文化包容**：雀巢尊重每一个国家和民族的本土饮食文化，坚持“全球思考，本地行动 (Think Globally, Act Locally)”，绝不在全球强推单一僵化产品。
