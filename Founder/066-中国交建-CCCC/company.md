@@ -24,39 +24,6 @@
 
 ## 🌐 核心业务矩阵与超级工程版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CCCC["中国交通建设集团有限公司 (CCCC)"]
-    
-    CCCC --> BRG["1. 超级桥梁与公路隧道 (Bridges & Tunnels)"]
-    BRG --> BRG1["港珠澳大桥 (世界最长跨海大桥与最长沉管隧道)"]
-    BRG --> BRG2["深中通道 (超大跨径悬索桥与双向八车道钢壳沉管)"]
-    BRG --> BRG3["杭州湾跨海大桥 & 贵州北盘江大桥等高山峡谷天堑"]
-    BRG --> BRG4["高等级高速公路与国家综合立体交通网设计建造"]
-    
-    CCCC --> PORT["2. 港口水运与深海工程 (Ports & Waterways)"]
-    PORT --> PORT1["洋山深水港四期 (全球规模最大全自动化集装箱码头)"]
-    PORT --> PORT2["天津港、舟山港、广州南沙港等超大型沿海枢纽港"]
-    PORT --> PORT3["长江黄金水道与平陆运河跨流域世纪通航运河工程"]
-    
-    CCCC --> DRG["3. 疏浚造陆与大国重器 (Dredging & Heavy Equipment)"]
-    DRG --> DRG1["天鲲号 / 天鲸号 (亚洲最强重型自航绞吸吹填挖泥船)"]
-    DRG --> DRG2["振华重工 (ZPMC, 全球港口集装箱起重机市场份额超70%)"]
-    DRG --> DRG3["海上风电巨型安装船、深海铺管船与超级打桩船"]
-    
-    CCCC --> BRI["4. 一带一路全球出海旗舰 (Global / Belt & Road)"]
-    BRI --> BRI1["肯尼亚蒙内铁路 (标准轨现代化铁路全产业链出海)"]
-    BRI --> BRI2["斯里兰卡科伦坡港口城 (填海造城超级国际金融城)"]
-    BRI --> BRI3["巴基斯坦瓜达尔港 & 马来西亚东海岸铁路 (ECRL)"]
-
-    classDef main fill:#003366,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#e60012,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4f8,stroke:#003366,stroke-width:1px,color:#000;
-    class CCCC main;
-    class BRG,PORT,DRG,BRI branch;
-    class BRG1,BRG2,BRG3,BRG4,PORT1,PORT2,PORT3,DRG1,DRG2,DRG3,BRI1,BRI2,BRI3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与大国重器护城河 (Strategic Moats)

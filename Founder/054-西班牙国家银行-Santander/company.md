@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    SAN["西班牙国家银行 (Banco Santander, S.A.)"]
-    
-    SAN --> EUR["1. 欧洲零售与商业银行 (Europe Hub)"]
-    EUR --> EUR1["西班牙本土核心业务 (Banco Santander España)"]
-    EUR --> EUR2["英国桑坦德 (Santander UK: 全英主要抵押贷款与商业银行)"]
-    EUR --> EUR3["葡萄牙与波兰零售银行业务 (Santander Portugal & Poland)"]
-    
-    SAN --> LATAM["2. 拉丁美洲跨大西洋核心支柱 (South America & Mexico)"]
-    LATAM --> L1["桑坦德巴西 (Santander Brasil: 巴西领先的私营全牌照银行)"]
-    LATAM --> L2["桑坦德墨西哥 (Santander Mexico: 跨国制造与商业融资枢纽)"]
-    LATAM --> L3["智利 / 阿根廷 / 乌拉圭 区域领先零售金融网点"]
-    
-    SAN --> US["3. 北美与汽车金融 (North America & Auto)"]
-    US --> US1["桑坦德美国 (Santander US: 零售银行与高收益消费信贷)"]
-    US --> US2["Santander Consumer Finance (欧洲第一大汽车消费金融网络)"]
-    
-    SAN --> SCIB["4. 跨国企业与全球投资银行 (Santander CIB)"]
-    SCIB --> CIB1["跨国大宗商品贸易融资与全球外汇清算"]
-    SCIB --> CIB2["全球绿色能源转型与基础设施项目银团贷款"]
-    
-    SAN --> DIG["5. 数字化平台与支付科技 (Digital & PagoNxt)"]
-    DIG --> D1["PagoNxt (全球商户收单/跨境贸易快汇 Getnet/PagoFX)"]
-    DIG --> D2["Openbank (全云端架构纯数字银行，拓展欧美年轻客群)"]
-
-    classDef main fill:#ec0000,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#2d3748,stroke:#ec0000,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff5f5,stroke:#333,stroke-width:1px,color:#000;
-    class SAN main;
-    class EUR,LATAM,US,SCIB,DIG branch;
-    class EUR1,EUR2,EUR3,L1,L2,L3,US1,US2,CIB1,CIB2,D1,D2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

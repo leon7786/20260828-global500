@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与 14 大品牌版图 (Brand Architecture)
 
-```mermaid
-graph TD
-    STLA["Stellantis 汽车帝国 (Stellantis N.V.)"]
-    
-    STLA --> NA["1. 美系标志性品牌 (North American Titans)"]
-    NA --> NA1["Jeep: 全球传奇越野与高端SUV领航者"]
-    NA --> NA2["Ram: 强悍全尺寸皮卡与重载商用车"]
-    NA --> NA3["Dodge & Chrysler: 美式肌肉车与家庭出行"]
-    
-    STLA --> IT["2. 意系豪华与动感 (Italian Heritage)"]
-    IT --> IT1["Maserati (玛莎拉蒂): 超豪华GT跑车与SUV"]
-    IT --> IT2["Alfa Romeo (阿尔法·罗密欧): 赛道基因运动豪华"]
-    IT --> IT3["Fiat & Abarth (菲亚特): 意式国民精品车与小钢炮"]
-    IT --> IT4["Lancia (蓝旗亚): 意式高端优雅复兴"]
-    
-    STLA --> EU["3. 法德主流与先锋 (French & German Core)"]
-    EU --> EU1["Peugeot (标致): 动感驾趣与法式先锋设计"]
-    EU --> EU2["Citroën (雪铁龙): 极致舒适与创新家庭用车"]
-    EU --> EU3["DS Automobiles: 法式法式高定时装奢华理念"]
-    EU --> EU4["Opel & Vauxhall (欧宝): 德国精工与实用科技"]
-    
-    STLA --> TECH["4. 全球平台与未来科技 (Tech & Platforms)"]
-    TECH --> TECH1["四大纯电架构 (STLA Small, Medium, Large, Frame)"]
-    TECH --> TECH2["三大软件平台 (STLA Brain, SmartCockpit, AutoDrive)"]
-    TECH --> TECH3["零跑国际 (Leapmotor International) 全球反向合资"]
-
-    classDef main fill:#0b2341,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#00a3e0,stroke:#0b2341,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#0b2341,stroke-width:1px,color:#000;
-    class STLA main;
-    class NA,IT,EU,TECH branch;
-    class NA1,NA2,NA3,IT1,IT2,IT3,IT4,EU1,EU2,EU3,EU4,TECH1,TECH2,TECH3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

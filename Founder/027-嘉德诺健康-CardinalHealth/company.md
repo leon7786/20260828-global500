@@ -23,30 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CAH["嘉德诺健康商业帝国 (Cardinal Health)"]
-    
-    CAH --> PHARM["1. 药品与特种药分销 (Pharmaceutical & Specialty)"]
-    PHARM --> DRUG["处方药、仿制药与非处方药每日极速配送"]
-    PHARM --> SPEC["特种药与罕见病/肿瘤药品全流程冷链解决方案"]
-    PHARM --> NUCLEAR["全美最大核药房网络 (Nuclear & Precision Health 130+ 站点)"]
-    PHARM --> OUTCOMES["Outcomes 药房数字化与患者依从性管理系统"]
-    
-    CAH --> MED["2. 全球医疗产品与器械制造 (Global Medical Products GMPD)"]
-    MED --> SURG["Cardinal Health 品牌手术衣、无菌铺单、医用手套与麻醉耗材"]
-    MED --> WOUND["先进伤口护理、负压引流与静脉加压抗血栓泵 (Kangaroo / Kendall)"]
-    MED --> LAB["临床检验试剂与实验室全流程耗材分销"]
-    MED --> LOGIS["全美医院手术室无缝自动化耗材智能柜补给系统 (WaveMark RFID)"]
-
-    classDef main fill:#990000,stroke:#333,stroke-width:2px,color:#fff;
-    classDef branch fill:#cc0000,stroke:#990000,stroke-width:1px,color:#fff;
-    classDef sub fill:#fdfbfb,stroke:#990000,stroke-width:1px,color:#000;
-    class CAH main;
-    class PHARM,MED branch;
-    class DRUG,SPEC,NUCLEAR,OUTCOMES,SURG,WOUND,LAB,LOGIS sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

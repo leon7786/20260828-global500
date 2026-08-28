@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CVX["雪佛龙全球综合能源帝国 (Chevron Corporation)"]
-    
-    CVX --> UP["1. 优质上游油气资产 (Upstream Advantage)"]
-    UP --> UP1["美国二叠纪盆地 (Permian Basin: 极低完全成本超大规模页岩油)"]
-    UP --> UP2["哈萨克斯坦合资公司 (TCO 田吉兹油田超大型扩建工程 FGP)"]
-    UP --> UP3["澳大利亚超级液化天然气 (Gorgon & Wheatstone LNG 项目)"]
-    UP --> UP4["墨西哥湾与西非超深水深海盐下勘探开采"]
-    UP --> UP5["兼并赫斯 (Hess) 资产: 圭亚那超百亿桶近海世界级特大油田"]
-    
-    CVX --> DOWN["2. 下游炼化与全球品牌营销 (Downstream & Retail)"]
-    DOWN --> DOWN1["北美及全球大型一体化现代化炼油中心 (加州/德州/密西西比)"]
-    DOWN --> DOWN2["三大全球金字招牌零售站: Chevron (含 Techron 清洁剂), Texaco, Caltex"]
-    DOWN --> DOWN3["奥伦耐 (Oronite): 全球顶尖燃油添加剂与特种润滑油添加剂研发"]
-    
-    CVX --> CHEM["3. 国际化工巨擘 (Petrochemicals - CPChem)"]
-    CHEM --> CHEM1["雪佛龙菲利普斯化工 (CPChem): 全球领先的乙烯、聚乙烯与芳烃制造"]
-    
-    CVX --> NEW["4. 新能源与低碳科技 (New Energies)"]
-    NEW --> NEW1["全球最大商业化 CCUS 碳捕集工程之一 (Gorgon 碳封存)"]
-    NEW --> NEW2["可再生柴油 (Renewable Energy Group REG 并购整合) 与绿氢试点"]
-
-    classDef main fill:#00396b,stroke:#009ddc,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#009ddc,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f7fb,stroke:#002244,stroke-width:1px,color:#000;
-    class CVX main;
-    class UP,DOWN,CHEM,NEW branch;
-    class UP1,UP2,UP3,UP4,UP5,DOWN1,DOWN2,DOWN3,CHEM1,NEW1,NEW2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

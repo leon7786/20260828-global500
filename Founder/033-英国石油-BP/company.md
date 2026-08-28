@@ -24,39 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    BP["BP 全球综合能源生态 (BP p.l.c.)"]
-    
-    BP --> UP["1. 优质上游油气业务 (resilient hydrocarbons)"]
-    UP --> UP1["墨西哥湾深水超深水油气资产 (Thunder Horse/Mad Dog/Argos)"]
-    UP --> UP2["英国北海与挪威近海成熟油气田"]
-    UP --> UP3["阿塞拜疆里海油气走廊 (ACG / Shah Deniz)"]
-    UP --> UP4["中东阿联酋/伊拉克及全球液化天然气 (LNG) 资产"]
-    
-    BP --> DOWN["2. 客户与产品终端 (Customers & Products)"]
-    DOWN --> DOWN1["全球 20,000+ 座品牌加油及便利充电服务站 (bp connect)"]
-    DOWN --> DOWN2["嘉实多 (Castrol): 百年全球顶级润滑油与热管理流体霸主"]
-    DOWN --> DOWN3["Air bp: 全球领先的航空燃油与可持续航空燃料 (SAF) 供应"]
-    
-    BP --> TRANS["3. 低碳转型与新能源 (Transition Growth Engines)"]
-    TRANS --> TRANS1["bp pulse: 全球超高速电动汽车公共充电桩网络 (覆盖英美欧中)"]
-    TRANS --> TRANS2["生物能源 (Bioenergy): 生物柴油、生物天然气与农业废弃物提纯"]
-    TRANS --> TRANS3["氢能与碳捕集 (Hydrogen & CCUS): 工业级绿氢与蓝氢工程"]
-    TRANS --> TRANS4["可再生电力: 控股全美最大光伏开发商之一 Lightsource bp 与海上风电"]
-    
-    BP --> IST["4. 综合供需与大宗贸易 (Supply & Trading, IST)"]
-    IST --> IST1["全球最大的物理石油与天然气现货/期货大宗交易套利中心之一"]
-    IST --> IST2["跨区域、跨季节、跨品种能源衍生品精准风险对冲"]
-
-    classDef main fill:#007a3d,stroke:#ffcc00,stroke-width:2px,color:#fff;
-    classDef branch fill:#004b23,stroke:#ffcc00,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4fbf4,stroke:#004b23,stroke-width:1px,color:#000;
-    class BP main;
-    class UP,DOWN,TRANS,IST branch;
-    class UP1,UP2,UP3,UP4,DOWN1,DOWN2,DOWN3,TRANS1,TRANS2,TRANS3,TRANS4,IST1,IST2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

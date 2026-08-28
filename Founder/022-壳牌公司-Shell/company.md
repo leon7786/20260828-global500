@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    SHELL["壳牌全球能源帝国 (Shell plc)"]
-    
-    SHELL --> GAS["1. 综合天然气与液化天然气 (Integrated Gas & LNG)"]
-    GAS --> LNG1["全球最大私营 LNG 贸易商 (年销量超6500万吨)"]
-    GAS --> LNG2["Prelude FLNG 全球最大海上浮式天然气装置"]
-    GAS --> LNG3["卡塔尔、尼日利亚、澳大利亚巨型液化气项目"]
-    
-    SHELL --> UP["2. 上游石油开采 (Upstream Deepwater)"]
-    UP --> UP1["墨西哥湾深水油田 (Whale, Vito 等超级平台)"]
-    UP --> UP2["巴西盐下超深水盆地 (Santos Basin)"]
-    UP --> UP3["北海与西非海上油气资产"]
-    
-    SHELL --> DOWN["3. 下游与市场营销 (Downstream & Marketing)"]
-    DOWN --> RET["全球最大能源零售网络 (46,000+ 座加油与充电站)"]
-    DOWN --> LUB["Shell Lubricants 连续十余年全球第一润滑油供应商"]
-    DOWN --> CHEM["高品质石化聚合物与绿色化学品"]
-    
-    SHELL --> REN["4. 可再生与低碳能源 (Renewables & Energy Solutions)"]
-    REN --> WIND["海上与陆上风电 / 工业绿氢项目 (Refhyne)"]
-    REN --> EV["Shell Recharge 全球超充网络"]
-    REN --> CCS["碳捕集与封存技术 (Quest / Northern Lights)"]
-
-    classDef main fill:#dd1d21,stroke:#ffcf00,stroke-width:2px,color:#fff;
-    classDef branch fill:#ffcf00,stroke:#dd1d21,stroke-width:1px,color:#000;
-    classDef sub fill:#f9f9f9,stroke:#dd1d21,stroke-width:1px,color:#000;
-    class SHELL main;
-    class GAS,UP,DOWN,REN branch;
-    class LNG1,LNG2,LNG3,UP1,UP2,UP3,RET,LUB,CHEM,WIND,EV,CCS sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

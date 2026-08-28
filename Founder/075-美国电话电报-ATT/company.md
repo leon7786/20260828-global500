@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    ATT["AT&T 通信帝国 (AT&T Inc.)"]
-    
-    ATT --> MOB["1. 5G 无线通信业务 (AT&T Mobility)"]
-    MOB --> MOB1["后付费/预付费手机套餐 (超7100万后付费用户)"]
-    MOB --> MOB2["5G C波段与中频超高速网络覆盖"]
-    MOB --> MOB3["FirstNet 全美公共安全第一响应者专属网络"]
-    MOB --> MOB4["车联网与万物互联 (IoT 蜂窝连接超1.3亿)"]
-    
-    ATT --> FIBER["2. 消费者光纤与宽带 (Consumer Wireline)"]
-    FIBER --> FIBER1["AT&T Fiber 千兆全光纤入户 (覆盖超2600万家庭)"]
-    FIBER --> FIBER2["对称千兆与多千兆宽带 (2Gbps / 5Gbps)"]
-    FIBER --> FIBER3["Wi-Fi 7 智能全屋家庭网关与安全套件"]
-    
-    ATT --> BIZ["3. 企业级网络与云专网 (Business Wireline)"]
-    BIZ --> BIZ1["跨国企业专线 (Dedicated Internet & MPLS)"]
-    BIZ --> BIZ2["安全访问服务边缘 (SASE) 与零信任网络安全"]
-    BIZ --> BIZ3["多云直连 (AWS/Azure Direct Connect)"]
-    
-    ATT --> INT["4. 国际与基础连接设施 (International & Infra)"]
-    INT --> INT1["AT&T Mexico 移动网络 (超2200万墨西哥用户)"]
-    INT --> INT2["全美长途骨干光纤海缆与边缘数据中心节点"]
-
-    classDef main fill:#009fdb,stroke:#0568ae,stroke-width:2px,color:#fff;
-    classDef branch fill:#0568ae,stroke:#009fdb,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f9ff,stroke:#0568ae,stroke-width:1px,color:#000;
-    class ATT main;
-    class MOB,FIBER,BIZ,INT branch;
-    class MOB1,MOB2,MOB3,MOB4,FIBER1,FIBER2,FIBER3,BIZ1,BIZ2,BIZ3,INT1,INT2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

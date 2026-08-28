@@ -22,36 +22,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    PA["中国平安万亿商业版图 (Ping An Group)"]
-    
-    PA --> INS["1. 核心保险主业 (Insurance Core)"]
-    INS --> INS1["平安人寿 (Ping An Life: 高质量寿险改革与大病保障)"]
-    INS --> INS2["平安产险 (Ping An P&C: 智能车险/农险/责任险)"]
-    INS --> INS3["平安健康险与养老险 (企业年金/第三支柱养老)"]
-    
-    PA --> BANK["2. 综合银行业务 (Ping An Bank, 000001.SZ)"]
-    BANK --> BANK1["零售转型领跑者 (数字化信用卡/口袋银行APP)"]
-    BANK --> BANK2["产业金融与综合对公信贷协同"]
-    
-    PA --> AMC["3. 资产管理与投资 (Asset Management)"]
-    PA --> AMC1["平安资管 (受托万亿资产大类配置)"]
-    PA --> AMC2["平安信托 & 平安证券 (财富管理与投行服务)"]
-    
-    PA --> HLT["4. 医疗养老第二增长曲线 (Healthcare & Senior Care)"]
-    HLT --> HLT1["平安好医生 (Ping An Health, 1833.HK: 在线问诊/家庭医生)"]
-    HLT --> HLT2["居家养老闭环 (1+N 远程管家与居家适老化改造)"]
-    HLT --> HLT3["臻颐年高端康养社区与北大医疗产业集团"]
-
-    classDef main fill:#eb6100,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#eb6100,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class PA main;
-    class INS,BANK,AMC,HLT branch;
-    class INS1,INS2,INS3,BANK1,BANK2,AMC1,AMC2,HLT1,HLT2,HLT3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

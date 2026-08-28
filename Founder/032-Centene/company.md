@@ -25,37 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CNC["Centene 集团核心商业版图 (Centene Corporation)"]
-    
-    CNC --> MCD["1. 州政府医疗救助业务 (Medicaid Managed Care)"]
-    MCD --> MCD1["全美最大的 Medicaid 管理式医疗服务商 (覆盖全美近30个州)"]
-    MCD --> MCD2["儿童健康保险计划 (CHIP) 与低收入母婴健康保障"]
-    MCD --> MCD3["老年残障与长期护理综合保障 (ABD / LTSS)"]
-    MCD --> MCD4["双重资格受益人计划 (Dual Eligible Medicare-Medicaid)"]
-    
-    CNC --> ACA["2. 商业平价医保交易所 (Ambetter Marketplace)"]
-    ACA --> ACA1["全美排名第一的 ACA 平价医疗法案个人与家庭交易所保险品牌"]
-    ACA --> ACA2["覆盖全美 28 个州，连续多年蝉联全美市场份额第一"]
-    ACA --> ACA3["针对灵活就业、自由职业者与无雇主保险群体的高性价比计划"]
-    
-    CNC --> MCR["3. 联邦老年医保业务 (Wellcare Medicare)"]
-    MCR --> MCR1["Wellcare Medicare Advantage (全美排名前列的老年红蓝卡优选计划)"]
-    MCR --> MCR2["Medicare Part D 独立处方药保险计划 (覆盖全美50州)"]
-    
-    CNC --> SPEC["4. 专业医疗健康服务 (Specialty Healthcare Services)"]
-    SPEC --> SPEC1["Magellan Health: 全美顶尖心理健康、药物成瘾与复杂特种病管理"]
-    SPEC --> SPEC2["Envolve: 专业药房服务、视力健康、口腔健康及远程医疗解决方案"]
-
-    classDef main fill:#00529b,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#002855,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4f8,stroke:#002855,stroke-width:1px,color:#000;
-    class CNC main;
-    class MCD,ACA,MCR,SPEC branch;
-    class MCD1,MCD2,MCD3,MCD4,ACA1,ACA2,ACA3,MCR1,MCR2,SPEC1,SPEC2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

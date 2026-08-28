@@ -36,10 +36,9 @@
     }
   </script>
 
-  <!-- Marked Markdown Parser & DOMPurify & Mermaid.js -->
+  <!-- Marked Markdown Parser & DOMPurify -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
   <!-- Lucide Icons -->
   <script src="https://unpkg.com/lucide@latest"></script>
 
@@ -183,20 +182,6 @@
       border: 0;
       border-top: 1px solid #e2e8f0;
       margin: 2rem 0;
-    }
-
-    /* Mermaid diagrams container auto scroll */
-    .mermaid-container {
-      width: 100%;
-      overflow-x: auto;
-      -webkit-overflow-scrolling: touch;
-      margin: 1.25rem 0;
-      padding: 1.25rem;
-      background: #ffffff;
-      border: 1px solid #e2e8f0;
-      border-radius: 0.75rem;
-      text-align: center;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
     }
   </style>
 </head>
@@ -377,8 +362,6 @@
     let currentIndex = 0;
     let currentTab = 'founder';
 
-    mermaid.initialize({ startOnLoad: false, theme: 'default' });
-
     function toggleMobileSidebar() {
       const sidebar = document.getElementById('sidebar');
       const backdrop = document.getElementById('mobile-backdrop');
@@ -523,16 +506,6 @@
         // Parse markdown to HTML
         const html = marked.parse(text);
         contentEl.innerHTML = DOMPurify.sanitize(html);
-
-        // Render Mermaid Diagrams
-        contentEl.querySelectorAll('pre code.language-mermaid').forEach(async (el) => {
-          const graphDefinition = el.innerText;
-          const container = document.createElement('div');
-          container.className = 'mermaid-container mermaid';
-          container.innerHTML = graphDefinition;
-          el.parentElement.replaceWith(container);
-        });
-        await mermaid.run();
 
       } catch (err) {
         contentEl.innerHTML = `

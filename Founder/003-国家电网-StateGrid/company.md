@@ -24,46 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    SGCC["国家电网有限公司 (State Grid Corporation of China)"]
-    
-    SGCC --> GRID["1. 国内核心输配电网络 (Power Transmission & Distribution)"]
-    GRID --> GRID1["26个省/市/自治区电力公司 (覆盖全国88%国土)"]
-    GRID --> GRID2["特高压交直流大动脉 (UHV AC 1000kV / DC ±800-±1100kV)"]
-    GRID --> GRID3["六大区域电网调度与协同运行体系"]
-    
-    SGCC --> GREEN["2. 新能源消纳与新型储能 (Clean Energy & Storage)"]
-    GREEN --> GREEN1["国网新源控股 (全球最大抽水蓄能电站运营商)"]
-    GREEN --> GREEN2["新型大容量电化学储能与飞轮储能基地"]
-    GREEN --> GREEN3["新能源云平台 (接入超5亿千瓦分布式与集中式风光绿电)"]
-    
-    SGCC --> TECH["3. 电力高端装备与工业科技 (High-End Grid Equipment & Tech)"]
-    TECH --> TECH1["国网南瑞科技 (NARI, 智能电网调度与保护自动化龙头)"]
-    TECH --> TECH2["中国电力科学研究院 (CEPRI, 电力科技国家战略实验室)"]
-    TECH --> TECH3["国网联研院 (先进电力芯片、碳化硅功率半导体、超导技术)"]
-    TECH --> TECH4["平高电气 / 许继电气 (高压断路器与特高压成套装备)"]
-    
-    SGCC --> INTL["4. 国际电网运营与海外资产 (International Grid Operations)"]
-    INTL --> INTL1["巴西特高压输电资产 (美丽山一期/二期特高压直流项目)"]
-    INTL --> INTL2["菲律宾国家电网公司 (NGCP 40%股权运营)"]
-    INTL --> INTL3["葡萄牙国家能源网 (REN 25%股权)"]
-    INTL --> INTL4["希腊国家电网 (IPTO) & 智利 CGE / Chilquinta"]
-    INTL --> INTL5["阿曼国家电网 (EPTC) & 意大利 CDP Reti 35%股权"]
-    
-    SGCC --> DIGI["5. 数字能源新基建与综合服务 (Digital Energy & Services)"]
-    DIGI --> DIGI1["e充电平台 (全球最大智慧车联网平台，超100万充换电桩)"]
-    DIGI --> DIGI2["国网数字科技控股 (能源互联网金融、绿电绿证交易)"]
-    DIGI --> DIGI3["国网英大集团 (金融保险、信托、证券与碳资产管理)"]
-
-    classDef main fill:#006633,stroke:#003311,stroke-width:2px,color:#fff;
-    classDef branch fill:#003311,stroke:#006633,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f9f4,stroke:#006633,stroke-width:1px,color:#000;
-    class SGCC main;
-    class GRID,GREEN,TECH,INTL,DIGI branch;
-    class GRID1,GRID2,GRID3,GREEN1,GREEN2,GREEN3,TECH1,TECH2,TECH3,TECH4,INTL1,INTL2,INTL3,INTL4,INTL5,DIGI1,DIGI2,DIGI3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与超级工程护城河 (Core Competitive Moat)

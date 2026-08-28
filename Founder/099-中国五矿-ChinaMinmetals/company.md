@@ -23,37 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    MINMETALS["中国五矿集团 (China Minmetals Corporation)"]
-    
-    MINMETALS --> MINING["1. 全球金属矿产资源 (Mining & Resources)"]
-    MINING --> MINING1["海外超级铜锌矿: 秘鲁拉斯邦巴斯 (Las Bambas)、澳大利亚杜加尔德河 (Dugald River)"]
-    MINING --> MINING2["战略稀缺金属: 湖南柿竹园钨矿、中钨高新 (全球第一大硬质合金)"]
-    MINING --> MINING3["新能源关键电池金属: 华友钴镍合资、五矿盐湖提锂、镍钴资源"]
-    
-    MINMETALS --> MCC["2. 冶金工程建设国家队 (MCC / 中冶集团)"]
-    MCC --> MCC1["全球钢铁冶金工程总包 (占据全球60%以上新建冶金市场)"]
-    MCC --> MCC2["城市超大型基础设施、地下综合管廊、超高层地标建筑"]
-    MCC --> MCC3["绿色低碳氢冶金工艺与短流程电炉炼钢技术输出"]
-    
-    MINMETALS --> TECH["3. 矿冶科技与先进材料 (Tech & Advanced Materials)"]
-    TECH --> TECH1["国家级科研院所: 长沙矿冶研究院、中冶赛迪、中冶京诚、中冶焦耐"]
-    TECH --> TECH2["深海多金属结核采矿技术 (全球深海采矿先驱)"]
-    TECH --> TECH3["正极材料 (长远锂科) & 超细晶碳化钨高端数控刀片"]
-    
-    MINMETALS --> COMM["4. 大宗贸易与现代金融 (Trading & Finance)"]
-    COMM --> COMM1["全球大宗金属与铁矿石保供物流贸易网络"]
-    COMM --> COMM2["综合金融服务: 五矿资本 (信托/证券/期货/金融租赁全牌照)"]
-
-    classDef main fill:#003366,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#e60012,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class MINMETALS main;
-    class MINING,MCC,TECH,COMM branch;
-    class MINING1,MINING2,MINING3,MCC1,MCC2,MCC3,TECH1,TECH2,TECH3,COMM1,COMM2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

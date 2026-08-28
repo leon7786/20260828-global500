@@ -23,43 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BABA["阿里巴巴集团商业帝国 (Alibaba Group)"]
-    
-    BABA --> TT["1. 淘天集团与国内商业 (Taobao & Tmall Group)"]
-    TT --> TT1["淘宝网 (全网最大 C2C/中小商家综合零售生态)"]
-    TT --> TT2["天猫 (Tmall: 全球品牌旗舰店与新品首发阵地)"]
-    TT --> TT3["1688 (中国最大综合内贸批发与源头厂货撮合平台)"]
-    TT --> TT4["闲鱼 (中国第一大年轻化二手闲置交易社区)"]
-    
-    BABA --> CLOUD["2. 阿里云智能集团 (Cloud Intelligence Group)"]
-    CLOUD --> C1["飞天 (Apsara: 全自研超大规模分布式云计算操作系统)"]
-    CLOUD --> C2["通义千问 (Qwen: 全球领先开源大语言模型与多模态矩阵)"]
-    CLOUD --> C3["自研算力与网络 (倚天 710 CPU / 磐久服务器 / 灵骏智算)"]
-    
-    BABA --> AIDC["3. 阿里国际数字商业 (Alibaba International Digital Commerce)"]
-    AIDC --> A1["全球速卖通 (AliExpress: 跨境 B2C 全托管与半托管先锋)"]
-    AIDC --> A2["Lazada (东南亚领先本土电商平台)"]
-    AIDC --> A3["Trendyol (土耳其及中东领先电商) & Daraz (南亚市场)"]
-    
-    BABA --> CAINIAO["4. 菜鸟智能物流网络 (Cainiao Smart Logistics Network)"]
-    CAINIAO --> CN1["全球跨境物流 (跨境'5日达'极速跨境履约干线)"]
-    CAINIAO --> CN2["国内数智仓配与菜鸟驿站末端便民网络"]
-    
-    BABA --> LOCAL["5. 本地生活与大文娱 (Local Services & Digital Media)"]
-    LOCAL --> L1["高德地图 (出行即服务 MaaS 平台，日活超1.5亿)"]
-    LOCAL --> L2["饿了么 (即时外卖送达与同城即时零售)"]
-    LOCAL --> L3["优酷流媒体 / 阿里影业 / 大麦网现场演出票务"]
-
-    classDef main fill:#ff6000,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#ff6000,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff8f0,stroke:#333,stroke-width:1px,color:#000;
-    class BABA main;
-    class TT,CLOUD,AIDC,CAINIAO,LOCAL branch;
-    class TT1,TT2,TT3,TT4,C1,C2,C3,A1,A2,A3,CN1,CN2,L1,L2,L3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

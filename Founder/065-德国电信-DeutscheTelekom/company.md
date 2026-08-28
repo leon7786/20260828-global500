@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    DT["德国电信全球商业版图 (Deutsche Telekom AG)"]
-    
-    DT --> TMUS["1. T-Mobile 美国 (T-Mobile US, 占比超65%)"]
-    TMUS --> TMUS1["全美第一大 5G 覆盖与网络速率领头羊"]
-    TMUS --> TMUS2["超 1.25 亿全美移动通信签约用户"]
-    TMUS --> TMUS3["并购 Sprint 后的 2.5GHz 黄金中频段频谱霸权"]
-    TMUS --> TMUS4["5G 家庭无线宽带 (Home Internet) 爆发式增长"]
-    
-    DT --> GER["2. 德国本土核心业务 (Telekom Deutschland)"]
-    GER --> GER1["超 4000 万移动通信用户与全德最大 5G 基站网"]
-    GER --> GER2["全德 FTTH 千兆光纤入户超级工程"]
-    GER --> GER3["MagentaTV 宽带融合电视与数字家庭中枢"]
-    
-    DT --> EUR["3. 欧洲综合板块 (Europe Segment)"]
-    EUR --> EUR1["统辖波兰、希腊 (OTE)、奥地利、匈牙利、捷克等10国国家级运营商"]
-    EUR --> EUR2["泛欧一体化 IP 网络与跨国漫游协同基础设施"]
-    
-    DT --> TSYS["4. 数字化与企业IT系统 (T-Systems)"]
-    TSYS --> TSYS1["欧洲工业4.0与主权合规公有云 (Gaia-X倡导者)"]
-    TSYS --> TSYS2["跨国车联网 (Connected Mobility) 与企业网络安全"]
-
-    classDef main fill:#e20074,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#e20074,stroke-width:1px,color:#fff;
-    classDef sub fill:#fdf4f8,stroke:#222,stroke-width:1px,color:#000;
-    class DT main;
-    class TMUS,GER,EUR,TSYS branch;
-    class TMUS1,TMUS2,TMUS3,TMUS4,GER1,GER2,GER3,EUR1,EUR2,TSYS1,TSYS2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Strategic Moats)

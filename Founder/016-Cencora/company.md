@@ -25,36 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    COR["Cencora 全球医药健康流通帝国 (Cencora, Inc.)"]
-    
-    COR --> US["1. 美国医疗健康分销网络 (U.S. Healthcare Solutions)"]
-    US --> US1["处方药分销 (全美20-30%处方药流通通道)"]
-    US --> US2["特种药品与肿瘤药分销 (ION 专科肿瘤诊所网络)"]
-    US --> US3["好邻居大药房联盟 (Good Neighbor Pharmacy - 5000+独立社区药店)"]
-    US --> US4["医院与卫生系统集中采购配送 (Health Systems)"]
-    
-    COR --> INTL["2. 国际医疗健康解决方案 (International Solutions)"]
-    INTL --> INTL1["Alliance Healthcare (欧洲领先药品批发商，覆盖数万家药房)"]
-    INTL --> INTL2["Alloga 欧洲第三方医药专业物流仓储"]
-    INTL --> INTL3["Alphega Pharmacy 欧洲独立药房加盟网络"]
-    
-    COR --> SPEC["3. 全球临床研发与特种物流 (Global Specialty Logistics)"]
-    SPEC --> SP1["World Courier (全球顶级生物医药超低温临床试验冷链物流)"]
-    SPEC --> SP2["制药商业化咨询与患者准入支持 (Pharma Commercialization)"]
-    
-    COR --> ANIMAL["4. 动物健康与兽医供应链 (Animal Health)"]
-    ANIMAL --> A1["MWI Animal Health (伴侣动物与畜牧业药品器械分销)"]
-
-    classDef main fill:#005587,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#002d62,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#002d62,stroke-width:1px,color:#000;
-    class COR main;
-    class US,INTL,SPEC,ANIMAL branch;
-    class US1,US2,US3,US4,INTL1,INTL2,INTL3,SP1,SP2,A1 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与供应链壁垒 (Competitive Moats)

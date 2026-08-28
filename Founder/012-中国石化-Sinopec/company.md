@@ -24,42 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    SINOPEC["中国石油化工集团 (Sinopec Group)"]
-    
-    SINOPEC --> UP["1. 上游: 油气勘探与绿色开发 (Upstream E&P)"]
-    UP --> UP1["常规油气田 (胜利油田/中原油田/西北油田)"]
-    UP --> UP2["深层/超深层油气突破 (顺北油气田 '地下珠峰' 攻坚)"]
-    UP --> UP3["高含硫天然气田 (普光气田/元坝气田)"]
-    UP --> UP4["页岩气战略基地 (涪陵页岩气田——国家级示范区)"]
-    
-    SINOPEC --> MID["2. 中游: 世界级炼油与高分子化工 (Refining & Chemicals)"]
-    MID --> MID1["全球第一大炼油规模 (年原油加工能力超 2.5 亿吨)"]
-    MID --> MID2["乙烯与芳烃制造 (镇海炼化/茂名石化/上海石化/中韩石化)"]
-    MID --> MID3["高端化工新材料 (高性能碳纤维/聚烯烃弹性体 POE/医用高分子)"]
-    MID --> MID4["合成树脂、合成橡胶与合成纤维三大合成材料体系"]
-    
-    SINOPEC --> DOWN["3. 下游: 成品油营销与综合服务 (Marketing & Retail)"]
-    DOWN --> DOWN1["30,000+ 座加能站网络 (全国覆盖最广终端销售通道)"]
-    DOWN --> DOWN2["易捷便利店 (Easy Joy, 全国便利店连锁门店数第一)"]
-    DOWN --> DOWN3["润滑油 (长城润滑油——航天神舟飞船/高铁指定用油)"]
-    DOWN --> DOWN4["航煤供应与保税船供油全球网络"]
-    
-    SINOPEC --> NEW["4. 新能源与低碳转型 (New Energy & Transition)"]
-    NEW --> NEW1["中国第一大氢能供应商 (新疆库车万吨级绿氢示范项目)"]
-    NEW --> NEW2["全国最大地热能开发运营商 (雄安新区'无烟城'地热供暖)"]
-    NEW --> NEW3["万座 '油气氢电服' 综合能源服务加能站"]
-    NEW --> NEW4["百万吨级 CCUS 碳捕集利用与封存项目 (齐鲁石化-胜利油田)"]
-
-    classDef main fill:#d8232a,stroke:#ffcc00,stroke-width:2px,color:#fff;
-    classDef branch fill:#8b0000,stroke:#ffcc00,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#d8232a,stroke-width:1px,color:#000;
-    class SINOPEC main;
-    class UP,MID,DOWN,NEW branch;
-    class UP1,UP2,UP3,UP4,MID1,MID2,MID3,MID4,DOWN1,DOWN2,DOWN3,DOWN4,NEW1,NEW2,NEW3,NEW4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与战略优势 (Competitive Moats)

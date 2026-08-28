@@ -23,44 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    PSX["菲利普斯66商业版图 (Phillips 66)"]
-    
-    PSX --> REF["1. 原油精炼 (Refining)"]
-    REF --> REF1["美湾与中西部13座高复杂度炼厂"]
-    REF --> REF2["原油加工能力超 220 万桶/日"]
-    REF --> REF3["高重质/含硫原油深度加氢裂化"]
-    REF --> REF4["欧洲英国 Humber 炼厂 (特种焦炭与SAF)"]
-    
-    PSX --> MID["2. 中游基础设施 (Midstream)"]
-    MID --> MID1["DCP Midstream 控股 (全美最大天然气采集加工之一)"]
-    MID --> MID2["超 72,000 英里输油与NGL管网"]
-    MID --> MID3["Sweeny 巨型天然气凝析液 (NGL) 分馏中心"]
-    MID --> MID4["Freeport 原油与深水出口码头"]
-    
-    PSX --> CHEM["3. 石油化工 (Chemicals - CPChem)"]
-    CHEM --> CHEM1["Chevron Phillips Chemical 50/50 顶级合资企业"]
-    CHEM --> CHEM2["全球乙烯/聚乙烯 (PE) 规模与低成本霸权"]
-    CHEM --> CHEM3["北美二叠纪低价乙烷原料裂解优势"]
-    CHEM --> CHEM4["Golden Triangle 石化超级扩产工程"]
-    
-    PSX --> MKT["4. 营销与特种产品 (Marketing & Specialties)"]
-    MKT --> MKT1["Phillips 66 / 76 / Conoco 三大零售品牌"]
-    MKT --> MKT2["全美与欧洲超 7,500 座加油服务网络"]
-    MKT --> MKT3["航空煤油与高品质工业车用润滑油 (Kendall/Shield)"]
-    REF --> REN["5. Rodeo Renewed 绿色低碳转型 (Renewable Fuels)"]
-    REN --> REN1["加州旧金山 Rodeo 炼厂彻底转型可再生燃料设施"]
-    REN --> REN2["年产超 8 亿加仑可再生柴油与可持续航空燃料 (SAF)"]
-
-    classDef main fill:#d81e05,stroke:#002244,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#d81e05,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#002244,stroke-width:1px,color:#000;
-    class PSX main;
-    class REF,MID,CHEM,MKT,REN branch;
-    class REF1,REF2,REF3,REF4,MID1,MID2,MID3,MID4,CHEM1,CHEM2,CHEM3,CHEM4,MKT1,MKT2,MKT3,REN1,REN2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与行业护城河 (Moats & Strategic Strengths)

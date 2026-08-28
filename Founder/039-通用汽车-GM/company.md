@@ -25,37 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    GM["通用汽车全球商业版图 (General Motors Company)"]
-    
-    GM --> BRANDS["1. 四大多梯队核心品牌矩阵 (Core Automotive Brands)"]
-    BRANDS --> B1["雪佛兰 (Chevrolet): 大众普及型国民神车与皮卡 (Silverado / Tahoe)"]
-    BRANDS --> B2["GMC: 专业高端全尺寸硬派皮卡与豪华 SUV (Sierra / Yukon)"]
-    BRANDS --> B3["凯迪拉克 (Cadillac): 美系百年奢华典范与前沿纯电先锋 (Escalade / Lyriq)"]
-    BRANDS --> B4["别克 (Buick): 中高端优雅舒适轿车与都市跨界 SUV (Enclave / GL8)"]
-    
-    GM --> ULTIUM["2. Ultium 奥特能纯电与智驾生态 (EV & Software)"]
-    ULTIUM --> U1["奥特能模块化电池平台 (涵盖从平价纯电到悍马 EV 超级越野)"]
-    ULTIUM --> U2["Super Cruise & Ultra Cruise 高阶高精度全场景辅助驾驶系统"]
-    ULTIUM --> U3["自研车机软件架构平台 (Ultifi Software Platform)"]
-    
-    GM --> AV["3. 自动驾驶与未来出行 (Cruise Autonomous)"]
-    AV --> AV1["Cruise 全无人驾驶 Robotaxi 网约车常态化商业运营"]
-    AV --> AV2["Cruise Origin 专为无方向盘共享出行设计的下一代移动座舱"]
-    
-    GM --> FIN["4. 综合汽车金融与车联生态 (GM Financial & OnStar)"]
-    FIN --> F1["OnStar (安吉星): 行业最早也是规模最大的全球前装车联网安全服务"]
-    FIN --> F2["GM Financial: 全球数十个国家经销商与终端购车信贷资产管理"]
-
-    classDef main fill:#003da5,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#0c2340,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f7fc,stroke:#0c2340,stroke-width:1px,color:#000;
-    class GM main;
-    class BRANDS,ULTIUM,AV,FIN branch;
-    class B1,B2,B3,B4,U1,U2,U3,AV1,AV2,F1,F2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

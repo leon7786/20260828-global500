@@ -25,38 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    COST["开市客零售帝国 (Costco Wholesale Corporation)"]
-    
-    COST --> STORE["1. 仓储会员店零售核心 (Warehouse Operations)"]
-    STORE --> S1["生鲜食品与包装干货 (超高周转极速货架)"]
-    STORE --> S2["大型家电、3C数码、服饰与高档奢侈品 (寻宝式陈列)"]
-    STORE --> S3["传奇熟食餐饮区 (1.5美元热狗套餐 / 烤整鸡 / 披萨)"]
-    
-    COST --> MEM["2. 会员体系驱动引擎 (Membership Engine)"]
-    MEM --> M1["金星会员 (Gold Star Member) & 商业会员"]
-    MEM --> M2["黑钻卡高级会员 (Executive Member - 享2%消费返现)"]
-    MEM --> M3["年均数十亿美元纯会员费收入 (贡献全公司超 70-80% 营业利润)"]
-    
-    COST --> KS["3. 柯克兰自有品牌 (Kirkland Signature)"]
-    KS --> K1["全品类覆盖 (坚果/咖啡/红酒/维他命/纸巾/宠物粮/高尔夫球)"]
-    KS --> K2["年销售额突破 500+ 亿美元 (超越耐克、可口可乐等多数单一品牌)"]
-    KS --> K3["对标一线大牌品质，价格低 20%-30%"]
-    
-    COST --> ANCILLARY["4. 高频周边衍生生态 (Ancillary Businesses)"]
-    ANCILLARY --> A1["开市客平价加油站 (Costco Gas - 会员专属高频引流利器)"]
-    ANCILLARY --> A2["专业药房、配镜中心与助听器中心"]
-    ANCILLARY --> A3["Costco Travel 专属会员旅游与汽车租售"]
-
-    classDef main fill:#e31837,stroke:#005da6,stroke-width:2px,color:#fff;
-    classDef branch fill:#005da6,stroke:#e31837,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#005da6,stroke-width:1px,color:#000;
-    class COST main;
-    class STORE,MEM,KS,ANCILLARY branch;
-    class S1,S2,S3,M1,M2,M3,K1,K2,K3,A1,A2,A3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与商业飞轮 (Competitive Moats)

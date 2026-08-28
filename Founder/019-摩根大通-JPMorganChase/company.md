@@ -25,36 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    JPM["摩根大通金融帝国 (JPMorgan Chase & Co.)"]
-    
-    JPM --> CCB["1. 消费者与社区银行 (Consumer & Community Banking - Chase)"]
-    CCB --> CCB1["全美近 5,000 家支行与 15,000 台 ATM 零售网络"]
-    CCB --> CCB2["信用卡与商户收单业务 (全美发卡量与交易额第一)"]
-    CCB --> CCB3["住房按揭贷款与汽车消费金融"]
-    
-    JPM --> CIB["2. 全球企业与投资银行 (Commercial & Investment Bank)"]
-    CIB --> CIB1["全球投行业务 (并购咨询 M&A、股权 IPO 与债券承销全球榜首)"]
-    CIB --> CIB2["全球市场交易 (全球最大固定收益 FICC、股票衍生品做市商)"]
-    CIB --> CIB3["全球资金清算与证券服务 (日均处理美元流动性超 10 万亿美元)"]
-    
-    JPM --> CB["3. 商业银行 (Commercial Banking)"]
-    CB --> CB1["中型跨国企业综合信贷与财资管理"]
-    CB --> CB2["商业地产融资与市政公共部门金融服务"]
-    
-    JPM --> AWM["4. 资产与财富管理 (Asset & Wealth Management)"]
-    AWM --> AWM1["摩根资产管理 (J.P. Morgan Asset Management - AUM 超3.6万亿美元)"]
-    AWM --> AWM2["私人银行 (Private Bank - 全球顶级富豪与家族办公室财富管理)"]
-
-    classDef main fill:#0b2341,stroke:#a48956,stroke-width:2px,color:#fff;
-    classDef branch fill:#1d3c60,stroke:#a48956,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#0b2341,stroke-width:1px,color:#000;
-    class JPM main;
-    class CCB,CIB,CB,AWM branch;
-    class CCB1,CCB2,CCB3,CIB1,CIB2,CIB3,CB1,CB2,AWM1,AWM2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与金融底座 (Competitive Moats)

@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    FM["房地美商业帝国 (Freddie Mac)"]
-    
-    FM --> SF["1. 单户住宅业务 (Single-Family)"]
-    SF --> SF1["抵押贷款采购与担保 (Mortgage Purchases & Guarantee)"]
-    SF --> SF2["统一抵押贷款证券 (Uniform MBS, UMBS)"]
-    SF --> SF3["低首付可负担住房计划 (HomePossible)"]
-    SF --> SF4["自动化承销评估引擎 (Loan Product Advisor)"]
-    
-    FM --> MF["2. 多户型住宅业务 (Multifamily)"]
-    MF --> MF1["可负担出租公寓抵押贷款采购"]
-    MF --> MF2["多户型结构化资产证券 (K-Deals & SB-Deals)"]
-    MF --> MF3["绿色建筑低息抵押支持 (Green Advantage)"]
-    MF --> MF4["长租社区与老年公寓专项融资"]
-    
-    FM --> CRT["3. 资本市场与信用风险转移 (Capital Markets & CRT)"]
-    CRT --> CRT1["STACR 结构化信用风险转移票据"]
-    CRT --> CRT2["ACIS 结构化再保险信用风险转移"]
-    CRT --> CRT3["利率与流动性对冲资产组合 (Retained Portfolio)"]
-    
-    FM --> TECH["4. 金融科技与风控基础设施 (PropTech & Analytics)"]
-    TECH --> TECH1["AI 智能房产自动估值模型 (AVM)"]
-    TECH --> TECH2["全美信用与违约预测大数据模型"]
-    TECH --> TECH3["全流程数字化放贷合规审查体系"]
-
-    classDef main fill:#003366,stroke:#ff6600,stroke-width:2px,color:#fff;
-    classDef branch fill:#1f497d,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f2f5f9,stroke:#1f497d,stroke-width:1px,color:#000;
-    class FM main;
-    class SF,MF,CRT,TECH branch;
-    class SF1,SF2,SF3,SF4,MF1,MF2,MF3,MF4,CRT1,CRT2,CRT3,TECH1,TECH2,TECH3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

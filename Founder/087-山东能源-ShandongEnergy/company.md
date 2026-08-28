@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与产业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    SDE["山东能源集团 (Shandong Energy Group)"]
-    
-    SDE --> COAL["1. 矿业开采与清洁煤炭 (Mining & Coal)"]
-    COAL --> COAL1["鲁西煤炭基地 (深井智能化安全开采)"]
-    COAL --> COAL2["陕蒙大型能源基地 (转龙湾/营盘壕等特大型千万吨矿井)"]
-    COAL --> COAL3["新疆准东能源基地 (煤炭与煤电就地转化)"]
-    COAL --> COAL4["澳大利亚基地 (兖煤澳洲 Yancoal: 澳洲最大独立煤炭上市公司)"]
-    
-    SDE --> CHEM["2. 高端煤化工与煤制油气 (High-End Chemical)"]
-    CHEM --> CHEM1["煤间接液化 (全球领先的百万吨级煤制油基地)"]
-    CHEM --> CHEM2["多喷嘴水煤浆气化技术与甲醇/烯烃产业链"]
-    CHEM --> CHEM3["聚甲醛、醋酸与高分子新材料"]
-    
-    SDE --> GREEN["3. 新能源与现代电力 (New Energy & Power)"]
-    GREEN --> GREEN1["渤中海上风电基地 (千万千瓦级海上风电母港)"]
-    GREEN --> GREEN2["光伏发电与源网荷储微电网"]
-    GREEN --> GREEN3["大型高效超超临界坑口电厂与调峰火电"]
-    
-    SDE --> MFG["4. 高端智能装备制造 (Equipment & Robotics)"]
-    MFG --> MFG1["超大采高液压支架与智能综采成套设备"]
-    MFG --> MFG2["防爆特种工业巡检机器人与传感器"]
-    MFG --> MFG3["高压变频器与储能变流器 (新风光科技)"]
-
-    classDef main fill:#7b1113,stroke:#c49a45,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#7b1113,stroke-width:1px,color:#fff;
-    classDef sub fill:#faf8f5,stroke:#7b1113,stroke-width:1px,color:#000;
-    class SDE main;
-    class COAL,CHEM,GREEN,MFG branch;
-    class COAL1,COAL2,COAL3,COAL4,CHEM1,CHEM2,CHEM3,GREEN1,GREEN2,GREEN3,MFG1,MFG2,MFG3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与产业护城河 (Competitive Advantages)

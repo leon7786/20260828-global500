@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    KR["克罗格生鲜零售帝国 (The Kroger Co.)"]
-    
-    KR --> STORE["1. 全美超级市场与多业态零售 (Supermarkets & Multi-Format)"]
-    STORE --> S1["核心超市品牌 (Kroger / Ralphs / Dillons / Smith's)"]
-    STORE --> S2["大型综合百货大卖场 (Fred Meyer)"]
-    STORE --> S3["高端与区域生鲜连锁 (Harris Teeter / Mariano's / King Soopers)"]
-    STORE --> S4["折扣超市与便利店 (Food 4 Less / Ruler Foods)"]
-    
-    KR --> MFG["2. 独家自有制造与供应链 (Our Brands & Manufacturing)"]
-    MFG --> M1["自营食品工厂 (30+座乳制品/烘焙/肉类/调味品加工厂)"]
-    MFG --> M2["Simple Truth (全美最大有机天然自有品牌，年销超30亿美元)"]
-    MFG --> M3["Private Selection (高端精选美食自有品牌)"]
-    MFG --> M4["Heritage Farm & Kroger Brand (大众平价高性价比主力品线)"]
-    
-    KR --> TECH["3. 数据智能与零售科技 (Data Science & Technology)"]
-    TECH --> T1["84.51° (全资大数据科学子公司，分析6000万家庭购买行为)"]
-    TECH --> T2["KPM 零售媒体网络 (Kroger Precision Marketing 精准广告平台)"]
-    TECH --> T3["Kroger Plus 会员忠诚度与数字优惠券生态"]
-    
-    KR --> AUTO["4. 智慧物流与生鲜电商 (Ocado CFCs & Fulfillment)"]
-    AUTO --> A1["Ocado 机器人自动化客户履约中心 (Customer Fulfillment Centers)"]
-    AUTO --> A2["Kroger Delivery 自营温控车队冷链送货到家"]
-    AUTO --> A3["Kroger Boost 超值生鲜免运费与加油折扣会员订阅"]
-
-    classDef main fill:#003da5,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#003da5,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f4f4,stroke:#333,stroke-width:1px,color:#000;
-    class KR main;
-    class STORE,MFG,TECH,AUTO branch;
-    class S1,S2,S3,S4,M1,M2,M3,M4,T1,T2,T3,A1,A2,A3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

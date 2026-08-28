@@ -24,42 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CNPC["中国石油天然气集团 (CNPC)"]
-    
-    CNPC --> UP["1. 国内核心油气勘探开发 (Upstream E&P)"]
-    UP --> UP1["大庆油田 (中国最大原油生产基地, 累产超 25 亿吨)"]
-    UP --> UP2["长庆油田 (中国第一大油气田, 年产超 6500 万吨当量)"]
-    UP --> UP3["塔里木油田 (深地深层油气主力, 万米科探特深井)"]
-    UP --> UP4["西南油气田 (川渝常规天然气与页岩气万亿方大气区)"]
-    
-    CNPC --> DOWN["2. 炼油化工与高性能新材料 (Refining & Petrochemicals)"]
-    DOWN --> DOWN1["独山子石化 / 大连石化 / 兰州石化 / 吉林石化炼化一体化基地"]
-    DOWN --> DOWN2["高端聚烯烃、合成树脂、特种合成橡胶与芳烃全产业链"]
-    
-    CNPC --> GAS["3. 天然气终端销售与储运 (Natural Gas & Kunlun Energy)"]
-    GAS --> GAS1["昆仑能源 (全国最大城市燃气与液化天然气 LNG 终端运营商)"]
-    GAS --> GAS2["国家级西气东输主干管网互联与大型地下储气库群 (如相国寺储气库)"]
-    
-    CNPC --> INTL["4. 国际能源合作与战略通道 (International Operations)"]
-    INTL --> INTL1["四大跨国油气战略通道 (中俄东线、中亚管道、中缅油气、海上通道)"]
-    INTL --> INTL2["中东主力作业区 (伊拉克鲁迈拉/哈法亚大型油田项目)"]
-    INTL --> INTL3["中亚/美洲/非洲等全球 30 多个国家油气勘探开采合作"]
-    
-    CNPC --> GREEN["5. 绿色低碳与新能源新赛道 (Green & Low-Carbon Energy)"]
-    GREEN --> GREEN1["地热能清洁供暖 (北方清洁供暖龙头)"]
-    GREEN --> GREEN2["松辽与鄂尔多斯盆地巨型 CCUS 碳捕集利用与封存示范工程"]
-    GREEN --> GREEN3["绿氢制储运加一体化与油气田自发自用风光大基地"]
-
-    classDef main fill:#C8102E,stroke:#780000,stroke-width:2px,color:#fff;
-    classDef branch fill:#780000,stroke:#C8102E,stroke-width:1px,color:#fff;
-    classDef sub fill:#fcf2f2,stroke:#780000,stroke-width:1px,color:#000;
-    class CNPC main;
-    class UP,DOWN,GAS,INTL,GREEN branch;
-    class UP1,UP2,UP3,UP4,DOWN1,DOWN2,GAS1,GAS2,INTL1,INTL2,INTL3,GREEN1,GREEN2,GREEN3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与国家战略护城河 (Core Competitive Moat)

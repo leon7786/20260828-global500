@@ -23,37 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HONHAI["鸿海富士康商业帝国 (Hon Hai Foxconn)"]
-    
-    HONHAI --> CE["1. 消费智能终端 (Smart Consumer Electronics)"]
-    CE --> IPHONE["全球最大 iPhone 制造基地 (郑州/深圳/印度)"]
-    CE --> GAME["游戏主机 (PlayStation, Nintendo Switch, Xbox)"]
-    CE --> WEAR["智能手表、TWS 耳机与 AR/VR 设备"]
-    
-    HONHAI --> CLOUD["2. 云端网络与 AI 算力 (Cloud & Networking)"]
-    CLOUD --> AISERV["英伟达 GB200/HGX/DGX AI 超级算力服务器整机制造"]
-    CLOUD --> DC["全球顶级云服务商 (AWS/微软/谷歌) 数据中心机柜"]
-    CLOUD --> NET["高速交换机、5G 基站与卫星通信终端"]
-    
-    HONHAI --> COMP["3. 电脑终端 (Computing Products)"]
-    COMP --> PC["MacBook, iPad, 戴尔与惠普笔记本及台式机"]
-    
-    HONHAI --> STRAT["4. 精密组件与 3+3 新兴战略 (Components & 3+3)"]
-    STRAT --> CONN["高频高速精密连接器与光学模组"]
-    STRAT --> EV["电动汽车平台 (MIH 联盟与 Foxtron 车型)"]
-    STRAT --> SEMI["第三代半导体 (SiC 碳化硅) 与先进封装"]
-    STRAT --> ROBOT["工业机器人与全自主智慧工厂"]
-
-    classDef main fill:#003366,stroke:#ff6600,stroke-width:2px,color:#fff;
-    classDef branch fill:#ff6600,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f4f4,stroke:#003366,stroke-width:1px,color:#000;
-    class HONHAI main;
-    class CE,CLOUD,COMP,STRAT branch;
-    class IPHONE,GAME,WEAR,AISERV,DC,NET,PC,CONN,EV,SEMI,ROBOT sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

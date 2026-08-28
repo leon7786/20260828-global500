@@ -22,42 +22,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BYD["比亚迪商业帝国 (BYD Company Limited)"]
-    
-    BYD --> AUTO["1. 汽车与绿色出行 (Automotive & Mobility)"]
-    AUTO --> AUTO1["大众主流矩阵: 王朝网 (汉/唐/宋/元/秦) & 海洋网 (海豹/海豚/海鸥/驱逐舰)"]
-    AUTO --> AUTO2["豪华高端品牌: 腾势 (Denza D9/Z9GT)"]
-    AUTO --> AUTO3["专业个性化品牌: 方程豹 (Leopard 5/8/3)"]
-    AUTO --> AUTO4["百万级超豪华品牌: 仰望 (Yangwang U8/U9/U7)"]
-    AUTO --> AUTO5["商用车与专用车: 纯电动大巴 (K系列)、纯电动卡车 (T系列)"]
-    
-    BYD --> BAT["2. 动力电池与储能 (FinDreams Battery / 弗迪电池)"]
-    BAT --> BAT1["动力电池: 磷酸铁锂刀片电池 (Blade Battery) & CTB/CTC 电池车身一体化"]
-    BAT --> BAT2["储能系统: 弗迪魔方电网级储能、工商业储能、家庭储能 (Energy Storage)"]
-    
-    BYD --> ELEC["3. 电子代工与消费精密制造 (BYD Electronics, 00285.HK)"]
-    ELEC --> ELEC1["智能手机与平板代工 (苹果/华为/荣耀等核心结构件与整机组装)"]
-    ELEC --> ELEC2["智能座舱硬件、智能家居、无人机与医疗器械精密部件"]
-    
-    BYD --> TECH["4. 核心零部件与半导体 (FinDreams Tech & Semiconductor)"]
-    TECH --> TECH1["车规级 IGBT 芯片、SiC 碳化硅功率器件、MCU 微控制器"]
-    TECH --> TECH2["动力总成: 骁云高效插混专用发动机、EHS 电混系统、八合一电动力总成"]
-    TECH --> TECH3["底盘与智能控制: 易四方、云辇 (C/A/P/X)、天神之眼高阶智驾、璇玑整车智能化架构"]
-    
-    BYD --> RAIL["5. 绿色轨道交通 (Urban Rail Transit)"]
-    RAIL --> RAIL1["跨座式单轨 (云轨 SkyRail)"]
-    RAIL --> RAIL2["低运量胶轮有轨电车 (云巴 SkyShuttle)"]
-
-    classDef main fill:#e60012,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c1c1c,stroke:#e60012,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class BYD main;
-    class AUTO,BAT,ELEC,TECH,RAIL branch;
-    class AUTO1,AUTO2,AUTO3,AUTO4,AUTO5,BAT1,BAT2,ELEC1,ELEC2,TECH1,TECH2,TECH3,RAIL1,RAIL2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

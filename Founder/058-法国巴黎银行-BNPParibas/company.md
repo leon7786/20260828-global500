@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BNP["法国巴黎银行商业帝国 (BNP Paribas S.A.)"]
-    
-    BNP --> CIB["1. 企业与机构银行 (Corporate & Institutional Banking)"]
-    CIB --> CIB1["全球市场业务 (Global Markets: 跨资产固定收益/外汇/股票衍生品)"]
-    CIB --> CIB2["全球企业金融 (Global Banking: 跨境银团贷款/并购重组顾问/IPO承销)"]
-    CIB --> CIB3["全球证券服务 (Securities Services: 托管全球超12万亿欧元资产)"]
-    
-    BNP --> CPBS["2. 欧洲核心商业与个人银行 (CPBS - 四大本土市场)"]
-    CPBS --> CP1["法国商业银行 (French Retail Banking - 覆盖千万人群)"]
-    CPBS --> CP2["比利时富通商业银行 (BNP Paribas Fortis - 比利时第一大行)"]
-    CPBS --> CP3["意大利劳工银行 (BNL - 意大利核心综合金融网络)"]
-    CPBS --> CP4["卢森堡国际商业银行 (BGL BNP Paribas)"]
-    
-    BNP --> IPS["3. 投资与保护服务 (Investment & Protection Services)"]
-    IPS --> IPS1["BNP Paribas Cardif (全球领先的借款人信用保险与人寿保险)"]
-    IPS --> IPS2["BNP Paribas Wealth Management (欧洲第一大私人财富管理机构)"]
-    IPS --> IPS3["BNP Paribas Asset Management (全球资产管理与绿色 ESG 基金)"]
-    
-    BNP --> MOB["4. 移动出行与特种金融 (Mobility & Specialized Finance)"]
-    MOB --> M1["Arval (全球领先的企业级车辆全包长期租赁与车队管理)"]
-    MOB --> M2["BNP Paribas Personal Finance (欧洲个人消费信贷龙头)"]
-    MOB --> M3["Nickel (全法领先的烟草店/社区纯数字便捷账户服务)"]
-
-    classDef main fill:#00915a,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c2d37,stroke:#00915a,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0fff8,stroke:#333,stroke-width:1px,color:#000;
-    class BNP main;
-    class CIB,CPBS,IPS,MOB branch;
-    class CIB1,CIB2,CIB3,CP1,CP2,CP3,CP4,IPS1,IPS2,IPS3,M1,M2,M3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

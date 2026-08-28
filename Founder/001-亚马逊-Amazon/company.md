@@ -23,46 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    AMZN["亚马逊商业帝国 (Amazon.com, Inc.)"]
-    
-    AMZN --> EC["1. 电子商务与零售 (E-Commerce)"]
-    EC --> EC1["自营零售 (1P Retail)"]
-    EC --> EC2["第三方开放平台 (3P Marketplace)"]
-    EC --> EC3["全食超市 (Whole Foods Market)"]
-    EC --> EC4["亚马逊生鲜 (Amazon Fresh & Go)"]
-    
-    AMZN --> AWS["2. 亚马逊云科技 (AWS Cloud)"]
-    AWS --> AWS1["弹性计算 (EC2) & 存储 (S3)"]
-    AWS --> AWS2["数据库 (Aurora/DynamoDB)"]
-    AWS --> AWS3["生成式 AI 平台 (Amazon Bedrock)"]
-    AWS --> AWS4["自研 AI 芯片 (Trainium/Inferentia)"]
-    
-    AMZN --> SUB["3. 订阅与数字内容 (Subscriptions & Media)"]
-    SUB --> SUB1["Prime 会员体系 (超2亿全球订阅用户)"]
-    SUB --> SUB2["Prime Video 流媒体 & 米高梅影业 (MGM)"]
-    SUB --> SUB3["Amazon Music 音频 & Audible 有声读物"]
-    SUB --> SUB4["Kindle 数字图书生态"]
-    
-    AMZN --> ADV["4. 数字广告服务 (Digital Advertising)"]
-    ADV --> ADV1["搜索赞助广告 (Sponsored Ads)"]
-    ADV --> ADV2["流媒体视频广告 (Prime Video Ads)"]
-    
-    AMZN --> HW["5. 智能硬件与物联网 (Devices & IoT)"]
-    HW --> HW1["Echo 智能音箱 & Alexa 大语言模型"]
-    HW --> HW2["Fire TV 电视棒 & Fire 平板"]
-    HW --> HW3["Ring / Blink 智能安防系统"]
-    HW --> HW4["Kuiper 卫星互联网星座 (Project Kuiper)"]
-
-    classDef main fill:#ff9900,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#ff9900,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class AMZN main;
-    class EC,AWS,SUB,ADV,HW branch;
-    class EC1,EC2,EC3,EC4,AWS1,AWS2,AWS3,AWS4,SUB1,SUB2,SUB3,SUB4,ADV1,ADV2,HW1,HW2,HW3,HW4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

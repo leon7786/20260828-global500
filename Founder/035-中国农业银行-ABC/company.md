@@ -24,42 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    ABC["中国农业银行金融航母 (Agricultural Bank of China)"]
-    
-    ABC --> SANNONG["1. 三农与乡村振兴金融 (Sannong & Rural Revitalization)"]
-    SANNONG --> SN1["惠农e贷: 万亿级农户线上化纯信用秒批智能贷款"]
-    SANNONG --> SN2["国家粮食安全与现代种业振兴专项金融支持"]
-    SANNONG --> SN3["农业产业化龙头企业与现代农业产业园全产业链金融"]
-    SANNONG --> SN4["县域城乡融合与农村基础设施补短板信贷"]
-    
-    ABC --> CORP["2. 公司金融与国家重大战略 (Corporate Banking)"]
-    CORP --> CP1["重大基础设施工程信贷 (高铁、高速公路、水利、特高压)"]
-    CORP --> CP2["先进制造业与国家战略新兴产业专精特新支持"]
-    CORP --> CP3["绿色金融与碳减排支持工具 (绿色信贷规模数万亿)"]
-    CORP --> CP4["跨境金融、自贸区金融与“一带一路”国际银团"]
-    
-    ABC --> RETAIL["3. 个人零售与财富管理 (Retail Banking & Wealth)"]
-    RETAIL --> RT1["全国最大规模低成本个人储蓄存款与社保金融生态"]
-    RETAIL --> RT2["个人住房按揭贷款与个人消费信贷 (网捷贷)"]
-    RETAIL --> RT3["金钥匙财富管理与私人银行全生命周期资产配置"]
-    RETAIL --> RT4["掌上银行 App: 超 2 亿高活跃度移动金融终端"]
-    
-    ABC --> SUBS["4. 综合化全牌照金融子公司 (Integrated Subsidiaries)"]
-    SUBS --> SB1["农银国际 (ABCI): 境外投行、跨境上市承销与私募股权投资"]
-    SUBS --> SB2["农银理财: 万亿级银行理财产品研发与财富管理"]
-    SUBS --> SB3["农银人寿: 养老保险与全方位人身保险保障"]
-    SUBS --> SB4["农银租赁 (金融租赁) & 农银投资 (市场化债转股实施机构)"]
-
-    classDef main fill:#008573,stroke:#00a388,stroke-width:2px,color:#fff;
-    classDef branch fill:#005c53,stroke:#00a388,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f9f8,stroke:#005c53,stroke-width:1px,color:#000;
-    class ABC main;
-    class SANNONG,CORP,RETAIL,SUBS branch;
-    class SN1,SN2,SN3,SN4,CP1,CP2,CP3,CP4,RT1,RT2,RT3,RT4,SB1,SB2,SB3,SB4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

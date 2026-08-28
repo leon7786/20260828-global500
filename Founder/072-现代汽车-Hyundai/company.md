@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HMC["现代汽车集团 (Hyundai Motor Group)"]
-    
-    HMC --> PASS["1. 乘用车与豪华品牌 (Passenger Vehicles)"]
-    PASS --> PASS1["现代乘用车主品牌 (Elantra/Tucson/Santa Fe/Palisade)"]
-    PASS --> PASS2["Genesis 捷尼赛思独立豪华品牌 (G80/G90/GV70/GV80)"]
-    PASS --> PASS3["N 系列高性能赛道级品牌 (Ioniq 5 N / Elantra N)"]
-    
-    HMC --> EV["2. 电动化与氢能科技 (EV & Hydrogen Innovation)"]
-    EV --> EV1["IONIQ 纯电系列 (800V E-GMP 超快充架构)"]
-    EV --> EV2["HTWO 氢燃料电池系统 (NEXO SUV & 氢能重卡 XCIENT)"]
-    EV --> EV3["全固态电池与下一代三电自研系统"]
-    
-    HMC --> ROBOT["3. 未来智能出行与机器人 (Future Mobility & Robotics)"]
-    ROBOT --> ROBOT1["波士顿动力 (Boston Dynamics: Spot / Atlas / Stretch)"]
-    ROBOT --> ROBOT2["Motional 自动驾驶合资公司 (L4级 Robotaxi)"]
-    ROBOT --> ROBOT3["Supernal 城市空中交通 (eVTOL 电动垂直起降飞行器)"]
-    
-    HMC --> VERT["4. 垂直整合产业链生态 (Integrated Ecosystem)"]
-    VERT --> VERT1["现代摩比斯 (Hyundai Mobis - 核心零部件与电驱)"]
-    VERT --> VERT2["现代制铁 (Hyundai Steel - 车用高强超轻钢材)"]
-    VERT --> VERT3["现代格罗唯视 (Hyundai Glovis - 全球滚装船汽车物流)"]
-
-    classDef main fill:#002c5f,stroke:#00aad2,stroke-width:2px,color:#fff;
-    classDef branch fill:#003478,stroke:#002c5f,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4f8,stroke:#003478,stroke-width:1px,color:#000;
-    class HMC main;
-    class PASS,EV,ROBOT,VERT branch;
-    class PASS1,PASS2,PASS3,EV1,EV2,EV3,ROBOT1,ROBOT2,ROBOT3,VERT1,VERT2,VERT3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

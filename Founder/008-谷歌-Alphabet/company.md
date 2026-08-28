@@ -24,41 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    ALPHABET["Alphabet 科技帝国 (Alphabet Inc.)"]
-    
-    ALPHABET --> SERV["1. Google Services 核心消费互联网与广告"]
-    SERV --> SERV1["Google Search (全球搜索引擎绝对霸主, >90% 全球市场份额)"]
-    SERV --> SERV2["YouTube (全球最大视频流媒体平台, 月活超 25 亿用户)"]
-    SERV --> SERV3["Android 移动操作系统 (全球超 30 亿活跃智能终端)"]
-    SERV --> SERV4["Google Chrome 浏览器 & Google Maps & Gmail"]
-    SERV --> SERV5["Google Ads & AdSense (全球最吸金精准拍卖广告系统)"]
-    
-    ALPHABET --> CLOUD["2. Google Cloud 谷歌云科技 (Enterprise Cloud)"]
-    CLOUD --> CLOUD1["Google Cloud Platform (GCP 弹性计算与 BigQuery 实时大数据分析)"]
-    CLOUD --> CLOUD2["Vertex AI 全托管机器学习与企业级大模型服务平台"]
-    CLOUD --> CLOUD3["自研 TPU (Tensor Processing Unit v5/v6) 专用 AI 算力芯片"]
-    CLOUD --> CLOUD4["Google Workspace 企业协同办公套件 (Docs, Sheets, Meet)"]
-    
-    ALPHABET --> AI["3. Google DeepMind 全栈前沿人工智能 (Frontier AI)"]
-    AI --> AI1["Gemini 系列原生多模态通用大语言模型 (Ultra/Pro/Flash)"]
-    AI --> AI2["AlphaFold 3 蛋白质与分子相互作用结构预测 (颠覆生物医药研发)"]
-    AI --> AI3["AlphaGo / AlphaZero (人类强化学习突破标志)"]
-    
-    ALPHABET --> BETS["4. Other Bets 前沿登月创新计划 (Moonshots)"]
-    BETS --> BETS1["Waymo (全球首家全无人商业化运营 Robotaxi 领跑者)"]
-    BETS --> BETS2["Verily (精准医疗与智能健康传感器) & Calico (人类抗衰老研究)"]
-    BETS --> BETS3["Wing (物流无人机配送) & GV (Google Ventures 风险投资)"]
-
-    classDef main fill:#4285F4,stroke:#0d47a1,stroke-width:2px,color:#fff;
-    classDef branch fill:#0d47a1,stroke:#4285F4,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4fc,stroke:#0d47a1,stroke-width:1px,color:#000;
-    class ALPHABET main;
-    class SERV,CLOUD,AI,BETS branch;
-    class SERV1,SERV2,SERV3,SERV4,SERV5,CLOUD1,CLOUD2,CLOUD3,CLOUD4,AI1,AI2,AI3,BETS1,BETS2,BETS3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮护城河 (Core Competitive Moat)

@@ -23,44 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    JD["京东集团商业版图 (JD.com, Inc.)"]
-    
-    JD --> RET["1. 京东零售 (JD Retail)"]
-    RET --> RET1["3C数码与家电绝对领导地位 (自营压舱石)"]
-    RET --> RET2["日用百货与快消大商超 (京东超市)"]
-    RET --> RET3["POP 开放平台生态 (第三方商家扶持)"]
-    RET --> RET4["全渠道即时零售 (京东秒送/七鲜超市)"]
-    
-    JD --> LOG["2. 京东物流 (JD Logistics, 2618.HK)"]
-    LOG --> LOG1["全国亚洲一号 (Asia No.1) 超级智能仓群"]
-    LOG --> LOG2["一体化供应链解决方案 (行业客户定制)"]
-    LOG --> LOG3["冷链物流、大件物流与跨境货运航空"]
-    LOG --> LOG4["末端极速配送体系 (211限时达/次晨达)"]
-    
-    JD --> HLT["3. 京东健康 (JD Health, 6618.HK)"]
-    HLT --> HLT1["全渠道医药供应链与在线购药 (京东大药房)"]
-    HLT --> HLT2["互联网医疗诊疗平台与全天候在线问诊"]
-    HLT --> HLT3["数字化健康管理与智慧医疗解决方案"]
-    
-    JD --> IND["4. 京东工业与产发 (JD Industrials & Property)"]
-    IND --> IND1["工业供应链数智化平台 (MRO/采购数字化)"]
-    IND --> IND2["现代高标智能物流园与基础设施投资管理"]
-    
-    JD --> TECH["5. 京东科技与前沿创新 (JD Technology)"]
-    TECH --> TECH1["京东云 (混合多云与高性能AI算力底座)"]
-    TECH --> TECH2["言犀产业大模型 (零售/物流/金融垂直落地)"]
-    TECH --> TECH3["智能供应链中枢 (自研自动化算法与无人车/无人机)"]
-
-    classDef main fill:#e1251b,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#e1251b,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class JD main;
-    class RET,LOG,HLT,IND,TECH branch;
-    class RET1,RET2,RET3,RET4,LOG1,LOG2,LOG3,LOG4,HLT1,HLT2,HLT3,IND1,IND2,TECH1,TECH2,TECH3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

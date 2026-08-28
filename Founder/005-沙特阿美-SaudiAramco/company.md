@@ -25,39 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    ARAMCO["沙特阿美石油帝国 (Saudi Aramco)"]
-    
-    ARAMCO --> UP["1. 上游超大规模勘探与开采 (Upstream E&P)"]
-    UP --> UP1["加瓦尔油田 (Ghawar, 全球最大陆上常规油田, 累产超500亿桶)"]
-    UP --> UP2["萨法尼亚油田 (Safaniya, 全球最大海上油田)"]
-    UP --> UP3["胡赖斯/谢伊巴/马尼法等超级油田群 (日产超1200万桶)"]
-    UP --> UP4["贾富拉非常规巨型气田 (Jafurah, 支撑沙特天然气自给与出口)"]
-    
-    ARAMCO --> DOWN["2. 下游大型炼化与特种化学品 (Downstream & Petrochemicals)"]
-    DOWN --> DOWN1["沙特基础工业公司 (SABIC 70%股权, 全球化工三强)"]
-    DOWN --> DOWN2["沙特本土巨型炼化基地 (延布/朱拜勒/吉赞/拉比格一体化园区)"]
-    DOWN --> DOWN3["亚洲战略合资炼厂 (中国荣盛石化/盛虹炼化/雷法、韩国S-Oil、马来西亚PFLNG)"]
-    DOWN --> DOWN4["美洲独资与合资炼化 (美国最大单体炼厂 Motiva Enterprises 100%全资)"]
-    
-    ARAMCO --> LOGIS["3. 全球原油储运与主干管网 (Midstream & Logistics)"]
-    LOGIS --> LOGIS1["巴赫里超级油轮船队 (Bahri VLCC, 全球最大超大型原油船队之一)"]
-    LOGIS --> LOGIS2["主天然气管网系统 (Master Gas System, 贯通阿拉伯半岛)"]
-    
-    ARAMCO --> FUTURE["4. 零碳与低碳未来新能源 (Low-Carbon & Future Energy)"]
-    FUTURE --> FUTURE1["全球首批商业化蓝氨 (Blue Ammonia) 跨国出口日本/韩国"]
-    FUTURE --> FUTURE2["朱拜勒巨型碳捕集与封存枢纽 (CCS Hub, 年捕集900万吨CO2)"]
-    FUTURE --> FUTURE3["NEOM 新未来城绿氢/绿氨超大型合资生产中心"]
-
-    classDef main fill:#00843D,stroke:#004B23,stroke-width:2px,color:#fff;
-    classDef branch fill:#004B23,stroke:#00843D,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0fbf4,stroke:#004B23,stroke-width:1px,color:#000;
-    class ARAMCO main;
-    class UP,DOWN,LOGIS,FUTURE branch;
-    class UP1,UP2,UP3,UP4,DOWN1,DOWN2,DOWN3,DOWN4,LOGIS1,LOGIS2,FUTURE1,FUTURE2,FUTURE3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Core Competitive Moat)

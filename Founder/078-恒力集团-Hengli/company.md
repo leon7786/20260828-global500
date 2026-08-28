@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HL["恒力全产业链实业帝国 (Hengli Group)"]
-    
-    HL --> REFIN["1. 炼油与基础化工 (Refining & Petrochemicals)"]
-    REFIN --> REFIN1["大连长兴岛 2000万吨/年炼化一体化基地"]
-    REFIN --> REFIN2["450万吨/年全球领先芳烃 (PX) 装置"]
-    REFIN --> REFIN3["150万吨/年全球最大单体乙烯装置与煤制氢系统"]
-    
-    HL --> MATER["2. PTA 与化工新材料 (PTA & Advanced Materials)"]
-    MATER --> MATER1["年产近 1700万吨全球最大单体 PTA 制造基地"]
-    MATER --> MATER2["光学膜、太阳能背板基膜与锂电池隔膜"]
-    MATER --> MATER3["PBS/PBAT 生物可降解绿色环保塑料"]
-    
-    HL --> FIBER["3. 高端化纤与聚酯长丝 (Polyester & High-End Fiber)"]
-    FIBER --> FIBER1["全球最大差别化工业丝制造基地 (安全气囊/轮胎帘子线)"]
-    FIBER --> FIBER2["高品质民用超细旦、吸湿排汗长丝智能车间"]
-    
-    HL --> WEAV["4. 现代织造与超大型面料 (Textile & Weaving)"]
-    WEAV --> WEAV1["吴江/宿迁超 4 万台世界顶级喷水喷气无梭织机基地"]
-    WEAV --> WEAV2["年产 40 亿米高端梭织与家纺面料"]
-    
-    HL --> SHIP["5. 恒力重工与高端海工造船 (Hengli Shipbuilding)"]
-    SHIP --> SHIP1["盘活原 STX 大连造船基地 (占地数百万平米)"]
-    SHIP --> SHIP2["超大型矿砂船 (VLOC) 与绿色双燃料集装箱船建造"]
-
-    classDef main fill:#d9381e,stroke:#2b2b2b,stroke-width:2px,color:#fff;
-    classDef branch fill:#2b2b2b,stroke:#d9381e,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff8f5,stroke:#2b2b2b,stroke-width:1px,color:#000;
-    class HL main;
-    class REFIN,MATER,FIBER,WEAV,SHIP branch;
-    class REFIN1,REFIN2,REFIN3,MATER1,MATER2,MATER3,FIBER1,FIBER2,WEAV1,WEAV2,SHIP1,SHIP2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

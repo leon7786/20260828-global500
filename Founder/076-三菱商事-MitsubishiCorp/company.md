@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    MC["三菱商事集团 (Mitsubishi Corporation)"]
-    
-    MC --> GAS["1. 天然气与绿色能源 (Natural Gas & EX)"]
-    GAS --> GAS1["全球巨型 LNG 项目权益 (文莱/澳大利亚/马来西亚/加拿大)"]
-    GAS --> GAS2["氢能、清洁氨与下一代合成燃料 (e-fuel)"]
-    GAS --> GAS3["欧洲与亚太海上风电及低碳电网投资"]
-    
-    MC --> METAL["2. 矿产与金属资源 (Mineral Resources)"]
-    METAL --> METAL1["澳大利亚冶金炼焦煤资产 (BMA 合资项目)"]
-    METAL --> METAL2["南美大型铜矿项目权益 (秘鲁 Quellaveco 铜矿)"]
-    METAL --> METAL3["高品质铁矿石与绿色钢铁供应链"]
-    
-    MC --> INFRA["3. 基础设施与汽车出行 (Infrastructure & Mobility)"]
-    INFRA --> INFRA1["全球港口、机场与水务公用事业特许经营"]
-    INFRA --> INFRA2["三菱汽车与五十铃东南亚汽车分销及金融服务"]
-    INFRA --> INFRA3["工业机器人、智能物流与智能装备"]
-    
-    MC --> LIFE["4. 消费、生活产业与数字化 (Consumer & DX)"]
-    LIFE --> LIFE1["Lawson 罗森便利店 (全球超2万家门店网络)"]
-    LIFE --> LIFE2["三井食品与全球水产/谷物/生肉端到端供应链"]
-    LIFE --> LIFE3["产业数字化转型 (DX) 与智慧供应链云平台"]
-
-    classDef main fill:#e60012,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#e60012,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff5f5,stroke:#222,stroke-width:1px,color:#000;
-    class MC main;
-    class GAS,METAL,INFRA,LIFE branch;
-    class GAS1,GAS2,GAS3,METAL1,METAL2,METAL3,INFRA1,INFRA2,INFRA3,LIFE1,LIFE2,LIFE3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

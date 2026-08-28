@@ -23,30 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    GLEN["嘉能可商业帝国 (Glencore plc)"]
-    
-    GLEN --> MKT["1. 大宗商品贸易与营销 (Marketing Segment)"]
-    MKT --> MKT_MET["金属与矿产贸易 (铜、钴、锌、镍、铝、铁矿石)"]
-    MKT --> MKT_ENG["能源商品贸易 (原油、成品油、动力煤、LNG、航运物流)"]
-    MKT --> MKT_AGR["农产品贸易 (通过联营企业 Viterra)"]
-    
-    GLEN --> IND["2. 工业与矿山资产 (Industrial Mining & Smelting)"]
-    IND --> COPPER["铜矿矩阵 (秘鲁 Antamina, 智利 Collahuasi, 刚果金 Katanga/Mutanda)"]
-    IND --> COBALT["全球第一大原生钴生产商 (电动汽车动力电池核心供应链)"]
-    IND --> ZINC["全球最大锌生产商之一 (澳大利亚 Mount Isa, 加拿大, 欧洲冶炼厂)"]
-    IND --> COAL["全球核心优质动力煤与炼焦煤资产 (收购加拿大泰克资源煤炭资产 EVR)"]
-    IND --> NICKEL["镍矿与冶炼 (新喀里多尼亚 Koniambo, 澳大利亚 Murrin Murrin)"]
-
-    classDef main fill:#1a365d,stroke:#e28743,stroke-width:2px,color:#fff;
-    classDef branch fill:#e28743,stroke:#1a365d,stroke-width:1px,color:#fff;
-    classDef sub fill:#f7fafc,stroke:#1a365d,stroke-width:1px,color:#000;
-    class GLEN main;
-    class MKT,IND branch;
-    class MKT_MET,MKT_ENG,MKT_AGR,COPPER,COBALT,ZINC,COAL,NICKEL sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

@@ -24,40 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    APPLE["苹果商业帝国 (Apple Inc.)"]
-    
-    APPLE --> HW["1. 标志性智能硬件矩阵 (Hardware Products)"]
-    HW --> HW1["iPhone (全球智能手机利润之王, 年营收超2000亿美元)"]
-    HW --> HW2["Mac (MacBook Pro/Air, iMac, Mac Studio, 搭载自研 M 系列芯片)"]
-    HW --> HW3["iPad (iPad Pro/Air/mini, 平板电脑行业绝对标杆)"]
-    HW --> HW4["可穿戴与家居 (Apple Watch 智能手表, AirPods 无线耳机, HomePod)"]
-    HW --> HW5["Apple Vision Pro (空间计算与混合现实 MR 革命性头显)"]
-    
-    APPLE --> SERV["2. 高毛利数字服务生态 (Digital Services)"]
-    SERV --> SERV1["App Store 应用商店 (管理超百亿美元全球开发者经济)"]
-    SERV --> SERV2["金融支付 (Apple Pay, Apple Card, Apple Cash)"]
-    SERV --> SERV3["流媒体与订阅 (Apple Music, Apple TV+, Apple Arcade, Apple Fitness+)"]
-    SERV --> SERV4["云存储与生产力 (iCloud+, Apple News+, Apple Podcasts)"]
-    
-    APPLE --> OS["3. 专有操作系统与生态底座 (Proprietary Platforms)"]
-    OS --> OS1["iOS & iPadOS (全球最高 ARPU 值移动操作系统)"]
-    OS --> OS2["macOS & watchOS & tvOS & visionOS"]
-    
-    APPLE --> SILICON["4. 自研芯片与 Apple Intelligence (Custom Silicon & AI)"]
-    SILICON --> SILICON1["A 系列仿生芯片 (A17/A18 Pro, 全球领先端侧高能效算力)"]
-    SILICON --> SILICON2["M 系列超级芯片 (M3/M4 Max/Ultra, 统一内存架构 UMA)"]
-    SILICON --> SILICON3["Apple Intelligence (端侧生成式 AI 与私有云计算 Private Cloud Compute)"]
-
-    classDef main fill:#555555,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222222,stroke:#888,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f7,stroke:#222,stroke-width:1px,color:#000;
-    class APPLE main;
-    class HW,SERV,OS,SILICON branch;
-    class HW1,HW2,HW3,HW4,HW5,SERV1,SERV2,SERV3,SERV4,OS1,OS2,SILICON1,SILICON2,SILICON3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Core Competitive Moat)

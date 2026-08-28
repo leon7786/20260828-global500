@@ -23,36 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    FNMA["房利美全球住房金融中枢 (Fannie Mae)"]
-    
-    FNMA --> SF["1. 单一家庭住房业务 (Single-Family Mortgage)"]
-    SF --> SF1["二级市场合格住房抵押贷款 (Conforming Loans) 购买"]
-    SF --> SF2["机构 MBS 证券化打包与本息全额信用担保"]
-    SF --> SF3["低首付 (3%) 首次购房者扶持计划 (HomeReady)"]
-    
-    FNMA --> MF["2. 多家庭租赁住房业务 (Multifamily Housing)"]
-    MF --> MF1["工薪阶层可负担公寓 (Affordable Rental) 长期融资"]
-    MF --> MF2["老年公寓、学生公寓与保障房开发专项信贷"]
-    MF --> MF3["DUS (Delegated Underwriting and Servicing) 风险共担"]
-    
-    FNMA --> CAP["3. 资本市场与风险转移 (Capital Markets & CRT)"]
-    CAP --> CAP1["机构 MBS 做市与全球央行/养老金流动性配置"]
-    CAP --> CAP2["康涅狄格大道证券 (CAS: 信用风险转移至私有资本)"]
-    
-    FNMA --> ESG["4. 绿色与创新住房金融 (Green & Innovation)"]
-    ESG --> ESG1["绿色抵押贷款支持证券 (Green MBS 发行先锋)"]
-    ESG --> ESG2["Desktop Underwriter (DU 自动化智能风控核保系统)"]
-
-    classDef main fill:#002f6c,stroke:#41748d,stroke-width:2px,color:#fff;
-    classDef branch fill:#41748d,stroke:#002f6c,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#002f6c,stroke-width:1px,color:#000;
-    class FNMA main;
-    class SF,MF,CAP,ESG branch;
-    class SF1,SF2,SF3,MF1,MF2,MF3,CAP1,CAP2,ESG1,ESG2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

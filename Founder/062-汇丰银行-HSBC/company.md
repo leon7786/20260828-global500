@@ -25,39 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    HSBC["汇丰控股全球金融帝国 (HSBC Holdings plc)"]
-    
-    HSBC --> WPB["1. 财富管理及个人银行 (WPB)"]
-    WPB --> WPB1["香港与亚洲超级零售存款网络 (香港三家法定发钞行之一)"]
-    WPB --> WPB2["汇丰卓越理财 (Premier) & 环球私人银行 (Private Banking)"]
-    WPB --> WPB3["资产管理 (HSBC Asset Management) & 汇丰人寿保险"]
-    WPB --> WPB4["粤港澳大湾区跨境理财通与数字金融科技"]
-    
-    HSBC --> CMB["2. 工商金融业务 (Commercial Banking)"]
-    CMB --> CMB1["全球中小企业与大型跨国商业贷款"]
-    CMB --> CMB2["全球第一大国际贸易融资服务 (Global Trade & Receivables)"]
-    CMB --> CMB3["跨境供应链金融与营运资金管理"]
-    
-    HSBC --> GBM["3. 环球银行及资本市场 (GBM)"]
-    GBM --> GBM1["全球外汇交易 (FX) 与固定收益证券做市"]
-    GBM --> GBM2["投资银行、跨国并购咨询 (M&A) 与股权承销"]
-    GBM --> GBM3["全球大型主权基金与金融机构大宗清算托管"]
-    
-    HSBC --> GEO["4. 战略地理枢纽网络 (Strategic Hubs)"]
-    GEO --> GEO1["大中华区及亚太枢纽 (贡献集团约70%+核心利润)"]
-    GEO --> GEO2["英国本土环球商业银行 (HSBC UK Bank plc)"]
-    GEO --> GEO3["中东及北非枢纽 (阿联酋/沙特核心跨境资本通道)"]
-
-    classDef main fill:#db0011,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#db0011,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#333,stroke-width:1px,color:#000;
-    class HSBC main;
-    class WPB,CMB,GBM,GEO branch;
-    class WPB1,WPB2,WPB3,WPB4,CMB1,CMB2,CMB3,GBM1,GBM2,GBM3,GEO1,GEO2,GEO3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Strategic Moats)

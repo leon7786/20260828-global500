@@ -23,42 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    NESTLE["雀巢食品与营养帝国 (Nestlé S.A.)"]
-    
-    NESTLE --> BEV["1. 咖啡与饮品 (Liquid & Powder Beverages)"]
-    BEV --> BEV1["速溶与即饮咖啡: 雀巢咖啡 (Nescafé)"]
-    BEV --> BEV2["高端胶囊咖啡系统: Nespresso (浓遇咖啡) & 星巴克家享咖啡零售合作"]
-    BEV --> BEV3["可可与麦芽冲饮: 美禄 (Milo) & Nesquik"]
-    
-    NESTLE --> PET["2. 宠物护理与食品 (Purina PetCare)"]
-    PET --> PET1["高端科学配方粮: 冠能 (Pro Plan)"]
-    PET --> PET2["大众主流宠物粮: 喜跃 (Friskies) & 康多乐 (Dog Chow)"]
-    PET --> PET3["猫砂与专业兽医处方粮: 珍致 (Fancy Feast) & Purina ONE"]
-    
-    NESTLE --> NUTR["3. 营养与健康科学 (Nutrition & Health Science)"]
-    NUTR --> NUTR1["母婴营养: 雀巢能恩 (NAN)、惠氏启赋 (illuma)、嘉宝 (Gerber)"]
-    NUTR --> NUTR2["特医食品与临床营养: 雀巢健康科学 (Nestlé Health Science)"]
-    NUTR --> NUTR3["膳食营养补充剂: 健安喜 (Nature's Bounty)、Solgar"]
-    
-    NESTLE --> FOOD["4. 预制食品与烹饪调味 (Prepared Dishes & Cooking Aids)"]
-    FOOD --> FOOD1["全球调味品与方便速食: 美极 (Maggi)"]
-    FOOD --> FOOD2["冷冻预制食品: Stouffer's、Lean Cuisine、Buitoni"]
-    
-    NESTLE --> MILK["5. 乳制品、冰淇淋与糖果 (Dairy, Ice Cream & Confectionery)"]
-    MILK --> MILK1["乳制品: 鹰唛炼乳 (Eagle Brand/Milkmaid)、雀巢全脂奶粉 (Nido)"]
-    MILK --> MILK2["巧克力与糖果: 奇巧 (KitKat)、Smarties、Crunch、徐福记 (Hsu Fu Chi)"]
-    MILK --> MILK3["冰淇淋: 莫凡彼 (Mövenpick)、德雷尔 (Dreyer's / Froneri合资)"]
-
-    classDef main fill:#592c82,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#003366,stroke:#592c82,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class NESTLE main;
-    class BEV,PET,NUTR,FOOD,MILK branch;
-    class BEV1,BEV2,BEV3,PET1,PET2,PET3,NUTR1,NUTR2,NUTR3,FOOD1,FOOD2,MILK1,MILK2,MILK3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

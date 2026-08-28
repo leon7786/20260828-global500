@@ -1,7 +1,7 @@
 {
   "total_companies": 100,
-  "master_count": 21,
-  "total_bytes": 1963484,
+  "master_count": 18,
+  "total_bytes": 1665995,
   "companies": [
     {
       "rank": 1,
@@ -12,9 +12,9 @@
       "industry": "🛒 零售与电商",
       "founder_title": "杰夫·贝索斯 (Jeff Bezos)：造浪者、反熵增斗士与星际梦想家的全景史诗传记",
       "founder_quote": "“在漫长的商业史上，大多数公司的宿命都是随波逐流；而极少数人选择成为‘造浪者’。如果你不能接受长期被误解、被嘲笑、被唱衰，那么你就永远不要做任何真正的创新。”",
-      "founder_size": 38806,
-      "founder_size_kb": 37.9,
-      "company_size_kb": 7.4,
+      "founder_size": 34692,
+      "founder_size_kb": 33.9,
+      "company_size_kb": 5.6,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -26,9 +26,9 @@
       "industry": "🛒 零售与电商",
       "founder_title": "山姆·沃尔顿 (Sam Walton)：零售拓荒者、天天平价信仰与全球商业第一帝国全景史诗传记",
       "founder_quote": "“在这个世界上，只有一个真正的老板——那就是我们的顾客！顾客只需要做一件简单至极的事情，就能把从董事长到清洁工的每一个人全部解雇：那就是——把手里的钞票花在别的地方！我们所有的降价、所有的省吃俭用，都是为了让那些在土地里辛苦劳作的普通人，能用最体面的价格过上更有尊严的生活！”",
-      "founder_size": 28372,
-      "founder_size_kb": 27.7,
-      "company_size_kb": 6.3,
+      "founder_size": 27087,
+      "founder_size_kb": 26.5,
+      "company_size_kb": 4.6,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -40,9 +40,9 @@
       "industry": "⚡ 电网与公用事业",
       "founder_title": "刘振亚与国家电网 (Liu Zhenya & State Grid)：大国重器、特高压征途与全球能源互联的创世纪史诗",
       "founder_quote": "“特高压不仅是一项前所未有的工程技术，更是关乎国家能源安全与民族复兴的战略大动脉。面对人类电力工业前所未见的‘无人区’，我们要么在质疑与冷眼中杀出一条血路，要么就永远在能源咽喉上受制于人！如果特高压搞错了，我刘振亚甘当历史罪人，撤职坐牢我都认；但如果不搞，导致中国电力卡脖子，我们就是贻误国家战略的千...",
-      "founder_size": 48705,
-      "founder_size_kb": 47.6,
-      "company_size_kb": 7.7,
+      "founder_size": 43145,
+      "founder_size_kb": 42.1,
+      "company_size_kb": 5.3,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -54,9 +54,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "理查德·伯克 (Richard Burke) 与 斯蒂芬·赫姆斯利 (Stephen Hemsley)：重塑全美医疗体系的隐形巨擘与超级架构师",
       "founder_quote": "“我们不是一家普通的健康保险公司，而是一家重构医疗交付生态的现代数据与临床工程集团。当你拥有全美最强大的临床网络、最庞大的药房福利中枢与最敏锐的健康算法闭环，你不仅在管理风险，你是在定义万亿医疗文明的底层运行规则。”",
-      "founder_size": 52038,
-      "founder_size_kb": 50.8,
-      "company_size_kb": 6.7,
+      "founder_size": 44413,
+      "founder_size_kb": 43.4,
+      "company_size_kb": 5.0,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -68,9 +68,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "马克斯·斯坦尼克 (Max Steineke) & 阿里·纳伊米 (Ali Al-Naimi) 与沙特阿美：大漠黑金神话与全球能源权杖全景史诗传记",
       "founder_quote": "“在漫无边际的阿拉伯大沙漠之下，深埋着推动现代工业文明滚滚向前的黑色血液。我们的使命，不仅是用钻头征服地层，更是将这份大自然的馈赠，转化为沙特乃至全人类生生不息的繁荣动能与智慧基石。”",
-      "founder_size": 57369,
-      "founder_size_kb": 56.0,
-      "company_size_kb": 7.2,
+      "founder_size": 50430,
+      "founder_size_kb": 49.2,
+      "company_size_kb": 5.2,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -82,9 +82,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "史蒂夫·乔布斯 (Steve Jobs)：站在科技与人文十字路口的终极创新之神完整史诗全景传记",
       "founder_quote": "“致那些疯狂的家伙、不合群的人、叛逆者、麻烦制造者，以及那些用不同眼光看待事物的人……他们不墨守成规，他们也不安于现状。你可以认同他们，你可以反对他们，你可以颂扬抑或是诋毁他们；但唯独不能漠视他们。因为他们改变了事物，他们推动了人类向前迈进。或许他们是别人眼里的疯子，但他们却是我们眼中的天才。因为只...",
-      "founder_size": 36518,
-      "founder_size_kb": 35.7,
-      "company_size_kb": 7.3,
+      "founder_size": 31584,
+      "founder_size_kb": 30.8,
+      "company_size_kb": 5.4,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -96,9 +96,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "约翰·麦克森 (John McKesson) 与查尔斯·奥尔科特 (Charles Olcott)：两百年医药血脉、惊天假账浩劫与全球分销霸权全景史诗传记",
       "founder_quote": "“我们不仅要清偿每一分钱的债务，更要向全世界证明：一家拥有百年历史的企业，其最核心的资产不是账面上的存货，而是深植于每一个分销网点、每一位药剂师心中的诚信与生命契约。”",
-      "founder_size": 57412,
-      "founder_size_kb": 56.1,
-      "company_size_kb": 6.7,
+      "founder_size": 46923,
+      "founder_size_kb": 45.8,
+      "company_size_kb": 4.9,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -110,9 +110,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "拉里·佩奇 (Larry Page) 与谢尔盖·布林 (Sergey Brin)：十倍思维、乐高服务器与组织全球信息的星际双星全景史诗传记",
       "founder_quote": "“如果你把目标定在让事情改善 10%，你就会和所有人陷入无休止的平庸内耗；但如果你把目标定在让事情提升 10 倍 (10X)，你就必须推翻所有既有假设，从底层的物理学与数学第一性原理重新出发。追求那些看似荒谬不经的登月梦想，反而往往更容易成功，因为在那里——你没有任何竞争对手！”",
-      "founder_size": 30095,
-      "founder_size_kb": 29.4,
-      "company_size_kb": 7.4,
+      "founder_size": 25781,
+      "founder_size_kb": 25.2,
+      "company_size_kb": 5.4,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -124,9 +124,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "斯坦利·戈德斯坦 (Stanley Goldstein) 与 CVS Health：从平价杂货铺到四千亿医疗健康帝国的全景史诗传记",
       "founder_quote": "“在商业世界里，最深刻的真理往往伪装成最朴素的常识。不要整天盘算‘我们怎么才能赚到这笔利润’，你只需要日复一日地倾听消费者的声音，把实实在在的价值双手奉上，利润自然会作为副产品奔涌而来。当你的企业使命关乎人类生命与健康时，任何向暴利的妥协都是对灵魂的背叛。”",
-      "founder_size": 49126,
-      "founder_size_kb": 48.0,
-      "company_size_kb": 6.9,
+      "founder_size": 42875,
+      "founder_size_kb": 41.9,
+      "company_size_kb": 5.3,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -138,9 +138,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "李四光、余秋里、康世恩与王进喜：奠基中国石油工业的拓荒史诗与万米深地征途",
       "founder_quote": "“石油是工业的血液。没有石油，飞机上不了天，坦克开不动，工厂转不起来。就是掉肉流血，我们这代人也必须把石油从地底下拉出来！”",
-      "founder_size": 54891,
-      "founder_size_kb": 53.6,
-      "company_size_kb": 7.3,
+      "founder_size": 48470,
+      "founder_size_kb": 47.3,
+      "company_size_kb": 5.1,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -152,9 +152,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "沃伦·巴菲特 (Warren Buffett) 与查理·芒格 (Charlie Munger)：滚雪球复利、护城河哲学与奥马哈圣殿全景史诗传记",
       "founder_quote": "“人生就像滚雪球，最重要的事情是发现湿漉漉的雪，和一条长长的山坡。在投资的世界里，你不需要拥有超凡的智商，你只需要拥有极度克制的理性、守住自己的能力圈，并在别人贪婪时恐惧、在别人恐惧时极度贪婪！以公允的价格买入一家伟大的企业，远远胜过以便宜的价格买入一家平庸的企业。”",
-      "founder_size": 45093,
-      "founder_size_kb": 44.0,
-      "company_size_kb": 8.4,
+      "founder_size": 38631,
+      "founder_size_kb": 37.7,
+      "company_size_kb": 6.0,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -166,9 +166,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "陈锦华 (Chen Jinhua) 与中国石化：十亿人穿衣史诗、大国炼化重器与万亿能源航母全景史诗传记",
       "founder_quote": "“石化工业是国民经济的命脉母体。穿衣、吃粮、行路、造物，全中国十亿人的温饱与工业现代化，哪一样能离开石油化工？把分散在20个省市、3个部委的39家大厂捏成一个铁拳头，我们要向全世界证明：中国人不仅能自己造出每一寸化纤、每一滴高标汽油，更能在世界石化之林挺起大国的钢铁脊梁！”",
-      "founder_size": 39022,
-      "founder_size_kb": 38.1,
-      "company_size_kb": 6.8,
+      "founder_size": 32326,
+      "founder_size_kb": 31.6,
+      "company_size_kb": 4.7,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -180,9 +180,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "费迪南德·保时捷 (Ferdinand Porsche) 与大众汽车：甲壳虫神话、格明德锯木厂与欧洲汽车工业之神全景史诗传记",
       "founder_quote": "“当我环顾四周，在全世界的街道上都找不到一辆我梦想中的轻量化、高效率、充满纯粹操控激情的跑车时，我决定——自己亲手去制造一辆！汽车工程绝不是冰冷钢铁与机械零件的死板堆砌，它是人类打破空间禁锢、征服速度极限与驾驭物理法则的最高艺术。”",
-      "founder_size": 62033,
-      "founder_size_kb": 60.6,
-      "company_size_kb": 6.4,
+      "founder_size": 55474,
+      "founder_size_kb": 54.2,
+      "company_size_kb": 4.8,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -196,7 +196,7 @@
       "founder_quote": "“没有问题，才是最大的问题。所谓的精益生产，就是穷尽一生向浪费发起永不妥协的圣战。”",
       "founder_size": 58545,
       "founder_size_kb": 57.2,
-      "company_size_kb": 6.8,
+      "company_size_kb": 4.9,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -208,9 +208,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "约翰·D·洛克菲勒 (John D. Rockefeller) 与标准石油：神圣账本 A、三十九滴焊锡与人类首个万亿商业帝国全景史诗传记",
       "founder_quote": "“在混乱无序的荒野里，盲目竞争是一场残酷的血腥浪费，唯有联合与秩序才能拯救文明！我从未把金钱当作欲望的奴仆，金钱是上帝托付给我的神圣信托。如果你连一滴焊锡、一分钱的账目都算不清楚，你就永远没有资格执掌一个跨越大陆的超级产业！”",
-      "founder_size": 54095,
-      "founder_size_kb": 52.8,
-      "company_size_kb": 6.3,
+      "founder_size": 46920,
+      "founder_size_kb": 45.8,
+      "company_size_kb": 4.7,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -222,9 +222,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "卢西恩·拿破仑·布伦斯威格 (Lucien Napoleon Brunswig) 与 Cencora：从边境药铺到全球万亿特药供应链帝国的全景史诗传记",
       "founder_quote": "“药品的流通绝非简单的商业仓储与吨位搬运，它是实验室微观分子与病患生命之间最不可断裂的信任纽带。无论是 19 世纪末用大篷马车穿越印第安荒原运送高纯度奎宁，还是 21 世纪用零下 196 度的液氮干罐横跨大洋护送活体 CAR-T 细胞，每一剂药品的精准交付，都是人类对抗疾病与死亡的庄严契约。”",
-      "founder_size": 55384,
-      "founder_size_kb": 54.1,
-      "company_size_kb": 6.6,
+      "founder_size": 48930,
+      "founder_size_kb": 47.8,
+      "company_size_kb": 5.0,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -236,9 +236,9 @@
       "industry": "🏗️ 建筑与工程",
       "founder_title": "陆佑九与中国建筑建设者：三天一层楼、大国地标与基建狂魔全球领航全景史诗传记",
       "founder_quote": "“在荒芜的泥塘与风沙中，建筑工人不仅是用钢筋水泥浇筑高楼，我们是用血肉之躯为国家铸造脊梁！从深圳国贸‘三天一层楼’的生死滑模试验，到十天十夜拔地而起的火神山雷神山，只要国家需要，中国建筑永远能创造人类工程史上的极限奇迹！”",
-      "founder_size": 18960,
-      "founder_size_kb": 18.5,
-      "company_size_kb": 6.3,
+      "founder_size": 15896,
+      "founder_size_kb": 15.5,
+      "company_size_kb": 4.4,
       "status": "✨ 详实传记"
     },
     {
@@ -250,9 +250,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "比尔·盖茨 (Bill Gates) 与保罗·艾伦 (Paul Allen)：代码创世纪、操作系统主权与硅谷帝国的全景史诗传记",
       "founder_quote": "“当一场历史性的技术大爆炸即将来临之时，绝大多数人都在等待观望，而极少数人会听到时代的召唤并义无反顾地冲向风暴中心。我们当时深知，微处理器的出现将彻底重塑人类社会的一切——如果我们不去创造这个未来，别人就会替我们去创造。”",
-      "founder_size": 76314,
-      "founder_size_kb": 74.5,
-      "company_size_kb": 6.6,
+      "founder_size": 68278,
+      "founder_size_kb": 66.7,
+      "company_size_kb": 4.7,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -264,9 +264,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "J.P. 摩根 (J. Pierpont Morgan)：金融巨神、秩序重构者与两次拯救合众国国库之神全景史诗传记",
       "founder_quote": "“金钱算得了什么？世界上有些东西是用再多黄金也买不到的，那就是——品格 (Character)！一个我不信任的人，哪怕他拿整个基督教世界的全部债券与黄金来抵押，我也绝不会借给他一分钱！”",
-      "founder_size": 37641,
-      "founder_size_kb": 36.8,
-      "company_size_kb": 6.4,
+      "founder_size": 29534,
+      "founder_size_kb": 28.8,
+      "company_size_kb": 4.8,
       "status": "🌟 大师级深度精修"
     },
     {
@@ -278,10 +278,10 @@
       "industry": "🛒 零售与电商",
       "founder_title": "吉姆·辛内格尔 (James Sinegal) 与杰夫·布罗特曼 (Jeff Brotman)：平价信仰、十四点毛利红线与开市客全景史诗传记",
       "founder_quote": "“在整个零售业的凡俗世界里，绝大多数商人的本能思考都是：‘我进价 10 块钱，怎么才能神不知鬼不觉地卖到 12 块甚至 15 块？’而在开市客，我们的算盘永远倒过来拨：‘我进价 10 块钱，怎么拼尽全力把它降到 9 块钱卖给会员？’如果哪天开市客的综合毛利率胆敢超过 14%，那就意味着我们背叛了会员...",
-      "founder_size": 20568,
-      "founder_size_kb": 20.1,
-      "company_size_kb": 6.9,
-      "status": "🌟 大师级深度精修"
+      "founder_size": 18724,
+      "founder_size_kb": 18.3,
+      "company_size_kb": 5.2,
+      "status": "✨ 详实传记"
     },
     {
       "rank": 21,
@@ -292,9 +292,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "信诺集团 (Cigna) 创始人与跨越两百三十载医疗保险史诗：独立厅北美保险、战火保单与现代健康管理全景史诗传记",
       "founder_quote": "“当十八世纪的商人们还在为大西洋的风暴祈祷上帝保佑时，我们已经在费城独立厅的长凳上，用精确的概率数学与不可动摇的契约信用，为人类的商业冒险铸造起第一道抵御厄运的坚固盾牌！两个多世纪过去了，风帆变成了跨国航线，货物变成了人类最宝贵的生命与健康，但信诺的信仰从未改变：在疾病与意外降临的至暗时刻，我们就是...",
-      "founder_size": 13529,
-      "founder_size_kb": 13.2,
-      "company_size_kb": 5.6,
+      "founder_size": 11246,
+      "founder_size_kb": 11.0,
+      "company_size_kb": 4.4,
       "status": "✨ 详实传记"
     },
     {
@@ -306,9 +306,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "马库斯·萨缪尔 (Marcus Samuel) 与壳牌：伦敦贝壳古董铺、首艘苏伊士穿峡油轮与百年黑金霸权全景史诗传记",
       "founder_quote": "“当洛克菲勒的标准石油把全世界装进他们沉重昂贵的五加仑马口铁油桶时，全天下所有人都以为这是不可更改的铁律！但我们在伦敦白教堂的贝壳小铺里看着地图想：为什么要把运费浪费在笨重的铁皮上？直接建造一艘在大洋里破浪前行的‘移动浮动油库’，从苏伊士运河直插远东！只要你的成本比标准石油便宜一半，神话就会在瞬间倒...",
-      "founder_size": 12550,
-      "founder_size_kb": 12.3,
-      "company_size_kb": 5.5,
+      "founder_size": 10363,
+      "founder_size_kb": 10.1,
+      "company_size_kb": 4.0,
       "status": "✨ 详实传记"
     },
     {
@@ -320,9 +320,9 @@
       "industry": "⚙️ 精密代工与制造",
       "founder_title": "郭台铭 (Terry Gou)：精密制造总教头、模具第一性原理与鸿海富士康全景史诗传记",
       "founder_quote": "“走出实验室，没有高科技，只有执行的纪律！走出舒适区，没有天生的赢家，只有在泥泞血泊中拼尽全力抢下订单的狂狼。如果谁以为富士康只是靠低成本组装赚钱，他就根本不懂什么是现代精密制造的物理极限！从台北土城两台二手注塑机到深圳龙华数十万大军，我们把每一个微米、每一秒钟、每一分钱的浪费都彻底拧干，这就是精密...",
-      "founder_size": 19320,
-      "founder_size_kb": 18.9,
-      "company_size_kb": 5.8,
+      "founder_size": 17453,
+      "founder_size_kb": 17.0,
+      "company_size_kb": 4.3,
       "status": "✨ 详实传记"
     },
     {
@@ -334,10 +334,10 @@
       "industry": "⛏️ 大宗商品与金属",
       "founder_title": "马克·里奇 (Marc Rich) 与嘉能可：大宗商品现货交易之神、瑞士楚格秘密帝国与全球资源套利全景史诗传记",
       "founder_quote": "“在政客们眼里，世界被意识形态和冷战铁幕撕裂；但在真正的大宗商品交易员眼里，世界只有两个港口——一个有富余的矿石与石油，另一个有着极度的饥渴与短缺！只要你能把货物安全送到码头，战争、制裁与禁运，就只是套利空间的大小而已！”",
-      "founder_size": 10123,
-      "founder_size_kb": 9.9,
-      "company_size_kb": 5.5,
-      "status": "✨ 详实传记"
+      "founder_size": 8205,
+      "founder_size_kb": 8.0,
+      "company_size_kb": 4.2,
+      "status": "📝 标准传记"
     },
     {
       "rank": 25,
@@ -348,10 +348,10 @@
       "industry": "⛏️ 大宗商品与金属",
       "founder_title": "克劳德·多芬 (Claude Dauphin)：低调巨擘、托克帝国的奠基人与实物贸易宗师",
       "founder_quote": "“大宗商品贸易商不是坐在空调房里敲击键盘的金融投机客，而是全球物资流动链条上的搬运工与建筑师。如果你没有亲自嗅过油罐里的重油味、没有在暴风雨中的码头核对过货轮提单，你就永远不能真正理解这个行业的灵魂。”",
-      "founder_size": 10923,
-      "founder_size_kb": 10.7,
-      "company_size_kb": 5.4,
-      "status": "✨ 详实传记"
+      "founder_size": 9052,
+      "founder_size_kb": 8.8,
+      "company_size_kb": 4.0,
+      "status": "📝 标准传记"
     },
     {
       "rank": 26,
@@ -362,9 +362,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "李秉喆与李健熙：三万韩元大邱商会、反周期血腥杀戮与法兰克福浴火涅槃全景史诗传记",
       "founder_quote": "“除了老婆和孩子，把其余的一切全给我换掉！如果我们继续沉醉在韩国第一的虚幻荣耀里，在劣质产品的泥潭里得过且过，三星用不了多久就会在历史的舞台上彻底灰飞烟灭！要么成为世界第一，要么去死！”",
-      "founder_size": 16156,
-      "founder_size_kb": 15.8,
-      "company_size_kb": 5.5,
+      "founder_size": 14004,
+      "founder_size_kb": 13.7,
+      "company_size_kb": 3.9,
       "status": "✨ 详实传记"
     },
     {
@@ -376,10 +376,10 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "罗伯特·D·沃尔特 (Robert D. Walter)：从食品仓库到两千亿医疗帝国的造局宗师",
       "founder_quote": "“在低毛利的流通行业里，平庸者在每一个细节上流血致死，而卓越者在每一个微小的流程上榨取效率。你不需要去发明一种奇迹药物，只要你能比任何人都更快、更准、更省地把药物送到医生和患者手中，你就是整个医疗生态系统不可或缺的心脏。”",
-      "founder_size": 10410,
-      "founder_size_kb": 10.2,
-      "company_size_kb": 5.1,
-      "status": "✨ 详实传记"
+      "founder_size": 8247,
+      "founder_size_kb": 8.1,
+      "company_size_kb": 3.8,
+      "status": "📝 标准传记"
     },
     {
       "rank": 28,
@@ -390,10 +390,10 @@
       "industry": "💻 科技与芯片",
       "founder_title": "黄仁勋 (Jensen Huang)：算力拓荒者、光影雕刻家与全球 AI 基础设施教皇全景史诗传记",
       "founder_quote": "“在过去的三十年里，英伟达永远距离破产倒闭只有短短 30 天。我们之所以能够从绝境中一次次爬出来并最终站上全人类人工智能的巅峰，不是因为我们比别人更聪明，而是因为我们比全世界任何人都更能忍受痛苦、折磨与屈辱 (Endure Pain and Suffering)。卓越从来不是来自于舒适的天赋，卓越来...",
-      "founder_size": 21825,
-      "founder_size_kb": 21.3,
-      "company_size_kb": 6.0,
-      "status": "🌟 大师级深度精修"
+      "founder_size": 18979,
+      "founder_size_kb": 18.5,
+      "company_size_kb": 4.5,
+      "status": "✨ 详实传记"
     },
     {
       "rank": 29,
@@ -404,10 +404,10 @@
       "industry": "🏦 金融与银行",
       "founder_title": "中国工商银行奠基史诗与现代掌舵者姜建清人物志 (ICBC & Jiang Jianqing)",
       "founder_quote": "“银行是一座由信用铸就的宏伟大厦，它的基石是审慎，它的砖石是风险控制。在银行业，追求速度并不难，难的是穿越漫长的经济周期后，你依然屹立在晨光之中。工于至诚，才能行以致远！”",
-      "founder_size": 11031,
-      "founder_size_kb": 10.8,
-      "company_size_kb": 5.8,
-      "status": "✨ 详实传记"
+      "founder_size": 8799,
+      "founder_size_kb": 8.6,
+      "company_size_kb": 4.1,
+      "status": "📝 标准传记"
     },
     {
       "rank": 30,
@@ -418,9 +418,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "马克·扎克伯格 (Mark Zuckerberg)：连接者、黑客精神与社交帝国元宇宙全景史诗传记",
       "founder_quote": "“快速行动，打破常规 (Move fast and break things)。除非你偶尔打破了一些东西，否则你行动的步伐就不够快！在这个日新月异的技术世界里，最大的风险就是不敢冒任何风险！如果你什么都不做，等待你的唯一结局就是被时代无情地碾碎！”",
-      "founder_size": 15159,
-      "founder_size_kb": 14.8,
-      "company_size_kb": 5.7,
+      "founder_size": 12930,
+      "founder_size_kb": 12.6,
+      "company_size_kb": 4.2,
       "status": "✨ 详实传记"
     },
     {
@@ -432,9 +432,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "Elevance Health 奠基先驱与转型领袖：重构全美健康保障的八十年史诗人物志",
       "founder_quote": "“健康保险的终极使命绝不是坐在办公室里计算冷冰冰的理赔发生率，而是必须走入患者的生活之中，提升整个生命周期的健康质量。唯有超越传统保险，我们才能真正实现对人类健康的庄严承诺。”",
-      "founder_size": 16408,
-      "founder_size_kb": 16.0,
-      "company_size_kb": 7.5,
+      "founder_size": 13442,
+      "founder_size_kb": 13.1,
+      "company_size_kb": 5.9,
       "status": "✨ 详实传记"
     },
     {
@@ -446,9 +446,9 @@
       "industry": "🏥 医疗与健康",
       "founder_title": "伊丽莎白·布林与迈克尔·内多夫：从医院地下室到两千亿帝国的医疗平民史诗",
       "founder_quote": "“无论一个人多么贫穷、处于社会的哪个阶层，当疾病降临时，他们都有权利获得最体面、最温暖且最高水准的医疗照护。尊严，是不可定价的处方药。”",
-      "founder_size": 13434,
-      "founder_size_kb": 13.1,
-      "company_size_kb": 7.1,
+      "founder_size": 11173,
+      "founder_size_kb": 10.9,
+      "company_size_kb": 5.4,
       "status": "✨ 详实传记"
     },
     {
@@ -460,9 +460,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "威廉·达西与丘吉尔的帝国石油大棋局：开启中东黑色黄金百年的史诗人物志",
       "founder_quote": "“在命运的转盘停下之前，哪怕只剩最后一副筹码，真正的拓荒者也绝不离场。在中东滚烫的荒漠之下，沉睡着足以改变整个人类文明动力的力量。”",
-      "founder_size": 14881,
-      "founder_size_kb": 14.5,
-      "company_size_kb": 7.3,
+      "founder_size": 12126,
+      "founder_size_kb": 11.8,
+      "company_size_kb": 5.5,
       "status": "✨ 详实传记"
     },
     {
@@ -474,9 +474,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "阿马迪奥·贾尼尼 (Amadeo Giannini)：旧金山大地震废墟上的平民银行家与美国银行全景史诗传记",
       "founder_quote": "“在过去的金融世界里，大银行只愿意借钱给那些原本就腰缠万贯的富豪，而把辛勤流汗的穷苦移民、菜农和小手工业者拒之门外。我的银行，就是为那些手上沾着泥土、除了诚实和一双手之外一无所有的普通人开办的！”",
-      "founder_size": 9696,
-      "founder_size_kb": 9.5,
-      "company_size_kb": 7.1,
+      "founder_size": 7741,
+      "founder_size_kb": 7.6,
+      "company_size_kb": 5.3,
       "status": "📝 标准传记"
     },
     {
@@ -488,9 +488,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "中国农业银行奠基历史与改革先驱：从泥土芬芳到万亿金桥的七十五载金融长征",
       "founder_quote": "“农村是中国的根本，农民是共和国的脊梁。新中国的银行，必须把金融的活水浇灌到每一垄田地、每一户农家。只要乡亲们需要，我们的算盘和账本就必须跨过崇山峻岭送到他们身边。”",
-      "founder_size": 13094,
-      "founder_size_kb": 12.8,
-      "company_size_kb": 7.2,
+      "founder_size": 10892,
+      "founder_size_kb": 10.6,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -502,9 +502,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "德米特里厄斯·斯科菲尔德与马克斯·斯坦尼克：从加州沥青荒山到阿拉伯石油传奇的探险人物志",
       "founder_quote": "“在石油这个行业，大地绝不会轻易交出它的秘密。唯有那些敢于踏入未知荒原、在无数次干涸失败中依然坚信地质规律的人，才能点亮文明前进的灯火。”",
-      "founder_size": 12953,
-      "founder_size_kb": 12.6,
-      "company_size_kb": 7.0,
+      "founder_size": 10438,
+      "founder_size_kb": 10.2,
+      "company_size_kb": 5.3,
       "status": "✨ 详实传记"
     },
     {
@@ -516,9 +516,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "中国建设银行奠基历史与改革先锋：从一五计划国之基石到新金融航母的七十年人物志",
       "founder_quote": "“建设资金是全国人民勒紧裤腰带积攒下来的血汗钱。建行人的天职，就是替国家守好每一分钱，把好建设质量关；该拨的一分不能少，不合格的工程一分不能拨！”",
-      "founder_size": 13551,
-      "founder_size_kb": 13.2,
-      "company_size_kb": 7.0,
+      "founder_size": 11012,
+      "founder_size_kb": 10.8,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -530,9 +530,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "亨利·福特 (Henry Ford)：流水线工业革命、T型车传奇与日薪五美元神话全景史诗传记",
       "founder_quote": "“如果我当年去问顾客他们想要什么，他们只会告诉我：‘一匹跑得更快的马！’我的使命是为所有人制造一辆买得起的平民汽车。我们要把价格降到全美任何一名流水线工人只需花费几个月的薪水就能开走它！”",
-      "founder_size": 12525,
-      "founder_size_kb": 12.2,
-      "company_size_kb": 6.7,
+      "founder_size": 10032,
+      "founder_size_kb": 9.8,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -544,9 +544,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "威廉·杜兰特与阿尔弗雷德·斯隆：汽车帝国的狂想缔造者与管理哲学宗师",
       "founder_quote": "“有些人把商业看作是小心翼翼的算账游戏，而我把商业看作是构筑宏伟文明的狂野史诗。如果你的梦想大到连自己都感到害怕，那么整个世界都会为你让路。”",
-      "founder_size": 16884,
-      "founder_size_kb": 16.5,
-      "company_size_kb": 6.7,
+      "founder_size": 13747,
+      "founder_size_kb": 13.4,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -558,9 +558,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "欧内斯特·梅西埃与雷蒙·普恩加莱：一战石油危机的救赎与法国主权能源世纪人物志",
       "founder_quote": "“在现代工业与总体战的棋盘上，没有自主石油的国家就等于把自己的咽喉暴露在敌人的刺刀之下。法兰西的旗帜，必须插在属于我们自己的油田之上！”",
-      "founder_size": 13847,
-      "founder_size_kb": 13.5,
-      "company_size_kb": 7.0,
+      "founder_size": 11451,
+      "founder_size_kb": 11.2,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -572,10 +572,10 @@
       "industry": "🛒 零售与电商",
       "founder_title": "刘强东 (Richard Liu) 与京东：宿迁七十六个茶叶蛋、重资产自建物流与万亿供应链帝国全景史诗传记",
       "founder_quote": "“在过去的中国电商世界里，大家都习惯了轻资产、赚快钱的平台模式。但我坚信：唯有做最苦、最累、没人愿意碰的重资产自建仓配物流，把商品搬运次数从五次降到两次，将每一件货物在 24 小时内亲手送到老百姓手里，才是最坚不可摧的终极护城河！如果一家企业靠克扣一线兄弟的五险一金来赚钱，那是耻辱的利润！”",
-      "founder_size": 10680,
-      "founder_size_kb": 10.4,
-      "company_size_kb": 6.9,
-      "status": "✨ 详实传记"
+      "founder_size": 8910,
+      "founder_size_kb": 8.7,
+      "company_size_kb": 5.0,
+      "status": "📝 标准传记"
     },
     {
       "rank": 42,
@@ -586,9 +586,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "中国人寿奠基史志：从红星照耀新中国到全球保险巨擘的壮阔征程",
       "founder_quote": "“保险是人类对抗未知风暴、凝聚互助博爱的最崇高发明之一。在新中国这片土地上，我们的责任是让每一位普通劳动者在年老、疾病与意外面前，拥有一份坚不可摧的温暖与尊严。”",
-      "founder_size": 9469,
-      "founder_size_kb": 9.2,
-      "company_size_kb": 6.0,
+      "founder_size": 7474,
+      "founder_size_kb": 7.3,
+      "company_size_kb": 4.2,
       "status": "📝 标准传记"
     },
     {
@@ -600,9 +600,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "跨越世纪的钢铁联盟：阿涅利家族、标致家族与塔瓦雷斯的工业重组史诗",
       "founder_quote": "“在汽车这个残酷的达尔文式产业中，规模与效率不是可有可无的选择，而是生存的唯一氧气。如果你不能以闪电般的速度自我革新，巨人的身躯就会在一夜之间沦为恐龙的化石。”",
-      "founder_size": 8985,
-      "founder_size_kb": 8.8,
-      "company_size_kb": 6.0,
+      "founder_size": 6991,
+      "founder_size_kb": 6.8,
+      "company_size_kb": 4.3,
       "status": "📝 标准传记"
     },
     {
@@ -614,9 +614,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "中国银行 (Bank of China) 奠基史诗：孙中山批示立行、张嘉璈抗拒停兑令与百年跨境金融全景史诗传记",
       "founder_quote": "“银行者，国家经济之枢纽，对外贸易之命脉。中国银行自诞生之日起，便承载着重振华夏金融主权、沟通中外贸易血脉的历史重托。无论时代风云变幻，中国银行的信誉，千金不移！”",
-      "founder_size": 7550,
-      "founder_size_kb": 7.4,
-      "company_size_kb": 6.2,
+      "founder_size": 5838,
+      "founder_size_kb": 5.7,
+      "company_size_kb": 4.7,
       "status": "📝 标准传记"
     },
     {
@@ -628,9 +628,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "花旗奠基史志：塞缪尔·奥斯古德建行、桑迪·威尔的超级金融航母与两百年风云",
       "founder_quote": "“银行不是简单的金钱中介，它是全球贸易与人类产业协作的润滑油与神经网络。谁能将网络铺到世界的每一个角落，谁就能掌握全球经济流动的脉搏。”",
-      "founder_size": 8682,
-      "founder_size_kb": 8.5,
-      "company_size_kb": 5.4,
+      "founder_size": 6605,
+      "founder_size_kb": 6.5,
+      "company_size_kb": 3.9,
       "status": "📝 标准传记"
     },
     {
@@ -642,9 +642,9 @@
       "industry": "🛒 零售与电商",
       "founder_title": "伯尼·马库斯 (Bernie Marcus) 与阿瑟·布兰克 (Arthur Blank)：四十九岁被解雇后创立家得宝仓储家装帝国全景史诗传记",
       "founder_quote": "“在 1978 年我 49 岁那年被残酷解雇、扫地出门时，我以为我的人生彻底完了。但我的朋友兼合伙人阿瑟·布兰克拉住我说：‘伯尼，这是一记响亮的耳光，但它也是上帝赐给我们最好的礼物！现在，我们要去开办全人类有史以来最伟大的仓储家装商店！’”",
-      "founder_size": 7989,
-      "founder_size_kb": 7.8,
-      "company_size_kb": 5.6,
+      "founder_size": 6225,
+      "founder_size_kb": 6.1,
+      "company_size_kb": 4.1,
       "status": "📝 标准传记"
     },
     {
@@ -656,9 +656,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "房利美奠基史志：罗斯福新政、中产阶级住房梦与美国二级抵押贷款的制度奇迹",
       "founder_quote": "“一个拥有自己房屋的国民，是一个拥有国家未来的公民。我们不仅要给人民一份工作，更要为千家万户铸造一座遮风挡雨、世代安居的坚固城堡。”",
-      "founder_size": 7158,
-      "founder_size_kb": 7.0,
-      "company_size_kb": 5.3,
+      "founder_size": 5148,
+      "founder_size_kb": 5.0,
+      "company_size_kb": 3.8,
       "status": "📝 标准传记"
     },
     {
@@ -670,10 +670,10 @@
       "industry": "🏦 金融与银行",
       "founder_title": "马明哲 (Peter Ma) 与中国平安：蛇口开山炮、综合金融矩阵与万亿金融科技帝国全景史诗传记",
       "founder_quote": "“在过去的三十多年里，平安每天都在走别人没走过的路。别人做寿险，我们做综合金融；别人做传统金融，我们做金融科技。平安的骨子里只有‘危机’两个字，昨天的方法救不了今天的企业。我们要么在阳光灿烂的日子里主动革自己的命，要么就等着被时代的浪潮彻底淘汰！”",
-      "founder_size": 21141,
-      "founder_size_kb": 20.6,
-      "company_size_kb": 5.1,
-      "status": "🌟 大师级深度精修"
+      "founder_size": 17316,
+      "founder_size_kb": 16.9,
+      "company_size_kb": 3.7,
+      "status": "✨ 详实传记"
     },
     {
       "rank": 49,
@@ -684,9 +684,9 @@
       "industry": "🏗️ 建筑与工程",
       "founder_title": "中国中铁奠基史志：开路先锋、成昆绝壁与大国基建的血肉长城",
       "founder_quote": "“凡是地图上没有路的地方，就是我们开辟大道的地方；凡是江河横断天堑阻隔的绝境，就是我们架设彩虹的战场。只要祖国和人民需要，哪怕粉身碎骨，开路先锋也绝不后退一步！”",
-      "founder_size": 7174,
-      "founder_size_kb": 7.0,
-      "company_size_kb": 5.5,
+      "founder_size": 5337,
+      "founder_size_kb": 5.2,
+      "company_size_kb": 4.0,
       "status": "📝 标准传记"
     },
     {
@@ -698,9 +698,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "卡尔·拉普 (Karl Rapp) 与匡特家族：从巴伐利亚高空引擎到豪华终极驾驶机器全景史诗传记",
       "founder_quote": "“终极驾驶机器 (The Ultimate Driving Machine) 不只是一句广告词，它是烙印在宝马血液里的工程宗教。无论是上世纪翱翔阿尔卑斯山巅的航空引擎，还是今天征战纽博格林北环的 M 动力超跑，纯粹的动力操控与无畏的机械激情，永远是巴伐利亚蓝天白云螺旋桨的灵魂！”",
-      "founder_size": 8361,
-      "founder_size_kb": 8.2,
-      "company_size_kb": 5.6,
+      "founder_size": 6591,
+      "founder_size_kb": 6.4,
+      "company_size_kb": 4.2,
       "status": "📝 标准传记"
     },
     {
@@ -712,9 +712,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "卡尔·本茨与戴姆勒：人类汽车文明的造车双圣与星徽传奇",
       "founder_quote": "“唯有最好，否则宁可不做。(Das Beste oder nichts / The Best or Nothing.)”",
-      "founder_size": 17953,
-      "founder_size_kb": 17.5,
-      "company_size_kb": 8.2,
+      "founder_size": 15549,
+      "founder_size_kb": 15.2,
+      "company_size_kb": 6.1,
       "status": "✨ 详实传记"
     },
     {
@@ -726,9 +726,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "伯纳德·克罗格 (Bernard Kroger)：杂货皇帝、生鲜供应链先锋与克罗格帝国的开山教父",
       "founder_quote": "“在食品零售这门古老而神圣的行当里，没有任何花哨的秘诀。你只需要牢牢遵守两条铁律：第一，永远不要卖给顾客任何你自己都不愿意吃的东西；第二，尽你所能砍掉所有不必要的中间盘剥，把每一分省下来的利润，通过更高品质和更低价格还给那些辛苦劳作的普通老百姓。”",
-      "founder_size": 13142,
-      "founder_size_kb": 12.8,
-      "company_size_kb": 6.8,
+      "founder_size": 11184,
+      "founder_size_kb": 10.9,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -740,10 +740,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "中国移动奠基史诗：从“大哥大”到全球最大数智帝国的壮阔征程",
       "founder_quote": "“在过去的几十年里，中国通信人走过了一条西方发达国家难以想象的跨越式道路：我们从‘1G空白、2G跟随’起步，在‘3G突破’中顶着冷眼与质疑自主攻关，在‘4G同步’中与世界并跑，最终在‘5G领跑’中登顶世界通信科技之巅。这不是一家普通企业的商业史，这是一部将十四亿中国人民紧密连接在一起的时代史诗。”",
-      "founder_size": 11511,
-      "founder_size_kb": 11.2,
-      "company_size_kb": 6.8,
-      "status": "✨ 详实传记"
+      "founder_size": 9584,
+      "founder_size_kb": 9.4,
+      "company_size_kb": 4.9,
+      "status": "📝 标准传记"
     },
     {
       "rank": 54,
@@ -754,9 +754,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "埃米尔·博廷与桑坦德家族：从港口钱庄到跨大西洋金融帝国的造浪传奇",
       "founder_quote": "“在银行业，绝大多数人喜欢在安全温暖的羊群中抱团取暖，墨守成规；但真正的破局者必须像鹰一样敏锐地俯瞰猎物。当对手还在睡梦中时，你必须以雷霆万钧之势发起进攻——敢于打破同盟规则，敢于在危机最深重处买入资产，敢于让自己的每一个决策都走在时代的前面。”",
-      "founder_size": 12447,
-      "founder_size_kb": 12.2,
-      "company_size_kb": 6.6,
+      "founder_size": 10453,
+      "founder_size_kb": 10.2,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -768,9 +768,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "本田宗一郎与藤泽武夫：热血机械狂人、绝代双骄与本田动力史诗",
       "founder_quote": "“宗一郎负责向世界展现天才的梦想，而我的职责，就是为这个梦想修筑一条永远不会断裂的商业铁轨。”",
-      "founder_size": 15994,
-      "founder_size_kb": 15.6,
-      "company_size_kb": 7.2,
+      "founder_size": 13255,
+      "founder_size_kb": 12.9,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -782,9 +782,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "马云 (Jack Ma) 与蔡崇信 (Joe Tsai)：让天下没有难做的生意与湖畔十八罗汉全景史诗传记",
       "founder_quote": "“今天很残酷，明天更残酷，后天很美好，但绝大部分人死在明天晚上，看不到后天的太阳。如果阿里巴巴在创业第一天就有钱、有技术、有计划，我们可能早就死了。正是因为我们什么都没有，我们唯一拥有的，就是对互联网未来的疯狂相信，以及对客户价值近乎偏执的坚守！”",
-      "founder_size": 16920,
-      "founder_size_kb": 16.5,
-      "company_size_kb": 7.2,
+      "founder_size": 14398,
+      "founder_size_kb": 14.1,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -796,10 +796,10 @@
       "industry": "🏗️ 建筑与工程",
       "founder_title": "铁道兵与中国铁建：从战火狂飙到大国重器的铁血基建史诗",
       "founder_quote": "“背上行李，跨过鸭绿江，奔赴大西南，挺进世界屋脊。当国家需要铁轨通向哪里，我们就在哪里逢山凿路、遇水架桥！我们是用血肉之躯在崇山峻岭中硬生生砸出一条条钢铁巨龙的铁道兵。只要祖国一声令下，纵有千难万险，哪怕流血牺牲，也决不让列车晚点一分一秒！”",
-      "founder_size": 11624,
-      "founder_size_kb": 11.4,
-      "company_size_kb": 6.5,
-      "status": "✨ 详实传记"
+      "founder_size": 9408,
+      "founder_size_kb": 9.2,
+      "company_size_kb": 4.5,
+      "status": "📝 标准传记"
     },
     {
       "rank": 58,
@@ -810,10 +810,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "米歇尔·佩贝罗与法巴帝国：从二月革命贴现行到欧洲第一大行的世纪资本战",
       "founder_quote": "“在欧洲金融业的棋盘上，你永远不能安于当一个温和的观察者。当历史的裂缝出现、当旧秩序发生动摇时，你必须拥有制定规则的铁腕意志与战略嗅觉。我们打赢那场震惊世界的 6 个月并购战，不是为了虚荣的规模，而是为了让欧洲大陆拥有一艘能够与华尔街巨鳄平起平坐的真正超级航母。”",
-      "founder_size": 11734,
-      "founder_size_kb": 11.5,
-      "company_size_kb": 6.7,
-      "status": "✨ 详实传记"
+      "founder_size": 9680,
+      "founder_size_kb": 9.5,
+      "company_size_kb": 4.8,
+      "status": "📝 标准传记"
     },
     {
       "rank": 59,
@@ -824,10 +824,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "荣毅仁与中信史诗：“红色资本家”的实业报国与开放试验田传奇",
       "founder_quote": "“人活着不能只为了自己发财。我们荣家世代经商，最根本的祖训只有四个字——‘实业报国’。当国家需要我们打开国门、引进外资、向世界学习现代管理的时候，我们就要敢于做第一个吃螃蟹的人，做改革开放的马前卒！”",
-      "founder_size": 11992,
-      "founder_size_kb": 11.7,
-      "company_size_kb": 6.6,
-      "status": "✨ 详实传记"
+      "founder_size": 9570,
+      "founder_size_kb": 9.3,
+      "company_size_kb": 4.7,
+      "status": "📝 标准传记"
     },
     {
       "rank": 60,
@@ -838,9 +838,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "伊万·塞登伯格与雷·史密斯：从地下电缆接线工到威瑞森千亿帝国的缔造传奇",
       "founder_quote": "“在纽约那些潮湿、昏暗、弥漫着老鼠气味的地下电缆管道里，我学到了商业生涯中最重要的一课：当所有的接线头都混在一团乱麻中时，你不能慌乱，必须一条一条耐心地排查、焊接、测试。把最基础的连接做扎实，把每一个微小的信号传递好——无论管理多么庞大的千亿帝国，底层的逻辑永远都是‘连接与信任’。”",
-      "founder_size": 12687,
-      "founder_size_kb": 12.4,
-      "company_size_kb": 6.0,
+      "founder_size": 10339,
+      "founder_size_kb": 10.1,
+      "company_size_kb": 4.4,
       "status": "✨ 详实传记"
     },
     {
@@ -852,9 +852,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "弗兰克·菲利普斯 (Frank Phillips)：狂野探矿者、高辛烷值燃料之父与能源帝国的拓荒巨擘",
       "founder_quote": "“在石油这行里，胆小鬼永远只能捡别人剩下的碎渣。当所有人都在警告你‘前面只有干涸的石头’时，如果你通过直觉和严谨的勘察认准了地脉，你就必须敢于把身上最后一个硬币押上去，咬着牙一直打进最深的地层！”",
-      "founder_size": 13827,
-      "founder_size_kb": 13.5,
-      "company_size_kb": 7.5,
+      "founder_size": 11866,
+      "founder_size_kb": 11.6,
+      "company_size_kb": 5.6,
       "status": "✨ 详实传记"
     },
     {
@@ -866,9 +866,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "托马斯·萨瑟兰德 (Thomas Sutherland)：苏格兰水手后裔、远东金融架构师与汇丰帝国的开山教父",
       "founder_quote": "“在遥远的东方，成千上万的商行每天在惊涛骇浪中从事着数以千万计的跨国贸易。但令人难以置信的是，这里竟然没有一家真正属于本土、由本地商人自主管理并由本地资本支撑的银行！我们要改变这一切——我们要建立一家永远根植于香港与上海的现代金融灯塔。”",
-      "founder_size": 12931,
-      "founder_size_kb": 12.6,
-      "company_size_kb": 6.9,
+      "founder_size": 10891,
+      "founder_size_kb": 10.6,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -880,9 +880,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "俄亥俄石油先驱与唐奈尔家族 (Donnell Dynasty)：对抗垄断的油农联盟、标准石油分拆与全美第一大炼油霸业奠基史",
       "founder_quote": "“在原油喷出地表的那一刻，它只是一堆黏稠的烂泥；只有当你建起四通八达的管道、修起钢铁林立的炼塔，并把最后一滴清洁燃料送进汽车油箱时，你才真正驯服了这头地底巨兽。”",
-      "founder_size": 12748,
-      "founder_size_kb": 12.4,
-      "company_size_kb": 7.0,
+      "founder_size": 10737,
+      "founder_size_kb": 10.5,
+      "company_size_kb": 5.3,
       "status": "✨ 详实传记"
     },
     {
@@ -894,9 +894,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "沙皇尼古拉一世与格尔曼·格列夫 (Nicholas I & Herman Gref)：从沙俄皇家储蓄法令到万亿金融科技与AI帝国的跨世纪涅槃",
       "founder_quote": "“如果我们不能在技术上彻底颠覆自己，那么时代就会毫不犹豫地将我们碾碎。我们不再仅仅是一家坐在厚重柜台后面数钞票的银行，我们是一家拥有银行牌照的硬核科技与人工智能航母！”",
-      "founder_size": 12455,
-      "founder_size_kb": 12.2,
-      "company_size_kb": 6.6,
+      "founder_size": 10403,
+      "founder_size_kb": 10.2,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -908,10 +908,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "施特凡、佐默与霍特格斯 (Stephan, Sommer & Höttges)：从德意志帝国邮电奠基到万亿跨大西洋电信霸业的世纪跃迁",
       "founder_quote": "“在电信行业，保守守旧就等于自掘坟墓。当你面对一个比你本土市场大五倍的超级大陆时，你必须敢于跨越大西洋把全部筹码押上——要么成为全球领航者，要么沦为别人的附庸！”",
-      "founder_size": 11183,
-      "founder_size_kb": 10.9,
-      "company_size_kb": 6.7,
-      "status": "✨ 详实传记"
+      "founder_size": 9215,
+      "founder_size_kb": 9.0,
+      "company_size_kb": 5.2,
+      "status": "📝 标准传记"
     },
     {
       "rank": 66,
@@ -922,10 +922,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "中国交建百年奠基与领军者谱系 (CCCC Genesis & Builders)：从洋务造桥、抗美援朝抢通到港珠澳大桥与天鲲号大国重器的超级工程史诗",
       "founder_quote": "“中国人修桥修路，从来不靠神仙皇帝，靠的是几代工程人把骨头当桩、把热血当浆铸进江海大地！逢山开路，遇水架桥，只要祖国和人民需要，我们就能在世界任何天堑上架起通途！”",
-      "founder_size": 11016,
-      "founder_size_kb": 10.8,
-      "company_size_kb": 7.0,
-      "status": "✨ 详实传记"
+      "founder_size": 9073,
+      "founder_size_kb": 8.9,
+      "company_size_kb": 5.2,
+      "status": "📝 标准传记"
     },
     {
       "rank": 67,
@@ -936,10 +936,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "卡尔·冯·蒂梅 (Carl von Thieme)：现代精算先驱、慕再与安联双料缔造者、全球保险帝国的制度设计师",
       "founder_quote": "“保险的本质不是一门靠运气赌明天的投机生意，而是一座建立在严密大数法则之上的崇高社会信用契约。当大灾难来临时，一家真正伟大的保险公司绝不应该寻找任何推脱的借口，而是要以最快的速度把赔付款送到绝望的人们手中！”",
-      "founder_size": 10761,
-      "founder_size_kb": 10.5,
-      "company_size_kb": 5.8,
-      "status": "✨ 详实传记"
+      "founder_size": 8948,
+      "founder_size_kb": 8.7,
+      "company_size_kb": 4.4,
+      "status": "📝 标准传记"
     },
     {
       "rank": 68,
@@ -950,10 +950,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "华润红色先驱与开创者谱系 (China Resources Pioneers)：从阁麟街联和行两根金条、包船护送民主人士到万亿级现代多元化实业航母的壮丽史诗",
       "founder_quote": "“中华大地，雨露滋润——这就是‘华润’二字的千钧分量！我们从香港中环一间狭窄的小洋楼起步，用两根金条为前线将士运送救命药品；无论时代如何变幻，华润人始终与国家命运紧紧相连，用实业报国的初心铸就百年基业！”",
-      "founder_size": 10656,
-      "founder_size_kb": 10.4,
-      "company_size_kb": 6.3,
-      "status": "✨ 详实传记"
+      "founder_size": 8487,
+      "founder_size_kb": 8.3,
+      "company_size_kb": 4.6,
+      "status": "📝 标准传记"
     },
     {
       "rank": 69,
@@ -964,10 +964,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "索尔·斯通 (Saul Stone)：俄罗斯难民少年、马车运蛋贩与百年大宗期货巨擘的开山传奇",
       "founder_quote": "“在期货交易大厅里，你可以没有显赫的家世，也可以没有哈佛的文凭；但你必须有一颗比黄金还纯粹的守信之心。‘言出必行 (My word is my bond)’，只要你在交易池里对我点了点头，就算天塌下来，我也必须把合同兑现到底！”",
-      "founder_size": 10400,
-      "founder_size_kb": 10.2,
-      "company_size_kb": 6.3,
-      "status": "✨ 详实传记"
+      "founder_size": 8663,
+      "founder_size_kb": 8.5,
+      "company_size_kb": 4.6,
+      "status": "📝 标准传记"
     },
     {
       "rank": 70,
@@ -978,10 +978,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "乔治·J·梅切尔 (George J. Mecherle)：伊利诺伊玉米农夫、互助保险颠覆者与全美第一大车险帝国的开山教皇",
       "founder_quote": "“为什么住在偏远农场里、一年只开几千英里平坦土路的朴实农民，必须为城里人在拥挤街道上的鲁莽飙车支付同样昂贵的车险？这不公平！我要建立一家属于老百姓自己的互助保险公司——剔除一切不必要的中间剥削，把每一分节约下来的保费原原本本地还给农民！”",
-      "founder_size": 11270,
-      "founder_size_kb": 11.0,
-      "company_size_kb": 6.2,
-      "status": "✨ 详实传记"
+      "founder_size": 9480,
+      "founder_size_kb": 9.3,
+      "company_size_kb": 4.6,
+      "status": "📝 标准传记"
     },
     {
       "rank": 71,
@@ -992,9 +992,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "房地美 (Freddie Mac) 奠基史诗：美国住房金融流动性革命、国家信用博弈与半世纪风云",
       "founder_quote": "“住房不仅是遮风挡雨的砖瓦，更是一个现代国家金融体系与社会契约的基石。建立一个永不干涸的二级流动性市场，让每一位普通公民都能获得长达三十年的固定利率抵押贷款，是人类金融工程史上最伟大的社会制度创新之一。”",
-      "founder_size": 13163,
-      "founder_size_kb": 12.9,
-      "company_size_kb": 7.2,
+      "founder_size": 10819,
+      "founder_size_kb": 10.6,
+      "company_size_kb": 5.6,
       "status": "✨ 详实传记"
     },
     {
@@ -1006,9 +1006,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "郑周永 (Chung Ju-yung)：江原道贫农之子、汉江奇迹推土机与现代帝国缔造者的全景史诗传记",
       "founder_quote": "“你试过了吗？(Have you ever tried it?) 在还没有真正动手拼尽全力尝试之前，没有任何人有资格说某件事是不可能的。所谓的奇迹，不过是把别人用来叹息和犹豫的时间，全部投入到疯狂的行动中去。”",
-      "founder_size": 16133,
-      "founder_size_kb": 15.8,
-      "company_size_kb": 6.6,
+      "founder_size": 13762,
+      "founder_size_kb": 13.4,
+      "company_size_kb": 5.0,
       "status": "✨ 详实传记"
     },
     {
@@ -1020,9 +1020,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "大卫·A·琼斯 (David A. Jones Sr.)：肯塔基老兵、两次颠覆自我的战略大师与现代医保帝国缔造者",
       "founder_quote": "“在商业世界里，大多数企业之所以走向平庸甚至消亡，是因为它们死死抱住昨天的成功不放；而真正的伟大领导者，敢于在企业最赚钱、最辉煌的顶峰时刻，亲手拆掉自己的旧帝国，奔向代表未来的全新大陆。”",
-      "founder_size": 12648,
-      "founder_size_kb": 12.4,
-      "company_size_kb": 6.4,
+      "founder_size": 10428,
+      "founder_size_kb": 10.2,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -1034,9 +1034,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "法国电力公司 (EDF) 奠基史诗：战后废墟中的大国有化、梅斯梅尔全核跃进与法兰西能源主权传奇",
       "founder_quote": "“我们没有石油，我们没有天然气，但我们有头脑、有科学、有坚不可摧的法兰西意志！在能源领域，依赖他人就是交出国家的政治灵魂。我们要用核能为共和国筑起一座永不熄灭的自主灯塔。”",
-      "founder_size": 12691,
-      "founder_size_kb": 12.4,
-      "company_size_kb": 6.9,
+      "founder_size": 10057,
+      "founder_size_kb": 9.8,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -1048,9 +1048,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "亚历山大·格拉汉姆·贝尔 (Alexander Graham Bell)：声音魔术师、电话发明家与贝尔通信帝国的科学始祖",
       "founder_quote": "“当一扇门关闭时，另一扇门就会打开；但我们常常如此懊恼而长久地凝视着那扇紧闭的门，以至于对身边为我们敞开的另一扇宽阔大门熟视无睹。去观察，去倾听，去创造，这个世界蕴藏着无数未被发现的奇迹。”",
-      "founder_size": 14240,
-      "founder_size_kb": 13.9,
-      "company_size_kb": 6.6,
+      "founder_size": 11786,
+      "founder_size_kb": 11.5,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -1062,9 +1062,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "岩崎弥太郎 (Yataro Iwasaki)：土佐底层浪人、日本现代海运之父与三菱财阀开山始祖传记",
       "founder_quote": "“商权就是国权！在这个列强环伺的时代，如果我们日本人自己的货物还要依赖外国的轮船来运输，国家的命脉就永远被掐在别人手里！哪怕赌上我岩崎弥太郎的身家性命，我也要击沉外国邮船的垄断，把日本的海权完完全全夺回来！”",
-      "founder_size": 13580,
-      "founder_size_kb": 13.3,
-      "company_size_kb": 6.9,
+      "founder_size": 11417,
+      "founder_size_kb": 11.1,
+      "company_size_kb": 5.2,
       "status": "✨ 详实传记"
     },
     {
@@ -1076,10 +1076,10 @@
       "industry": "🏢 综合产业",
       "founder_title": "马库斯·高盛 (Marcus Goldman)：巴伐利亚移民小贩、松树街地库票据商与高盛金融帝国奠基人传记",
       "founder_quote": "“在华尔街，金钱只是流动的工具，真正能穿越百年风暴的唯一抵押品，是你无可挑剔的声誉与诚信。宁可损失金钱，也绝不透支信任；要做‘长期贪婪者’，放眼三十年后的终局。”",
-      "founder_size": 11941,
-      "founder_size_kb": 11.7,
-      "company_size_kb": 6.6,
-      "status": "✨ 详实传记"
+      "founder_size": 9577,
+      "founder_size_kb": 9.4,
+      "company_size_kb": 5.0,
+      "status": "📝 标准传记"
     },
     {
       "rank": 78,
@@ -1090,9 +1090,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "陈建华 (Chen Jianhua) & 范红卫 (Fan Hongwei)：瘫痪少年重生、废丝致富到万亿炼化帝国缔造者的全景史诗传记",
       "founder_quote": "“什么不赚钱就淘汰什么，什么赚钱就上什么！实业做大做强的秘诀，就是在行业最繁荣的时候看到背后的危机，在行业最萧条的时候看到未来的光明。别人退缩时我们大踏步前进，只要把产品做到世界极致，市场永远都在你脚下！”",
-      "founder_size": 15345,
-      "founder_size_kb": 15.0,
-      "company_size_kb": 6.8,
+      "founder_size": 12618,
+      "founder_size_kb": 12.3,
+      "company_size_kb": 5.0,
       "status": "✨ 详实传记"
     },
     {
@@ -1104,9 +1104,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "拉尔夫·J·罗伯茨 (Ralph J. Roberts)：男士皮带商、密西西比天线拓荒者与康卡斯特传媒帝国奠基人传记",
       "founder_quote": "“做生意就像一场终身马拉松。不要被眼前的喧嚣所迷惑，永远关注那些能产生源源不断现金流的基础资产。保持绅士的品格与诚实的账本，你就能在每一次行业危机中买下未来。”",
-      "founder_size": 13168,
-      "founder_size_kb": 12.9,
-      "company_size_kb": 7.0,
+      "founder_size": 10793,
+      "founder_size_kb": 10.5,
+      "company_size_kb": 5.0,
       "status": "✨ 详实传记"
     },
     {
@@ -1118,9 +1118,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "亨利·韦尔斯 (Henry Wells) & 威廉·G·法戈 (William G. Fargo)：淘金热开拓者、驿马车传奇与美国运通/富国银行双料始祖传记",
       "founder_quote": "“在荒凉险峻的西部荒原上，比步枪子弹更能击退强盗的，是挂在红色驿马车上的那个名字；而在银行的大门前，比任何雄辩更能平息挤兑恐慌的，是金库大门敞开时那一堆堆在阳光下闪闪发光的纯金金条！”",
-      "founder_size": 12611,
-      "founder_size_kb": 12.3,
-      "company_size_kb": 6.6,
+      "founder_size": 10038,
+      "founder_size_kb": 9.8,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -1132,9 +1132,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "任正非 (Ren Zhengfei)：战火洗礼、绝地突围与极限施压下的东方商业巨擘全景史诗传记",
       "founder_quote": "“十年来我天天思考的都是失败，对成功不仅没有自豪感，反而充满危机感。这个世界是残酷的，没有谁能够永远躺在过去的功劳簿上。繁荣的背后往往就是枯萎，如果华为没有‘冬天’的忧患意识，没有在阳光灿烂的日子里准备‘备胎’，那么当暴风雨真正降临时，我们将死无葬身之地。”",
-      "founder_size": 16417,
-      "founder_size_kb": 16.0,
-      "company_size_kb": 8.5,
+      "founder_size": 13883,
+      "founder_size_kb": 13.6,
+      "company_size_kb": 6.3,
       "status": "✨ 详实传记"
     },
     {
@@ -1146,9 +1146,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "张忠谋 (Morris Chang)：五十六岁颠覆半导体产业与七十八岁重披战袍的晶圆代工教父全景史诗传记",
       "founder_quote": "“在 1987 年我创办台积电时，全球所有的半导体巨头都把芯片设计与晶圆制造绑在一起。他们嘲笑我，说没有自己的芯片产品、只替别人代工制造是下等人的苦力活。但我看准了：未来的芯片设计公司将遍地开花，而建造一座晶圆厂的成本将高达上百亿美元。台积电的使命就是成为全人类半导体产业链最信任的‘中立代工厂’，做...",
-      "founder_size": 12128,
-      "founder_size_kb": 11.8,
-      "company_size_kb": 7.8,
+      "founder_size": 10313,
+      "founder_size_kb": 10.1,
+      "company_size_kb": 5.8,
       "status": "✨ 详实传记"
     },
     {
@@ -1160,9 +1160,9 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "秦文彩与中国海油奠基先驱：碧海拓荒、对外开放特区与走向深蓝的壮丽史诗",
       "founder_quote": "“搞海洋石油，闭关自守是没有出路的。我们必须敢于打开国门，借外资的钱、借外国人的技术，来开发我们自己的海洋宝藏，为国家打出源源不断的大油田！”",
-      "founder_size": 16266,
-      "founder_size_kb": 15.9,
-      "company_size_kb": 7.4,
+      "founder_size": 13359,
+      "founder_size_kb": 13.0,
+      "company_size_kb": 5.4,
       "status": "✨ 详实传记"
     },
     {
@@ -1174,9 +1174,9 @@
       "industry": "🏦 金融与银行",
       "founder_title": "亨利·S·摩根与哈罗德·斯坦利：分拆新生、一流准则与华尔街投行丰碑全景史诗人物志",
       "founder_quote": "“只有一种方式可以开展业务，那就是以第一流的方式，开展第一流的业务 (There is only one way to do business, and that is first-class business in a first-class way)。”",
-      "founder_size": 13760,
-      "founder_size_kb": 13.4,
-      "company_size_kb": 6.7,
+      "founder_size": 10781,
+      "founder_size_kb": 10.5,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -1188,9 +1188,9 @@
       "industry": "⛏️ 大宗商品与金属",
       "founder_title": "迪鲁巴伊·安巴尼 (Dhirubhai Ambani)：也门加油工、印度商业教皇与信实神话的传奇史诗人物志",
       "founder_quote": "“如果你不去建立属于自己的梦想，别人就会雇佣你来帮他们建立梦想！敢想、快想、前瞻思考——想法不属于任何人，它是属于敢于行动者的无价之宝！”",
-      "founder_size": 15894,
-      "founder_size_kb": 15.5,
-      "company_size_kb": 6.5,
+      "founder_size": 13374,
+      "founder_size_kb": 13.1,
+      "company_size_kb": 4.8,
       "status": "✨ 详实传记"
     },
     {
@@ -1202,10 +1202,10 @@
       "industry": "⚡ 电网与公用事业",
       "founder_title": "袁懋振、王野平与南方电网奠基先驱：体制破冰、西电东送与特高压柔直丰碑全景史诗人物志",
       "founder_quote": "“办电网必须对人民负责、对国家负责！交直流混联电网再复杂、技术难度再大，我们也要靠自己的智慧把它攻下来，把万家灯火点亮，把大国电力命脉牢牢掌握在自己手里！”",
-      "founder_size": 11792,
-      "founder_size_kb": 11.5,
-      "company_size_kb": 6.6,
-      "status": "✨ 详实传记"
+      "founder_size": 9894,
+      "founder_size_kb": 9.7,
+      "company_size_kb": 4.8,
+      "status": "📝 标准传记"
     },
     {
       "rank": 87,
@@ -1216,10 +1216,10 @@
       "industry": "⛏️ 大宗商品与金属",
       "founder_title": "卜兆德、杨德玉与山东能源奠基开拓者：乌金铸魂、综采突破与跨国出海的工业壮歌",
       "founder_quote": "“煤炭是工业的粮食。千米地底深处的每一块乌金，都凝结着无数矿工的汗水与智慧。我们不仅要敢向地心要光明，更要靠自主技术让中国煤炭工业昂首挺胸走向世界！”",
-      "founder_size": 12002,
-      "founder_size_kb": 11.7,
-      "company_size_kb": 6.6,
-      "status": "✨ 详实传记"
+      "founder_size": 9421,
+      "founder_size_kb": 9.2,
+      "company_size_kb": 4.9,
+      "status": "📝 标准传记"
     },
     {
       "rank": 88,
@@ -1230,9 +1230,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "比尔·格里希 (Bill Greehey)：废墟重生、炼油帝国缔造者与“员工第一”商业传奇全景史诗人物志",
       "founder_quote": "“很多人认为商业的本质就是冷酷无情的数字和季报。但在我看来，企业最伟大的护城河永远是你的员工。如果你真诚地把员工当成家人去关爱、让他们没有后顾之忧，他们就会以十倍的忠诚和卓越回报公司，为你打赢任何看似不可能的商业战役！”",
-      "founder_size": 13407,
-      "founder_size_kb": 13.1,
-      "company_size_kb": 7.3,
+      "founder_size": 10890,
+      "founder_size_kb": 10.6,
+      "company_size_kb": 5.5,
       "status": "✨ 详实传记"
     },
     {
@@ -1244,10 +1244,10 @@
       "industry": "🛢️ 石油与能源",
       "founder_title": "维克托·切尔诺梅尔金与俄气奠基先锋：部委转轨、保全管网与能源地缘博弈的史诗全景",
       "founder_quote": "“我们想把事情做好，结果却跟平时一样 (We wanted the best, but it turned out like always) —— 但在天然气工业上，我们守住了国家最坚固的底牌！只要这口巨大的气井还在喷涌，俄罗斯就永远不会倒下！”",
-      "founder_size": 12454,
-      "founder_size_kb": 12.2,
-      "company_size_kb": 7.0,
-      "status": "✨ 详实传记"
+      "founder_size": 9752,
+      "founder_size_kb": 9.5,
+      "company_size_kb": 5.3,
+      "status": "📝 标准传记"
     },
     {
       "rank": 90,
@@ -1258,9 +1258,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "迈克尔·戴尔 (Michael Dell)：宿舍极客、直销革命者与资本逆袭帝王的全景史诗人物志",
       "founder_quote": "“你不需要成为一个天才才能创立一家伟大的公司。你只需要找到一个被传统巨头漠视的真实痛点，消除所有无谓的中间环节，以十倍的专注和速度去满足客户的渴望！”",
-      "founder_size": 16249,
-      "founder_size_kb": 15.9,
-      "company_size_kb": 6.2,
+      "founder_size": 13255,
+      "founder_size_kb": 12.9,
+      "company_size_kb": 4.5,
       "status": "✨ 详实传记"
     },
     {
@@ -1272,9 +1272,9 @@
       "industry": "🚗 汽车与出行",
       "founder_title": "王传福 (Wang Chuanfu)：从安徽孤儿到全球新能源汽车王冠的工程师史诗传记",
       "founder_quote": "“很多人说我们是疯子，造电池的怎么可能造好汽车？我们就是要用中国工程师的智慧、中国制造业的极低成本与全产业链垂直整合，证明给全世界看：中国人不仅能造汽车，而且能在新能源这条全新赛道上彻底终结西方燃油车百年的神话！”",
-      "founder_size": 14132,
-      "founder_size_kb": 13.8,
-      "company_size_kb": 8.5,
+      "founder_size": 11941,
+      "founder_size_kb": 11.7,
+      "company_size_kb": 6.3,
       "status": "✨ 详实传记"
     },
     {
@@ -1286,9 +1286,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "印度人寿保险公司 (LIC) 奠基史诗：尼赫鲁、德希穆克与南亚最大金融国有化传奇",
       "founder_quote": "“人寿保险绝不能仅仅是少数金融寡头投机敛财与侵吞公众血汗的工具；它必须是动员亿万国民储蓄、保卫普通家庭尊严、铸造国家现代化钢铁脊梁的主权盾牌。”",
-      "founder_size": 13858,
-      "founder_size_kb": 13.5,
-      "company_size_kb": 7.0,
+      "founder_size": 11455,
+      "founder_size_kb": 11.2,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -1300,9 +1300,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "亨利·雀巢与佩奇兄弟：从救命麦乳精到全球食品帝国的百年创世传奇",
       "founder_quote": "“我的小鸟归巢标志不仅是一个商业商标，它是我的家族纹章，更是人类最古老也是最温暖的情感象征——母亲对幼雏无私的哺育与守护。每一个离开雀巢工厂的产品，都必须配得上这份信任。”",
-      "founder_size": 15171,
-      "founder_size_kb": 14.8,
-      "company_size_kb": 7.1,
+      "founder_size": 12298,
+      "founder_size_kb": 12.0,
+      "company_size_kb": 5.1,
       "status": "✨ 详实传记"
     },
     {
@@ -1314,9 +1314,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "克劳德·贝贝阿 (Claude Bébéar)：保险业的成吉思汗与法国商界教父全景史诗传记",
       "founder_quote": "“在商业世界里，固步自封等于慢性自杀。当机会出现在地平线上时，你必须像猎豹一样敏捷地扑上去；而在猎物到手之后，你又必须像最耐心的园丁一样去整合文化、培育信任。真正的领导力，就是把一群平凡的人凝聚成一个不可战胜的全球帝国。”",
-      "founder_size": 14850,
-      "founder_size_kb": 14.5,
-      "company_size_kb": 6.5,
+      "founder_size": 12214,
+      "founder_size_kb": 11.9,
+      "company_size_kb": 5.0,
       "status": "✨ 详实传记"
     },
     {
@@ -1328,9 +1328,9 @@
       "industry": "🏢 综合产业",
       "founder_title": "法鲁克·阿尔-卡西姆与阿恩·安杰尔：挪威石油奇迹与制度神话全景史诗传记",
       "founder_quote": "“资源从来不是财富，制度才是。上天把石油赐给一个国家，常常伴随着贪腐、贫富分化和工业萎缩的‘资源诅咒’；而挪威之所以能成为人间乐土，是因为我们用最严密的法律制度与最清醒的跨代契约，把地下的黑色黄金变成了每一位公民世代享有的尊严。”",
-      "founder_size": 14095,
-      "founder_size_kb": 13.8,
-      "company_size_kb": 6.6,
+      "founder_size": 11553,
+      "founder_size_kb": 11.3,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -1342,9 +1342,9 @@
       "industry": "🛒 零售与电商",
       "founder_title": "乔治·戴顿与戴顿家族：从清教徒百货到红白靶心 Target 创世传奇",
       "founder_quote": "“成功绝不仅仅取决于你在资产负债表上积累了多少财富，而取决于你在经商的每一步中是否守住了诚实的底线，以及你是否用你的盈余让周围的社区变得更加美好。”",
-      "founder_size": 14318,
-      "founder_size_kb": 14.0,
-      "company_size_kb": 6.8,
+      "founder_size": 11547,
+      "founder_size_kb": 11.3,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -1356,9 +1356,9 @@
       "industry": "💻 科技与芯片",
       "founder_title": "马化腾 (Pony Ma) 与腾讯五虎将：连接一切、社交进化与微信移动革命全景史诗传记",
       "founder_quote": "“在互联网时代，有时候你什么错都没有，就错在自己太老了。用户在变，时代在变，每一天你都必须以如临深渊、如履薄冰的心态去审视自己。唯有把半条命交给合作伙伴，用去中心化的生态连接万物，企业才能在技术的狂风暴雨中永葆青春。”",
-      "founder_size": 13239,
-      "founder_size_kb": 12.9,
-      "company_size_kb": 7.1,
+      "founder_size": 11283,
+      "founder_size_kb": 11.0,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     },
     {
@@ -1370,10 +1370,10 @@
       "industry": "🛒 零售与电商",
       "founder_title": "阿尔伯特·海恩与德尔海兹兄弟：荷兰杂货铺到欧美跨国零售帝国的百年史诗",
       "founder_quote": "“做杂货生意看似最简单，但其实最深奥。顾客把他们和家人吃进肚子里的食物托付给你，你对他们的一分诚实、对生鲜品质的一分敬畏，他们就会用一辈子的忠诚来回报你。”",
-      "founder_size": 11544,
-      "founder_size_kb": 11.3,
-      "company_size_kb": 6.1,
-      "status": "✨ 详实传记"
+      "founder_size": 9318,
+      "founder_size_kb": 9.1,
+      "company_size_kb": 4.4,
+      "status": "📝 标准传记"
     },
     {
       "rank": 99,
@@ -1384,10 +1384,10 @@
       "industry": "💻 科技与芯片",
       "founder_title": "中国五矿与中冶集团奠基史诗：冲破封锁、全球找矿与万亿金属航母传奇",
       "founder_quote": "“矿产资源是国家工业的粮食与血肉。从 1950 年冲破重重封锁为新中国抢运钢材电缆，到今天在全球五大洲掌控世界级巨型铜锌矿山，五矿人走的每一步，都深深铭刻着‘矿业报国、矿业强国’的赤子誓言！”",
-      "founder_size": 12255,
-      "founder_size_kb": 12.0,
-      "company_size_kb": 6.3,
-      "status": "✨ 详实传记"
+      "founder_size": 9486,
+      "founder_size_kb": 9.3,
+      "company_size_kb": 4.5,
+      "status": "📝 标准传记"
     },
     {
       "rank": 100,
@@ -1398,9 +1398,9 @@
       "industry": "⛏️ 大宗商品与金属",
       "founder_title": "宝钢与武钢奠基史诗：邓小平的决断、老一辈开拓者与“亿吨宝武”传奇",
       "founder_quote": "“历史将证明，建设宝钢是正确的。我们不仅要掌握世界上最先进的钢铁制造技术，更要通过严格苛求的管理，培养出一代懂现代化大工业规律的中国建设者！”",
-      "founder_size": 14407,
-      "founder_size_kb": 14.1,
-      "company_size_kb": 6.9,
+      "founder_size": 11075,
+      "founder_size_kb": 10.8,
+      "company_size_kb": 4.9,
       "status": "✨ 详实传记"
     }
   ]

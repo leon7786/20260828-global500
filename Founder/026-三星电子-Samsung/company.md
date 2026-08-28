@@ -23,36 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    SEC["三星电子商业帝国 (Samsung Electronics)"]
-    
-    SEC --> DS["1. 设备解决方案 (Device Solutions - 半导体 DS)"]
-    DS --> DRAM["存储芯片 (Memory: DRAM, NAND Flash, 高带宽内存 HBM3E/HBM4)"]
-    DS --> LSI["系统 LSI (Exynos 移动处理器, ISOCELL 图像传感器)"]
-    DS --> FOUNDRY["先进晶圆代工 (Foundry: 3nm/2nm GAA 环绕栅极工艺)"]
-    
-    SEC --> DX["2. 设备体验 (Device eXperience - 终端 DX)"]
-    DX --> MX["移动体验 (Mobile MX: Galaxy S/Z Fold/Flip 旗舰手机, 平板, 智能手表)"]
-    DX --> VD["影像显示 (Visual Display: Neo QLED/OLED 电视, 连续18年全球第一)"]
-    DX --> DA["数字家电 (Digital Appliances: Bespoke 智能定制冰箱/洗衣机/空调)"]
-    
-    SEC --> SDC["3. 三星显示 (Samsung Display SDC)"]
-    SDC --> OLED["中小尺寸柔性 AMOLED 屏幕 (全球智能终端统治级供应)"]
-    SDC --> QDOLED["QD-OLED 高端大屏显示技术"]
-    
-    SEC --> HARMAN["4. 哈曼国际 (Harman International)"]
-    HARMAN --> CAR["智能数字座舱与车联网解决方案 (Digital Cockpit)"]
-    HARMAN --> AUDIO["高端音响品牌矩阵 (JBL, Harman Kardon, AKG, Mark Levinson)"]
-
-    classDef main fill:#034ea2,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#1428a0,stroke:#034ea2,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4fc,stroke:#034ea2,stroke-width:1px,color:#000;
-    class SEC main;
-    class DS,DX,SDC,HARMAN branch;
-    class DRAM,LSI,FOUNDRY,MX,VD,DA,OLED,QDOLED,CAR,AUDIO sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

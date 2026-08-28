@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    EQNR["Equinor 全球能源帝国 (Equinor ASA)"]
-    
-    EQNR --> NCS["1. 挪威大陆架海上油气 (Exploration & Production Norway)"]
-    NCS --> NCS1["超级油田群: Johan Sverdrup, Troll, Statfjord, Oseberg"]
-    NCS --> NCS2["管道天然气供应: 欧洲大陆与英国最大天然气保供核心来源"]
-    
-    EQNR --> INT["2. 国际油气业务 (E&P International)"]
-    INT --> INT1["深海超级项目: 巴西 Bacalhau 油田、美国墨西哥湾深水油气"]
-    INT --> INT2["英国北海 Mariner / Rosebank 项目、加拿大海上油气"]
-    
-    EQNR --> REN["3. 全球海上风电与可再生能源 (Renewables)"]
-    REN --> REN1["全球最大海上风电场: 英国 Dogger Bank (3.6 GW)"]
-    REN --> REN2["漂浮式海上风电全球开创者: 挪威 Hywind Tampen & 苏格兰 Hywind"]
-    REN --> REN3["美国帝国风电 (Empire Wind) & 欧洲陆上光伏风电"]
-    
-    EQNR --> LOW["4. 低碳方案与碳捕集封存 (Low Carbon Solutions)"]
-    LOW --> LOW1["旗舰级二氧化碳封存工程: 极光计划 (Northern Lights CCS)"]
-    LOW --> LOW2["清洁蓝氢/绿氢制造与低碳工业走廊 (H2H Saltend)"]
-    
-    EQNR --> MMP["5. 营销、中游与炼化 (Marketing, Midstream & Processing)"]
-    MMP --> MMP1["蒙古斯塔德 (Mongstad) 大型低碳炼油厂与储运终端"]
-    MMP --> MMP2["跨欧洲海底天然气管网运营与全球大宗能源量化贸易"]
-
-    classDef main fill:#005566,stroke:#ff1243,stroke-width:2px,color:#fff;
-    classDef branch fill:#ff1243,stroke:#005566,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#005566,stroke-width:1px,color:#000;
-    class EQNR main;
-    class NCS,INT,REN,LOW,MMP branch;
-    class NCS1,NCS2,INT1,INT2,REN1,REN2,REN3,LOW1,LOW2,MMP1,MMP2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

@@ -23,44 +23,6 @@
 
 ## 🌐 核心业务矩阵与全球能源版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CNOOC["中国海油集团 (CNOOC Group)"]
-    
-    CNOOC --> UP["1. 上游油气勘探与开采 (Upstream E&P)"]
-    UP --> UP1["中国四大海域 (渤海/南海东部/南海西部/东海)"]
-    UP --> UP2["全球战略资产 (圭亚那超大油田/巴西深水盐下/加拿大/乌干达)"]
-    UP --> UP3["深海大国重器 (深海一号 1500米超深水大气田)"]
-    UP --> UP4["非常规天然气 (陆上中联煤层气/致密气)"]
-    
-    CNOOC --> MID["2. 天然气与 LNG 全产业链 (Gas & LNG)"]
-    MID --> MID1["全国最大 LNG 进口商 (大鹏/天津/浙江/珠海等接收站)"]
-    MID --> MID2["海上天然气管网与沿海气电集群"]
-    MID --> MID3["城市燃气终端与交通加气网络"]
-    
-    CNOOC --> ENG["3. 专业海工装备与技术服务 (Offshore Engineering)"]
-    ENG --> ENG1["中海油服 (COSL: 钻井/物探/测井船舶船队)"]
-    ENG --> ENG2["海油工程 (COOEC: FPSO浮式储卸油/深水导管架)"]
-    ENG --> ENG3["海油发展 (能源物流/绿色环保/水处理)"]
-    
-    CNOOC --> DOWN["4. 炼化与高附加值化工 (Refining & Petrochemicals)"]
-    DOWN --> DOWN1["惠州炼化一体化超级基地"]
-    DOWN --> DOWN2["中海壳牌大型乙烯合资项目 (CSPCL)"]
-    DOWN --> DOWN3["高品质润滑油、沥青与特种化工品"]
-
-    CNOOC --> GREEN["5. 绿色低碳与海洋新能源 (New Energy & Transition)"]
-    GREEN --> GREEN1["海油观澜号 (全球首座水深超百米深远海浮式风电)"]
-    GREEN --> GREEN2["海上二氧化碳捕集与封存 (CCS/CCUS 项目)"]
-    GREEN --> GREEN3["绿氢制造与海洋能综合利用"]
-
-    classDef main fill:#004098,stroke:#ed1b24,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#004098,stroke-width:1px,color:#fff;
-    classDef sub fill:#f7f7f7,stroke:#004098,stroke-width:1px,color:#000;
-    class CNOOC main;
-    class UP,MID,ENG,DOWN,GREEN branch;
-    class UP1,UP2,UP3,UP4,MID1,MID2,MID3,ENG1,ENG2,ENG3,DOWN1,DOWN2,DOWN3,GREEN1,GREEN2,GREEN3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与深海护城河 (Competitive Advantages)

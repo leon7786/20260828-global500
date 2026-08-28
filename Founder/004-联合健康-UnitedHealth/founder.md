@@ -33,30 +33,6 @@
 
 ## 🧭 全景生命历程与联合健康帝国半世纪大编年轴 (Chronological Epic)
 
-```mermaid
-timeline
-    title 理查德·伯克、斯蒂芬·赫姆斯利与联合健康帝国半世纪进化史
-    1943-1952 : 伯克与赫姆斯利先后降生 : 伯克沉迷理化实验与金融模型 : 赫姆斯利接受福特汉姆严谨会计学淬炼
-    1971 : 伯克加盟明尼苏达 InterStudy 智库 : 师从“HMO之父”保罗·埃尔伍德博士 : 探索逆转过度医疗危机方案
-    1973 : 美国总统尼克松签署《健康维护组织法案 (HMO Act)》 : 联邦政府立法定调预付费医疗蓝图
-    1974 : 伯克在明尼苏达州明尼通卡创立 Charter Med Inc : 联手亨内平县医师协会管理首批非营利性 HMO (PHP)
-    1977 : 伯克正式注册成立联合健康公司 (United HealthCare Corp.) : 首创“家庭医生守门人”与计算机处方审核
-    1984 : 联合健康在纳斯达克成功挂牌上市 (UNH) : 遭遇明尼苏达医生薪酬争议风波但确立商业化管理范式
-    1988 : 伯克主动让贤转任董事长 : 引入肺科专家兼管理铁腕威廉·麦奎尔医生 (William McGuire) 出任 CEO
-    1995 : 联合健康耗资16.5亿美元收购 MetraHealth : 业务版图从明尼苏达一隅闪电扩张至全美50州
-    1997 : 斯蒂芬·赫姆斯利告别安达信 CFO 职位加盟联合健康 : 开启以数据和财务控制为核心的精细化运营革命
-    1998 : 正式重组为联合健康集团 (UnitedHealth Group) : 确立健康保险与专业健康服务分立的双轨架构
-    2006 : 遭遇华尔街期权倒签丑闻风暴 : 麦奎尔引咎辞职 : 伯克重掌董事会，任命赫姆斯利出任 CEO 临危受命
-    2010 : 奥巴马签署《平价医疗法案 (ACA/Obamacare)》 : 赫姆斯利敏锐洞察医保利润率上限，启动战略突围
-    2011 : 赫姆斯利正式创立独立品牌 Optum (OptumRx/OptumHealth/OptumInsight) : 开启 Payvider 闭环黄金十年
-    2015 : Optum 斥资128亿美元闪电收购 Catamaran : 跻身全美前三大药房福利管理 (PBM) 巨头
-    2017 : 赫姆斯利卸任 CEO 转任执行主席 : 联合健康营收突破2000亿美元 : 斥资43亿美元收购 DaVita 医疗集团
-    2022 : Optum 耗资130亿美元收购 Change Healthcare : 掌控全美超150亿笔医疗清算交易中枢网络
-    2024 : 遭遇 Change Healthcare 史诗级勒索网络攻击危机 : 承受全美医疗系统停摆与国会反垄断听证风暴
-    2025 : 赫姆斯利在帝国动荡之际二度披挂出任 CEO : 开启全面 AI 现代化与价值医疗深水区重组
-    2026 : 联合健康年营收突破4400亿美元位列世界500强前4 : 管理全美超9万名医生，守护全球1.5亿人健康
-```
-
 ---
 
 ## 🩺 第一章：血统、理科基因与美国医疗制度的原罪危机 (1943 — 1973)
@@ -76,14 +52,6 @@ timeline
 - **飞涨的保费与破产边缘的雇主**：
   - 美国的医疗支出占 GDP 比例在短短十余年间由 5% 狂飙向 8% 攀升，普通家庭和中小型企业被年年暴涨 20% 以上的健康保险账单逼入绝境。
   - 传统保险公司充当着彻头彻尾的“被动付款机器（Passive Payers）”，既不审核处方的合理性，也不追究治疗的最终临床效果，整个行业处于一种狂欢式的资源浪费与通胀失控状态。
-
-```mermaid
-graph TD
-    FFS["传统按项目付费 (Fee-for-Service) 利益错位"] --> OverCare["诱导过度检查、高价药滥用与非必要手术"]
-    OverCare --> SkyrocketingCost["医疗开支年飙升20%+, 雇主与家庭破产危机"]
-    SkyrocketingCost --> Reform["1973 HMO 法案启蒙: 寻求【按人头预付费】的破局解法"]
-    Reform --> InterStudy["明尼苏达 InterStudy 智库: 埃尔伍德与伯克开启制度试验"]
-```
 
 ### 3. 思想策源地：明尼苏达智库 InterStudy 与埃尔伍德博士
 - 1971 年，在明尼苏达州明尼阿波利斯近郊风景如画的埃克塞尔西奥（Excelsior），一位极具远见卓识的康复医学专家**保罗·埃尔伍德博士 (Dr. Paul M. Ellwood Jr.)** 创立了全美最具影响力的医疗政策智库——**InterStudy**。
@@ -105,15 +73,6 @@ graph TD
   - 政策闸门轰然打开。年仅 31 岁的理查德·伯克在明尼苏达州明尼通卡（Minnetonka）的一间简陋办公室里，正式注册成立了**特许医疗公司 (Charter Med Incorporated)**。
   - 当时的法律严苛规定：HMO 组织本身必须是非营利性的，且必须由执业医生主导管理。
   - **伯克的制度创新**：伯克巧妙地设计了一套“双轨管理架构”——由明尼苏达州亨内平县医师协会（Hennepin County Medical Society）发起设立非营利性的**明尼苏达医师健康计划 (Physicians Health Plan of Minnesota, PHP)**，而伯克创办的盈利性实体 Charter Med 则作为独家专业运营管理机构，全面接管 PHP 的索赔清算、保费精算、网络签约、IT 审计与日常行政运营。
-
-```mermaid
-graph TD
-    CharterMed["1974 伯克创立 Charter Med (盈利性管理公司)"] --> Contract["独家管理合同: 负责精算、清算、IT系统与控费"]
-    PHP["非营利性 HMO: 明尼苏达医师健康计划 (PHP)"] --> Contract
-    Contract --> System1["首创【家庭医生守门人 (Gatekeeper)】制度"]
-    Contract --> System2["首创【大型机计算机处方审计 (Rx Audit)】系统"]
-    Contract --> UHC["1977 升级组建联合健康公司 (United HealthCare Corp.)"]
-```
 
 ### 2. 1977年联合健康公司诞生：三大底层控费机制的建立
 1977 年，为了将明尼苏达的成功范式推广复制至全美各州，伯克正式组建了控股母公司——**联合健康公司 (United HealthCare Corporation)**，并全面吸收合并了 Charter Med。
@@ -143,17 +102,6 @@ graph TD
 
 ## 📈 第三章：狂飙时代：名医麦奎尔入局、全国并购潮与资本暗流 (1988 — 1997)
 
-```mermaid
-graph TD
-    Burke["1988 伯克主动让贤 (转任董事会主席)"] --> Recruit["引入肺科医学权威 威廉·麦奎尔医生 (CEO)"]
-    Recruit --> MAPhase["开启全美激进并购狂潮 (1990-2005)"]
-    MAPhase --> M1["1994 剥离处方药管理部门 (DPS) 获23亿美元巨额现金"]
-    MAPhase --> M2["1995 耗资16.5亿美元吞并 MetraHealth (体量瞬间翻倍)"]
-    MAPhase --> M3["2004 耗资49亿美元收购 Oxford Health Plans"]
-    MAPhase --> M4["2005 耗资88亿美元吞并 PacifiCare Health Systems"]
-    MAPhase --> HemsleyJoin["1997 麦奎尔力邀安达信 CFO 斯蒂芬·赫姆斯利入局"]
-```
-
 ### 1. 1988年伯克主动让贤：肺科名医威廉·麦奎尔登场
 - 1988 年，年仅 45 岁、正处于权力巅峰的理查德·伯克做出了一个极罕见的商业决断：**辞去首席执行官（CEO）职务，退居幕后担任董事长**。
 - 他在全美猎头名单中选中了一位身高超过一米九、性格果敢冷峻的医学巨子——**威廉·W·麦奎尔医生 (William W. McGuire, M.D.)**。
@@ -175,16 +123,6 @@ graph TD
 ---
 
 ## ⚡ 第四章：会计师降临：赫姆斯利入局、期权风暴与至暗清洗 (1997 — 2006)
-
-```mermaid
-graph TD
-    AA["斯蒂芬·赫姆斯利: 安达信全球战略合伙人兼 CFO"] --> Join["1997 加盟联合健康 (资深执行副总裁)"]
-    Join --> Reorg["1998-1999 担任 COO & 总裁: 主导组织架构五大业务板块解耦"]
-    Reorg --> Crisis["2006 爆发华尔街期权倒签风暴 (Backdating Crisis)"]
-    Crisis --> Probe["律所 WilmerHale 独立调查报告: 揭露十余年期权操纵真相"]
-    Probe --> McGuireOut["麦奎尔辞职并交出4.18亿美元期权收益"]
-    McGuireOut --> BurkeHemsley["理查德·伯克重掌董事会主席, 任命赫姆斯利为 CEO 绝地突围"]
-```
 
 ### 1. 1997年会计大师的降临：斯蒂芬·赫姆斯利的传奇背景
 正当麦奎尔在外部资本市场上纵横捭阖时，联合健康内部的系统架构却因为连续几十起大规模并购而濒临失控边缘——各分公司的 IT 核心系统互不兼容、财务清算口径各异、赔付率数据滞后严重。
@@ -215,19 +153,6 @@ graph TD
 
 ## 🚀 第五章：第二曲线：Optum 科技帝国的横空出世与三驾马车 (2007 — 2016)
 
-```mermaid
-graph TD
-    ACA["2010 奥巴马医保 (ACA) 法案出台<br>强制限定医疗赔付率 (MLR) 不得低于 80%-85%<br>传统健康险利润率被彻底锁死"] --> Strategy["赫姆斯利世纪大抉择: 打造不受 MLR 限制的第二曲线"]
-    
-    Strategy --> LaunchOptum["2011 正式推出独立品牌 Optum (医疗服务与科技)"]
-    
-    LaunchOptum --> Pillar1["OptumRx: 药房福利管理 (PBM)<br>2015 斥资128亿美元收购 Catamaran<br>年处理处方量超10亿张"]
-    LaunchOptum --> Pillar2["OptumHealth: 临床诊疗与医生网络<br>重金兼并全美独立门诊与手术中心<br>雇佣与合作医生突破90,000人"]
-    LaunchOptum --> Pillar3["OptumInsight: 医疗大数据与 AI 决策<br>覆盖全美80%以上医院信息化系统<br>输出控费算法与理赔清算 SaaS"]
-    
-    Pillar1 & Pillar2 & Pillar3 --> DoubleEngine["双引擎闭环: UnitedHealthcare 保险输送患者与资金<br>Optum 提供高毛利服务并反哺控费数据"]
-```
-
 ### 1. 2010年奥巴马医保法案 (ACA) 与赫姆斯利的破局思考
 2010 年 3 月，美国总统奥巴马签署《平价医疗法案 (Affordable Care Act, ACA/Obamacare)》。
 - **健康保险公司的“紧箍咒”——医疗赔付率 (MLR) 铁律**：
@@ -257,25 +182,6 @@ graph TD
 
 ## 👑 第六章：Payvider 闭环终局：全美医疗超级巨兽的权力与重负 (2017 — 2024)
 
-```mermaid
-graph TD
-    subgraph Payvider 终极商业闭环
-        UHC["UnitedHealthcare (保险支付端)<br>覆盖全球超1.5亿参保人<br>收取数千亿美元保费/医保基金"]
-        
-        OptumRx["OptumRx (药房福利中枢)<br>拦截高价原研药, 掌控处方流向"]
-        OptumCare["OptumHealth (90,000+医生网络)<br>按价值考核, 提供门诊与日间手术"]
-        OptumData["OptumInsight (全美医疗数据大脑)<br>利用 AI 精准核保, 拦截欺诈与过度医疗"]
-        
-        UHC -->|输送病患与医疗资金| OptumCare
-        UHC -->|定向药房福利分流| OptumRx
-        UHC -->|海量理赔数据沉淀| OptumData
-        
-        OptumCare -->|输出低成本优质门诊| UHC
-        OptumRx -->|返还巨额药企折扣| UHC
-        OptumData -->|输出核保与控费算法| UHC
-    end
-```
-
 ### 1. Payvider 闭环的无敌赚钱机器
 当“支付方（Payer，即 UnitedHealthcare）”与“服务提供方（Provider & Technology，即 Optum）”被赫姆斯利严丝合缝地缝合在同一家母公司体内时，一个全美商业史上未曾出现过的巨型“医疗自转飞轮”诞生了：
 - **资金与利润的体内循环**：
@@ -301,17 +207,6 @@ graph TD
 ---
 
 ## 🌅 第七章：老帅归来与时代十字路口：传承、自省与万亿医疗的未来 (2025 — 2026及未来)
-
-```mermaid
-graph TD
-    Retire["2017 赫姆斯利交棒 CEO (转任执行主席)<br>大卫·维希曼与安德鲁·维蒂爵士先后接棒"] --> Challenge["2024-2025 帝国遭遇多重内外部冲击<br>医保赔付率异常攀升、勒索病毒余波、国会控费高压"]
-    Challenge --> Return["2025年5月: 73岁老帅斯蒂芬·赫姆斯利临危重出江湖<br>二度出任联合健康集团 CEO"]
-    Return --> Rebuilding["开启三大战略重建工程"]
-    Rebuilding --> S1["1. 运营减脂增效: 剔除低效门诊网络, 重归价值医疗核心"]
-    Rebuilding --> S2["2. 拥抱全面 AI: 部署医疗级 Agent, 重构理赔与慢病管理"]
-    Rebuilding --> S3["3. 医保自愿返利: 缓和国会关系, 重新定义公私合营边界"]
-    S1 & S2 & S3 --> Future["2026 迈向年营收 4400 亿美元新纪元<br>重塑全球最大健康管理生态图腾"]
-```
 
 ### 1. 2025年5月：73岁老帅赫姆斯利二度出山
 - 2017 年赫姆斯利卸任 CEO 并转任董事会执行主席后，集团先后由大卫·维希曼（David Wichmann）与前葛兰素史克 CEO 安德鲁·维蒂爵士（Sir Andrew Witty）掌舵。

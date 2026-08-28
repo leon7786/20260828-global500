@@ -23,40 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CITIC["中国中信集团商业帝国 (CITIC Group)"]
-    
-    CITIC --> FIN["1. 综合金融服务 (Comprehensive Financial Services)"]
-    FIN --> F1["中信证券 (中国及亚洲领先的全牌照投资银行与证券经纪)"]
-    FIN --> F2["中信银行 (全国性股份制商业银行，资产突破9万亿元)"]
-    FIN --> F3["中信信托 (中国信托业标杆) & 中信保诚人寿"]
-    
-    CITIC --> MFG["2. 先进智造板块 (Advanced Manufacturing)"]
-    MFG --> M1["中信戴卡 (全球最大铝车轮与铝制底盘零部件供应商)"]
-    MFG --> M2["中信重工 (全球领先矿山重装与特种特勤机器人制造)"]
-    
-    CITIC --> MAT["3. 先进材料板块 (Advanced Materials)"]
-    MAT --> MA1["中信泰富特钢 (全球最大特种钢材精品制造基地)"]
-    MAT --> MA2["中信资源 (石油开采/大宗商品贸易) & 中信矿业国际 (西澳磁铁矿)"]
-    
-    CITIC --> CON["4. 新消费与文化零售 (New Consumption)"]
-    CON --> C1["麦当劳中国 (中信资本与中信股份为控股大股东，超6000家门店)"]
-    CON --> C2["大昌行集团 (大中华区领先汽车代理与食品分销商)"]
-    CON --> C3["中信出版集团 (中国商业与人文社科出版第一品牌)"]
-    
-    CITIC --> URB["5. 新型城镇化与工程 (New Urbanization)"]
-    URB --> U1["中信建设 (阿尔及利亚东西高速公路/白俄罗斯巨石工业园 EPC)"]
-    URB --> U2["中信环境 (水务与工业危废处理) & 中信和业 (中国尊运营)"]
-
-    classDef main fill:#c8102e,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#c8102e,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff5f5,stroke:#333,stroke-width:1px,color:#000;
-    class CITIC main;
-    class FIN,MFG,MAT,CON,URB branch;
-    class F1,F2,F3,M1,M2,MA1,MA2,C1,C2,C3,U1,U2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

@@ -24,36 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球金融版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    MS["摩根士丹利超级旗舰 (Morgan Stanley)"]
-    
-    MS --> IS["1. 机构证券业务 (Institutional Securities)"]
-    IS --> IS1["投资银行业务 (IPO股票承销 / 债券承销 / 全球M&A并购顾问)"]
-    IS --> IS2["机构股票交易 (全球做市 / 主经纪商 Prime Brokerage)"]
-    IS --> IS3["固定收益与外汇大宗商品 (FICC 交易与清算)"]
-    IS --> IS4["全球宏观与股票研究 (Morgan Stanley Research)"]
-    
-    MS --> WM["2. 全球财富管理 (Wealth Management - 全美第一)"]
-    WM --> WM1["高净值与超高净值私人财富管理 (Private Wealth)"]
-    WM --> WM2["E*TRADE 现代数字化零售经纪与自主交易平台"]
-    WM --> WM3["Shareworks 企业股权激励与员工持股计划管理"]
-    WM --> WM4["银行与借贷服务 (定制化抵押与证券质押贷款)"]
-    
-    MS --> IM["3. 投资管理与资产管理 (Investment Management)"]
-    IM --> IM1["Eaton Vance / Parametric 规则化定制指数与税优方案"]
-    IM --> IM2["Calvert 领先的可持续与 ESG 责任投资"]
-    IM --> IM3["摩根士丹利私募股权与基础设施投资 (Private Equity)"]
-    IM --> IM4["全球房地产投资与另类信贷投资基金"]
-
-    classDef main fill:#002b49,stroke:#0072ce,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#002b49,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f7f9,stroke:#002b49,stroke-width:1px,color:#000;
-    class MS main;
-    class IS,WM,IM branch;
-    class IS1,IS2,IS3,IS4,WM1,WM2,WM3,WM4,IM1,IM2,IM3,IM4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮护城河 (Competitive Advantages)

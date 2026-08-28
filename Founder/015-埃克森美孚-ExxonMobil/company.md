@@ -25,36 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    XOM["埃克森美孚全球帝国 (ExxonMobil Corporation)"]
-    
-    XOM --> UP["1. 上游勘探开发 (Upstream)"]
-    UP --> UP1["南美圭亚那深海油田 (Stabroek区块 - 超110亿桶储量)"]
-    UP --> UP2["美国二叠纪盆地页岩油 (Permian Basin / 整合先锋自然资源)"]
-    UP --> UP3["全球液化天然气 LNG 枢纽 (卡塔尔/澳大利亚/巴布亚新几内亚/莫桑比克)"]
-    UP --> UP4["墨西哥湾深水油气与超深海钻探"]
-    
-    XOM --> PROD["2. 炼油与特种产品解决方案 (Product Solutions)"]
-    PROD --> PR1["世界级沿海炼化一体化基地 (德州贝敦/新加坡/比利时安特卫普)"]
-    PROD --> PR2["美孚 1 号 (Mobil 1) 全球全合成润滑油第一品牌"]
-    PROD --> PR3["高性能聚合物、合成橡胶与特种石化催化剂"]
-    PROD --> PR4["埃克森美孚航空燃油与全球航运船供油"]
-    
-    XOM --> LOW["3. 低碳前沿解决方案 (Low Carbon Solutions)"]
-    LOW --> L1["全球最大碳捕集与封存 (CCS) 商业网络 (年捕集数千万吨协议)"]
-    LOW --> L2["低碳氢能与低碳合成氨制造基地"]
-    LOW --> L3["先进生物柴油与可持续航空燃料 (SAF)"]
-    LOW --> L4["阿肯色州盐水提锂新能源电池级材料 (Mobil Lithium)"]
-
-    classDef main fill:#e31b23,stroke:#0c2340,stroke-width:2px,color:#fff;
-    classDef branch fill:#0c2340,stroke:#e31b23,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#0c2340,stroke-width:1px,color:#000;
-    class XOM main;
-    class UP,PROD,LOW branch;
-    class UP1,UP2,UP3,UP4,PR1,PR2,PR3,PR4,L1,L2,L3,L4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与工业壁垒 (Competitive Moats)

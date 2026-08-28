@@ -23,43 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HMC["本田商业帝国 (Honda Motor Co., Ltd.)"]
-    
-    HMC --> AUTO["1. 乘用汽车与电动化平台 (Automobiles & EV)"]
-    AUTO --> A1["全球畅销轿车 (Civic 思域 / Accord 雅阁 / City 锋范)"]
-    AUTO --> A2["全球主力 SUV 矩阵 (CR-V / HR-V / Pilot / Passport)"]
-    AUTO --> A3["豪华与高性能品牌 (Acura 讴歌 / Type R 性能家族)"]
-    AUTO --> A4["电动化架构 (e:Architecture 纯电平台 / e:HEV 强电智混)"]
-    
-    HMC --> MOTO["2. 全球第一摩托车事业 (Motorcycles - 累计销量超4亿台)"]
-    MOTO --> M1["超级幼兽 (Super Cub: 全球机动车销量之王，超1亿台)"]
-    MOTO --> M2["高端公路与超级跑车 (CBR 家族 / Africa Twin 非洲双缸 / Gold Wing)"]
-    MOTO --> M3["城市通勤踏板与智能换电纯电摩托 (Honda Mobile Power Pack)"]
-    
-    HMC --> POWER["3. 通用动力装备与船用动力 (Power Products & Marine)"]
-    POWER --> P1["超静音变频汽油发电机与工业动力单元"]
-    POWER --> P2["高可靠舷外船机 (Honda Marine V8 旗舰机型)"]
-    POWER --> P3["草坪割草机 / 扫雪机 / 农业微耕机"]
-    
-    HMC --> AERO["4. 航空航天与未来前瞻 (Aero & Advanced Robotics)"]
-    AERO --> AR1["HondaJet (全球最畅销轻型商务喷气机，OTWEM 翼上支架专利)"]
-    AERO --> AR2["eVTOL 电动垂直起降飞行器与太空运载火箭预研"]
-    AERO --> AR3["类人机器人技术 (ASIMO 进化为智能远程协作机器人)"]
-    
-    HMC --> RACE["5. 极速赛车运动 (Honda Racing Corporation, HRC)"]
-    RACE --> R1["F1 世界一级方程式动力单元研发 (红牛/阿斯顿马丁冠军伙伴)"]
-    RACE --> R2["MotoGP 顶级摩托车大奖赛厂队"]
-
-    classDef main fill:#e4002b,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#e4002b,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#333,stroke-width:1px,color:#000;
-    class HMC main;
-    class AUTO,MOTO,POWER,AERO,RACE branch;
-    class A1,A2,A3,A4,M1,M2,M3,P1,P2,P3,AR1,AR2,AR3,R1,R2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

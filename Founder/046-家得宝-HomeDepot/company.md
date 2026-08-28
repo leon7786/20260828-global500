@@ -24,38 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HD["家得宝商业帝国 (The Home Depot, Inc.)"]
-    
-    HD --> DIY["1. DIY 个人家庭改善零售 (Do-It-Yourself)"]
-    DIY --> DIY1["五金工具与动力装备 (Milwaukee/DeWalt/Ryobi)"]
-    DIY --> DIY2["建筑木材、板材与水泥基础建材"]
-    DIY --> DIY3["室内装潢 (地砖/地板/壁纸/照明灯饰)"]
-    DIY --> DIY4["园艺花卉、户外动力设备与烧烤户外"]
-    
-    HD --> PRO["2. Pro 专业承包商业务 (Home Depot Pro)"]
-    PRO --> PRO1["大宗建材批发直供与施工现场专属配送"]
-    PRO --> PRO2["Pro Xtra 专属会员权益与商业授信"]
-    PRO --> PRO3["SRS Distribution 并购整合 (千亿级屋顶与特种建材分销)"]
-    
-    HD --> DIFM["3. DIFM 专业代客安装 (Do-It-For-Me)"]
-    DIFM --> DIFM1["全屋定制厨房与卫浴整装翻新"]
-    DIFM --> DIFM2["HVAC 暖通空调系统设计与换装"]
-    DIFM --> DIFM3["门窗与专业屋顶铺装服务"]
-    
-    HD --> OMNI["4. 全渠道互联零售 (Interconnected Retail)"]
-    OMNI --> OMNI1["线上订购与 2 小时门店极速自提 (BOPIS)"]
-    OMNI --> OMNI2["平价卡车直配工地与最后一公里履约网络"]
-
-    classDef main fill:#f96302,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#f96302,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class HD main;
-    class DIY,PRO,DIFM,OMNI branch;
-    class DIY1,DIY2,DIY3,DIY4,PRO1,PRO2,PRO3,DIFM1,DIFM2,DIFM3,OMNI1,OMNI2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

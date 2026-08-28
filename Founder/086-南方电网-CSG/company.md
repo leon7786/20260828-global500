@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与电网版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CSG["中国南方电网 (China Southern Power Grid)"]
-    
-    CSG --> GRID["1. 南方五省区主电网 (Regional Grid Operations)"]
-    GRID --> GRID1["广东电网 (大湾区经济引擎核心供电)"]
-    GRID --> GRID2["广西 / 云南 / 贵州 / 海南 省区电网"]
-    GRID --> GRID3["港澳可靠供电 (对澳门供电占比近90% / 对香港联网备用)"]
-    
-    CSG --> WEST["2. 西电东送大动脉 (West-to-East Power Transmission)"]
-    WEST --> WEST1["超高压 / 特高压交直流输电走廊 (八条交流 / 十一条直流)"]
-    WEST --> WEST2["昆柳龙直流工程 (世界首个特高压多端柔性直流工程)"]
-    WEST --> WEST3["云贵千万千瓦级清洁水电向粤港澳大湾区零碳输送"]
-    
-    CSG --> DIGI["3. 数字电网与自主硬科技 (Digital Grid & Tech)"]
-    DIGI --> DIGI1["自研“伏羲”电力专用主控芯片 (全栈国产化主控)"]
-    DIGI --> DIGI2["极鹰无人机自主智能巡检与数字孪生变电站"]
-    DIGI --> DIGI3["南网大模型 (大瓦特电力垂直行业大模型)"]
-    
-    CSG --> ENERGY["4. 抽水蓄能与新型储能 (Pumped Storage & New Energy)"]
-    ENERGY --> ENERGY1["南网储能 (600995: 运营数十座大型抽水蓄能电站)"]
-    ENERGY --> ENERGY2["大规模电化学储能电站与调峰调频"]
-    ENERGY --> ENERGY3["绿电交易平台与碳资产管理"]
-
-    classDef main fill:#005a9c,stroke:#00a0e9,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#005a9c,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f8fb,stroke:#005a9c,stroke-width:1px,color:#000;
-    class CSG main;
-    class GRID,WEST,DIGI,ENERGY branch;
-    class GRID1,GRID2,GRID3,WEST1,WEST2,WEST3,DIGI1,DIGI2,DIGI3,ENERGY1,ENERGY2,ENERGY3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与电网护城河 (Competitive Advantages)

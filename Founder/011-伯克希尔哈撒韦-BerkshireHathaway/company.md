@@ -25,45 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BRK["伯克希尔－哈撒韦资本帝国 (Berkshire Hathaway Inc.)"]
-    
-    BRK --> INS["1. 财产与巨灾保险 (Insurance & Float Engine)"]
-    INS --> INS1["GEICO 政府雇员保险 (全美领先直销车险)"]
-    INS --> INS2["通用再保险 (General Re, 全球巨灾再保险巨头)"]
-    INS --> INS3["Berkshire Hathaway Reinsurance / Primary Group"]
-    INS --> INS4["超 1600+ 亿美元极低/负成本长期保险浮存金 (Insurance Float)"]
-    
-    BRK --> RAIL["2. 铁路干线与物流基建 (Railroad)"]
-    RAIL --> RAIL1["伯灵顿北方圣太菲铁路公司 (BNSF Railway)"]
-    RAIL --> RAIL2["全美最大铁路网之一 (连接美国中西部与西海岸关键动脉)"]
-    
-    BRK --> ENG["3. 能源与公用事业 (Berkshire Hathaway Energy, BHE)"]
-    ENG --> ENG1["中美能源 / 太平洋电力 / 内华达能源公司"]
-    ENG --> ENG2["天然气州际长输管道网络 (全美约8%天然气输送)"]
-    ENG --> ENG3["可再生能源投资 (美国风电与光伏大型基础设施)"]
-    
-    BRK --> MANU["4. 制造、工业、服务与零售全资控股 (Manufacturing & Retail)"]
-    MANU --> MANU1["精密机件 Precision Castparts / 润滑油路博润 Lubrizol"]
-    MANU --> MANU2["建筑建材预制屋 Clayton Homes / 本杰明摩尔涂料"]
-    MANU --> MANU3["消费名品: 喜诗糖果 See's Candies / 冰雪皇后 Dairy Queen / 果之月 Fruit of the Loom"]
-    MANU --> MANU4["供应链物流巨头 McLane Company (年入超500亿美元) / NetJets 公务机租赁"]
-    
-    BRK --> EQUITY["5. 公开市场巨额股权投资组合 (Public Equity Portfolio)"]
-    EQUITY --> EQ1["科技龙头: 苹果公司 (Apple Inc.)"]
-    EQUITY --> EQ2["金融消费: 美国运通 (Amex) / 可口可乐 (Coca-Cola) / 美国银行"]
-    EQUITY --> EQ3["传统能源: 雪佛龙 (Chevron) / 西方石油 (Occidental Petroleum)"]
-    EQUITY --> EQ4["国际布局: 日本五大商社 (三菱/三井/住友/伊藤忠/丸红)"]
-
-    classDef main fill:#002244,stroke:#d4af37,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c3f60,stroke:#d4af37,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#002244,stroke-width:1px,color:#000;
-    class BRK main;
-    class INS,RAIL,ENG,MANU,EQUITY branch;
-    class INS1,INS2,INS3,INS4,RAIL1,RAIL2,ENG1,ENG2,ENG3,MANU1,MANU2,MANU3,MANU4,EQ1,EQ2,EQ3,EQ4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与运转逻辑 (Competitive Advantages)

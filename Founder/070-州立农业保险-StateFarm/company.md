@@ -25,37 +25,6 @@
 
 ## 🌐 核心业务矩阵与全美版图 (Business Architecture)
 
-```mermaid
-graph TD
-    SF["州立农业保险商业帝国 (State Farm)"]
-    
-    SF --> AUTO["1. 汽车保险业务 (Auto Insurance, 连续80+年全美第一)"]
-    AUTO --> AUTO1["全美私人乘用车险 (超 4500 万份活跃车险保单)"]
-    AUTO --> AUTO2["商业车队与重型货车运输保险"]
-    AUTO --> AUTO3["Drive Safe & Save (车联网 UBI 动态行为费率折扣)"]
-    
-    SF --> HOME["2. 房屋与财产保险 (Fire & Property, 全美第一)"]
-    HOME --> HOME1["全美自住房房主综合险 (Homeowners Policy)"]
-    HOME --> HOME2["租房客险、公寓险与农场全险 (Farm Ranch)"]
-    HOME --> HOME3["洪水、飓风与极端气象灾害巨灾保险"]
-    
-    SF --> LIFE["3. 人寿健康与财富管理 (Life, Health & Wealth)"]
-    LIFE --> LIFE1["定期寿险、终身寿险与高额万能寿险"]
-    LIFE --> LIFE2["伤残失能险与补充医疗险"]
-    LIFE --> LIFE3["State Farm 共同基金与 529 大学教育储蓄计划"]
-    
-    SF --> AGENT["4. 超级专属代理人网络 (19,000+ Captive Agents)"]
-    AGENT --> AGENT1["遍布全美各大城市社区与偏远乡镇的专属独立网点"]
-    AGENT --> AGENT2["深度扎根社区的‘好邻居’终身家庭顾问生态"]
-
-    classDef main fill:#d81e05,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#d81e05,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff5f5,stroke:#d81e05,stroke-width:1px,color:#000;
-    class SF main;
-    class AUTO,HOME,LIFE,AGENT branch;
-    class AUTO1,AUTO2,AUTO3,HOME1,HOME2,HOME3,LIFE1,LIFE2,LIFE3,AGENT1,AGENT2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Strategic Moats)

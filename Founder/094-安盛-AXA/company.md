@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    AXA["安盛全球保险与资管帝国 (AXA S.A.)"]
-    
-    AXA --> PC["1. 财产与意外险 (Property & Casualty)"]
-    PC --> PC1["个人车险与住宅家庭财产险"]
-    PC --> PC2["中小企业商业财产险与雇主责任险"]
-    PC --> PC3["数字化嵌入式微保与出境旅行保障"]
-    
-    AXA --> XL["2. 全球特种与商业风险 (AXA XL)"]
-    AXA --> XL1["航空航天、深海海运与能源化工巨灾险"]
-    AXA --> XL2["网络安全险 (Cyber Insurance) & 董监事责任险 (D&O)"]
-    AXA --> XL3["全球超大型再保险 (AXA XL Reinsurance)"]
-    
-    AXA --> LIFE["3. 人寿与健康险 (Life, Savings & Health)"]
-    LIFE --> LIFE1["个人与企业员工重疾、医疗与住院津贴保障"]
-    LIFE --> LIFE2["单元链接与资本保护型养老储蓄年金 (Unit-Linked)"]
-    LIFE --> LIFE3["全球跨境高端医疗健康管理生态体系"]
-    
-    AXA --> IM["4. 资产管理 (AXA Investment Managers, AXA IM)"]
-    IM --> IM1["核心固收与全球权益资产配置 (Core Fixed Income & Equities)"]
-    IM --> IM2["另类资产与绿色不动产基金 (AXA IM Alts - Real Estate/Infrastructure)"]
-    IM --> IM3["ESG 与可持续影响力投资 (Responsible Investing)"]
-
-    classDef main fill:#00008f,stroke:#c41230,stroke-width:2px,color:#fff;
-    classDef branch fill:#c41230,stroke:#00008f,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#00008f,stroke-width:1px,color:#000;
-    class AXA main;
-    class PC,XL,LIFE,IM branch;
-    class PC1,PC2,PC3,XL1,XL2,XL3,LIFE1,LIFE2,LIFE3,IM1,IM2,IM3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

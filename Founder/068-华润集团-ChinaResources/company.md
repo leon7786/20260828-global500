@@ -24,38 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CR["华润集团万亿实业帝国 (China Resources)"]
-    
-    CR --> CON["1. 大消费板块 (Consumer Goods)"]
-    CON --> CON1["华润啤酒 (雪花啤酒 Snow, 全球单一销量第一啤酒)"]
-    CON --> CON2["华润饮料 (怡宝 C'estbon 包装纯净水领头羊)"]
-    CON --> CON3["华润万家 (CR Vanguard 头部全国综合商超连锁)"]
-    
-    CR --> PROP["2. 城市建设与运营 (Urban Operations)"]
-    PROP --> PROP1["华润置地 (CR Land, 头部高品质城市投资开发运营商)"]
-    PROP --> PROP2["华润万象生活 (万象城/万象汇, 中国高端商业地产绝对标杆)"]
-    PROP --> PROP3["华润建材科技 (水泥与绿色建材)"]
-    
-    CR --> MED["3. 大健康板块 (Healthcare & Pharma)"]
-    MED --> MED1["华润医药 (全产业链医药研发制造与分销)"]
-    MED --> MED2["华润三九 (999 感冒灵/皮炎平等国民级中药OTC龙头)"]
-    MED --> MED3["江中药业、东阿阿胶、华润双鹤等中华老字号药企"]
-    
-    CR --> ENG["4. 综合能源与高科技 (Energy & Tech)"]
-    ENG --> ENG1["华润电力 (火电/风电/光伏大型清洁能源运营商)"]
-    ENG --> ENG2["华润燃气 (覆盖全国200+城市数千万家庭燃气管网)"]
-    ENG --> ENG3["华润微电子 (中国领先的拥有IDM全产业链的半导体功率器件龙头)"]
-
-    classDef main fill:#b22222,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#b22222,stroke-width:1px,color:#fff;
-    classDef sub fill:#fff9f9,stroke:#b22222,stroke-width:1px,color:#000;
-    class CR main;
-    class CON,PROP,MED,ENG branch;
-    class CON1,CON2,CON3,PROP1,PROP2,PROP3,MED1,MED2,MED3,ENG1,ENG2,ENG3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与行业护城河 (Strategic Moats)

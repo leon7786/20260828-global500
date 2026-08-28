@@ -21,23 +21,6 @@
 
 ## 🧭 八十年跨越式进化与重大决断编年轴 (Chronological Epic)
 
-```mermaid
-timeline
-    title Elevance Health (Anthem / WellPoint) 八十年发展史诗
-    1944 : 印第安纳互助医院服务协会创立 : 二战背景下为蓝领工人提供按月预缴住院互助保障
-    1970s : 蓝十字与蓝盾网络在全美各州铺开 : 确立非营利性区域医疗互助基金体系
-    1986 : 伦纳德·谢弗接掌濒临破产的加州蓝十字 : 启动铁腕改革引入管理式医疗 (Managed Care)
-    1993 : 谢弗主导创立 WellPoint Health Networks 并成功上市 : 开创全美非营利医保改制上市先河
-    1996 : Anthem 在拉里·格拉斯考克带领下推进股份制改制 : 连续吞并肯塔基、俄亥俄、康涅狄格蓝十字
-    2001 : Anthem 于纽交所成功 IPO : 募集雄厚资本构建中西部与东海岸跨州医保网络
-    2004 : Anthem 与 WellPoint 达成 165 亿美元世纪大合并 : 组成全美第一大健康保险巨擘
-    2014 : WellPoint 正式更名为 Anthem, Inc. : 进一步强化统一品牌与全国战略协同
-    2017 : 盖尔·布德罗出任 CEO : 启动从“传统费用支付者”向“全人健康生活伙伴”战略大转型
-    2019 : 摆脱外部第三方 PBM 掣肘 : 成功自建药事管理核心平台 IngenioRx
-    2022 : 集团正式战略更名为 Elevance Health : 重磅发布 Carelon 医疗服务生态品牌
-    2024-2026 : 集团年营收突破 1990 亿美元稳居世界 500 强第 31 位 : 深度融合生成式 AI 与全生命周期健康干预
-```
-
 ---
 
 ## 🏛️ 第一章：战火中的互助契约与印第安纳医保初心 (1944 — 1980)
@@ -57,15 +40,6 @@ timeline
 ---
 
 ## ⚡ 第二章：伦纳德·谢弗与加州蓝十字的生死突围 (1986 — 1996)
-
-```mermaid
-graph TD
-    Crisis["1986年 加州蓝十字濒临破产 (亏损上亿美元)"] --> Schaeffer["伦纳德·谢弗临危受命出任 CEO"]
-    Schaeffer --> Reform1["剥离不良资产 / 建立精密精算与理赔反欺诈系统"]
-    Schaeffer --> Reform2["开创管理式医疗网络 (HMO/PPO 网络深度协议议价)"]
-    Schaeffer --> Demutualization["1993年 创立营利性实体 WellPoint 并成功上市"]
-    Demutualization --> Titan["WellPoint 跃升为全美最具盈利能力的健康险标杆"]
-```
 
 ### 1. 救火队长：临危受命的华盛顿改革者
 1986 年，加利福尼亚州蓝十字协会（Blue Cross of California）由于成本失控、管理混乱，净资产已跌至负数，濒临破产倒闭边缘。加州保险局甚至已准备对其进行强制接管清算。
@@ -101,12 +75,6 @@ graph TD
 
 ## 💥 第四章：2004年 165 亿美元世纪大合并——两强合璧铸造全美第一 (2004)
 
-```mermaid
-graph LR
-    WellPoint["WellPoint Health Networks<br>(加州/佐治亚/弗吉尼亚/密苏里)<br>领军人: 伦纳德·谢弗"] -- "165亿美元吸收合并" --> MEGA["合并后全新巨擘: WellPoint, Inc.<br>(后更名 Anthem / Elevance Health)<br>覆盖全美近3000万投保会员"]
-    Anthem["Anthem, Inc.<br>(印第安纳/俄亥俄/肯塔基/康涅狄格)<br>领军人: 拉里·格拉斯考克"] --> MEGA
-```
-
 ### 1. 密室谈判与巅峰对话
 2003 年秋天，加州千橡市的 WellPoint 总部与印第安纳波利斯的 Anthem 总部之间展开了高度保密的谈判。
 - **谢弗与格拉斯考克的共识**：尽管两家公司各自在东西部独霸一方，但全美联合健康 (UnitedHealth Group) 与安泰 (Aetna) 正在全国范围内大肆蚕食市场。唯有将 WellPoint 卓越的商业化产品创新能力与 Anthem 雄厚的运营基础设施结合，才能打造出一个无法被逾越的超级巨无霸。
@@ -118,15 +86,6 @@ graph LR
 ---
 
 ## 🚀 第五章：盖尔·布德罗与全人健康战略大转型 (2017 — 2026)
-
-```mermaid
-graph TD
-    Boudreaux["2017年 盖尔·布德罗 (Gail Boudreaux) 出任 CEO"] --> Step1["1. 摆脱外部 PBM 依赖: 自建 CarelonRx 药事服务"]
-    Boudreaux --> Step2["2. 跨越传统保险界线: 构建 Carelon 临床与心理健康矩阵"]
-    Boudreaux --> Step3["3. 2022年集团战略更名为 Elevance Health"]
-    Boudreaux --> Step4["4. 引入全栈 AI 与社会健康决定因素 (SDOH) 主动干预"]
-    Step4 --> Result["2026年营收突破 1990 亿美元，跃居世界 500 强第 31 位"]
-```
 
 ### 1. 传奇女将挂帅：从全美全明星球员到医疗铁娘子
 2017 年 11 月，Anthem 董事会宣布任命**盖尔·布德罗 (Gail K. Boudreaux)** 为新任首席执行官。

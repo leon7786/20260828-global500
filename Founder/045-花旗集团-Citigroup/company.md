@@ -23,36 +23,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CITI["花旗集团全球金融版图 (Citigroup Inc.)"]
-    
-    CITI --> ICG["1. 服务与机构客户集团 (Services & ICG)"]
-    ICG --> ICG1["全球交易服务 (TTS: 每日处理数万亿美元跨境资金)"]
-    ICG --> ICG2["证券与托管服务 (Securities Services: 万亿级全球资产托管)"]
-    ICG --> ICG3["投资银行与企业借贷 (全球M&A/股票债券承销)"]
-    ICG --> ICG4["全球外汇与固定收益交易 (FICC 做市商前列)"]
-    
-    CITI --> USPB["2. 个人银行与信用卡 (US Personal Banking)"]
-    USPB --> USPB1["品牌信用卡业务 (全球规模最大的信用卡发卡行之一)"]
-    USPB --> USPB2["美国本土零售分支行与数字化存贷款"]
-    
-    CITI --> GWM["3. 全球财富管理 (Global Wealth Management)"]
-    GWM --> GWM1["花旗私人银行 (Citi Private Bank, 超高净值家族办公室)"]
-    GWM --> GWM2["花旗金贵理财 (Citigold 财富管理)"]
-    
-    CITI --> INTL["4. 全球跨国网络优势 (Global Presence)"]
-    INTL --> INTL1["90% 全球财富500强企业的首席跨国主账户行"]
-    INTL --> INTL2["横跨欧美、亚太、拉美近100国的直连本地清算网络"]
-
-    classDef main fill:#003b70,stroke:#e02424,stroke-width:2px,color:#fff;
-    classDef branch fill:#e02424,stroke:#003b70,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#003b70,stroke-width:1px,color:#000;
-    class CITI main;
-    class ICG,USPB,GWM,INTL branch;
-    class ICG1,ICG2,ICG3,ICG4,USPB1,USPB2,GWM1,GWM2,INTL1,INTL2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

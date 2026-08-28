@@ -23,42 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CC["康卡斯特传媒与宽带帝国 (Comcast Corp.)"]
-    
-    CC --> CONN["1. 连接与平台基础设施 (Connectivity & Platforms)"]
-    CONN --> CONN1["Xfinity 宽带 (超 3200 万美国家庭千兆宽带网络)"]
-    CONN --> CONN2["Xfinity Mobile 移动通信 (超 650 万移动用户)"]
-    CONN --> CONN3["Comcast Business 企业级专线与安全互联"]
-    
-    CC --> NBC["2. NBC 环球传媒与流媒体 (Media & Streaming)"]
-    NBC --> NBC1["NBC 广播电视网 (全国新闻与今日秀)"]
-    NBC --> NBC2["Telemundo (全美最大西班牙语电视网)"]
-    NBC --> NBC3["Peacock 流媒体平台 (超 3400 万付费订阅用户)"]
-    NBC --> NBC4["USA Network / Bravo / CNBC / MSNBC 有线频道"]
-    
-    CC --> STUD["3. 影视与动画工作室 (Studios & IPs)"]
-    STUD --> STUD1["环球影业 (Universal Pictures: 奥本海默/侏罗纪世界/速度与激情)"]
-    STUD --> STUD2["照明娱乐 (Illumination: 小黄人/神偷奶爸/超级马力欧兄弟大电影)"]
-    STUD --> STUD3["梦工厂动画 (DreamWorks: 功夫熊猫/驯龙高手/史莱克)"]
-    
-    CC --> PARK["4. 环球影城与主题度假区 (Theme Parks & Destinations)"]
-    PARK --> PARK1["奥兰多环球度假区 (含新建 Epic Universe 超级园区)"]
-    PARK --> PARK2["好莱坞环球影城 / 日本大阪环球影城 / 北京环球度假区"]
-    
-    CC --> SKY["5. Sky 欧洲广播与宽带 (Sky Group)"]
-    SKY --> SKY1["英国、德国、意大利多频道付费电视与独家体育转播"]
-    SKY --> SKY2["Sky Glass 智能电视硬件与 Sky Broadband 宽带"]
-
-    classDef main fill:#000,stroke:#e51937,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c1c1c,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#1c1c1c,stroke-width:1px,color:#000;
-    class CC main;
-    class CONN,NBC,STUD,PARK,SKY branch;
-    class CONN1,CONN2,CONN3,NBC1,NBC2,NBC3,NBC4,STUD1,STUD2,STUD3,PARK1,PARK2,SKY1,SKY2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

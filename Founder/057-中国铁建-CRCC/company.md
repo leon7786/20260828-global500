@@ -23,42 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CRCC["中国铁道建筑集团 (CRCC)"]
-    
-    CRCC --> ENG["1. 特大型工程承包与施工 (Engineering & Construction)"]
-    ENG --> E1["高速铁路与客运专线 (设计建设全国半数以上高铁里程)"]
-    ENG --> E2["复杂跨海大桥与长大深埋隧道 (港珠澳大桥 / 深中通道)"]
-    ENG --> E3["城市轨道交通与地铁轻轨 (覆盖全国数十座核心都市圈)"]
-    ENG --> E4["水利水电 / 港口航道 / 机场跑道与综合管廊"]
-    
-    CRCC --> MFG["2. 工业制造与高端重工装备 (Industrial Manufacturing)"]
-    MFG --> M1["铁建重工 (688425.SH: 全球领先全断面掘进机/盾构机/TBM)"]
-    MFG --> M2["大直径泥水平衡盾构机 ('京华号' 16米级国产自主之王)"]
-    MFG --> M3["大型养路机械 / 高速道岔 / 电气化接触网接触部件"]
-    
-    CRCC --> SUR["3. 规划设计与勘察咨询 (Survey & Design Institutes)"]
-    SUR --> S1["中铁第四勘察设计院 (铁四院: 中国高铁设计领头羊)"]
-    SUR --> S2["中铁第一勘察设计院 (铁一院: 高原与西北冻土地质勘察权威)"]
-    SUR --> S3["中铁第五勘察设计院 (铁五院) 及各专业甲级设计院所"]
-    
-    CRCC --> GLOB["4. 海外重大基建与一带一路 (Global Operations)"]
-    GLOB --> G1["印尼雅万高铁 / 尼日利亚阿卡铁路 / 亚吉铁路"]
-    GLOB --> G2["沙特麦加朝觐轻轨 / 莫斯科地铁西南段 / 卢塞尔体育场"]
-    
-    CRCC --> REAL["5. 房地产与绿色新兴产业 (Real Estate & Emerging)"]
-    CRCC --> R1["中国铁建地产 (国匠精工 / 绿色健康住宅科技)"]
-    CRCC --> R2["生态环保治理 / 矿山修复 / 海上风电基础施工"]
-
-    classDef main fill:#003399,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#003399,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4ff,stroke:#333,stroke-width:1px,color:#000;
-    class CRCC main;
-    class ENG,MFG,SUR,GLOB,REAL branch;
-    class E1,E2,E3,E4,M1,M2,M3,S1,S2,S3,G1,G2,R1,R2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

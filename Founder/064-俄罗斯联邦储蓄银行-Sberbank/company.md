@@ -24,36 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    SBER["俄罗斯联邦储蓄银行 / Sber科技生态 (Sberbank)"]
-    
-    SBER --> BANK["1. 传统银行业务基石 (Financial Core)"]
-    BANK --> BANK1["全俄个人零售存款 (>50% 绝对市场份额)"]
-    BANK --> BANK2["全俄企业与商业信贷 (>35% 市场份额)"]
-    BANK --> BANK3["SberPay 移动支付与全俄清算结算中枢"]
-    BANK --> BANK4["覆盖全俄11个时区的1.3万家智慧物理网点"]
-    
-    SBER --> AI["2. 人工智能与前沿科技 (Sber AI & Cloud)"]
-    AI --> AI1["GigaChat 大语言模型 (支持俄语/多模态/企业级私有化)"]
-    AI --> AI2["Kandinsky 生成式文生图/多模态视觉AI体系"]
-    AI --> AI3["Christofari 超级计算机集群与自研算力平台"]
-    AI --> AI4["SberCloud 企业级公有云与混合云服务"]
-    
-    SBER --> ECO["3. Sber 数字生态系统 (Digital Ecosystem)"]
-    ECO --> ECO1["SberMarket / MegaMarket 综合电商与即时零售"]
-    ECO --> ECO2["SberID 全俄统一数字公民身份认证中枢"]
-    ECO --> ECO3["SberHealth 远程智慧医疗健康服务平台"]
-    ECO --> ECO4["2GIS 空间地理高精地图与本地生活导航"]
-
-    classDef main fill:#21a038,stroke:#003311,stroke-width:2px,color:#fff;
-    classDef branch fill:#003311,stroke:#21a038,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f9f4,stroke:#003311,stroke-width:1px,color:#000;
-    class SBER main;
-    class BANK,AI,ECO branch;
-    class BANK1,BANK2,BANK3,BANK4,AI1,AI2,AI3,AI4,ECO1,ECO2,ECO3,ECO4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Strategic Moats)

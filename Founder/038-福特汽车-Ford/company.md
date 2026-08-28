@@ -24,43 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    FORD["福特汽车全球业务版图 (Ford Motor Company)"]
-    
-    FORD --> BLUE["1. Ford Blue: 燃油与混合动力优势业务"]
-    BLUE --> BLUE1["F-Series 超级皮卡家族 (全美连续 47 年最畅销卡车)"]
-    BLUE --> BLUE2["Mustang 野马传奇肌肉跑车与高性能赛道文化"]
-    BLUE --> BLUE3["Bronco & Explorer 烈马与探险者硬派越野 SUV"]
-    BLUE --> BLUE4["高能效油电混动系统 (PowerBoost Hybrid)"]
-    
-    FORD --> MODELE["2. Ford Model e: 纯电动与智能软件中心"]
-    MODELE --> ME1["F-150 Lightning 纯电动全尺寸超级皮卡"]
-    ME2["Mustang Mach-E 纯电智能跨界轿跑 SUV"]
-    ME3["自研整车操作系统 (Ford Operating System) 与电子电气架构"]
-    ME4["BlueCruise 蓝智驾准 L3 级高速公路全自动领航辅助"]
-    MODELE --> ME1
-    MODELE --> ME2
-    MODELE --> ME3
-    MODELE --> ME4
-    
-    FORD --> PRO["3. Ford Pro: 全球商用车与商业车队解决方案"]
-    PRO --> PRO1["Ford Transit (全顺): 全球销量第一的商用货运厢式轻客"]
-    PRO --> PRO2["Super Duty 重载商用皮卡与市政特种作业改装车"]
-    PRO --> PRO3["Ford Pro Telematics 车队数字化智能调度与远程能耗云"]
-    PRO --> PRO4["专属商用快充网络与一站式全生命周期驻场维保"]
-    
-    FORD --> CREDIT["4. Ford Credit: 全球汽车金融与保险服务"]
-    CREDIT --> FC1["全球经销商库存批售融资与零售客户购车分期租赁"]
-
-    classDef main fill:#003478,stroke:#5c88da,stroke-width:2px,color:#fff;
-    classDef branch fill:#001c48,stroke:#5c88da,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4fa,stroke:#001c48,stroke-width:1px,color:#000;
-    class FORD main;
-    class BLUE,MODELE,PRO,CREDIT branch;
-    class BLUE1,BLUE2,BLUE3,BLUE4,ME1,ME2,ME3,ME4,PRO1,PRO2,PRO3,PRO4,FC1 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

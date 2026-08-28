@@ -25,43 +25,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    VW["大众汽车集团 (Volkswagen AG)"]
-    
-    VW --> CORE["1. 大众核心乘用车品牌群 (Brand Group Core)"]
-    CORE --> C1["大众汽车 (Volkswagen Passenger Cars)"]
-    CORE --> C2["斯柯达汽车 (Škoda Auto)"]
-    CORE --> C3["西雅特 & CUPRA (SEAT / CUPRA)"]
-    CORE --> C4["大众商用车 (VW Commercial Vehicles)"]
-    
-    VW --> PROG["2. 进取高端品牌群 (Brand Group Progressive)"]
-    PROG --> P1["奥迪 (Audi)"]
-    PROG --> P2["宾利 (Bentley Motors)"]
-    PROG --> P3["兰博基尼 (Lamborghini)"]
-    PROG --> P4["杜卡迪重型摩托车 (Ducati)"]
-    
-    VW --> LUX["3. 运动与超豪华旗舰 (Brand Group Sport Luxury)"]
-    LUX --> L1["保时捷 (Porsche AG - 911 / Taycan / Panamera)"]
-    
-    VW --> TRATON["4. 传拓商用车重卡集团 (TRATON GROUP)"]
-    TRATON --> T1["斯堪尼亚 (Scania - 公路之王)"]
-    TRATON --> T2["曼恩商用车 (MAN Truck & Bus)"]
-    TRATON --> T3["北美航星重卡 (Navistar International)"]
-    
-    VW --> TECH["5. 软件与核心电池技术底座 (Tech & Components)"]
-    TECH --> TC1["CARIAD 智能座舱与自动驾驶操作系统"]
-    TECH --> TC2["PowerCo 全球动力电池与标准电芯超级工厂"]
-    TECH --> TC3["大众金融服务 (Volkswagen Financial Services)"]
-
-    classDef main fill:#001e50,stroke:#00b0f0,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c3d70,stroke:#00b0f0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#001e50,stroke-width:1px,color:#000;
-    class VW main;
-    class CORE,PROG,LUX,TRATON,TECH branch;
-    class C1,C2,C3,C4,P1,P2,P3,P4,L1,T1,T2,T3,TC1,TC2,TC3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与工业壁垒 (Competitive Advantages)

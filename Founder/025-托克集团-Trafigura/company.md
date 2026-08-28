@@ -23,34 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    TRAF["托克商业帝国 (Trafigura Group)"]
-    
-    TRAF --> OIL["1. 石油与成品油 (Oil & Petroleum Products)"]
-    OIL --> CRUDE["原油日均贸易超 500 万桶 (全球独立贸易商前列)"]
-    OIL --> REFINED["汽油、柴油、石脑油、航空煤油调配与分销"]
-    OIL --> GAS_PWR["液化天然气 (LNG)、液化石油气 (LPG) 与电力现货"]
-    
-    TRAF --> MET["2. 金属与矿产 (Metals & Minerals)"]
-    MET --> CONC["全球最大铜精矿、锌精矿独立贸易商"]
-    MET --> BULK["精炼铜、铝、镍及大宗铁矿石、氧化铝"]
-    MET --> BATTERY["锂、钴、稀贵电池原材料"]
-    
-    TRAF --> ASSET["3. 实体工业与物流基建 (Industrial Assets & Logistics)"]
-    ASSET --> PUMA["Puma Energy 全球下游零售加油站 (服务亚非拉 40+ 国)"]
-    ASSET --> IMPALA["Impala Terminals 全球多式联运港口与仓储网络"]
-    ASSET --> NYR["Nyrstar 全球领先的多金属冶炼与回收基地"]
-    ASSET --> NALA["Nala Renewables 绿电与储能投资平台"]
-
-    classDef main fill:#0b2545,stroke:#134074,stroke-width:2px,color:#fff;
-    classDef branch fill:#134074,stroke:#8da9c4,stroke-width:1px,color:#fff;
-    classDef sub fill:#eef4f8,stroke:#0b2545,stroke-width:1px,color:#000;
-    class TRAF main;
-    class OIL,MET,ASSET branch;
-    class CRUDE,REFINED,GAS_PWR,CONC,BULK,BATTERY,PUMA,IMPALA,NYR,NALA sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

@@ -24,39 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    BAC["美国银行金融帝国 (Bank of America Corp.)"]
-    
-    BAC --> CB["1. 消费者零售银行 (Consumer Banking)"]
-    CB --> CB1["全美 3,800+ 家现代化金融中心与 15,000+ 台 ATM 网络"]
-    CB --> CB2["全美第一大低成本核心零售活期存款储蓄池"]
-    CB --> CB3["个人住房抵押贷款、汽车消费信贷与联名信用卡"]
-    CB --> CB4["数字金融平台 (3800万活跃移动用户 & 虚拟智能助手 Erica)"]
-    
-    BAC --> GWIM["2. 全球财富与投资管理 (GWIM)"]
-    GWIM --> GWIM1["美林财富管理 (Merrill Lynch Wealth Management): 1.5万名金牌顾问"]
-    GWIM --> GWIM2["美国银行私人银行 (Bank of America Private Bank): 超高净值家族信托"]
-    GWIM --> GWIM3["美林自我导向投资平台 (Merrill Edge)"]
-    
-    BAC --> GB["3. 全球企业与商业银行 (Global Banking)"]
-    GB --> GB1["中型市场与大型企业商业信贷及流动性支持"]
-    GB --> GB2["全球投资银行 (BofA Securities): IPO 承销、跨国并购财务顾问"]
-    GB --> GB3["全球交易服务 (GTS): 跨国资金清算、贸易融资与供应链金融"]
-    
-    BAC --> GM["4. 全球市场与大宗证券交易 (Global Markets)"]
-    GM --> GM1["固定收益、外汇与大宗商品做市交易 (FICC)"]
-    GM --> GM2["全球股票机构交易与衍生品清算"]
-    GM --> GM3["全球宏观经济与产业前沿研究 (BofA Global Research)"]
-
-    classDef main fill:#012169,stroke:#e31837,stroke-width:2px,color:#fff;
-    classDef branch fill:#00529b,stroke:#e31837,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f6fa,stroke:#00529b,stroke-width:1px,color:#000;
-    class BAC main;
-    class CB,GWIM,GB,GM branch;
-    class CB1,CB2,CB3,CB4,GWIM1,GWIM2,GWIM3,GB1,GB2,GB3,GM1,GM2,GM3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

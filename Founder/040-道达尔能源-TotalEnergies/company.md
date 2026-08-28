@@ -24,38 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    TTE["道达尔能源全球综合版图 (TotalEnergies SE)"]
-    
-    TTE --> LNG["1. 综合天然气、绿电与可再生能源 (iGRP)"]
-    LNG --> LNG1["全球第二大私营液化天然气 (LNG) 运营商 (年销量超 4500 万吨)"]
-    LNG --> LNG2["卡塔尔超级 LNG 扩建工程 (North Field East / South 核心伙伴)"]
-    LNG --> LNG3["全球超 100 GW 可再生能源发电装机 (大型地面光伏与海上风电)"]
-    LNG --> LNG4["欧洲综合电力零售业务 (服务超 600 万工商业与家庭客户)"]
-    
-    TTE --> UP["2. 优质深水与低成本上游 (Exploration & Production)"]
-    UP --> UP1["西非深水盐下超级油田 (安哥拉、尼日利亚、纳米比亚深海大发现)"]
-    UP --> UP2["巴西桑托斯盆地超深水盐下核心资产 (Mero / Libra)"]
-    UP --> UP3["中东阿联酋、阿曼与伊拉克综合油气超级特许权"]
-    
-    TTE --> REF["3. 炼化与特种高分子材料 (Refining & Chemicals)"]
-    REF --> REF1["全球六大一体化超级炼化综合体 (安特卫普、诺曼底、沙特 SATORP)"]
-    REF --> REF2["汽车轻量化聚合物、特种橡胶与循环再生塑料"]
-    
-    TTE --> MKT["4. 终端出行与综合能源零售 (Marketing & Services)"]
-    MKT --> MKT1["全球 15,000+ 座多能源补能驿站 (高品质燃油、洗车、便利店)"]
-    MKT --> MKT2["欧洲主要高速走廊及中国超快充网络 (TotalEnergies Charging)"]
-    MKT --> MKT3["全系列工业与车用高品质特种润滑油"]
-
-    classDef main fill:#e0001a,stroke:#002d62,stroke-width:2px,color:#fff;
-    classDef branch fill:#002d62,stroke:#e0001a,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f7fc,stroke:#002d62,stroke-width:1px,color:#000;
-    class TTE main;
-    class LNG,UP,REF,MKT branch;
-    class LNG1,LNG2,LNG3,LNG4,UP1,UP2,UP3,REF1,REF2,MKT1,MKT2,MKT3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

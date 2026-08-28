@@ -23,36 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CREC["中国中铁超级基建航母 (CREC)"]
-    
-    CREC --> INFRA["1. 特大型基础设施建设 (Infrastructure Construction)"]
-    INFRA --> INFRA1["高速铁路与普速干线铁路 (京沪/京张/雅万等)"]
-    INFRA --> INFRA2["城市轨道交通与地铁工程 (全国数十座城市地铁主力)"]
-    INFRA --> INFRA3["超级跨海大桥与超长深埋长大隧道"]
-    INFRA --> INFRA4["高等级公路、市政工程与综合管廊"]
-    
-    CREC --> DESIGN["2. 勘察设计与工程智库 (Survey & Design)"]
-    DESIGN --> DESIGN1["中铁二院 (西南与复杂地质高铁勘察设计第一品牌)"]
-    DESIGN --> DESIGN2["中铁大桥院 (中国现代桥梁工程摇篮与技术中枢)"]
-    
-    CREC --> EQUIP["3. 高端工业装备制造 (China Railway Industry, 600528.SH)"]
-    EQUIP --> EQUIP1["中铁装备: 盾构机与全断面硬岩掘进机 (TBM, 产销量全球第一)"]
-    EQUIP --> EQUIP2["高速道岔、重型桥梁钢结构与特种施工机械"]
-    
-    CREC --> DEV["4. 综合投资与新兴产业 (Investment & Emerging)"]
-    DEV --> DEV1["新型城镇化与城市片区综合开发 (中铁置业)"]
-    DEV --> DEV2["生态环保、水务治理与清洁能源基础设施"]
-
-    classDef main fill:#003da5,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#e60012,stroke:#003da5,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#003da5,stroke-width:1px,color:#000;
-    class CREC main;
-    class INFRA,DESIGN,EQUIP,DEV branch;
-    class INFRA1,INFRA2,INFRA3,INFRA4,DESIGN1,DESIGN2,EQUIP1,EQUIP2,DEV1,DEV2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

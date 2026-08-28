@@ -24,42 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CSCEC["中国建筑集团 (CSCEC)"]
-    
-    CSCEC --> BUILD["1. 房屋建筑超级工程 (Building Construction)"]
-    BUILD --> B1["超高层地标 (上海中心/平安金融中心/中国尊/广州周大福)"]
-    BUILD --> B2["大型公共场馆 (国家游泳中心水立方/北京大兴国际机场航站楼)"]
-    BUILD --> B3["工业厂房与新基建数据中心 (中建一局至八局王牌铁军)"]
-    
-    CSCEC --> INFRA["2. 基础设施投资与建设 (Infrastructure)"]
-    INFRA --> I1["国家高速公路网与高铁客运专线枢纽"]
-    INFRA --> I2["特大跨海/跨江桥梁与海底隧道工程"]
-    INFRA --> I3["城市轨道交通与综合管廊投资建设运营"]
-    
-    CSCEC --> REAL["3. 房地产开发与城市运营 (Real Estate & City)"]
-    REAL --> R1["中国海外发展 (中海地产 - 40余年港股蓝筹，行业稳健标杆)"]
-    REAL --> R2["中建地产 (各大工程局旗下区域标杆地产品牌)"]
-    REAL --> R3["城市更新、保障房建设与全周期物业资产运营"]
-    
-    CSCEC --> TECH["4. 勘察设计与绿色智能建造 (Tech & Prefab)"]
-    TECH --> T1["大国重器: '空中造楼机' (超高层集成轻量化施工平台)"]
-    TECH --> T2["模块化集成建筑 (MiC) 与装配式建筑全产业链"]
-    TECH --> T3["7大甲级综合建筑设计研究院与工程勘察技术群"]
-    
-    CSCEC --> OVERSEAS["5. 海外工程承包与一带一路 (Global CSCEC)"]
-    OVERSEAS --> O1["埃及新行政首都中央商务区 (CBD - 标志塔'非洲第一高楼')"]
-    OVERSEAS --> O2["阿尔及利亚大清真寺 / 港珠澳大桥香港接线"]
-
-    classDef main fill:#00386b,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#005596,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#00386b,stroke-width:1px,color:#000;
-    class CSCEC main;
-    class BUILD,INFRA,REAL,TECH,OVERSEAS branch;
-    class B1,B2,B3,I1,I2,I3,R1,R2,R3,T1,T2,T3,O1,O2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与硬核实力 (Competitive Moats)

@@ -22,39 +22,6 @@
 
 ## 🌐 核心业务矩阵与产品版图 (Business Architecture)
 
-```mermaid
-graph TD
-    DELL["戴尔科技商业帝国 (Dell Technologies)"]
-    
-    DELL --> ISG["1. 基础设施解决方案集团 (ISG - Enterprise)"]
-    ISG --> ISG1["PowerEdge 高性能与 AI 服务器集群 (XE9680 / 搭载英伟达 Blackwell)"]
-    ISG --> ISG2["企业级存储系统 (PowerStore / PowerScale 全闪存阵列)"]
-    ISG --> ISG3["数据保护与多云治理软件 (PowerProtect)"]
-    ISG --> ISG4["开放网络交换机与超融合架构 (VxRail)"]
-    
-    DELL --> CSG["2. 客户解决方案集团 (CSG - Client Solutions)"]
-    CSG --> CSG1["商用工作站与笔记本 (Latitude / Precision)"]
-    CSG --> CSG2["高端消费与轻薄本 (XPS 系列)"]
-    CSG --> CSG3["外星人电竞生态 (Alienware 高端游戏PC与外设)"]
-    CSG --> CSG4["商用显示器与企业智慧办公配件"]
-    
-    DELL --> AI_FAC["3. 戴尔 AI 工厂 (Dell AI Factory with NVIDIA)"]
-    AI_FAC --> AI1["全栈企业级生成式 AI 交钥匙工程 (On-Premises AI)"]
-    AI_FAC --> AI2["高密度冷板直接液冷 (Direct Liquid Cooling - DLC)"]
-    AI_FAC --> AI3["企业专有大模型微调与 RAG 检索增强架构"]
-    
-    DELL --> APEX["4. 订阅式多云服务 (Dell APEX As-a-Service)"]
-    APEX --> APEX1["按需计费的弹性私有云与算力租赁 (IaaS)"]
-    APEX --> APEX2["多云存储协同 (跨 AWS/Azure/Google Cloud 统一接入)"]
-
-    classDef main fill:#007db8,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#007db8,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f8fa,stroke:#007db8,stroke-width:1px,color:#000;
-    class DELL main;
-    class ISG,CSG,AI_FAC,APEX branch;
-    class ISG1,ISG2,ISG3,ISG4,CSG1,CSG2,CSG3,CSG4,AI1,AI2,AI3,APEX1,APEX2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮护城河 (Competitive Advantages)

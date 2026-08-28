@@ -23,50 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HUAWEI["华为商业帝国 (Huawei Investment & Holding)"]
-    
-    HUAWEI --> ICT["1. ICT 基础设施业务 (ICT Infrastructure)"]
-    ICT --> ICT1["无线网络 (5G / 5.5G-A 蜂窝基站)"]
-    ICT --> ICT2["光网络 (全光网 F5.5G / 骨干波分传送)"]
-    ICT --> ICT3["数据通信 (数通路由器 / 园区交换机)"]
-    ICT --> ICT4["企业核心软件 (MetaERP / 工业软件)"]
-    
-    HUAWEI --> CBG["2. 终端业务群 (Consumer BG)"]
-    CBG --> CBG1["高端智能手机 (Mate / Pura / 非凡大师折叠屏)"]
-    CBG --> CBG2["原生鸿蒙操作系统 (HarmonyOS NEXT 纯血生态)"]
-    CBG --> CBG3["全场景智慧硬件 (MateBook / MatePad / 智能穿戴)"]
-    CBG --> CBG4["全屋智能与车载座舱终端"]
-    
-    HUAWEI --> CLOUD["3. 华为云计算 (Huawei Cloud)"]
-    CLOUD --> CLOUD1["全球算力基础设施 (KooVerse 布局)"]
-    CLOUD --> CLOUD2["盘古大模型系列 (Pangu 行业垂直大模型)"]
-    CLOUD --> CLOUD3["GaussDB 高斯分布式数据库"]
-    
-    HUAWEI --> DP["4. 数字能源 (Digital Power)"]
-    DP --> DP1["智能光伏与大规模储能系统"]
-    DP --> DP2["全液冷超充网络 (1秒1公里极速补能)"]
-    DP --> DP3["数据中心能源与站点能源"]
-    
-    HUAWEI --> CAR["5. 智能汽车解决方案 (Car BU / 鸿蒙智行)"]
-    CAR --> CAR1["乾崑智驾 (ADS 高阶无图城市导航)"]
-    CAR --> CAR2["鸿蒙智能座舱 (HarmonySpace)"]
-    CAR --> CAR3["鸿蒙智行联盟 (问界 / 享界 / 智界 / 尊界)"]
-
-    HUAWEI --> CHIP["6. 芯片与计算基座 (HiSilicon & Computing)"]
-    CHIP --> CHIP1["昇腾 AI 计算产业 (Ascend 910 系列算力集群)"]
-    CHIP --> CHIP2["鲲鹏通用计算产业 (Kunpeng 算力生态)"]
-    CHIP --> CHIP3["海思端侧芯片平台 (HiSilicon 全品类芯片)"]
-
-    classDef main fill:#cf0a2c,stroke:#222,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#cf0a2c,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#cf0a2c,stroke-width:1px,color:#000;
-    class HUAWEI main;
-    class ICT,CBG,CLOUD,DP,CAR,CHIP branch;
-    class ICT1,ICT2,ICT3,ICT4,CBG1,CBG2,CBG3,CBG4,CLOUD1,CLOUD2,CLOUD3,DP1,DP2,DP3,CAR1,CAR2,CAR3,CHIP1,CHIP2,CHIP3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

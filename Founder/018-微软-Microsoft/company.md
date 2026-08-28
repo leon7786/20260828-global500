@@ -24,41 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    MSFT["微软科技帝国 (Microsoft Corporation)"]
-    
-    MSFT --> CLOUD["1. 智能云与开发者平台 (Intelligent Cloud)"]
-    CLOUD --> C1["Microsoft Azure (全球第二大超级公有云平台)"]
-    CLOUD --> C2["Azure OpenAI Service (GPT-4/GPT-4o 企业级独家托管)"]
-    CLOUD --> C3["GitHub (超1亿全球开发者开源协作中心 / GitHub Copilot)"]
-    CLOUD --> C4["企业级基础设施 (Windows Server / SQL Server / Visual Studio)"]
-    
-    MSFT --> PROD["2. 生产力与业务流程 (Productivity & Business)"]
-    MSFT --> PROD1["Microsoft 365 (Office 商业套件: Word/Excel/PowerPoint/Outlook)"]
-    PROD --> PROD2["Microsoft Teams 智能协作平台 (日活超3亿企业用户)"]
-    PROD --> PROD3["LinkedIn 领英 (全球最大职业社交平台，超10亿会员)"]
-    PROD --> PROD4["Dynamics 365 企业资源规划 (ERP/CRM)"]
-    
-    MSFT --> AI["3. 全栈生成式 AI 生态 (AI & Copilot System)"]
-    AI --> AI1["Microsoft Copilot (重塑 Windows、Office、Security、GitHub)"]
-    AI --> AI2["OpenAI 深度独家战略同盟 (累计投资超 130 亿美元)"]
-    AI --> AI3["自研算力芯片: Azure Maia 100 AI 加速芯片 & Cobalt 100 CPU"]
-    
-    MSFT --> PERS["4. 更多个人计算与游戏娱乐 (More Personal Computing)"]
-    PERS --> P1["Windows 11 操作系统 (全球数十亿 PC 桌面底座)"]
-    PERS --> P2["Xbox 游戏生态与 Xbox Game Pass (XGP 订阅体系)"]
-    PERS --> P3["动视暴雪 (Activision Blizzard - 687亿美元收购《使命召唤》《魔兽》)"]
-    PERS --> P4["Surface 智能硬件与 Bing/Edge AI 搜索"]
-
-    classDef main fill:#00a4ef,stroke:#7fba00,stroke-width:2px,color:#fff;
-    classDef branch fill:#243a5e,stroke:#00a4ef,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#243a5e,stroke-width:1px,color:#000;
-    class MSFT main;
-    class CLOUD,PROD,AI,PERS branch;
-    class C1,C2,C3,C4,PROD1,PROD2,PROD3,PROD4,AI1,AI2,AI3,P1,P2,P3,P4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与战略支柱 (Competitive Moats)

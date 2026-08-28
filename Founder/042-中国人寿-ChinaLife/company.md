@@ -23,45 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CL["中国人寿保险集团 (China Life Group)"]
-    
-    CL --> LIFE["1. 中国人寿股份 (China Life Insurance)"]
-    LIFE --> LIFE1["个人寿险与大病健康险 (遍布全国城乡)"]
-    LIFE --> LIFE2["银保协同与高净值财富管理"]
-    LIFE --> LIFE3["团体人身保险与普惠型补充医疗"]
-    
-    CL --> AMC["2. 国寿资产管理 (China Life Asset Management)"]
-    AMC --> AMC1["超 5 万亿元大类资产配置管理中枢"]
-    AMC --> AMC2["国家重大战略工程专项债与基建直投"]
-    AMC --> AMC3["科技创新与高端装备制造产业母基金"]
-    
-    CL --> PQC["3. 国寿财产险 (China Life P&C)"]
-    PQC --> PQC1["智能车险与新能源专属车险"]
-    PQC --> PQC2["企业财产险、责任险与巨灾保险"]
-    PQC --> PQC3["农业保险与乡村振兴产业风险保障"]
-    
-    CL --> PEN["4. 国寿养老险 (China Life Pension)"]
-    PEN --> PEN1["企业年金与职业年金全流程受托管理"]
-    PEN --> PEN2["第三支柱个人养老金专属商业保险"]
-    
-    CL --> CGB["5. 广发银行 (China Guangfa Bank)"]
-    CGB --> CGB1["零售金融、信用卡与私人银行协同"]
-    CGB --> CGB2["大中型企业综合信贷与绿色跨境金融"]
-    
-    CL --> OVS["6. 国寿海外与医养 (Overseas & Healthcare)"]
-    OVS --> OVS1["国寿海外 (港澳、新加坡、印尼跨境保险)"]
-    OVS --> OVS2["国寿嘉园高端养老社区与普惠医养结合"]
-
-    classDef main fill:#00843d,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#00843d,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class CL main;
-    class LIFE,AMC,PQC,PEN,CGB,OVS branch;
-    class LIFE1,LIFE2,LIFE3,AMC1,AMC2,AMC3,PQC1,PQC2,PQC3,PEN1,PEN2,CGB1,CGB2,OVS1,OVS2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

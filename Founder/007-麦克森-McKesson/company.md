@@ -24,36 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    MCK["麦克森健康供应链帝国 (McKesson Corporation)"]
-    
-    MCK --> PHARM["1. 美国处方药流通分销 (U.S. Pharmaceutical)"]
-    PHARM --> PHARM1["全美连锁药房与零售药店供应链 (CVS/沃尔玛等核心分销伙伴)"]
-    PHARM --> PHARM2["Health Mart 独立社区药房特许加盟网络 (超4000家加盟药房)"]
-    PHARM --> PHARM3["大型医院集团与卫生系统住院药品日配 (Inpatient Distribution)"]
-    
-    MCK --> TECH["2. 处方科技与数字化解决方案 (Prescription Technology Solutions)"]
-    TECH --> TECH1["CoverMyMeds (全美最大电子处方预先授权与患者自付减免平台)"]
-    TECH --> TECH2["RelayHealth (百亿级处方数据实时交换与医保报销清算路由)"]
-    
-    MCK --> ONCO["3. 肿瘤专科与特种药生态 (The US Oncology & Specialty)"]
-    ONCO --> ONCO1["The US Oncology Network (全美最大独立肿瘤医生网络, 2400+专科医生)"]
-    ONCO --> ONCO2["Ontada (肿瘤真实世界数据 RWD 分析与前沿抗癌药临床试验支持)"]
-    ONCO --> ONCO3["特种药房与冷链高敏生物制剂分销 (Biologics & Cell Therapy)"]
-    
-    MCK --> MEDSURG["4. 医疗外科耗材与器械 (Medical-Surgical Solutions)"]
-    MEDSURG --> MED1["门诊手术中心 (ASC) & 基层诊所医用器械耗材直供"]
-    MEDSURG --> MED2["急救、重症监护、诊断试剂与个人防护物资 (PPE) 全球采购"]
-
-    classDef main fill:#003B71,stroke:#002244,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#003B71,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f5fb,stroke:#003B71,stroke-width:1px,color:#000;
-    class MCK main;
-    class PHARM,TECH,ONCO,MEDSURG branch;
-    class PHARM1,PHARM2,PHARM3,TECH1,TECH2,ONCO1,ONCO2,ONCO3,MED1,MED2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与供应链护城河 (Core Competitive Moat)

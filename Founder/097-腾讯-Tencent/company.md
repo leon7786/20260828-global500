@@ -23,41 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    TENCENT["腾讯科技与数字生态帝国 (Tencent Holdings)"]
-    
-    TENCENT --> WX["1. 微信生态与通信网络 (WXG & Social Network)"]
-    WX --> WX1["微信 (WeChat, 13.5亿+ MAU 国民级数字连接器)"]
-    WX --> WX2["微信生态矩阵: 小程序 (Mini Programs)、视频号 (Channels)、搜一搜、企业微信"]
-    WX --> WX3["QQ 平台: QQ社交、QQ空间、厘米秀与年轻化泛娱乐社区"]
-    
-    TENCENT --> IEG["2. 互动娱乐与游戏 (IEG - Global Gaming)"]
-    IEG --> IEG1["自研现象级国民手游: 王者荣耀 (Honor of Kings)、和平精英 (Game for Peace)"]
-    IEG --> IEG2["海外全资控股与顶尖投资: 拳头游戏 (Riot Games / LOL)、Supercell (部落冲突)"]
-    IEG --> IEG3["全球发行业务: Level Infinite (PUBG Mobile / 胜利女神) & 虚幻引擎 Epic Games (40%股权)"]
-    
-    TENCENT --> PCG["3. 数字内容与平台 (PCG - Digital Content)"]
-    PCG --> PCG1["长视频旗舰: 腾讯视频 (Tencent Video, 亿级会员)"]
-    PCG --> PCG2["数字音乐霸主: 腾讯音乐娱乐集团 (TME, 纽交所上市 / QQ音乐/网易云竞争)"]
-    PCG --> PCG3["网络文学IP源头: 阅文集团 (China Literature / 庆余年等网络文学IP)"]
-    
-    TENCENT --> FBS["4. 金融科技与企业服务 (FinTech & Business Services)"]
-    FBS --> FBS1["国民支付底座: 微信支付 (Tenpay, 日均交易笔数超10亿笔) & 腾讯理财通"]
-    FBS --> FBS2["产业互联网中枢: 腾讯云 (Tencent Cloud)、腾讯会议 (Tencent Meeting)、腾讯文档"]
-    
-    TENCENT --> TECH["5. 前沿科技与基础研发 (AI & Frontier Tech)"]
-    TECH --> TECH1["多模态基础大模型: 腾讯混元大模型 (Hunyuan LLM) & 腾讯元宝"]
-    TECH --> TECH2["顶尖科研实验室: 腾讯 AI Lab、Robotics X 机器人实验室、量子实验室"]
-
-    classDef main fill:#0052d9,stroke:#00a4ff,stroke-width:2px,color:#fff;
-    classDef branch fill:#1f2329,stroke:#0052d9,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class TENCENT main;
-    class WX,IEG,PCG,FBS,TECH branch;
-    class WX1,WX2,WX3,IEG1,IEG2,IEG3,PCG1,PCG2,PCG3,FBS1,FBS2,TECH1,TECH2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

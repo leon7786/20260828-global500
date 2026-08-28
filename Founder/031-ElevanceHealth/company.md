@@ -24,36 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    ELV["Elevance Health 集团生态 (Elevance Health, Inc.)"]
-    
-    ELV --> HB["1. 健康福利业务板块 (Health Benefits)"]
-    HB --> HB1["Anthem 蓝十字蓝盾 (14个州独家特许经营授权)"]
-    HB --> HB2["Wellpoint 品牌 (非蓝十字州及全国特定商业计划)"]
-    HB --> HB3["Medicaid 州政府低收入家庭管理式医保计划"]
-    HB --> HB4["Medicare Advantage 老年人补充医疗与红蓝卡联邦项目"]
-    HB --> HB5["雇主团体商业保险 (大型企业自保与全面承保)"]
-    
-    ELV --> CLN["2. Carelon 综合医疗健康服务板块 (Carelon Ecosystem)"]
-    CLN --> CLN1["CarelonRx: 全美领先药事管理 (PBM) 与特种药输注服务"]
-    CLN --> CLN2["Carelon Behavioral Health: 全美顶尖心理与行为健康网络"]
-    CLN --> CLN3["Carelon Insights: 医疗大数据、理赔风控与临床生成式 AI"]
-    CLN --> CLN4["Carelon Health: 先进基层诊疗、术后居家康复与慢病管理中心"]
-    
-    ELV --> TECH["3. 数字平台与科技投资 (Digital & Ventures)"]
-    TECH --> TECH1["Sydney Health 个人全周期数字化健康管理 App"]
-    TECH --> TECH2["Elevance Health Ventures (医疗科技独角兽战略孵化)"]
-    TECH --> TECH3["价值医疗 (Value-Based Care) 医生集团战略协同联盟"]
-
-    classDef main fill:#003da5,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#00205b,stroke:#00a3e0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f7fc,stroke:#00205b,stroke-width:1px,color:#000;
-    class ELV main;
-    class HB,CLN,TECH branch;
-    class HB1,HB2,HB3,HB4,HB5,CLN1,CLN2,CLN3,CLN4,TECH1,TECH2,TECH3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

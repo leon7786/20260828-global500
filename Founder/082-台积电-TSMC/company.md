@@ -24,46 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球制造版图 (Business Architecture)
 
-```mermaid
-graph TD
-    TSMC["台积公司 (TSMC Ecosystem)"]
-    
-    TSMC --> ADV["1. 先进逻辑制程 (Advanced Nodes)"]
-    ADV --> ADV1["2nm 制程 (N2 / A16 全环绕栅极 GAA 架构)"]
-    ADV --> ADV2["3nm 制程 (N3B / N3E 支撑苹果/英伟达/AMD旗舰)"]
-    ADV --> ADV3["5nm / 4nm 家族 (高能效高良率主力制程)"]
-    ADV --> ADV4["7nm / 6nm 家族 (成熟先进主流制程)"]
-    
-    TSMC --> PKG["2. 先进三维封装 (TSMC 3DFabric)"]
-    PKG --> PKG1["CoWoS 晶圆级芯片封装 (AI 算力 GPU 核心瓶颈工艺)"]
-    PKG --> PKG2["InFO 整合扇出型封装 (iPhone 处理器标配)"]
-    PKG --> PKG3["SoIC 系统整合芯片 (三维立体垂直堆叠)"]
-    
-    TSMC --> SPEC["3. 特色工艺与成熟制程 (Specialty Tech)"]
-    SPEC --> SPEC1["汽车电子芯片 (车规级微控制器 MCU)"]
-    SPEC --> SPEC2["超低功耗与电源管理 (ULP / PMIC)"]
-    SPEC --> SPEC3["射频与射频收发 (5G/6G RF 工艺)"]
-    SPEC --> SPEC4["CMOS 图像传感器 (CIS 晶圆代工)"]
-    
-    TSMC --> OIP["4. 开放创新平台 (Open Innovation Platform - OIP)"]
-    OIP --> OIP1["电子设计自动化 (EDA 工具深度协同)"]
-    OIP --> OIP2["数万种验证 IP 核与硅知识产权库"]
-    OIP --> OIP3["云端芯片设计协作平台 (Cloud Alliance)"]
-
-    TSMC --> GIGA["5. 全球超级晶圆厂矩阵 (GigaFabs Network)"]
-    GIGA --> GIGA1["新竹/台中/台南/高雄 超级晶圆厂集群 (Fab 12/14/15/18/20/22)"]
-    GIGA --> GIGA2["美国亚利桑那晶圆厂 (Fab 21 - 4nm/3nm/2nm)"]
-    GIGA --> GIGA3["日本熊本晶圆厂 (JASM Fab 23 - 特色与先进制程)"]
-    GIGA --> GIGA4["德国德累斯顿晶圆厂 (ESMC - 欧洲车规芯片)"]
-
-    classDef main fill:#003366,stroke:#ff6600,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#003366,stroke-width:1px,color:#000;
-    class TSMC main;
-    class ADV,PKG,SPEC,OIP,GIGA branch;
-    class ADV1,ADV2,ADV3,ADV4,PKG1,PKG2,PKG3,SPEC1,SPEC2,SPEC3,SPEC4,OIP1,OIP2,OIP3,GIGA1,GIGA2,GIGA3,GIGA4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮护城河 (Competitive Advantages)

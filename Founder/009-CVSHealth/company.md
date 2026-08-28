@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CVS["CVS Health 医疗健康全生态帝国"]
-    
-    CVS --> RET["1. CVS Pharmacy 零售药房与健康枢纽 (Retail & HealthHub)"]
-    RET --> RET1["全美近 9,000 家连锁药房 (全美处方药配药量第一)"]
-    RET --> RET2["MinuteClinic (全美最大零售微诊所网络, 1100+家门诊)"]
-    RET --> RET3["ExtraCare 会员忠诚度体系 (超 7400 万活跃会员)"]
-    
-    CVS --> PBM["2. CVS Caremark 药房福利管理 (Pharmacy Services / PBM)"]
-    PBM --> PBM1["管理覆盖全美超 1.1 亿参保人处方药福利计划"]
-    PBM --> PBM2["年处理超 20 亿笔处方理赔与全国药品集采议价谈判"]
-    PBM --> PBM3["CVS Specialty (特种药与罕见病用药冷链直配网络)"]
-    
-    CVS --> INS["3. Aetna 健康保险旗舰 (Health Care Benefits)"]
-    INS --> INS1["商业与雇主团体健康险 (Commercial Plans)"]
-    INS --> INS2["联邦老年医保优先计划 (Medicare Advantage, 覆盖数百万人)"]
-    INS --> INS3["州低收入医保与双重资格计划 (Medicaid / Dual Eligible)"]
-    
-    CVS --> CARE["4. 医疗服务与初级诊疗 (Health Care Delivery)"]
-    CARE --> CARE1["Oak Street Health (全美最大价值医疗老年初级保健诊所网络)"]
-    CARE --> CARE2["Signify Health (年覆盖数百万家庭的居家上门健康评估与护理)"]
-
-    classDef main fill:#CC0000,stroke:#8B0000,stroke-width:2px,color:#fff;
-    classDef branch fill:#8B0000,stroke:#CC0000,stroke-width:1px,color:#fff;
-    classDef sub fill:#fdf4f4,stroke:#8B0000,stroke-width:1px,color:#000;
-    class CVS main;
-    class RET,PBM,INS,CARE branch;
-    class RET1,RET2,RET3,PBM1,PBM2,PBM3,INS1,INS2,INS3,CARE1,CARE2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Core Competitive Moat)

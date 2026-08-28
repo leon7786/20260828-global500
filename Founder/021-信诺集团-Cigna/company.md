@@ -23,29 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CIGNA["信诺集团商业帝国 (The Cigna Group)"]
-    
-    CIGNA --> EVER["1. Evernorth Health Services (健康与药事服务)"]
-    EVER --> PBM["快捷药方 (Express Scripts PBM)<br>全美第二大药事管理, 覆盖超1亿人次"]
-    EVER --> SPEC["Accredo 特种药房 (Specialty Pharmacy)<br>罕见病、肿瘤等高价值生物药分发"]
-    EVER --> CARE["Care & Behavioral (MDLive/CareCentrix)<br>全天候虚拟问诊与家庭院后照护"]
-    EVER --> DATA["Evernorth 医疗数据智能与精算平台"]
-    
-    CIGNA --> CHC["2. Cigna Healthcare (医疗健康保险)"]
-    CHC --> EMP["U.S. Commercial (美国企业雇主健康险)<br>大型企业自保管理 ASO 与中小企业健康计划"]
-    CHC --> INTL["Cigna Global (国际外派与跨国企业健康方案)<br>服务全球200+国家和地区的跨国雇员"]
-    CHC --> SELECT["Individual & Family (个人与家庭医疗险)"]
-    
-    classDef main fill:#0c4a60,stroke:#ef6c00,stroke-width:2px,color:#fff;
-    classDef branch fill:#ef6c00,stroke:#0c4a60,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#0c4a60,stroke-width:1px,color:#000;
-    class CIGNA main;
-    class EVER,CHC branch;
-    class PBM,SPEC,CARE,DATA,EMP,INTL,SELECT sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

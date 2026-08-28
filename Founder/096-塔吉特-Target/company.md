@@ -23,41 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    TGT["塔吉特商业零售帝国 (Target Corporation)"]
-    
-    TGT --> STORE["1. 实体零售网络 (Physical Stores Network)"]
-    STORE --> STORE1["大型综合全品类店 (Target Stores, 平均13万平方英尺)"]
-    STORE --> STORE2["城市核心与大学密集型紧凑店 (Small-Format Stores)"]
-    STORE --> STORE3["店中店战略生态: 苹果 Apple, 丝芙兰 Sephora, 星巴克, 迪士尼"]
-    
-    TGT --> BRAND["2. 独家自有品牌矩阵 (Owned Brands Portfolio)"]
-    BRAND --> BRAND1["童装与母婴: Cat & Jack (年销超30亿美元) & Cloud Island"]
-    BRAND --> BRAND2["家居与生活美学: Threshold, Casaluna, Pillowfort, Project 62"]
-    BRAND --> BRAND3["生鲜与预制食品: Good & Gather & Favorite Day"]
-    BRAND --> BRAND4["运动健身与服饰: All in Motion (年销超10亿美元) & Universal Thread"]
-    
-    TGT --> DIGI["3. 数字与全渠道履约 (Digital & Fulfillment)"]
-    DIGI --> DIGI1["电商主站 Target.com & 移动端 App"]
-    DIGI --> DIGI2["汽车后备箱免下车闪提 (Drive Up, 行业最高满意度)"]
-    DIGI --> DIGI3["店内自提 (Order Pickup) & Shipt 当日即时达配送 (Same-Day Delivery)"]
-    
-    TGT --> ADV["4. 零售媒体与广告 (Roundel Retail Media)"]
-    ADV --> ADV1["精准品牌数字赞助广告与第一方购物意图数据营销"]
-    
-    TGT --> LOYAL["5. 会员与金融服务 (Target Circle & Financial Services)"]
-    LOYAL --> LOYAL1["Target Circle 会员生态 (超1亿忠诚用户)"]
-    LOYAL --> LOYAL2["Target Circle 360 付费会员订阅 & Target Circle Card 5% 返现信用卡"]
-
-    classDef main fill:#cc0000,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#333333,stroke:#cc0000,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#cc0000,stroke-width:1px,color:#000;
-    class TGT main;
-    class STORE,BRAND,DIGI,ADV,LOYAL branch;
-    class STORE1,STORE2,STORE3,BRAND1,BRAND2,BRAND3,BRAND4,DIGI1,DIGI2,DIGI3,ADV1,LOYAL1,LOYAL2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

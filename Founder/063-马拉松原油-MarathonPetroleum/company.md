@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    MPC["马拉松原油商业帝国 (Marathon Petroleum Corp)"]
-    
-    MPC --> REF["1. 原油炼制与加工 (Refining)"]
-    REF --> REF1["全美13座战略级大型高复杂度炼厂"]
-    REF --> REF2["全美第一大原油精炼产能 (超 290 万桶/日)"]
-    REF --> REF3["Garyville (路易斯安那) & Galveston Bay (德州) 超级单体炼厂"]
-    REF --> REF4["高硫重质原油深度裂解与高清洁汽柴油出品率"]
-    
-    MPC --> MID["2. 中游物流与天然气基础设施 (MPLX LP)"]
-    MID --> MID1["控股主导型上市中游合伙企业 (NYSE: MPLX)"]
-    MID --> MID2["超 10,000 英里原油与成品油管道干线"]
-    MID --> MID3["阿巴拉契亚马塞勒斯 (Marcellus) 页岩区最大天然气处理商"]
-    MID --> MID4["密西西比河与沿海大型驳船船队及沿海接卸储油码头"]
-    
-    MPC --> MKT["3. 品牌分销与零售终端 (Marketing)"]
-    MKT --> MKT1["Marathon 与 ARCO 覆盖全美核心交通走廊"]
-    MKT --> MKT2["数千家独立授权品牌加油站与批发供应协议"]
-    MKT --> MKT3["与 7-Eleven 签署全美 Speedway 加油站长期独家成品油供货长协"]
-    
-    MPC --> REN["4. 可再生与低碳燃料转型 (Renewables)"]
-    REN --> REN1["加州 Martinez 炼厂改建大型可再生柴油合资基地 (与Neste合作)"]
-    REN --> REN2["北达科他州 Dickinson 可再生柴油工厂"]
-
-    classDef main fill:#002f6c,stroke:#e31837,stroke-width:2px,color:#fff;
-    classDef branch fill:#e31837,stroke:#002f6c,stroke-width:1px,color:#fff;
-    classDef sub fill:#f8f9fa,stroke:#002f6c,stroke-width:1px,color:#000;
-    class MPC main;
-    class REF,MID,MKT,REN branch;
-    class REF1,REF2,REF3,REF4,MID1,MID2,MID3,MID4,MKT1,MKT2,MKT3,REN1,REN2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与行业护城河 (Strategic Moats)

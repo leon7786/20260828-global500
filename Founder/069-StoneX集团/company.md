@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球金融版图 (Business Architecture)
 
-```mermaid
-graph TD
-    SNEX["StoneX全球金融服务网络 (StoneX Group Inc.)"]
-    
-    SNEX --> HEDG["1. 商业大宗商品对冲 (Commercial Hedging)"]
-    HEDG --> HEDG1["农产品套期保值 (谷物、大豆、乳业、牲畜期货期权)"]
-    HEDG --> HEDG2["能源与基础/贵金属定制化场外 (OTC) 衍生品结构"]
-    HEDG --> HEDG3["可再生能源碳配额与林业产品衍生品交易"]
-    
-    SNEX --> PAY["2. 全球跨境支付网络 (Global Payments)"]
-    PAY --> PAY1["支持全球 140+ 种货币点对点无缝跨境实时清算"]
-    PAY --> PAY2["覆盖 180 多个新兴经济体本地银行直连路由通道"]
-    PAY --> PAY3["联合国/NGO国际非政府组织与跨国银行首选跨境支付通道"]
-    
-    SNEX --> SEC["3. 机构证券与主经纪 (Institutional Securities)"]
-    SEC --> SEC1["美股、欧股及新兴市场股票高频做市与执行经纪"]
-    SEC --> SEC2["市政债券、高收益企业债及抵押支持证券 (MBS) 做市"]
-    SEC --> SEC3["对冲基金主经纪清算 (Prime Brokerage) 与大宗托管"]
-    
-    SNEX --> PHYS["4. 实物大宗现货与零售交易 (Physical & Retail)"]
-    PHYS --> PHYS1["实物黄金/白银/铂金现货交割、仓储与冶炼代销"]
-    PHYS --> PHYS2["Forex.com (嘉盛) & City Index 全球零售外汇与差价合约"]
-
-    classDef main fill:#0b2545,stroke:#134074,stroke-width:2px,color:#fff;
-    classDef branch fill:#134074,stroke:#8da9c4,stroke-width:1px,color:#fff;
-    classDef sub fill:#eef4f8,stroke:#0b2545,stroke-width:1px,color:#000;
-    class SNEX main;
-    class HEDG,PAY,SEC,PHYS branch;
-    class HEDG1,HEDG2,HEDG3,PAY1,PAY2,PAY3,SEC1,SEC2,SEC3,PHYS1,PHYS2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与行业护城河 (Strategic Moats)

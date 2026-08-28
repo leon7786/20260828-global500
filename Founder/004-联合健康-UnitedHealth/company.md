@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    UNH["联合健康集团 (UnitedHealth Group)"]
-    
-    UNH --> UHC["1. UnitedHealthcare (健康险与医保支付旗舰)"]
-    UHC --> UHC1["雇主与个人商业险 (Employer & Individual, 2700+万投保人)"]
-    UHC --> UHC2["联邦老年医保 (Medicare & Retirement, 覆盖全美超700万长者)"]
-    UHC --> UHC3["州政府低收入医保 (Community & State / Medicaid, 800+万人)"]
-    UHC --> UHC4["国际健康险业务 (Global / 南美与海外市场)"]
-    
-    UNH --> OPTUM["2. Optum (高毛利医疗科技与健康服务航母)"]
-    OPTUM --> OPT_H["OptumHealth (全美最大医疗服务与初级诊疗网络)"]
-    OPT_H --> OPT_H1["90,000+ 执业医生网络与数千家社区门诊/手术中心"]
-    OPT_H --> OPT_H2["基于价值医疗 (Value-Based Care) 慢病管理与居家护理"]
-    
-    OPTUM --> OPT_R["OptumRx (全美三大药房福利管理服务商之一, PBM)"]
-    OPT_R --> OPT_R1["年处理超 15 亿张处方药福利清算与药品集采议价"]
-    OPT_R --> OPT_R2["特种药房 (Specialty Pharmacy) & 罕见病用药冷链直配"]
-    
-    OPTUM --> OPT_I["OptumInsight (医疗大数据、AI与数字化基础设施)"]
-    OPT_I --> OPT_I1["医院与诊所数字化管理系统 (Change Healthcare 整合底座)"]
-    OPT_I --> OPT_I2["AI智能理赔反欺诈审查与前瞻性临床辅助决策 (CDSS)"]
-
-    classDef main fill:#002677,stroke:#001344,stroke-width:2px,color:#fff;
-    classDef branch fill:#0051a5,stroke:#002677,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4fa,stroke:#002677,stroke-width:1px,color:#000;
-    class UNH main;
-    class UHC,OPTUM branch;
-    class UHC1,UHC2,UHC3,UHC4,OPT_H,OPT_R,OPT_I,OPT_H1,OPT_H2,OPT_R1,OPT_R2,OPT_I1,OPT_I2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河：Payvider 商业模式 (Competitive Moat)

@@ -24,41 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    CCB["中国建设银行金融帝国 (China Construction Bank)"]
-    
-    CCB --> INFRA["1. 基建与国家战略金融 (Infrastructure Banking)"]
-    INFRA --> INF1["国家重大水利、高铁、高速公路、特高压电网中长期信贷"]
-    INFRA --> INF2["战略性新兴产业、先进制造业与绿色低碳能源工程项目贷款"]
-    INFRA --> INF3["全球领先的项目融资与工程造价全流程咨询结算体系"]
-    INFRA --> INF4["跨国银团与“一带一路”沿线高端海外工程投融资"]
-    
-    CCB --> HOUSE["2. 住房金融与新金融生态 (Housing & New Finance)"]
-    HOUSE --> HS1["全国规模第一的个人住房按揭贷款体系 (“要买房，到建行”)"]
-    HOUSE --> HS2["CCB 建融家园: 万亿级保障性长租房综合服务生态平台"]
-    HOUSE --> HS3["普惠金融战略: “小微快贷”纯线上自动化信用风控引擎"]
-    HOUSE --> HS4["劳动者港湾: 遍布全国网点的开放式社会公益暖心驿站"]
-    
-    CCB --> RETAIL["3. 个人金融与财富管理 (Retail & Wealth Management)"]
-    RETAIL --> RT1["全渠道个人零售活期储蓄与智慧账户管理"]
-    RT1 --> RT2["龙卡信用卡: 全球领先的消费信贷与积分生态网络"]
-    RT1 --> RT3["私行财富管理与家族信托全资产配置体系"]
-    RT1 --> RT4["手机银行与“建行生活”本地生活高频消费聚合平台"]
-    
-    CCB --> TECH["4. 金融科技与综合子公司 (FinTech & Subsidiaries)"]
-    TECH --> TC1["建信金科 & 建行云: 自主可控分布式金融级云基础设施"]
-    TECH --> TC2["建信理财 & 建信信托: 万亿级资产管理与产业重组投资"]
-    TECH --> TC3["建信人寿 (人寿保险) & 建信租赁 (大型航空航海装备租赁)"]
-
-    classDef main fill:#003b80,stroke:#0066cc,stroke-width:2px,color:#fff;
-    classDef branch fill:#002244,stroke:#0066cc,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f5fc,stroke:#002244,stroke-width:1px,color:#000;
-    class CCB main;
-    class INFRA,HOUSE,RETAIL,TECH branch;
-    class INF1,INF2,INF3,INF4,HS1,HS2,HS3,HS4,RT1,RT2,RT3,RT4,TC1,TC2,TC3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

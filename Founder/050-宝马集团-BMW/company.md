@@ -23,37 +23,6 @@
 
 ## 🌐 核心业务矩阵与 4 大品牌版图 (Brand Architecture)
 
-```mermaid
-graph TD
-    BMW["宝马集团豪华出行帝国 (BMW Group)"]
-    
-    BMW --> CAR["1. BMW 核心乘用车矩阵 (BMW Core)"]
-    CAR --> CAR1["经典轿车与轿跑家族 (BMW 1至8系 / i3/i4/i7纯电)"]
-    CAR --> CAR2["全地形运动型多功能车 (BMW X1至X7 / iX3/iX)"]
-    CAR --> CAR3["BMW M 部门 (M2/M3/M4/M5/XM 极致高性能赛道基因)"]
-    CAR --> CAR4["新世代架构 (Neue Klasse: 800V高压/大圆柱电池)"]
-    
-    BMW --> RR["2. 劳斯莱斯超豪华 (Rolls-Royce Motor Cars)"]
-    RR --> RR1["幻影 (Phantom) & 古思特 (Ghost) 顶级商务定制"]
-    RR --> RR2["库里南 (Cullinan) 顶级奢华全地形SUV"]
-    RR --> RR3["闪灵 (Spectre) 超豪华纯电超级轿跑"]
-    
-    BMW --> MINI["3. MINI 个性与英伦潮流 (MINI)"]
-    MINI --> MINI1["MINI Cooper 三门/五门经典卡丁车驾趣"]
-    MINI --> MINI2["MINI Countryman 纯电与混动紧凑型SUV"]
-    
-    BMW --> MOTO["4. 摩托车与出行金融 (Motorrad & Financial)"]
-    MOTO --> MOTO1["BMW Motorrad (拳击手引擎GS探险车/巡航车/性能重机)"]
-    MOTO --> MOTO2["宝马金融服务与全欧洲 CHARGE NOW 充电网络"]
-
-    classDef main fill:#0066b1,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#0066b1,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class BMW main;
-    class CAR,RR,MINI,MOTO branch;
-    class CAR1,CAR2,CAR3,CAR4,RR1,RR2,RR3,MINI1,MINI2,MOTO1,MOTO2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

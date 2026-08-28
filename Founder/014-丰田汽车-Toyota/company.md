@@ -25,42 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球品牌版图 (Business Architecture)
 
-```mermaid
-graph TD
-    TOYOTA["丰田汽车集团 (Toyota Motor Corporation)"]
-    
-    TOYOTA --> MASS["1. 丰田大众乘用车体系 (Toyota Global)"]
-    MASS --> M1["全球神车卡罗拉 (Corolla - 累计销量破5000万辆)"]
-    MASS --> M2["中高级轿车凯美瑞 (Camry) / 亚洲龙 (Avalon)"]
-    MASS --> M3["SUV家族: RAV4 / 汉兰达 (Highlander) / 陆地巡洋舰 (Land Cruiser)"]
-    MASS --> M4["MPV标杆: 埃尔法 (Alphard) / 赛那 (Sienna)"]
-    
-    TOYOTA --> LEXUS["2. 雷克萨斯独立豪华品牌 (Lexus)"]
-    LEXUS --> L1["旗舰轿车与SUV (LS / LX / RX / ES)"]
-    LEXUS --> L2["极致静谧性、匠人造车工艺 (Takumi) 与五星客户服务"]
-    
-    TOYOTA --> SUB["3. 控股子品牌与战略同盟 (Affiliates & Alliances)"]
-    SUB --> S1["大发工业 (Daihatsu - 日本微型车 K-Car 领军者)"]
-    SUB --> S2["日野汽车 (Hino Motors - 重型商用卡车)"]
-    SUB --> S3["战略交叉持股生态: 斯巴鲁 (Subaru) / 铃木 (Suzuki) / 马自达 (Mazda)"]
-    
-    TOYOTA --> POWER["4. 全路径动力总成与新能源 (Multi-Pathway Powertrains)"]
-    POWER --> P1["智能电混双擎 THS (全球混动绝对霸主，累计销量超2500万辆)"]
-    POWER --> P2["氢燃料电池技术 (FCEV - Mirai 氢能轿车 / 氢能重卡系统)"]
-    POWER --> P3["固态电池与下一代高性能纯电 (BEV) 平台"]
-    
-    TOYOTA --> FUTURE["5. 未来出行与前沿智能 (Mobility & Software)"]
-    FUTURE --> F1["Woven Planet / Woven City 丰田未来智慧互联实验城市"]
-    FUTURE --> F2["GR 赛车运动部门 (TOYOTA GAZOO Racing)"]
-
-    classDef main fill:#eb0a1e,stroke:#202020,stroke-width:2px,color:#fff;
-    classDef branch fill:#58595b,stroke:#eb0a1e,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#58595b,stroke-width:1px,color:#000;
-    class TOYOTA main;
-    class MASS,LEXUS,SUB,POWER,FUTURE branch;
-    class M1,M2,M3,M4,L1,L2,S1,S2,S3,P1,P2,P3,F1,F2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争护城河与精益之道 (Competitive Moats)

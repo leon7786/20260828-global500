@@ -23,44 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    MBG["梅赛德斯-奔驰集团 (Mercedes-Benz Group AG)"]
-    
-    MBG --> LUX["1. 顶级豪华与核心乘用车 (Core Luxury & Top-End)"]
-    LUX --> LUX1["梅赛德斯-奔驰 (S级 / E级 / C级 / GLC / GLE / GLS)"]
-    LUX --> LUX2["梅赛德斯-迈巴赫 (Mercedes-Maybach: S级/GLS/EQS SUV)"]
-    LUX --> LUX3["梅赛德斯-AMG (高性能跑车/GT家族/F1赛车技术民用化)"]
-    LUX --> LUX4["G级家族 (Mercedes-Benz G-Class 燃油与纯电硬派越野)"]
-    
-    MBG --> ELEC["2. 智能纯电与前瞻平台 (Electric & Tech Architectures)"]
-    ELEC --> ELEC1["MMA 架构 (紧凑型/中型纯电与高效混动全新平台)"]
-    ELEC --> ELEC2["MB.EA 平台 (中大型与大型核心豪华纯电平台)"]
-    ELEC --> ELEC3["AMG.EA 平台 (高性能纯电动专属架构)"]
-    ELEC --> ELEC4["VISION EQXX (超低风阻 0.17Cd / 1000km+ 真实续航先导车)"]
-    
-    MBG --> SOFT["3. 数字化与智能驾驶软件 (MB.OS & Drive Pilot)"]
-    SOFT --> SOFT1["MB.OS (自研端到端软硬件解耦智能操作系统)"]
-    SOFT --> SOFT2["Drive Pilot (全球首款获批商用 L3 级有条件自动驾驶系统)"]
-    SOFT --> SOFT3["MBUX 智能人机交互系统 (搭载大语言模型与虚拟助理)"]
-    
-    MBG --> VAN["4. 梅赛德斯-奔驰轻型商务车 (Mercedes-Benz Vans)"]
-    VAN --> VAN1["V-Class / EQV 高端商务多用途车"]
-    VAN --> VAN2["Sprinter / eVito 现代城市物流与定制底盘"]
-    
-    MBG --> MOB["5. 出行与金融服务 (Mercedes-Benz Mobility)"]
-    MOB --> MOB1["汽车金融与融资租赁 (Financing & Leasing)"]
-    MOB --> MOB2["全球高功率超充网络 (Mercedes-Benz High-Power Charging Network)"]
-    MOB --> MOB3["车联网与订阅服务 (Mercedes me Connected Services)"]
-
-    classDef main fill:#000000,stroke:#00adef,stroke-width:2px,color:#fff;
-    classDef branch fill:#1c2d37,stroke:#00adef,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class MBG main;
-    class LUX,ELEC,SOFT,VAN,MOB branch;
-    class LUX1,LUX2,LUX3,LUX4,ELEC1,ELEC2,ELEC3,ELEC4,SOFT1,SOFT2,SOFT3,VAN1,VAN2,MOB1,MOB2,MOB3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

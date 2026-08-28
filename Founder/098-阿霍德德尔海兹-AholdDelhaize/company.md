@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    AD["皇家阿霍德德尔海兹 (Ahold Delhaize N.V.)"]
-    
-    AD --> US["1. 美国大型零售大区 (Ahold Delhaize USA, 贡献超60%营收)"]
-    US --> US1["Food Lion (美东南高性价比超级连锁，超1100家店)"]
-    US --> US2["The Giant Company & Giant Food (大华盛顿与宾州第一超市)"]
-    US --> US3["The Stop & Shop Supermarket (新英格兰地区主力超市)"]
-    US --> US4["Hannaford Supermarkets (美东北高品质生鲜标杆)"]
-    
-    AD --> EUR["2. 欧洲核心本土连锁 (European Brands Network)"]
-    EUR --> EUR1["Albert Heijn (荷兰第一大国民超市，市占率超35%)"]
-    EUR --> EUR2["Delhaize (比利时与卢森堡百年高端连锁)"]
-    EUR --> EUR3["中东欧网络: Albert (捷克) & Mega Image (罗马尼亚) & Alfa Beta (希腊)"]
-    
-    AD --> BOL["3. 欧洲综合电商旗舰 (bol.com)"]
-    BOL --> BOL1["荷兰与比利时第一大电商平台 (1300万+ 活跃消费者)"]
-    BOL --> BOL2["第三方开放平台电商生态与极速履约网络"]
-    
-    AD --> SPEC["4. 专业连锁与自营品牌 (Specialty & Private Labels)"]
-    SPEC --> SPEC1["健康个护药妆: Etos (荷兰第一药妆)"]
-    SPEC --> SPEC2["精品酒水专卖: Gall & Gall (荷兰最大葡萄酒烈酒连锁)"]
-    SPEC --> SPEC3["全品类高毛利自有品牌 (Nature's Promise, Taste of Inspirations 等)"]
-
-    classDef main fill:#002d62,stroke:#00a3e0,stroke-width:2px,color:#fff;
-    classDef branch fill:#00a3e0,stroke:#002d62,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class AD main;
-    class US,EUR,BOL,SPEC branch;
-    class US1,US2,US3,US4,EUR1,EUR2,EUR3,BOL1,BOL2,SPEC1,SPEC2,SPEC3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

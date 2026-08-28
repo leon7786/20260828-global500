@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    WF["富国银行金融帝国 (Wells Fargo & Co.)"]
-    
-    WF --> CSBB["1. 消费者与小微企业银行 (Consumer Banking)"]
-    CSBB --> CSBB1["超 4,000 家全美分支网点与 12,000 台 ATM"]
-    CSBB --> CSBB2["全美顶尖个人住房抵押贷款发放与服务 (Home Lending)"]
-    CSBB --> CSBB3["信用卡与汽车金融消费信贷 (Auto Loans)"]
-    CSBB --> CSBB4["小微企业全套现金管理与 SBA 政策性担保贷款"]
-    
-    WF --> COMM["2. 商业银行业务 (Commercial Banking)"]
-    COMM --> COMM1["全美中端市场商业企业借贷 (Middle Market 第一名)"]
-    COMM --> COMM2["商业地产开发与不动产结构化融资 (CRE)"]
-    COMM --> COMM3["农业金融、能源与设备租赁融资"]
-    
-    WF --> CIB["3. 企业与投资银行 (Corporate & Investment Banking)"]
-    CIB --> CIB1["大宗银团贷款与杠杆收购融资 (Leveraged Finance)"]
-    CIB --> CIB2["债券与股票承销、企业并购咨询顾问"]
-    CIB --> CIB3["全球外汇交易、利率掉期与大宗商品风险管理"]
-    
-    WF --> WIM["4. 财富与投资管理 (Wealth & Investment Management)"]
-    WIM --> WIM1["富国顾问网络 (Wells Fargo Advisors - 近万名财务顾问)"]
-    WIM --> WIM2["富国私人银行 (The Private Bank - 家族办公室与信托)"]
-    WIM --> WIM3["机构退休金与养老金资产配置计划"]
-
-    classDef main fill:#d71e28,stroke:#ffcd00,stroke-width:2px,color:#fff;
-    classDef branch fill:#ffcd00,stroke:#d71e28,stroke-width:1px,color:#000;
-    classDef sub fill:#fff9e6,stroke:#d71e28,stroke-width:1px,color:#000;
-    class WF main;
-    class CSBB,COMM,CIB,WIM branch;
-    class CSBB1,CSBB2,CSBB3,CSBB4,COMM1,COMM2,COMM3,CIB1,CIB2,CIB3,WIM1,WIM2,WIM3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

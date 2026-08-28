@@ -24,38 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BOC["中国银行全球综合版图 (Bank of China Limited)"]
-    
-    BOC --> CB["1. 全球商业银行业务 (Global Commercial Banking)"]
-    CB --> CB1["企业金融 (跨国大企业银团贷款/供应链金融)"]
-    CB --> CB2["个人金融 (跨境留学金融/财富管理/信用卡)"]
-    CB --> CB3["金融市场业务 (外汇做市/大宗商品/债券承销)"]
-    
-    BOC --> BOCHK["2. 中银香港 (BOCHK, 2388.HK)"]
-    BOCHK --> BOCHK1["香港三大法定发钞银行之一"]
-    BOCHK --> BOCHK2["亚太离岸人民币清算超级中枢"]
-    BOCHK --> BOCHK3["东盟与亚太区域一体化旗舰网络"]
-    
-    BOC --> INT["3. 跨境清算与外汇王牌 (Cross-Border Settlement)"]
-    INT --> INT1["人民币跨境支付系统 (CIPS) 核心参与者"]
-    INT --> INT2["一带一路重大基础设施项目投融资"]
-    INT --> INT3["全球现金管理中枢与贸易金融第一名"]
-    
-    BOC --> DIV["4. 综合化多元金融平台 (Diversified Subsidiaries)"]
-    DIV --> DIV1["中银国际 (BOCI: 跨境投资银行/海外IPO)"]
-    DIV --> DIV2["中银基金 & 中银理财 (公募基金与万亿资管)"]
-    DIV --> DIV3["中银保险 & 中银航空租赁 (BOC Aviation)"]
-
-    classDef main fill:#b81c22,stroke:#232f3e,stroke-width:2px,color:#fff;
-    classDef branch fill:#232f3e,stroke:#b81c22,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#232f3e,stroke-width:1px,color:#000;
-    class BOC main;
-    class CB,BOCHK,INT,DIV branch;
-    class CB1,CB2,CB3,BOCHK1,BOCHK2,BOCHK3,INT1,INT2,INT3,DIV1,DIV2,DIV3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

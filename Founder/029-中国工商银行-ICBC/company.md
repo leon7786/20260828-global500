@@ -24,37 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    ICBC["中国工商银行商业帝国 (ICBC - 宇宙第一大行)"]
-    
-    ICBC --> CORP["1. 公司金融业务 (Corporate Banking)"]
-    CORP --> LOAN["重大国家基础设施、高端制造与绿色信贷 (贷款总额居全球第一)"]
-    CORP --> TRADE["国际结算、贸易融资与跨境供应链金融"]
-    CORP --> IB["投资银行、债券承销与银团贷款 (全球领先承销商)"]
-    
-    ICBC --> RET["2. 个人金融业务 (Personal & Retail Banking)"]
-    RET --> WEALTH["个人储蓄与大财富管理 (工银理财管理资产超数万亿元)"]
-    RET --> CARD["信用卡与消费信贷 (服务超 7.4 亿个人客户)"]
-    RET --> PB["私人银行与家族信托 (服务高净值客户)"]
-    
-    ICBC --> TREAS["3. 金融市场与资金业务 (Treasury Operations)"]
-    TREAS --> FX["银行间外汇交易、债券自营与做市商业务"]
-    TREAS --> ASSET["工银资管与工银瑞信基金 (全牌照资产管理)"]
-    
-    ICBC --> GLOBAL["4. 全球化与综合化子公司 (Global & Subsidiaries)"]
-    GLOBAL --> OVERSEAS["全球网络覆盖 49 个国家和地区、工银标准 (伦敦)"]
-    GLOBAL --> LEASING["工银金租 (全球领先航空与船舶金融租赁)"]
-    GLOBAL --> AXA["工银安盛人寿保险 & 工银科技 (金融科技输出)"]
-
-    classDef main fill:#c41230,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#003366,stroke:#c41230,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#003366,stroke-width:1px,color:#000;
-    class ICBC main;
-    class CORP,RET,TREAS,GLOBAL branch;
-    class LOAN,TRADE,IB,WEALTH,CARD,PB,FX,ASSET,OVERSEAS,LEASING,AXA sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

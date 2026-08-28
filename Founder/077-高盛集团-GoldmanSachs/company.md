@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    GS["高盛全球金融帝国 (The Goldman Sachs Group)"]
-    
-    GS --> GBM["1. 全球银行与市场 (Global Banking & Markets)"]
-    GBM --> GBM1["投资银行顾问 (全球大型并购 M&A 第一梯队)"]
-    GBM --> GBM2["股权与债券资本市场承销 (ECM / DCM)"]
-    GBM --> GBM3["FICC 做市交易 (利率/汇率/大宗商品/信用衍生品)"]
-    GBM --> GBM4["全球机构股票做市与大宗主经纪商 (Prime Brokerage)"]
-    
-    GS --> AWM["2. 资产与财富管理 (Asset & Wealth Management)"]
-    AWM --> AWM1["超高净值私人财富管理 (Ayco / Private Wealth)"]
-    AWM --> AWM2["私募股权 (Private Equity) 与成长型资本"]
-    AWM --> AWM3["全球房地产与基建另类投资组合"]
-    AWM --> AWM4["全球公募基金与流动性管理 (资产管理规模超2.8万亿美元)"]
-    
-    GS --> PLAT["3. 平台解决方案与科技 (Platform Solutions & Tech)"]
-    PLAT --> PLAT1["高盛交易银行 (TxB 云原生企业现金管理)"]
-    PLAT --> PLAT2["联名信用卡与嵌入式金融服务平台"]
-    
-    GS --> RES["4. 全球投资研究与策略 (Global Investment Research)"]
-    RES --> RES1["高盛宏观经济与全球大宗商品研究报告 (业界风向标)"]
-    RES --> RES2["股票与行业深度覆盖体系"]
-
-    classDef main fill:#7399c6,stroke:#002d62,stroke-width:2px,color:#fff;
-    classDef branch fill:#002d62,stroke:#7399c6,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f5fa,stroke:#002d62,stroke-width:1px,color:#000;
-    class GS main;
-    class GBM,AWM,PLAT,RES branch;
-    class GBM1,GBM2,GBM3,GBM4,AWM1,AWM2,AWM3,AWM4,PLAT1,PLAT2,RES1,RES2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

@@ -23,34 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    HUM["哈门那医疗健康帝国 (Humana Inc.)"]
-    
-    HUM --> INS["1. 保险与支付端 (Insurance & Benefits)"]
-    INS --> INS1["联邦医保优势计划 (Medicare Advantage - 核心支柱)"]
-    INS --> INS2["Medicare 处方药 D 计划 (PDP 药险)"]
-    INS --> INS3["医疗补助计划 (Medicaid 州政府低保医保)"]
-    INS --> INS4["军人医疗保障计划 (TRICARE 军人与家属服务)"]
-    
-    HUM --> CW["2. CenterWell 价值医疗服务 (Healthcare Services)"]
-    CW --> CW1["CenterWell Senior Primary Care (老年专属初级诊疗中心)"]
-    CW --> CW2["CenterWell Home Health (全美最大居家医疗照护网络)"]
-    CW --> CW3["CenterWell Pharmacy (全美领先慢病与专科送药网络)"]
-    
-    HUM --> DATA["3. 数字化健康与预防医学 (Digital Health & Prevention)"]
-    DATA --> DATA1["Go365 行为健康激励与运动预防体系"]
-    DATA --> DATA2["慢性病 (糖尿病/心血管) AI 预警与远程监控"]
-    DATA --> DATA3["社交决定因素 (SDOH) 社区健康援助系统"]
-
-    classDef main fill:#78be20,stroke:#003b46,stroke-width:2px,color:#fff;
-    classDef branch fill:#00555a,stroke:#78be20,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f9f4,stroke:#00555a,stroke-width:1px,color:#000;
-    class HUM main;
-    class INS,CW,DATA branch;
-    class INS1,INS2,INS3,INS4,CW1,CW2,CW3,DATA1,DATA2,DATA3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)

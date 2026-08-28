@@ -23,37 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    VZ["威瑞森电信商业帝国 (Verizon Communications)"]
-    
-    VZ --> VCG["1. 消费者事业部 (Verizon Consumer Group, VCG)"]
-    VCG --> V1["后付费 5G 移动通信套餐 (高 ARPU 核心家庭客群)"]
-    VCG --> V2["Fios 纯光纤千兆宽带 (全美网速与客户满意度标杆)"]
-    VCG --> V3["5G 家庭固定无线接入宽带 (5G Home Internet FWA)"]
-    
-    VZ --> VBG["2. 企业与商业事业部 (Verizon Business Group, VBG)"]
-    VBG --> B1["企业专网 (Private 5G: 智能工厂/港口/大型体育场馆)"]
-    VBG --> B2["多接入边缘计算 (MEC: 联合 AWS Wavelength 毫秒级低时延)"]
-    VBG --> B3["美国联邦政府与国防安全通信保密专网"]
-    
-    VZ --> VAL["3. 价值品牌与预付费业务 (Value Brands)"]
-    VAL --> VA1["TracFone Wireless (全美最大预付费移动虚拟运营商)"]
-    VAL --> VA2["Visible (全云原生数字化极简无合约移动品牌)"]
-    VAL --> VA3["Total Wireless & Straight Talk 零售超市合作渠道"]
-    
-    VZ --> NET["4. 网络与全球基础设施 (Network & Technology)"]
-    NET --> N1["C-Band 5G 中频核心频段与毫米波超宽带网络"]
-    NET --> N2["横跨全球数十个国家的跨国骨干光缆与 IP 网络"]
-
-    classDef main fill:#cd040b,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#cd040b,stroke-width:1px,color:#fff;
-    classDef sub fill:#fffafa,stroke:#333,stroke-width:1px,color:#000;
-    class VZ main;
-    class VCG,VBG,VAL,NET branch;
-    class V1,V2,V3,B1,B2,B3,VA1,VA2,VA3,N1,N2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

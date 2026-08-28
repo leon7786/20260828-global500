@@ -24,34 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    ALV["安联集团全球金融版图 (Allianz SE)"]
-    
-    ALV --> PC["1. 财产与意外伤害保险 (P&C Insurance)"]
-    PC --> PC1["全球企业与工业特殊风险承保 (Allianz Commercial)"]
-    PC --> PC2["欧洲及全球个人车险、家财险与责任险"]
-    PC --> PC3["安联全球救援服务 (Allianz Partners, 救援/差旅险全球第一)"]
-    PC --> PC4["信用保险全球领航者 (Allianz Trade / 原裕利安宜 Euler Hermes)"]
-    
-    ALV --> LH["2. 人寿与健康保险 (Life & Health)"]
-    LH --> LH1["德国、意大利、法国等欧洲核心寿险与养老金市场"]
-    LH --> LH2["美国指数年金与高净值家族资产传承保障"]
-    LH --> LH3["亚太及新兴市场高增长人寿与医疗健康险网络"]
-    
-    ALV --> AM["3. 全球超级资产管理 (Asset Management, AUM超2.2万亿欧)"]
-    AM --> AM1["PIMCO (太平洋投资管理公司, 全球第一大固定收益资管巨头)"]
-    AM --> AM2["AllianzGI (安联投资, 主动型股票/多元资产/可持续ESG投资)"]
-    AM --> AM3["安联不动产与另类基础设施投资 (Allianz Real Estate)"]
-
-    classDef main fill:#003781,stroke:#007ab3,stroke-width:2px,color:#fff;
-    classDef branch fill:#007ab3,stroke:#003781,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f7fb,stroke:#003781,stroke-width:1px,color:#000;
-    class ALV main;
-    class PC,LH,AM branch;
-    class PC1,PC2,PC3,PC4,LH1,LH2,LH3,AM1,AM2,AM3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与行业护城河 (Strategic Moats)

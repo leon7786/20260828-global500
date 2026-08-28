@@ -23,36 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    NVDA["英伟达加速计算商业帝国 (NVIDIA)"]
-    
-    NVDA --> DC["1. 数据中心与 AI 超级算力 (Compute & Networking)"]
-    DC --> ACCEL["AI 加速芯片 (Blackwell GB200, B200, Hopper H100/H200, Vera Rubin)"]
-    DC --> NET["高速网络 (Quantum-X InfiniBand, Spectrum-X 以太网, BlueField DPU)"]
-    DC --> CUDA["CUDA 全栈计算软件生态 (cuDNN, TensorRT, NeMo, NIM 微服务)"]
-    DC --> DGX["DGX Cloud & 超级 AI 工厂机柜 (GB200 NVL72 液冷整机)"]
-    
-    NVDA --> GAMING["2. 游戏与消费图形 (Gaming & RTX)"]
-    GAMING --> GEFORCE["GeForce RTX 40/50 系列游戏显卡 (DLSS 3.5/4 神经渲染)"]
-    GAMING --> HANDHELD["任天堂 Switch 等定制游戏主机 SoC"]
-    
-    NVDA --> PRO["3. 专业可视化与数字孪生 (ProViz & Omniverse)"]
-    PRO --> OMNI["NVIDIA Omniverse 工业元宇宙与物理世界仿真平台"]
-    PRO --> WORK["RTX 移动与桌面专业工作站 GPU"]
-    
-    NVDA --> AUTO["4. 自动驾驶与机器人 (Automotive & Robotics)"]
-    AUTO --> THOR["DRIVE Thor / Orin 超高算力智驾中央计算平台"]
-    AUTO --> ISAAC["Isaac 人形机器人大模型与物理仿真具身智能平台"]
-
-    classDef main fill:#76b900,stroke:#000,stroke-width:2px,color:#000;
-    classDef branch fill:#000,stroke:#76b900,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#000,stroke-width:1px,color:#000;
-    class NVDA main;
-    class DC,GAMING,PRO,AUTO branch;
-    class ACCEL,NET,CUDA,DGX,GEFORCE,HANDHELD,OMNI,WORK,THOR,ISAAC sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Architecture)
 
-```mermaid
-graph TD
-    RIL["信实商业帝国 (Reliance Industries Limited)"]
-    
-    RIL --> O2C["1. 能源与石化炼油 (Oil to Chemicals - O2C)"]
-    O2C --> O2C1["贾姆讷格尔超级炼油基地 (Jamnagar: 日处理超140万桶原油)"]
-    O2C --> O2C2["石化与聚合物 (全球最大聚酯纤维/纱线/聚丙烯生产商)"]
-    O2C --> O2C3["深水油气勘探 (KG-D6 印度东海岸深水气田)"]
-    
-    RIL --> JIO["2. 数字与电信生态 (Jio Platforms)"]
-    JIO --> JIO1["全印最大移动网络 (超4.7亿 4G/5G 活跃订阅用户)"]
-    JIO --> JIO2["JioFiber 全光纤宽带与企业云服务"]
-    JIO --> JIO3["自研 5G 核心网与生成式 AI 算力平台"]
-    JIO --> JIO4["数字流媒体与娱乐 (JioCinema / 整合迪士尼印度业务)"]
-    
-    RIL --> RET["3. 现代零售网络 (Reliance Retail)"]
-    RIL --> RET1["全印超 18,000 家实体超市与生鲜连锁"]
-    RET --> RET2["时尚与电子消费品零售 (Reliance Trends / Digital)"]
-    RET --> RET3["JioMart 全渠道电商平台"]
-    
-    RIL --> NEW["4. 绿色能源超级超级工厂 (New Energy & Green Materials)"]
-    NEW --> NEW1["太阳能光伏千兆超级工厂 (Dhirubhai Ambani Green Energy Giga Complex)"]
-    NEW --> NEW2["先进化学储能电池超级工厂 (Giga Battery Factory)"]
-    NEW --> NEW3["绿氢电解槽与燃料电池制造"]
-
-    classDef main fill:#003366,stroke:#ff9900,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#003366,stroke-width:1px,color:#fff;
-    classDef sub fill:#f9f9f9,stroke:#003366,stroke-width:1px,color:#000;
-    class RIL main;
-    class O2C,JIO,RET,NEW branch;
-    class O2C1,O2C2,O2C3,JIO1,JIO2,JIO3,JIO4,RET1,RET2,RET3,NEW1,NEW2,NEW3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮护城河 (Competitive Advantages)

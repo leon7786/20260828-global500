@@ -23,43 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    CM["中国移动通信集团 (China Mobile)"]
-    
-    CM --> C["1. 个人市场 (Customer Market - C)"]
-    C --> C1["5G 精品网络与千兆移动宽带 (超10亿个人客户)"]
-    C --> C2["全球通 / 动感地带 / 神州行 三大经典品牌"]
-    C --> C3["5G 新通话 / 超高清视频彩铃 / 云手机 / 权益超市"]
-    
-    CM --> H["2. 家庭市场 (Home Market - H)"]
-    H --> H1["千兆光纤宽带 (FTTR 全光家庭组网，超2.7亿家庭客户)"]
-    H --> H2["移动高清互联电视与数字大屏"]
-    H --> H3["全屋智能硬件与安防互联 (移动看家)"]
-    
-    CM --> B["3. 政企市场 (Business Market - B)"]
-    B --> B1["移动云 (全栈自主可控云计算，年收入突破千亿元)"]
-    B --> B2["5G+ 工业互联网 / 5G 专网 (智能制造/智慧采矿/智慧港口)"]
-    B --> B3["数字政府 / 智慧城市 / 智慧医疗 / 金融科技行业专网"]
-    
-    CM --> N["4. 新兴市场 (New Market - N)"]
-    N --> N1["国际业务 (CMI: 跨国海缆/跨境专线/一带一路互联互通)"]
-    N --> N2["咪咕文化数字娱乐 (咪咕视频/咪咕音乐/超级体育赛事转播)"]
-    N --> N3["金融科技与中移动数智生活支付生态 (和包支付)"]
-    
-    CM --> AI["5. 算力网络与九天 AI (CFN & 'Jiutian' AI)"]
-    AI --> AI1["算网大脑 (全域算力调度与毫秒级算力路由)"]
-    AI --> AI2["自研九天人工智能基础大模型与多行业垂类大模型"]
-    AI --> AI3["国家级'东数西算'算力枢纽与超大规模智算中心群"]
-
-    classDef main fill:#0085d0,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#003366,stroke:#0085d0,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f8ff,stroke:#333,stroke-width:1px,color:#000;
-    class CM main;
-    class C,H,B,N,AI branch;
-    class C1,C2,C3,H1,H2,H3,B1,B2,B3,N1,N2,N3,AI1,AI2,AI3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Moats)

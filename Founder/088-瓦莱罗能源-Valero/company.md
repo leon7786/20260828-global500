@@ -24,39 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球精炼版图 (Business Architecture)
 
-```mermaid
-graph TD
-    VALERO["瓦莱罗能源帝国 (Valero Energy Corporation)"]
-    
-    VALERO --> REF["1. 独立原油精炼业务 (Petroleum Refining)"]
-    REF --> REF1["墨西哥湾沿岸超级炼油厂集群 (Corpus Christi / Port Arthur / Texas City / St. Charles 等)"]
-    REF --> REF2["美国中大陆与加州精炼厂 (McKee / Ardmore / Benicia)"]
-    REF --> REF3["海外精炼资产 (英国 Pembroke / 加拿大 Jean Gaulin 炼油厂)"]
-    REF --> REF4["超低硫汽油、航空煤油、超低硫柴油与沥青"]
-    
-    VALERO --> RENEW["2. 可再生柴油 (Diamond Green Diesel - DGD)"]
-    RENEW --> RENEW1["与 Darling Ingredients 联合合资平台 (DGD)"]
-    RENEW --> RENEW2["利用废弃动植物油脂/地沟油生产高品质低碳可再生柴油"]
-    RENEW --> RENEW3["可持续航空燃料 (Sustainable Aviation Fuel - SAF)"]
-    
-    VALERO --> ETH["3. 乙醇生物燃料 (Ethanol Segment)"]
-    ETH --> ETH1["美国中西部 12 座大型玉米乙醇加工厂"]
-    ETH --> ETH2["年产超 16 亿加仑变性燃料乙醇"]
-    ETH --> ETH3["副产品高蛋白动物饲料 (DDGS) 与生物碳捕集"]
-    
-    VALERO --> LOG["4. 物流管道与全球海运网络 (Logistics & Export)"]
-    LOG --> LOG1["墨西哥湾沿岸深水原油与成品油装卸码头"]
-    LOG --> LOG2["数千英里跨州成品油输送管道与调运油库"]
-    LOG --> LOG3["辐射拉美（墨西哥/秘鲁）、欧洲与亚洲的成品油出口分销"]
-
-    classDef main fill:#004879,stroke:#e31b23,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#004879,stroke-width:1px,color:#fff;
-    classDef sub fill:#f4f7f9,stroke:#004879,stroke-width:1px,color:#000;
-    class VALERO main;
-    class REF,RENEW,ETH,LOG branch;
-    class REF1,REF2,REF3,REF4,RENEW1,RENEW2,RENEW3,ETH1,ETH2,ETH3,LOG1,LOG2,LOG3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与精炼护城河 (Competitive Advantages)

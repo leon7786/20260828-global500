@@ -24,41 +24,6 @@
 
 ## 🌐 核心业务矩阵与全球版图 (Business Architecture)
 
-```mermaid
-graph TD
-    WMT["沃尔玛商业帝国 (Walmart Inc.)"]
-    
-    WMT --> US["1. 沃尔玛美国 (Walmart U.S.)"]
-    US --> US1["超级购物中心 (Supercenter, 约3500+家)"]
-    US --> US2["折扣百货商场 (Discount Stores)"]
-    US --> US3["社区生鲜超市 (Neighborhood Market)"]
-    US --> US4["数字零售与即时配送 (Walmart+)"]
-    
-    WMT --> SAMS["2. 山姆会员商店 (Sam's Club)"]
-    SAMS --> SAMS1["高端仓储会员制零售 (全球超800+家)"]
-    SAMS --> SAMS2["自有品牌 (Member's Mark) 差异化爆品"]
-    SAMS --> SAMS3["山姆云仓极速达 (1小时前置仓履约)"]
-    
-    WMT --> INTL["3. 沃尔玛国际 (Walmart International)"]
-    INTL --> INTL1["墨西哥与中美洲 (Walmex, 领先零售网)"]
-    INTL --> INTL2["中国市场 (高品质山姆会员店核心驱动)"]
-    INTL --> INTL3["印度市场 (控股电商独角兽 Flipkart 与 PhonePe)"]
-    INTL --> INTL4["加拿大与非洲市场 (Massmart)"]
-    
-    WMT --> OMNI["4. 新兴高毛利多元生态 (New Growth Engines)"]
-    OMNI --> OMNI1["零售广告网络 (Walmart Connect)"]
-    OMNI --> OMNI2["商家履约物流服务 (Walmart Fulfillment Services, WFS)"]
-    OMNI --> OMNI3["数据智能洞察平台 (Walmart Luminate)"]
-    OMNI --> OMNI4["无人机即时配送 (Drone Delivery)"]
-
-    classDef main fill:#0071ce,stroke:#ffc220,stroke-width:2px,color:#fff;
-    classDef branch fill:#041e42,stroke:#ffc220,stroke-width:1px,color:#fff;
-    classDef sub fill:#f3f3f3,stroke:#041e42,stroke-width:1px,color:#000;
-    class WMT main;
-    class US,SAMS,INTL,OMNI branch;
-    class US1,US2,US3,US4,SAMS1,SAMS2,SAMS3,INTL1,INTL2,INTL3,INTL4,OMNI1,OMNI2,OMNI3,OMNI4 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争优势与供应链护城河 (Moat & Innovations)

@@ -23,38 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    BAOWU["中国宝武钢铁航母 (China Baowu Steel Group)"]
-    
-    BAOWU --> STEEL["1. 钢铁全谱系制造 (Steel Manufacturing)"]
-    STEEL --> STEEL1["宝钢股份 (Baosteel): 汽车板、高牌号取向硅钢、高端家电板、能源海工用钢"]
-    STEEL --> STEEL2["太钢不锈 (TISCO): 全球最大不锈钢与特种钢生产基地 (笔尖钢/核电不锈钢)"]
-    STEEL --> STEEL3["马钢集团 (Masteel): 轨道交通特种轮轴钢 (高铁车轮第一名) & 特殊长材"]
-    STEEL --> STEEL4["武钢有限 & 中南钢铁 & 重庆钢铁: 华中与西南战略钢材腹地基石"]
-    
-    BAOWU --> DIGI["2. 工业互联与智慧制造 (Industrial IT & Logistics)"]
-    DIGI --> DIGI1["工业软件与大数据旗舰: 宝信软件 (Baosight, 工业互联网/PLC首选)"]
-    DIGI --> DIGI2["钢铁大宗电商平台: 欧冶云商 (Ouyeel, 中国最大钢铁生态交易平台)"]
-    DIGI --> DIGI3["世界经济论坛灯塔工厂 (Lighthouse Factories / 5G黑灯无人钢厂)"]
-    
-    BAOWU --> GREEN["3. 低碳绿色氢冶金 (Green & Low-Carbon Solutions)"]
-    GREEN --> GREEN1["富氢碳循环氧气高炉技术 (HyCROF, 减碳30%以上)"]
-    GREEN --> GREEN2["湛江钢铁百万吨级氢基竖炉 (全氢低碳炼铁示范工程)"]
-    GREEN --> GREEN3["宝武清洁能源: 工业副产氢提纯与零碳电弧炉短流程钢厂"]
-    
-    BAOWU --> MAT["4. 先进新材料与资源 (Advanced Materials & Resources)"]
-    MAT --> MAT1["宝武碳业: 超高功率石墨电极、针状焦、高端碳纤维复合材料"]
-    MAT --> MAT2["宝武资源: 西非西芒杜 (Simandou) 铁矿等全球铁矿石供应链保供"]
-
-    classDef main fill:#002060,stroke:#e60012,stroke-width:2px,color:#fff;
-    classDef branch fill:#e60012,stroke:#002060,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f5f5,stroke:#333,stroke-width:1px,color:#000;
-    class BAOWU main;
-    class STEEL,DIGI,GREEN,MAT branch;
-    class STEEL1,STEEL2,STEEL3,STEEL4,DIGI1,DIGI2,DIGI3,GREEN1,GREEN2,GREEN3,MAT1,MAT2 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

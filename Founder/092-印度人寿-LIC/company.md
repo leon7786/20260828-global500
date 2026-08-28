@@ -23,43 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    LIC["印度人寿保险公司 (LIC of India)"]
-    
-    LIC --> LIFE["1. 个人人寿保障 (Individual Life Insurance)"]
-    LIFE --> LIFE1["传统分红寿险 (Endowment & Whole Life Plans)"]
-    LIFE --> LIFE2["定期寿险 (Term Assurance / Tech Term)"]
-    LIFE --> LIFE3["返还型两全保险 (Money Back Plans)"]
-    LIFE --> LIFE4["投资连结险 (ULIPs / Unit Linked Insurance)"]
-    
-    LIC --> PENS["2. 养老金与年金 (Pension & Group Schemes)"]
-    PENS --> PENS1["即期与延期年金 (Jeevan Akshay / Shanti)"]
-    PENS --> PENS2["企业员工退休与退职金信托 (Gratuity & Superannuation)"]
-    PENS --> PENS3["国家社会保障计划管理 (Pradhan Mantri PMVVY)"]
-    
-    LIC --> MICRO["3. 微型金融与普惠保险 (Micro-insurance & Rural Outreach)"]
-    MICRO --> MICRO1["农村低保费小额寿险 (Jeevan Deep/Mangal)"]
-    MICRO --> MICRO2["女性与弱势群体扶贫保障项目"]
-    
-    LIC --> INV["4. 巨额资产管理与国家投资 (AUM & Sovereign Investing)"]
-    INV --> INV1["印度国债与政府长期基建债券 (占总资产超60%)"]
-    INV --> INV2["印度蓝筹股股权直投 (印度股市最大国内机构投资者 DII)"]
-    INV --> INV3["电力、公路、铁路、港口等国家重大工程融资"]
-    
-    LIC --> SUBS["5. 海外与金融子公司 (Subsidiaries & Associates)"]
-    LIC --> SUBS1["海外分支 (英国、中东海湾国家、新加坡、斐济、肯尼亚等)"]
-    LIC --> SUBS2["LIC 住房金融公司 (LIC Housing Finance, LICHFL)"]
-    LIC --> SUBS3["LIC 共同基金 (LIC Mutual Fund)"]
-
-    classDef main fill:#003366,stroke:#ffcc00,stroke-width:2px,color:#fff;
-    classDef branch fill:#ffcc00,stroke:#003366,stroke-width:1px,color:#000;
-    classDef sub fill:#f5f5f5,stroke:#003366,stroke-width:1px,color:#000;
-    class LIC main;
-    class LIFE,PENS,MICRO,INV,SUBS branch;
-    class LIFE1,LIFE2,LIFE3,LIFE4,PENS1,PENS2,PENS3,MICRO1,MICRO2,INV1,INV2,INV3,SUBS1,SUBS2,SUBS3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

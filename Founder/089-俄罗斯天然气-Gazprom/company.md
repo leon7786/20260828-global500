@@ -25,39 +25,6 @@
 
 ## 🌐 核心业务矩阵与全球能源版图 (Business Architecture)
 
-```mermaid
-graph TD
-    GAZ["俄罗斯天然气工业股份公司 (Gazprom PJSC)"]
-    
-    GAZ --> UP["1. 天然气勘探与开采 (Gas Upstream E&P)"]
-    UP --> UP1["亚马尔半岛超级气田群 (博瓦年科沃 / 哈拉萨韦)"]
-    UP --> UP2["西西伯利亚老区气田 (乌连戈伊 / 扬堡)"]
-    UP --> UP3["东西伯利亚与远东气田 (恰扬达 / 科维克塔)"]
-    
-    GAZ --> PIPE["2. 统一供气系统长输管网 (UGSS Pipeline Logistics)"]
-    PIPE --> PIPE1["超 18 万公里全球最长大口径高压输气管网"]
-    PIPE --> PIPE2["西伯利亚力量 (Power of Siberia - 对华战略供气大动脉)"]
-    PIPE --> PIPE3["土耳其溪 (TurkStream) 与 蓝溪 (Blue Stream) 南欧通道"]
-    PIPE --> PIPE4["中亚与远东供气管网集群"]
-    
-    GAZ --> OIL["3. 原油与炼化业务 (Gazprom Neft)"]
-    OIL --> OIL1["俄罗斯第三大石油公司 (年产原油近亿吨)"]
-    OIL --> OIL2["鄂木斯克与莫斯科等大型现代化炼油厂"]
-    OIL --> OIL3["北极高纬度海上油田 (普里拉兹洛姆诺耶 Prirazlomnoye)"]
-    
-    GAZ --> LNG["4. LNG 与深冷化工 (LNG & Gas Chemicals)"]
-    LNG --> LNG1["萨哈林 2 号 (Sakhalin-2 LNG 远东超级液化项目)"]
-    LNG --> LNG2["波罗的海乌斯季-卢加大型天然气化工综合体"]
-    LNG --> LNG3["阿穆尔天然气加工厂 (全球最大氦气与聚合物原料基地)"]
-
-    classDef main fill:#0072ce,stroke:#fff,stroke-width:2px,color:#fff;
-    classDef branch fill:#222,stroke:#0072ce,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f5fa,stroke:#0072ce,stroke-width:1px,color:#000;
-    class GAZ main;
-    class UP,PIPE,OIL,LNG branch;
-    class UP1,UP2,UP3,PIPE1,PIPE2,PIPE3,PIPE4,OIL1,OIL2,OIL3,LNG1,LNG2,LNG3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与能源护城河 (Competitive Advantages)

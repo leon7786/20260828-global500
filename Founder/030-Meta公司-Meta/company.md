@@ -24,35 +24,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    META["Meta Platforms 商业帝国 (Meta)"]
-    
-    META --> FOA["1. 应用家族 (Family of Apps - FoA)"]
-    FOA --> FB["Facebook (全球超 30 亿 MAU 最大社交网络)"]
-    FOA --> IG["Instagram (Reels 竖屏短视频、Stories 与 Threads 社交)"]
-    FOA --> WA["WhatsApp (全球超 20 亿 MAU 私域即时通讯与企业商务)"]
-    FOA --> ADS["Meta Ads (Advantage+ AI 驱动的全球最大精准数字广告拍卖网络)"]
-    
-    META --> AI["2. 人工智能与开源生态 (Meta AI & Open Source)"]
-    AI --> LLAMA["Llama 系列前沿开源大语言模型 (Llama 3.1/3.2, Llama 4)"]
-    AI --> PT["PyTorch (全球科研与产业界最主流深度学习开发框架)"]
-    AI --> MTIA["MTIA 自研专用 AI 训练与推理芯片"]
-    
-    META --> RL["3. 现实实验室 (Reality Labs - RL 空间计算)"]
-    RL --> QUEST["Meta Quest 3 / 3S 消费级 VR/MR 空间计算头显"]
-    RL --> GLASSES["Ray-Ban Meta 智能音频与多模态 AI 眼镜 (爆款级硬件)"]
-    RL --> ORION["Orion 全息真 AR 增强现实眼镜技术原型"]
-    RL --> HORIZON["Horizon Worlds 元宇宙沉浸式社交平台"]
-
-    classDef main fill:#0668e1,stroke:#000,stroke-width:2px,color:#fff;
-    classDef branch fill:#0080fb,stroke:#0668e1,stroke-width:1px,color:#fff;
-    classDef sub fill:#f5f8fc,stroke:#0668e1,stroke-width:1px,color:#000;
-    class META main;
-    class FOA,AI,RL branch;
-    class FB,IG,WA,ADS,LLAMA,PT,MTIA,QUEST,GLASSES,ORION,HORIZON sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与护城河 (Competitive Advantages)

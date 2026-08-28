@@ -23,39 +23,6 @@
 
 ## 🌐 核心业务矩阵与商业版图 (Business Ecosystem)
 
-```mermaid
-graph TD
-    EDF["法国电力集团 (EDF Group)"]
-    
-    EDF --> NUC["1. 核能发电与燃料闭环 (Nuclear Power & Fleet)"]
-    NUC --> NUC1["56座在役压水堆机组 (900MW / 1300MW / 1450MW / EPR)"]
-    NUC --> NUC2["大修与延寿工程 (Grand Carénage 计划)"]
-    NUC --> NUC3["新一代 EPR2 压水堆与 Nuward 小型模块堆 (SMR)"]
-    NUC --> NUC4["Framatome 法马通反应堆设计与燃料制造"]
-    
-    EDF --> REN["2. 可再生能源与水利 (Renewables & Hydro)"]
-    REN --> REN1["法国本土水力发电梯级枢纽 (Hydroelectric Fleet)"]
-    REN --> REN2["EDF Renouvelables 全球海上/陆上风电"]
-    REN --> REN3["超大型地面光伏与储能微电网"]
-    
-    EDF --> GRID["3. 输配电网与跨境互联 (Grid & International Trading)"]
-    GRID --> GRID1["Enedis (法国配电网运营商 - 95%本土覆盖)"]
-    GRID --> GRID2["RTE (法国高压输电网与欧洲跨境互联通道)"]
-    GRID --> GRID3["EDF Trading (欧洲大宗电力与低碳衍生品交易)"]
-    
-    EDF --> INT["4. 国际业务与综合能效 (International & Energy Services)"]
-    INT --> INT1["EDF Energy 英国 (欣克利角C / 塞兹韦尔C 核电站)"]
-    INT --> INT2["Dalkia 综合能源管理与城市集中供热"]
-    INT --> INT3["Edison 意大利综合能源服务"]
-
-    classDef main fill:#001a70,stroke:#fe5815,stroke-width:2px,color:#fff;
-    classDef branch fill:#0055a5,stroke:#001a70,stroke-width:1px,color:#fff;
-    classDef sub fill:#f0f4fa,stroke:#0055a5,stroke-width:1px,color:#000;
-    class EDF main;
-    class NUC,REN,GRID,INT branch;
-    class NUC1,NUC2,NUC3,NUC4,REN1,REN2,REN3,GRID1,GRID2,GRID3,INT1,INT2,INT3 sub;
-```
-
 ---
 
 ## ⚡ 核心竞争壁垒与飞轮引擎 (Competitive Advantages)
