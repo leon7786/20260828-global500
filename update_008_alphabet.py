@@ -1,4 +1,7 @@
-# 拉里·佩奇 (Larry Page) 与谢尔盖·布林 (Sergey Brin)：十倍思维、乐高服务器与组织全球信息的星际双星全景史诗传记
+# -*- coding: utf-8 -*-
+import os
+
+enriched_008 = """# 拉里·佩奇 (Larry Page) 与谢尔盖·布林 (Sergey Brin)：十倍思维、乐高服务器与组织全球信息的星际双星全景史诗传记
 
 > **“如果你把目标定在让事情改善 10%，你就会和所有人陷入无休止的平庸内耗；但如果你把目标定在让事情提升 10 倍 (10X)，你就必须推翻所有既有假设，从底层的物理学与数学第一性原理重新出发。追求那些看似荒谬不经的登月梦想，反而往往更容易成功，因为在那里——你没有任何竞争对手！”**  
 > —— 拉里·佩奇 (Larry Page)
@@ -326,3 +329,10 @@
 | 2026年（当代）  | Alphabet 市值稳超 2 万亿美元，全球超 30 亿人每天使用谷歌产品，星际双星传奇永驻   |
 +--------------------------------------------------------------------------------------------------+
 ```
+"""
+
+path = '/root/1CT-Share/20260828-global500/Founder/008-谷歌-Alphabet/founder.md'
+with open(path, 'w', encoding='utf-8') as f:
+    f.write(enriched_008.strip() + '\n')
+
+print(f"Successfully updated Top 8 Alphabet biography! Size: {len(enriched_008.encode('utf-8'))} bytes")
