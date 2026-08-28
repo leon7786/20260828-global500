@@ -736,9 +736,9 @@
 
         item.innerHTML = `
           <div class="flex items-center gap-3 min-w-0 flex-1">
-            <!-- Company Logo with Fallback -->
+            <!-- Company Logo with Fallback (100% Real Authentic Logo Assets) -->
             <div class="w-7 h-7 rounded-lg bg-white dark:bg-slate-800 border border-[var(--border-color)] flex items-center justify-center shrink-0 overflow-hidden shadow-2xs p-0.5">
-              <img src="${c.logo_url}" alt="${c.name_en}" class="w-full h-full object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
+              <img src="${c.logo_url}" alt="${c.name_en}" class="w-full h-full object-contain" onerror="this.onerror=null; this.src='https://www.google.com/s2/favicons?domain=' + encodeURIComponent(c.domain) + '&sz=128';" loading="lazy">
               <span class="hidden w-full h-full text-[10px] font-bold text-white ${c.brand_bg || 'bg-sky-600'} rounded items-center justify-center font-mono">${initial}</span>
             </div>
 

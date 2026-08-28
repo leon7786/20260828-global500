@@ -283,7 +283,7 @@ for d in dirs:
     
     meta = brand_meta.get(rank, {'domain': f"{name_en.lower()}.com", 'color': '#0284C7', 'bg': 'bg-sky-600'})
     domain = meta['domain']
-    logo_url = f"https://www.google.com/s2/favicons?domain={domain}&sz=128"
+    logo_url = f"assets/logos/{rank:03d}.png"
     
     founder_name = curated_founders.get(rank, f"{name_cn}创始团队")
     
