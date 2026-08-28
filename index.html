@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN" class="light">
+<html lang="zh-CN" class="theme-light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
@@ -49,6 +49,83 @@
       box-sizing: border-box;
     }
 
+    /* ---------------------------------------------------- */
+    /* Dynamic Theme Variables                             */
+    /* ---------------------------------------------------- */
+    :root.theme-light {
+      --bg-page: #f8fafc;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #ffffff;
+      --bg-sidebar-hover: #f1f5f9;
+      --bg-active: #e0f2fe;
+      --border-color: #e2e8f0;
+      --text-main: #0f172a;
+      --text-muted: #334155;
+      --text-dim: #64748b;
+      --prose-h1: #0f172a;
+      --prose-h2: #0284c7;
+      --prose-h3: #b45309;
+      --prose-p: #334155;
+      --quote-bg: #fffbeb;
+      --quote-border: #f59e0b;
+      --quote-text: #92400e;
+      --code-bg: #f8fafc;
+      --code-border: #e2e8f0;
+      --code-text: #0369a1;
+      --table-header: #f1f5f9;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.03), 0 1px 2px rgba(0,0,0,0.02);
+    }
+
+    /* 📜 Sepia Warm Paper Eye-Protection Theme */
+    :root.theme-sepia {
+      --bg-page: #fbf7ee;
+      --bg-surface: #f4ede0;
+      --bg-sidebar: #f7f1e5;
+      --bg-sidebar-hover: #ede3d1;
+      --bg-active: #e9dec9;
+      --border-color: #e3d5bf;
+      --text-main: #2c251e;
+      --text-muted: #4a3f35;
+      --text-dim: #7d6f5d;
+      --prose-h1: #2c251e;
+      --prose-h2: #8c4a1e;
+      --prose-h3: #a05a18;
+      --prose-p: #3d342a;
+      --quote-bg: #efe5d1;
+      --quote-border: #c48a3f;
+      --quote-text: #6b471c;
+      --code-bg: #efe5d1;
+      --code-border: #decbaf;
+      --code-text: #7c4118;
+      --table-header: #ede3d1;
+      --card-shadow: 0 1px 3px rgba(60,40,20,0.05);
+    }
+
+    /* 🌙 Dark Night Theme */
+    :root.theme-dark {
+      --bg-page: #090d16;
+      --bg-surface: #0f172a;
+      --bg-sidebar: #0f172a;
+      --bg-sidebar-hover: #1e293b;
+      --bg-active: #0c4a6e;
+      --border-color: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #cbd5e1;
+      --text-dim: #94a3b8;
+      --prose-h1: #f8fafc;
+      --prose-h2: #38bdf8;
+      --prose-h3: #fcd34d;
+      --prose-p: #cbd5e1;
+      --quote-bg: rgba(245, 158, 11, 0.08);
+      --quote-border: #f59e0b;
+      --quote-text: #fde68a;
+      --code-bg: #020617;
+      --code-border: #1e293b;
+      --code-text: #7dd3fc;
+      --table-header: #1e293b;
+      --card-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
     html, body {
       font-family: 'Plus Jakarta Sans', 'Noto Sans SC', sans-serif;
       overflow-x: hidden;
@@ -56,8 +133,9 @@
       height: 100%;
       margin: 0;
       padding: 0;
-      background-color: #f8fafc;
-      color: #0f172a;
+      background-color: var(--bg-page);
+      color: var(--text-main);
+      transition: background-color 0.2s ease, color 0.2s ease;
       -webkit-tap-highlight-color: transparent;
     }
 
@@ -68,7 +146,7 @@
     ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
 
     /* ---------------------------------------------------- */
-    /* Light Mode Editorial Typography                      */
+    /* Master Editorial Prose Typography                    */
     /* ---------------------------------------------------- */
     .prose-custom {
       width: 100%;
@@ -78,24 +156,24 @@
       word-break: break-word;
     }
     .prose-custom h1 {
-      font-size: clamp(1.4rem, 2.2vw + 0.5rem, 2.1rem);
+      font-size: clamp(1.45rem, 2.3vw + 0.5rem, 2.15rem);
       font-weight: 800;
-      color: #0f172a;
+      color: var(--prose-h1);
       margin-top: 1rem;
       margin-bottom: 1.25rem;
       padding-bottom: 0.75rem;
-      border-bottom: 2px solid #e2e8f0;
+      border-bottom: 2px solid var(--border-color);
       line-height: 1.35;
       letter-spacing: -0.025em;
     }
     .prose-custom h2 {
-      font-size: clamp(1.15rem, 1.6vw + 0.3rem, 1.55rem);
+      font-size: clamp(1.18rem, 1.6vw + 0.3rem, 1.55rem);
       font-weight: 700;
-      color: #0369a1;
-      margin-top: 2.25rem;
-      margin-bottom: 0.85rem;
-      padding-bottom: 0.4rem;
-      border-bottom: 1px dashed #cbd5e1;
+      color: var(--prose-h2);
+      margin-top: 2.5rem;
+      margin-bottom: 0.9rem;
+      padding-bottom: 0.45rem;
+      border-bottom: 1px dashed var(--border-color);
       line-height: 1.4;
       display: flex;
       flex-wrap: wrap;
@@ -104,100 +182,110 @@
       scroll-margin-top: 5rem;
     }
     .prose-custom h3 {
-      font-size: clamp(1rem, 1.2vw + 0.2rem, 1.25rem);
+      font-size: clamp(1.02rem, 1.2vw + 0.2rem, 1.28rem);
       font-weight: 600;
-      color: #b45309;
-      margin-top: 1.6rem;
-      margin-bottom: 0.55rem;
+      color: var(--prose-h3);
+      margin-top: 1.75rem;
+      margin-bottom: 0.6rem;
       line-height: 1.45;
       scroll-margin-top: 5rem;
     }
     .prose-custom p {
-      font-size: var(--article-font-size, 0.96rem);
-      color: #334155;
-      line-height: 1.85;
-      margin-bottom: 1.15rem;
+      font-size: var(--article-font-size, 1rem);
+      color: var(--prose-p);
+      line-height: 1.88;
+      margin-bottom: 1.25rem;
       text-align: justify;
     }
     .prose-custom strong {
-      color: #0f172a;
+      color: var(--text-main);
       font-weight: 700;
     }
     .prose-custom ul, .prose-custom ol {
-      font-size: var(--article-font-size, 0.96rem);
-      color: #334155;
-      margin-bottom: 1.15rem;
+      font-size: var(--article-font-size, 1rem);
+      color: var(--prose-p);
+      margin-bottom: 1.25rem;
       padding-left: 1.5rem;
       line-height: 1.8;
     }
     .prose-custom ul { list-style-type: disc; }
     .prose-custom ol { list-style-type: decimal; }
-    .prose-custom li { margin-bottom: 0.45rem; }
+    .prose-custom li { margin-bottom: 0.5rem; }
     
     .prose-custom blockquote {
-      border-left: 4px solid #f59e0b;
-      background: #fffbeb;
-      padding: 1.15rem 1.4rem;
+      border-left: 4.5px solid var(--quote-border);
+      background: var(--quote-bg);
+      padding: 1.15rem 1.5rem;
       border-radius: 0 0.85rem 0.85rem 0;
-      color: #92400e;
+      color: var(--quote-text);
       font-style: italic;
-      margin: 1.5rem 0;
-      font-size: clamp(0.9rem, 0.9vw + 0.1rem, 1.02rem);
-      line-height: 1.75;
-      border-top: 1px solid #fef3c7;
-      border-right: 1px solid #fef3c7;
-      border-bottom: 1px solid #fef3c7;
-      box-shadow: 0 2px 4px rgba(245, 158, 11, 0.05);
+      margin: 1.75rem 0;
+      font-size: clamp(0.92rem, 0.9vw + 0.1rem, 1.04rem);
+      line-height: 1.8;
+      border-top: 1px solid var(--border-color);
+      border-right: 1px solid var(--border-color);
+      border-bottom: 1px solid var(--border-color);
+      box-shadow: var(--card-shadow);
+      position: relative;
     }
     .prose-custom pre {
-      background: #f8fafc;
-      border: 1px solid #e2e8f0;
-      padding: 1.15rem;
+      background: var(--code-bg);
+      border: 1px solid var(--code-border);
+      padding: 1.25rem;
       border-radius: 0.85rem;
       font-family: 'JetBrains Mono', monospace;
-      font-size: 0.82rem;
+      font-size: 0.84rem;
       overflow-x: auto;
       max-width: 100%;
-      color: #0369a1;
-      margin: 1.5rem 0;
-      line-height: 1.6;
+      color: var(--code-text);
+      margin: 1.75rem 0;
+      line-height: 1.65;
       white-space: pre-wrap;
       word-break: break-all;
+      box-shadow: var(--card-shadow);
     }
     .prose-custom table {
       width: 100%;
       display: block;
       overflow-x: auto;
       border-collapse: collapse;
-      font-size: 0.86rem;
-      margin: 1.5rem 0;
-      border: 1px solid #e2e8f0;
+      font-size: 0.88rem;
+      margin: 1.75rem 0;
+      border: 1px solid var(--border-color);
       border-radius: 0.75rem;
-      background: #ffffff;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+      background: var(--bg-surface);
+      box-shadow: var(--card-shadow);
     }
     .prose-custom th {
-      background: #f1f5f9;
-      color: #0f172a;
-      padding: 0.75rem 1rem;
-      border-bottom: 1px solid #cbd5e1;
+      background: var(--table-header);
+      color: var(--text-main);
+      padding: 0.8rem 1.1rem;
+      border-bottom: 1px solid var(--border-color);
       font-weight: 600;
       white-space: nowrap;
     }
     .prose-custom td {
-      padding: 0.75rem 1rem;
-      border-bottom: 1px solid #f1f5f9;
-      color: #334155;
+      padding: 0.8rem 1.1rem;
+      border-bottom: 1px solid var(--border-color);
+      color: var(--text-muted);
     }
     .prose-custom hr {
       border: 0;
-      border-top: 1px solid #e2e8f0;
-      margin: 2.25rem 0;
+      border-top: 1px solid var(--border-color);
+      margin: 2.5rem 0;
     }
 
     /* Reading Progress Bar */
     #progress-bar {
       transition: width 0.1s ease-out;
+    }
+
+    /* TOC Active Indicator */
+    .toc-item.active {
+      color: var(--prose-h2);
+      font-weight: 700;
+      border-left: 3px solid var(--prose-h2);
+      background-color: var(--bg-sidebar-hover);
     }
 
     /* Print styles */
@@ -209,18 +297,18 @@
   </style>
 </head>
 
-<body class="bg-slate-50 text-slate-900 h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
+<body class="h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
 
   <!-- Top Reading Progress Indicator -->
-  <div class="fixed top-0 left-0 right-0 h-1 bg-slate-100 z-50">
+  <div class="fixed top-0 left-0 right-0 h-1 bg-transparent z-50">
     <div id="progress-bar" class="h-full bg-gradient-to-r from-sky-500 to-indigo-600 w-0"></div>
   </div>
 
   <!-- Top Global Bar -->
-  <header class="h-14 bg-white border-b border-slate-200 px-4 lg:px-6 flex items-center justify-between shrink-0 z-40 shadow-xs">
+  <header class="h-14 bg-[var(--bg-surface)] border-b border-[var(--border-color)] px-4 lg:px-6 flex items-center justify-between shrink-0 z-40 shadow-xs">
     <div class="flex items-center gap-3">
       <!-- Mobile Sidebar Toggle -->
-      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition" aria-label="打开企业目录">
+      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-lg hover:bg-[var(--bg-sidebar-hover)] transition" aria-label="打开企业目录">
         <i data-lucide="menu" class="w-5 h-5"></i>
       </button>
 
@@ -229,30 +317,43 @@
           500
         </div>
         <div class="flex items-center gap-2">
-          <h1 class="font-extrabold text-sm sm:text-base text-slate-900 tracking-tight">Global 500 传记智库</h1>
-          <span class="text-[10px] sm:text-xs font-semibold px-2 py-0.5 bg-sky-50 text-sky-700 border border-sky-200 rounded-full">2026 Edition</span>
+          <h1 class="font-extrabold text-sm sm:text-base text-[var(--text-main)] tracking-tight">Global 500 传记智库</h1>
+          <span class="text-[10px] sm:text-xs font-semibold px-2 py-0.5 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 rounded-full">2026 Edition</span>
         </div>
       </div>
     </div>
 
-    <!-- Right Controls: Font size adjust, TOC trigger & GitHub Link -->
+    <!-- Right Controls: Theme Switcher, Font size, TOC trigger & GitHub Link -->
     <div class="flex items-center gap-2 sm:gap-3">
       
+      <!-- 🎨 3-Theme Mode Switcher (Light / Sepia / Dark) -->
+      <div class="flex items-center gap-0.5 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)] text-xs">
+        <button onclick="setTheme('light')" id="btn-theme-light" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="☀️ 极简白">
+          <i data-lucide="sun" class="w-3.5 h-3.5"></i>
+        </button>
+        <button onclick="setTheme('sepia')" id="btn-theme-sepia" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="📜 羊皮纸护眼">
+          <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
+        </button>
+        <button onclick="setTheme('dark')" id="btn-theme-dark" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="🌙 深邃暗夜">
+          <i data-lucide="moon" class="w-3.5 h-3.5"></i>
+        </button>
+      </div>
+
       <!-- Font Size Controller -->
-      <div class="hidden sm:flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200/80 text-xs">
-        <button onclick="changeFontSize(-1)" class="px-2 py-0.5 text-slate-600 hover:text-slate-900 hover:bg-white rounded transition font-medium" title="减小字号">A-</button>
-        <span class="text-slate-300">|</span>
-        <button onclick="changeFontSize(1)" class="px-2 py-0.5 text-slate-600 hover:text-slate-900 hover:bg-white rounded transition font-medium" title="加大字号">A+</button>
+      <div class="hidden sm:flex items-center gap-1 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)] text-xs">
+        <button onclick="changeFontSize(-1)" class="px-2 py-0.5 text-[var(--text-muted)] hover:text-[var(--text-main)] hover:bg-[var(--bg-surface)] rounded transition font-medium" title="减小字号">A-</button>
+        <span class="text-[var(--border-color)]">|</span>
+        <button onclick="changeFontSize(1)" class="px-2 py-0.5 text-[var(--text-muted)] hover:text-[var(--text-main)] hover:bg-[var(--bg-surface)] rounded transition font-medium" title="加大字号">A+</button>
       </div>
 
       <!-- TOC Drawer Button for Mobile/Tablet -->
-      <button onclick="toggleToc()" id="btn-toc" class="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-amber-50 hover:bg-amber-100 text-amber-800 rounded-lg text-xs font-medium border border-amber-200 transition">
+      <button onclick="toggleToc()" id="btn-toc" class="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-amber-50 dark:bg-amber-950/40 hover:bg-amber-100 text-amber-800 dark:text-amber-300 rounded-lg text-xs font-medium border border-amber-200 dark:border-amber-800/60 transition">
         <i data-lucide="list-tree" class="w-3.5 h-3.5"></i>
-        <span class="hidden sm:inline">章节目录</span>
+        <span class="hidden sm:inline">章节导读</span>
       </button>
 
       <a href="https://github.com/leon7786/20260828-global500" target="_blank" 
-         class="flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium border border-slate-200 transition">
+         class="flex items-center gap-1.5 px-3 py-1.5 bg-[var(--bg-page)] hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-main)] rounded-lg text-xs font-medium border border-[var(--border-color)] transition">
         <i data-lucide="github" class="w-3.5 h-3.5"></i>
         <span class="hidden sm:inline">GitHub</span>
       </a>
@@ -266,28 +367,28 @@
     <!-- LEFT SIDEBAR: Company Selector & Filters           -->
     <!-- -------------------------------------------------- -->
     <aside id="sidebar" 
-           class="fixed inset-y-0 left-0 z-40 w-80 sm:w-88 bg-white border-r border-slate-200 flex flex-col transition-transform duration-300 -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-xl lg:shadow-none">
+           class="fixed inset-y-0 left-0 z-40 w-80 sm:w-88 bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col transition-transform duration-300 -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-xl lg:shadow-none">
       
       <!-- Mobile Close Bar -->
-      <div class="lg:hidden p-3 border-b border-slate-100 flex items-center justify-between bg-slate-50">
-        <span class="font-bold text-xs text-slate-700">选择 500 强企业</span>
-        <button onclick="toggleMobileSidebar()" class="p-1.5 text-slate-400 hover:text-slate-700 rounded-md">
+      <div class="lg:hidden p-3 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--bg-page)]">
+        <span class="font-bold text-xs text-[var(--text-main)]">选择 500 强企业</span>
+        <button onclick="toggleMobileSidebar()" class="p-1.5 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-md">
           <i data-lucide="x" class="w-4 h-4"></i>
         </button>
       </div>
 
       <!-- Search & Filters in Sidebar -->
-      <div class="p-3.5 border-b border-slate-200 bg-slate-50/70 space-y-2.5">
+      <div class="p-3.5 border-b border-[var(--border-color)] bg-[var(--bg-page)] space-y-2.5">
         <!-- Search Input -->
         <div class="relative">
-          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <i data-lucide="search" class="w-4 h-4 text-[var(--text-dim)] absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
           <input type="text" id="search-input" placeholder="搜索企业、创始人、行业..." 
-                 class="w-full pl-9 pr-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs text-slate-800 placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
+                 class="w-full pl-9 pr-3 py-1.5 bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-lg text-xs text-[var(--text-main)] placeholder-[var(--text-dim)] focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
         </div>
 
         <!-- Filter Dropdowns -->
         <div class="grid grid-cols-2 gap-1.5">
-          <select id="country-filter" class="bg-white border border-slate-200 text-[11px] text-slate-700 rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
+          <select id="country-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
             <option value="">🌍 全部国家</option>
             <option value="🇨🇳 中国">🇨🇳 中国</option>
             <option value="🇺🇸 美国">🇺🇸 美国</option>
@@ -297,7 +398,7 @@
             <option value="🇬🇧 英国">🇬🇧 英国</option>
           </select>
 
-          <select id="industry-filter" class="bg-white border border-slate-200 text-[11px] text-slate-700 rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
+          <select id="industry-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
             <option value="">🏢 全部行业</option>
             <option value="💻 科技与芯片">💻 科技与芯片</option>
             <option value="🛒 零售与电商">🛒 零售与电商</option>
@@ -309,9 +410,9 @@
           </select>
         </div>
 
-        <div class="flex items-center justify-between text-[11px] text-slate-500 px-0.5">
+        <div class="flex items-center justify-between text-[11px] text-[var(--text-dim)] px-0.5">
           <span id="filtered-count">共 100 家企业</span>
-          <select id="sort-filter" class="bg-transparent text-[11px] text-slate-600 focus:outline-none cursor-pointer">
+          <select id="sort-filter" class="bg-transparent text-[11px] text-[var(--text-muted)] focus:outline-none cursor-pointer">
             <option value="rank-asc">按排名 (1-100)</option>
             <option value="size-desc">按字数体量</option>
           </select>
@@ -319,42 +420,42 @@
       </div>
 
       <!-- Scrollable Company List -->
-      <nav id="company-list" class="flex-1 overflow-y-auto p-2 space-y-1 divide-y divide-slate-100">
+      <nav id="company-list" class="flex-1 overflow-y-auto p-2 space-y-1 divide-y divide-[var(--border-color)]/50">
         <!-- List items injected here -->
       </nav>
     </aside>
 
     <!-- Mobile Backdrop -->
-    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-slate-900/40 backdrop-blur-xs z-30 hidden lg:hidden"></div>
+    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-black/40 backdrop-blur-xs z-30 hidden lg:hidden"></div>
 
     <!-- -------------------------------------------------- -->
     <!-- RIGHT MAIN CONTENT: Reader & Article View          -->
     <!-- -------------------------------------------------- -->
-    <main class="flex-1 flex flex-col bg-white overflow-hidden relative">
+    <main class="flex-1 flex flex-col bg-[var(--bg-surface)] overflow-hidden relative">
       
       <!-- Right Sub-Header Toolbar -->
-      <div class="px-4 sm:px-8 py-3 bg-white border-b border-slate-200 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs z-20">
+      <div class="px-4 sm:px-8 py-3 bg-[var(--bg-surface)] border-b border-[var(--border-color)] flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs z-20">
         <div class="flex items-center gap-3 min-w-0">
-          <span id="active-rank" class="px-2.5 py-1 bg-sky-50 text-sky-700 border border-sky-200 text-xs font-bold rounded-lg shrink-0">#001</span>
+          <span id="active-rank" class="px-2.5 py-1 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 text-xs font-bold rounded-lg shrink-0">#001</span>
           <div class="min-w-0">
             <div class="flex items-center gap-2">
-              <h2 id="active-title" class="font-bold text-sm sm:text-base text-slate-900 truncate">亚马逊 (Amazon)</h2>
-              <span id="active-meta" class="text-xs text-slate-500 hidden md:inline">🇺🇸 美国 · 🛒 零售与电商</span>
+              <h2 id="active-title" class="font-bold text-sm sm:text-base text-[var(--text-main)] truncate">亚马逊 (Amazon)</h2>
+              <span id="active-meta" class="text-xs text-[var(--text-dim)] hidden md:inline">🇺🇸 美国 · 🛒 零售与电商</span>
             </div>
           </div>
         </div>
 
         <!-- Tab Controls (Founder / Company / Readme) -->
-        <div class="flex items-center gap-1 bg-slate-100 p-1 rounded-xl">
-          <button onclick="switchTab('founder')" id="tab-founder" class="px-3 py-1.5 text-xs font-semibold rounded-lg bg-white text-sky-700 shadow-xs transition flex items-center gap-1.5">
+        <div class="flex items-center gap-1 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)]">
+          <button onclick="switchTab('founder')" id="tab-founder" class="px-3 py-1.5 text-xs font-semibold rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center gap-1.5">
             <i data-lucide="user" class="w-3.5 h-3.5"></i>
             <span>创始人史诗传记</span>
           </button>
-          <button onclick="switchTab('company')" id="tab-company" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5">
+          <button onclick="switchTab('company')" id="tab-company" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5">
             <i data-lucide="building" class="w-3.5 h-3.5"></i>
             <span>企业档案</span>
           </button>
-          <button onclick="switchTab('readme')" id="tab-readme" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5">
+          <button onclick="switchTab('readme')" id="tab-readme" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5">
             <i data-lucide="compass" class="w-3.5 h-3.5"></i>
             <span>专栏总览</span>
           </button>
@@ -369,15 +470,15 @@
           <div class="max-w-3.5xl mx-auto">
             
             <!-- Article Header Info Card -->
-            <div id="article-meta-banner" class="mb-8 p-4 sm:p-5 bg-gradient-to-br from-slate-50 via-white to-sky-50/40 border border-slate-200/90 rounded-2xl flex flex-wrap items-center justify-between gap-3 shadow-2xs">
-              <div class="flex items-center gap-2 text-xs text-slate-600">
-                <span class="p-1.5 bg-sky-100 text-sky-700 rounded-lg"><i data-lucide="book-open" class="w-4 h-4"></i></span>
+            <div id="article-meta-banner" class="mb-8 p-4 sm:p-5 bg-[var(--bg-page)] border border-[var(--border-color)] rounded-2xl flex flex-wrap items-center justify-between gap-3 shadow-2xs">
+              <div class="flex items-center gap-2 text-xs text-[var(--text-muted)]">
+                <span class="p-1.5 bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-400 rounded-lg"><i data-lucide="book-open" class="w-4 h-4"></i></span>
                 <span id="read-length-tag">字数统计: 34.6 KB (~1.3 万字)</span>
-                <span class="text-slate-300">·</span>
-                <span id="read-time-tag" class="text-slate-500">⏱️ 约 12 分钟精读</span>
+                <span class="text-[var(--border-color)]">·</span>
+                <span id="read-time-tag" class="text-[var(--text-dim)]">⏱️ 约 12 分钟精读</span>
               </div>
               <div class="flex items-center gap-2">
-                <span class="text-xs px-2.5 py-1 bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-lg font-medium">
+                <span class="text-xs px-2.5 py-1 bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800 rounded-lg font-medium">
                   🌟 黄金基准篇目
                 </span>
               </div>
@@ -385,23 +486,23 @@
 
             <!-- Markdown Content Render Target -->
             <div id="article-content" class="prose-custom">
-              <div class="text-center py-24 text-slate-400">
+              <div class="text-center py-24 text-[var(--text-dim)]">
                 <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
                 <p class="text-sm">正在加载全景史诗传记...</p>
               </div>
             </div>
 
             <!-- Bottom Article Navigation Footer -->
-            <div class="mt-16 pt-8 border-t border-slate-200 flex items-center justify-between text-xs sm:text-sm text-slate-600 no-print">
-              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition">
+            <div class="mt-16 pt-8 border-t border-[var(--border-color)] flex items-center justify-between text-xs sm:text-sm text-[var(--text-muted)] no-print">
+              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition">
                 <i data-lucide="arrow-left" class="w-4 h-4"></i>
                 <span id="prev-title">上一篇</span>
               </button>
-              <button onclick="scrollToArticleTop()" class="text-slate-500 hover:text-slate-900 text-xs flex items-center gap-1">
+              <button onclick="scrollToArticleTop()" class="text-[var(--text-dim)] hover:text-[var(--text-main)] text-xs flex items-center gap-1">
                 <i data-lucide="arrow-up" class="w-3.5 h-3.5"></i>
                 <span>回到顶部</span>
               </button>
-              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition text-sky-600 font-semibold">
+              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition text-sky-600 font-semibold">
                 <span id="next-title">下一篇</span>
                 <i data-lucide="arrow-right" class="w-4 h-4"></i>
               </button>
@@ -413,13 +514,13 @@
         <!-- -------------------------------------------------- -->
         <!-- RIGHT OUTLINE / TOC PANEL                          -->
         <!-- -------------------------------------------------- -->
-        <aside id="toc-panel" class="hidden xl:block w-72 bg-slate-50/60 border-l border-slate-200 p-6 overflow-y-auto shrink-0">
+        <aside id="toc-panel" class="hidden xl:block w-72 bg-[var(--bg-page)] border-l border-[var(--border-color)] p-6 overflow-y-auto shrink-0">
           <div class="sticky top-0">
-            <h3 class="text-xs font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
+            <h3 class="text-xs font-bold text-[var(--text-main)] uppercase tracking-wider mb-4 flex items-center gap-2">
               <i data-lucide="list" class="w-4 h-4 text-sky-600"></i>
               <span>本文导读目录</span>
             </h3>
-            <nav id="toc-list" class="space-y-1.5 text-xs text-slate-600">
+            <nav id="toc-list" class="space-y-1 text-xs text-[var(--text-muted)]">
               <!-- TOC Links dynamically parsed -->
             </nav>
           </div>
@@ -436,7 +537,24 @@
     let currentFiltered = [];
     let currentIndex = 0;
     let currentTab = 'founder';
-    let currentFontSizeRem = 0.96;
+    let currentFontSizeRem = 1.0;
+    let currentTheme = localStorage.getItem('global500_theme') || 'light';
+
+    function setTheme(theme) {
+      currentTheme = theme;
+      localStorage.setItem('global500_theme', theme);
+      document.documentElement.className = `theme-${theme}`;
+      
+      // Update active state on theme buttons
+      ['light', 'sepia', 'dark'].forEach(t => {
+        const btn = document.getElementById(`btn-theme-${t}`);
+        if (t === theme) {
+          btn.classList.add('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
+        } else {
+          btn.classList.remove('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
+        }
+      });
+    }
 
     function toggleMobileSidebar() {
       const sidebar = document.getElementById('sidebar');
@@ -455,7 +573,7 @@
     }
 
     function changeFontSize(delta) {
-      currentFontSizeRem = Math.min(Math.max(currentFontSizeRem + delta * 0.08, 0.8), 1.3);
+      currentFontSizeRem = Math.min(Math.max(currentFontSizeRem + delta * 0.08, 0.8), 1.35);
       document.documentElement.style.setProperty('--article-font-size', `${currentFontSizeRem}rem`);
     }
 
@@ -469,10 +587,31 @@
       const scrollHeight = container.scrollHeight - container.clientHeight;
       const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
       document.getElementById('progress-bar').style.width = `${progress}%`;
+
+      // Dynamic TOC Scrollspy
+      const headers = container.querySelectorAll('h2, h3');
+      let activeHeader = null;
+      headers.forEach(h => {
+        const top = h.offsetTop - container.offsetTop;
+        if (scrollTop >= top - 120) {
+          activeHeader = h.id;
+        }
+      });
+
+      if (activeHeader) {
+        document.querySelectorAll('.toc-item').forEach(item => {
+          if (item.getAttribute('data-target') === activeHeader) {
+            item.classList.add('active');
+          } else {
+            item.classList.remove('active');
+          }
+        });
+      }
     }
 
     // Load Data
     async function initData() {
+      setTheme(currentTheme);
       try {
         const res = await fetch('./site_data.json');
         const data = await res.json();
@@ -495,7 +634,7 @@
       document.getElementById('filtered-count').innerText = `共 ${currentFiltered.length} 家企业`;
 
       if (currentFiltered.length === 0) {
-        listEl.innerHTML = '<div class="p-6 text-center text-xs text-slate-400">无匹配企业</div>';
+        listEl.innerHTML = '<div class="p-6 text-center text-xs text-[var(--text-dim)]">无匹配企业</div>';
         return;
       }
 
@@ -506,8 +645,8 @@
         const item = document.createElement('button');
         item.className = `w-full text-left p-2.5 rounded-xl transition flex items-center justify-between group ${
           isActive 
-            ? 'bg-sky-50 text-sky-900 border-l-4 border-sky-600 font-semibold shadow-2xs' 
-            : 'hover:bg-slate-100 text-slate-700'
+            ? 'bg-[var(--bg-active)] text-sky-900 dark:text-sky-200 border-l-4 border-sky-600 font-semibold shadow-2xs' 
+            : 'hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-muted)]'
         }`;
         item.onclick = () => {
           const originalIdx = allCompanies.findIndex(x => x.rank === c.rank);
@@ -518,16 +657,16 @@
         item.innerHTML = `
           <div class="flex items-center gap-2 min-w-0">
             <span class="text-[11px] font-mono font-bold px-1.5 py-0.5 rounded ${
-              isActive ? 'bg-sky-200/70 text-sky-800' : 'bg-slate-100 text-slate-500'
+              isActive ? 'bg-sky-200/80 dark:bg-sky-900 text-sky-900 dark:text-sky-200' : 'bg-[var(--bg-page)] text-[var(--text-dim)]'
             }">
               #${String(c.rank).padStart(3, '0')}
             </span>
             <div class="min-w-0">
-              <div class="text-xs truncate font-medium text-slate-900">${c.name_cn}</div>
-              <div class="text-[10px] text-slate-400 truncate">${c.name_en} · ${c.country.split(' ')[0]}</div>
+              <div class="text-xs truncate font-medium text-[var(--text-main)]">${c.name_cn}</div>
+              <div class="text-[10px] text-[var(--text-dim)] truncate">${c.name_en} · ${c.country.split(' ')[0]}</div>
             </div>
           </div>
-          <span class="text-[10px] font-mono text-slate-400 shrink-0 ${isMaster ? 'text-amber-600 font-semibold' : ''}">
+          <span class="text-[10px] font-mono text-[var(--text-dim)] shrink-0 ${isMaster ? 'text-amber-600 dark:text-amber-400 font-semibold' : ''}">
             ${c.founder_size_kb}K
           </span>
         `;
@@ -583,9 +722,9 @@
       ['founder', 'company', 'readme'].forEach(t => {
         const btn = document.getElementById(`tab-${t}`);
         if (t === tab) {
-          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg bg-white text-sky-700 shadow-xs transition flex items-center gap-1.5";
+          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center gap-1.5";
         } else {
-          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5";
+          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5";
         }
       });
       const c = allCompanies[currentIndex];
@@ -596,7 +735,7 @@
     async function loadMarkdown(folder, type) {
       const contentEl = document.getElementById('article-content');
       contentEl.innerHTML = `
-        <div class="text-center py-24 text-slate-400">
+        <div class="text-center py-24 text-[var(--text-dim)]">
           <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
           <p class="text-sm">正在加载史料文档...</p>
         </div>
@@ -620,9 +759,9 @@
 
       } catch (err) {
         contentEl.innerHTML = `
-          <div class="p-12 text-center text-slate-400 bg-slate-50 rounded-2xl border border-slate-200 my-8">
+          <div class="p-12 text-center text-[var(--text-dim)] bg-[var(--bg-page)] rounded-2xl border border-[var(--border-color)] my-8">
             <p class="text-rose-500 font-semibold mb-1">无法载入 ${fileName}</p>
-            <p class="text-xs text-slate-500">请确认文件路径与网络连接。</p>
+            <p class="text-xs text-[var(--text-dim)]">请确认文件路径与网络连接。</p>
           </div>
         `;
       }
@@ -634,7 +773,7 @@
       const headers = container.querySelectorAll('h2, h3');
 
       if (headers.length === 0) {
-        tocList.innerHTML = '<p class="text-slate-400">暂无章节标题</p>';
+        tocList.innerHTML = '<p class="text-[var(--text-dim)] text-xs">暂无章节标题</p>';
         return;
       }
 
@@ -646,10 +785,11 @@
 
         const a = document.createElement('a');
         a.href = '#' + id;
-        a.className = `block py-1 px-2 rounded-lg transition truncate ${
+        a.setAttribute('data-target', id);
+        a.className = `toc-item block py-1.5 px-2.5 rounded-lg transition truncate ${
           isH2 
-            ? 'font-bold text-slate-800 hover:text-sky-600 hover:bg-slate-100' 
-            : 'pl-4 text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+            ? 'font-bold text-[var(--text-main)] hover:text-sky-600 hover:bg-[var(--bg-sidebar-hover)]' 
+            : 'pl-4 text-[var(--text-dim)] hover:text-[var(--text-main)] hover:bg-[var(--bg-sidebar-hover)]'
         }`;
         a.innerText = text;
         a.onclick = (e) => {
