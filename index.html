@@ -469,21 +469,6 @@
         <div id="article-scroll-container" class="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12 scroll-smooth" onscroll="handleArticleScroll()">
           <div class="max-w-3.5xl mx-auto">
             
-            <!-- Article Header Info Card -->
-            <div id="article-meta-banner" class="mb-8 p-4 sm:p-5 bg-[var(--bg-page)] border border-[var(--border-color)] rounded-2xl flex flex-wrap items-center justify-between gap-3 shadow-2xs">
-              <div class="flex items-center gap-2 text-xs text-[var(--text-muted)]">
-                <span class="p-1.5 bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-400 rounded-lg"><i data-lucide="book-open" class="w-4 h-4"></i></span>
-                <span id="read-length-tag">字数统计: 34.6 KB (~1.3 万字)</span>
-                <span class="text-[var(--border-color)]">·</span>
-                <span id="read-time-tag" class="text-[var(--text-dim)]">⏱️ 约 12 分钟精读</span>
-              </div>
-              <div class="flex items-center gap-2">
-                <span class="text-xs px-2.5 py-1 bg-emerald-50 dark:bg-emerald-950/60 text-emerald-700 dark:text-emerald-400 border border-emerald-200 dark:border-emerald-800 rounded-lg font-medium">
-                  🌟 黄金基准篇目
-                </span>
-              </div>
-            </div>
-
             <!-- Markdown Content Render Target -->
             <div id="article-content" class="prose-custom">
               <div class="text-center py-24 text-[var(--text-dim)]">
@@ -684,11 +669,6 @@
       document.getElementById('active-rank').innerText = '#' + String(c.rank).padStart(3, '0');
       document.getElementById('active-title').innerText = `${c.name_cn} (${c.name_en})`;
       document.getElementById('active-meta').innerText = `${c.country} · ${c.industry}`;
-
-      const wordsEstimate = Math.round(c.founder_size / 2.6);
-      const minutesEstimate = Math.max(Math.round(wordsEstimate / 350), 3);
-      document.getElementById('read-length-tag').innerText = `字数统计: ${c.founder_size_kb} KB (~${wordsEstimate.toLocaleString()} 字)`;
-      document.getElementById('read-time-tag').innerText = `⏱️ 约 ${minutesEstimate} 分钟精读`;
 
       // Update Navigation Buttons
       const prevBtn = document.getElementById('btn-prev');
