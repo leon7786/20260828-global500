@@ -130,20 +130,15 @@
       font-family: 'Plus Jakarta Sans', 'Noto Sans SC', sans-serif;
       overflow-x: hidden;
       width: 100%;
-      height: 100%;
+      min-height: 100vh;
       margin: 0;
       padding: 0;
       background-color: var(--bg-page);
       color: var(--text-main);
       transition: background-color 0.2s ease, color 0.2s ease;
       -webkit-tap-highlight-color: transparent;
+      scroll-behavior: smooth;
     }
-
-    /* Custom Scrollbar for Sidebar & Content */
-    ::-webkit-scrollbar { width: 4px; height: 4px; }
-    ::-webkit-scrollbar-track { background: transparent; }
-    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
-    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
 
     /* ---------------------------------------------------- */
     /* Master Editorial Prose Typography                    */
@@ -179,7 +174,7 @@
       flex-wrap: wrap;
       align-items: center;
       gap: 0.5rem;
-      scroll-margin-top: 6.5rem;
+      scroll-margin-top: 7rem;
     }
     .prose-custom h3 {
       font-size: clamp(1rem, 1.2vw + 0.2rem, 1.28rem);
@@ -188,13 +183,13 @@
       margin-top: 1.5rem;
       margin-bottom: 0.55rem;
       line-height: 1.45;
-      scroll-margin-top: 6.5rem;
+      scroll-margin-top: 7rem;
     }
     .prose-custom p {
-      font-size: var(--article-font-size, 0.98rem);
+      font-size: var(--article-font-size, 1rem);
       color: var(--prose-p);
-      line-height: 1.85;
-      margin-bottom: 1.15rem;
+      line-height: 1.88;
+      margin-bottom: 1.25rem;
       text-align: justify;
     }
     .prose-custom strong {
@@ -202,26 +197,26 @@
       font-weight: 700;
     }
     .prose-custom ul, .prose-custom ol {
-      font-size: var(--article-font-size, 0.98rem);
+      font-size: var(--article-font-size, 1rem);
       color: var(--prose-p);
-      margin-bottom: 1.15rem;
+      margin-bottom: 1.25rem;
       padding-left: 1.35rem;
       line-height: 1.8;
     }
     .prose-custom ul { list-style-type: disc; }
     .prose-custom ol { list-style-type: decimal; }
-    .prose-custom li { margin-bottom: 0.45rem; }
+    .prose-custom li { margin-bottom: 0.5rem; }
     
     .prose-custom blockquote {
-      border-left: 4px solid var(--quote-border);
+      border-left: 4.5px solid var(--quote-border);
       background: var(--quote-bg);
-      padding: 1rem 1.25rem;
-      border-radius: 0 0.75rem 0.75rem 0;
+      padding: 1.15rem 1.5rem;
+      border-radius: 0 0.85rem 0.85rem 0;
       color: var(--quote-text);
       font-style: italic;
-      margin: 1.35rem 0;
-      font-size: clamp(0.9rem, 0.9vw + 0.1rem, 1.02rem);
-      line-height: 1.75;
+      margin: 1.5rem 0;
+      font-size: clamp(0.92rem, 0.9vw + 0.1rem, 1.04rem);
+      line-height: 1.8;
       border-top: 1px solid var(--border-color);
       border-right: 1px solid var(--border-color);
       border-bottom: 1px solid var(--border-color);
@@ -231,15 +226,15 @@
     .prose-custom pre {
       background: var(--code-bg);
       border: 1px solid var(--code-border);
-      padding: 1rem;
-      border-radius: 0.75rem;
+      padding: 1.25rem;
+      border-radius: 0.85rem;
       font-family: 'JetBrains Mono', monospace;
-      font-size: 0.82rem;
+      font-size: 0.84rem;
       overflow-x: auto;
       max-width: 100%;
       color: var(--code-text);
-      margin: 1.35rem 0;
-      line-height: 1.6;
+      margin: 1.5rem 0;
+      line-height: 1.65;
       white-space: pre-wrap;
       word-break: break-all;
       box-shadow: var(--card-shadow);
@@ -249,8 +244,8 @@
       display: block;
       overflow-x: auto;
       border-collapse: collapse;
-      font-size: 0.85rem;
-      margin: 1.35rem 0;
+      font-size: 0.88rem;
+      margin: 1.5rem 0;
       border: 1px solid var(--border-color);
       border-radius: 0.75rem;
       background: var(--bg-surface);
@@ -259,20 +254,20 @@
     .prose-custom th {
       background: var(--table-header);
       color: var(--text-main);
-      padding: 0.65rem 0.9rem;
+      padding: 0.8rem 1.1rem;
       border-bottom: 1px solid var(--border-color);
       font-weight: 600;
       white-space: nowrap;
     }
     .prose-custom td {
-      padding: 0.65rem 0.9rem;
+      padding: 0.8rem 1.1rem;
       border-bottom: 1px solid var(--border-color);
       color: var(--text-muted);
     }
     .prose-custom hr {
       border: 0;
       border-top: 1px solid var(--border-color);
-      margin: 2rem 0;
+      margin: 2.5rem 0;
     }
 
     /* Reading Progress Bar */
@@ -296,13 +291,13 @@
     /* Print styles */
     @media print {
       header, aside, #mobile-backdrop, .no-print { display: none !important; }
-      main, #article-scroll-container { overflow: visible !important; height: auto !important; }
+      main { overflow: visible !important; height: auto !important; }
       body { background: white !important; color: black !important; }
     }
   </style>
 </head>
 
-<body class="h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
+<body class="min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white" onscroll="handleWindowScroll()">
 
   <!-- Top Reading Progress Indicator -->
   <div class="fixed top-0 left-0 right-0 h-1 bg-transparent z-50 pointer-events-none">
@@ -310,9 +305,9 @@
   </div>
 
   <!-- -------------------------------------------------- -->
-  <!-- TOP UNIFIED HEADER (Responsive & Compact on Phone)  -->
+  <!-- TOP UNIFIED HEADER (Sticky at top)                 -->
   <!-- -------------------------------------------------- -->
-  <header class="bg-[var(--bg-surface)] border-b border-[var(--border-color)] px-3 sm:px-6 py-2 sm:py-2.5 flex items-center justify-between shrink-0 z-40 shadow-xs">
+  <header class="sticky top-0 z-40 bg-[var(--bg-surface)]/95 backdrop-blur-md border-b border-[var(--border-color)] px-3 sm:px-6 py-2 sm:py-2.5 flex items-center justify-between shrink-0 shadow-xs">
     
     <!-- Left: Mobile Menu Trigger + Brand / Current Active Title -->
     <div class="flex items-center gap-2 sm:gap-3 min-w-0">
@@ -375,15 +370,15 @@
     </div>
   </header>
 
-  <!-- Main Split Layout Container -->
-  <div class="flex-1 flex overflow-hidden relative">
+  <!-- Main Layout: Page Level Flow (Native Browser Window Scrollbar at Far Right) -->
+  <div class="flex-1 flex max-w-full relative">
 
     <!-- -------------------------------------------------- -->
-    <!-- LEFT SIDEBAR: Sleek, Narrow & Aesthetic Company Nav -->
+    <!-- LEFT SIDEBAR: Sticky on Desktop, Drawer on Mobile  -->
     <!-- Width: 260px (Ultra-clean & space-saving)          -->
     <!-- -------------------------------------------------- -->
     <aside id="sidebar" 
-           class="fixed inset-y-0 left-0 z-40 w-[75vw] max-w-[260px] lg:w-[260px] bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-2xl lg:shadow-none">
+           class="fixed inset-y-0 left-0 z-50 w-[75vw] max-w-[260px] lg:w-[260px] lg:sticky lg:top-14 lg:h-[calc(100vh-3.5rem)] bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 shrink-0 shadow-2xl lg:shadow-none">
       
       <!-- Mobile Close Header in Drawer -->
       <div class="lg:hidden p-3 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--bg-page)]">
@@ -445,15 +440,15 @@
     </aside>
 
     <!-- Mobile Backdrop (Tap outside to close drawer) -->
-    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-black/50 backdrop-blur-xs z-30 hidden lg:hidden"></div>
+    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-black/50 backdrop-blur-xs z-40 hidden lg:hidden"></div>
 
     <!-- -------------------------------------------------- -->
-    <!-- RIGHT MAIN CONTENT: Reader & Article View          -->
+    <!-- CENTER & RIGHT: Main Article Flow Area             -->
     <!-- -------------------------------------------------- -->
-    <main class="flex-1 flex flex-col bg-[var(--bg-surface)] overflow-hidden relative">
+    <div class="flex-1 flex flex-col min-w-0 bg-[var(--bg-surface)]">
       
-      <!-- Right Sub-Header Toolbar (Streamlined & Compact) -->
-      <div class="px-3 sm:px-8 py-2 sm:py-2.5 bg-[var(--bg-surface)] border-b border-[var(--border-color)] flex flex-wrap items-center justify-between gap-2 shrink-0 shadow-2xs z-20">
+      <!-- Sub-Header Toolbar (Sticky under main header) -->
+      <div class="sticky top-12 sm:top-14 z-30 px-3 sm:px-8 py-2 sm:py-2.5 bg-[var(--bg-surface)]/95 backdrop-blur-md border-b border-[var(--border-color)] flex flex-wrap items-center justify-between gap-2 shrink-0 shadow-2xs">
         
         <!-- Desktop Breadcrumb Info -->
         <div class="hidden sm:flex items-center gap-2.5 min-w-0">
@@ -466,7 +461,7 @@
           </div>
         </div>
 
-        <!-- Segmented Tab Controls (Full width on phone, pill group on desktop) -->
+        <!-- Segmented Tab Controls -->
         <div class="w-full sm:w-auto flex items-center gap-1 bg-[var(--bg-page)] p-0.5 sm:p-1 rounded-lg sm:rounded-xl border border-[var(--border-color)]">
           <button onclick="switchTab('founder')" id="tab-founder" class="flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center justify-center gap-1">
             <i data-lucide="user" class="w-3.5 h-3.5"></i>
@@ -483,45 +478,45 @@
         </div>
       </div>
 
-      <!-- Main Layout Body: Article + Floating Table of Contents -->
-      <div class="flex-1 flex overflow-hidden relative">
+      <!-- Content Row: Article + Right Sticky TOC -->
+      <div class="flex-1 flex min-w-0">
 
-        <!-- Scrollable Article Area -->
-        <div id="article-scroll-container" class="flex-1 overflow-y-auto px-3.5 py-4 sm:px-8 sm:py-8 lg:px-12 lg:py-10 scroll-smooth" onscroll="handleArticleScroll()">
+        <!-- Natural Flowing Article Content (Scrolls with main window) -->
+        <main class="flex-1 min-w-0 px-4 py-6 sm:px-10 sm:py-10 lg:px-14 lg:py-12">
           <div class="max-w-3.5xl mx-auto">
 
             <!-- Markdown Content Render Target -->
             <div id="article-content" class="prose-custom">
-              <div class="text-center py-20 text-[var(--text-dim)]">
+              <div class="text-center py-24 text-[var(--text-dim)]">
                 <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
                 <p class="text-sm">正在加载全景史诗传记...</p>
               </div>
             </div>
 
             <!-- Bottom Article Navigation Footer -->
-            <div class="mt-12 sm:mt-16 pt-6 sm:pt-8 border-t border-[var(--border-color)] flex items-center justify-between text-xs sm:text-sm text-[var(--text-muted)] no-print">
-              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1 px-2.5 py-1.5 sm:px-3 sm:py-2 rounded-lg hover:bg-[var(--bg-page)] transition">
+            <div class="mt-14 sm:mt-20 pt-6 sm:pt-8 border-t border-[var(--border-color)] flex items-center justify-between text-xs sm:text-sm text-[var(--text-muted)] no-print">
+              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition">
                 <i data-lucide="arrow-left" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
                 <span id="prev-title">上一篇</span>
               </button>
-              <button onclick="scrollToArticleTop()" class="text-[var(--text-dim)] hover:text-[var(--text-main)] text-xs flex items-center gap-1">
+              <button onclick="scrollToPageTop()" class="text-[var(--text-dim)] hover:text-[var(--text-main)] text-xs flex items-center gap-1 px-2.5 py-1.5 rounded-md hover:bg-[var(--bg-page)] transition">
                 <i data-lucide="arrow-up" class="w-3.5 h-3.5"></i>
                 <span>回到顶部</span>
               </button>
-              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1 px-2.5 py-1.5 sm:px-3 sm:py-2 rounded-lg hover:bg-[var(--bg-page)] transition text-sky-600 font-semibold">
+              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition text-sky-600 font-semibold">
                 <span id="next-title">下一篇</span>
-                <i data-lucide="arrow-right" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
+                <i data-lucide="arrow-right" class="w-4 h-4"></i>
               </button>
             </div>
 
           </div>
-        </div>
+        </main>
 
         <!-- -------------------------------------------------- -->
-        <!-- RIGHT OUTLINE / TOC PANEL                          -->
+        <!-- RIGHT STICKY TOC PANEL (xl screens only)          -->
         <!-- -------------------------------------------------- -->
-        <aside id="toc-panel" class="hidden xl:block w-72 bg-[var(--bg-page)] border-l border-[var(--border-color)] p-5 overflow-y-auto shrink-0">
-          <div class="sticky top-0">
+        <aside id="toc-panel" class="hidden xl:block w-68 sticky top-28 h-[calc(100vh-7rem)] bg-[var(--bg-page)]/70 border-l border-[var(--border-color)] p-5 overflow-y-auto shrink-0">
+          <div>
             <h3 class="text-xs font-bold text-[var(--text-main)] uppercase tracking-wider mb-3 flex items-center gap-2">
               <i data-lucide="list" class="w-4 h-4 text-sky-600"></i>
               <span>本文导读目录</span>
@@ -534,7 +529,7 @@
 
       </div>
 
-    </main>
+    </div>
 
   </div>
 
@@ -543,7 +538,7 @@
     let currentFiltered = [];
     let currentIndex = 0;
     let currentTab = 'founder';
-    let currentFontSizeRem = 0.98;
+    let currentFontSizeRem = 1.0;
     let currentTheme = localStorage.getItem('global500_theme') || 'light';
 
     function setTheme(theme) {
@@ -554,10 +549,12 @@
       // Update active state on theme buttons
       ['light', 'sepia', 'dark'].forEach(t => {
         const btn = document.getElementById(`btn-theme-${t}`);
-        if (t === theme) {
-          btn.classList.add('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
-        } else {
-          btn.classList.remove('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
+        if (btn) {
+          if (t === theme) {
+            btn.classList.add('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
+          } else {
+            btn.classList.remove('bg-[var(--bg-surface)]', 'text-sky-600', 'shadow-xs', 'font-bold');
+          }
         }
       });
     }
@@ -583,23 +580,22 @@
       document.documentElement.style.setProperty('--article-font-size', `${currentFontSizeRem}rem`);
     }
 
-    function scrollToArticleTop() {
-      document.getElementById('article-scroll-container').scrollTo({ top: 0, behavior: 'smooth' });
+    function scrollToPageTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    function handleArticleScroll() {
-      const container = document.getElementById('article-scroll-container');
-      const scrollTop = container.scrollTop;
-      const scrollHeight = container.scrollHeight - container.clientHeight;
+    function handleWindowScroll() {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight - window.innerHeight;
       const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
       document.getElementById('progress-bar').style.width = `${progress}%`;
 
-      // Dynamic TOC Scrollspy
-      const headers = container.querySelectorAll('h2, h3');
+      // Dynamic TOC Scrollspy using window scroll offset
+      const headers = document.querySelectorAll('#article-content h2, #article-content h3');
       let activeHeader = null;
       headers.forEach(h => {
-        const top = h.offsetTop - container.offsetTop;
-        if (scrollTop >= top - 120) {
+        const top = h.getBoundingClientRect().top;
+        if (top <= 140) {
           activeHeader = h.id;
         }
       });
@@ -614,6 +610,9 @@
         });
       }
     }
+
+    // Window scroll event listener
+    window.addEventListener('scroll', handleWindowScroll, { passive: true });
 
     // ----------------------------------------------------
     // URL Hash & LocalStorage State Synchronization
@@ -791,7 +790,7 @@
 
       renderSidebar();
       await loadMarkdown(c.folder, currentTab);
-      if (scroll) scrollToArticleTop();
+      if (scroll) scrollToPageTop();
     }
 
     function navigateCompany(step) {
