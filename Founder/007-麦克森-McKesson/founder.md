@@ -8,27 +8,23 @@
 
 ---
 
-```text
-==================================================================================================
-【传主与机构档案速览】
-• 领衔奠基人：约翰·麦克森 (John McKesson, 1807–1893) & 查尔斯·M·奥尔科特 (Charles M. Olcott, 1800–1853)
-• 核心合伙人：丹尼尔·C·罗宾斯 (Daniel C. Robbins, 1815–1888)
-• 历史实体演进：Olcott & McKesson (1833) -> McKesson & Robbins (1853) -> Foremost-McKesson (1967) -> McKesson Corporation (1984至今)
-• 创办时间与初生地：1833 年 11 月 | 美国 纽约市 曼哈顿下城 少女巷 (145 Maiden Lane)
-• 历史里程碑：
-  - 1830s：东河飞剪船远洋医药急救箱定制商
-  - 1860s：美国内战联邦北方军最大战地药品与麻醉剂承包商
-  - 1870s：发明工业级明胶水溶性硬胶囊与丸剂包衣技术（1876费城世博会金奖）
-  - 1920s：禁酒令时期全美特许药用纯酒精核心合法分销中枢
-  - 1938年：遭遇商业史上最著名的“科斯特假账惊天大案”，倒逼全球现代独立审计制度与SEC存货盘点法诞生
-  - 1941–1945年：三年内100%全额偿债浴火重生，成为二战盟军青霉素与血浆关键供应链中枢
-  - 1970s：发明 Economost 手持条形码光笔终端，开启全球仓储供应链数字化革命
-  - 1999年：140亿美元并购 HBOC，转型“现代物流+医疗IT”双螺旋超级巨擘
-  - 2020s：主导美国“曲速行动 (Operation Warp Speed)”数十亿剂新冠疫苗与耗材极速冷链配送
-• 当前产业地位：2026年《财富》世界500强位列第7位，年营收超3800亿美元，掌控全美三分之一处方药分销
-• 核心精神图腾：毛细血管基础设施壁垒、跨世纪极端抗脆弱性、零容忍质量生命线
-==================================================================================================
-```
+> ### 📋 【传主与机构档案速览】
+> • 领衔奠基人：约翰·麦克森 (John McKesson, 1807–1893) & 查尔斯·M·奥尔科特 (Charles M. Olcott, 1800–1853)
+> • 核心合伙人：丹尼尔·C·罗宾斯 (Daniel C. Robbins, 1815–1888)
+> • 历史实体演进：Olcott & McKesson (1833) -> McKesson & Robbins (1853) -> Foremost-McKesson (1967) -> McKesson Corporation (1984至今)
+> • 创办时间与初生地：1833 年 11 月 | 美国 纽约市 曼哈顿下城 少女巷 (145 Maiden Lane)
+> • 历史里程碑：
+> - 1830s：东河飞剪船远洋医药急救箱定制商
+> - 1860s：美国内战联邦北方军最大战地药品与麻醉剂承包商
+> - 1870s：发明工业级明胶水溶性硬胶囊与丸剂包衣技术（1876费城世博会金奖）
+> - 1920s：禁酒令时期全美特许药用纯酒精核心合法分销中枢
+> - 1938年：遭遇商业史上最著名的“科斯特假账惊天大案”，倒逼全球现代独立审计制度与SEC存货盘点法诞生
+> - 1941–1945年：三年内100%全额偿债浴火重生，成为二战盟军青霉素与血浆关键供应链中枢
+> - 1970s：发明 Economost 手持条形码光笔终端，开启全球仓储供应链数字化革命
+> - 1999年：140亿美元并购 HBOC，转型“现代物流+医疗IT”双螺旋超级巨擘
+> - 2020s：主导美国“曲速行动 (Operation Warp Speed)”数十亿剂新冠疫苗与耗材极速冷链配送
+> • 当前产业地位：2026年《财富》世界500强位列第7位，年营收超3800亿美元，掌控全美三分之一处方药分销
+> • 核心精神图腾：毛细血管基础设施壁垒、跨世纪极端抗脆弱性、零容忍质量生命线
 
 ---
 
@@ -56,16 +52,11 @@
 ### 1. 1833年少女巷破晓与第一张招募启事
 1833 年深秋，经历过纽约霍乱大流行的惨痛洗礼后，26 岁的约翰·麦克森与 33 岁的查尔斯·奥尔科特倾其所有积蓄，并在家族亲友的资助下筹集了数千美元启动资金，在曼哈顿少女巷 145 号（145 Maiden Lane）挂起了一面木质招牌——**“Olcott & McKesson”**。
 
-```text
-+-------------------------------------------------------------------------+
-|                       OLCOTT & McKESSON                                 |
-|                 WHOLESALE DRUGGISTS & IMPORTERS                         |
-|                   No. 145 Maiden Lane, New York                         |
-|                                                                         |
-|  Importers of Fine Chemicals, Crude Botanical Drugs, Essential Oils,   |
-|     Surgical Instruments, and Outitters of Ships' Medicine Chests.      |
-+-------------------------------------------------------------------------+
-```
+> OLCOTT & McKESSON
+> WHOLESALE DRUGGISTS & IMPORTERS
+> No. 145 Maiden Lane, New York
+> Importers of Fine Chemicals, Crude Botanical Drugs, Essential Oils,
+> Surgical Instruments, and Outitters of Ships' Medicine Chests.
 
 公司成立后刊登在《纽约商业广告报》上的第一条启事，并非推销药品，而是招聘一名吃苦耐劳的学徒。
 - **罗宾斯的传说**：18 岁的青年**丹尼尔·C·罗宾斯（Daniel C. Robbins, 1815–1888）**看到了启事。坊间传说他怀揣仅有的干粮，从纽约州北部的普基普西（Poughkeepsie）徒步近 80 英里来到曼哈顿下城叩响了少女巷的大门。麦克森当场被这位衣衫褴褛但眼神坚毅、对草药化学充满热情的青年打动，立即收其为第一位正式学徒。罗宾斯后来展现出惊人的商业谈判才华与严谨的账务管理能力，成为麦克森一生最得力的左膀右臂。
@@ -216,14 +207,10 @@
 - **麦克森基金会（McKesson Foundation）**：自成立以来，基金会长期聚焦于全球重大疾病防治、基层癌症患者交通与药物援助计划、以及弱势群体药学人才的专项全额奖学金。
 - **阿片类药物危机的反思与治理升级**：在面对美国全行业阿片类止痛药物过度处方的严峻社会问题时，麦克森主动承担社会责任，参与了数百亿美元的全美公共卫生和解协议，并在业内率先斥巨资研发了基于人工智能的**“反药物滥用预警监测系统 (Controlled Substance Monitoring Program)”**，通过机器学习实时阻断异常处方流向黑市，筑牢全美用药安全防线。
 
-```text
-==================================================================================================
-【麦克森两百年历史精神丰碑】
-1. 商业诚信的最高标尺：在 1938 年遭遇灭顶假账后，不赖账、不逃废债，全额 100% 兑付本息，用行动定义了信用。
-2. 现代审计制度的母体：以自身的制度阵痛，为全人类现代上市公司治理确立了“存货实地盘点”等黄金准则。
-3. 国家公共卫生的压舱石：从 1861 年南北内战、1941 年二战诺曼底，到 2020 年新冠曲速行动，始终是全美战时与平时最可靠的生命线。
-==================================================================================================
-```
+> **【麦克森两百年历史精神丰碑】**
+> - **1. 商业诚信的最高标尺**：在 1938 年遭遇灭顶假账后，不赖账、不逃废债，全额 100% 兑付本息，用行动定义了信用。
+> - **2. 现代审计制度的母体**：以自身的制度阵痛，为全人类现代上市公司治理确立了“存货实地盘点”等黄金准则。
+> - **3. 国家公共卫生的压舱石**：从 1861 年南北内战、1941 年二战诺曼底，到 2020 年新冠曲速行动，始终是全美战时与平时最可靠的生命线。
 
 ---
 
@@ -265,16 +252,11 @@
 
 ## 🎭 第九章：多维性格剖析、生活怪癖与历史秘辛 (Anecdotes & Trivia)
 
-```text
-+--------------------------------------------------------------------------------------------------+
-|                             麦克森两百年商业史秘辛与传奇逸事                                       |
-+--------------------------------------------------------------------------------------------------+
-| 1. 约翰·麦克森的“舌尖生药试毒法”与严苛晨会                                                          |
-| 2. 丹尼尔·罗宾斯“徒步80英里求职”的麦克森祖训                                                        |
-| 3. 巨骗菲利普·穆西卡的“双面人生”与华尔街晚宴                                                        |
-| 4. 1975年 Economost 扫码枪的“药房狂想曲”                                                          |
-+--------------------------------------------------------------------------------------------------+
-```
+> 麦克森两百年商业史秘辛与传奇逸事
+> 1. 约翰·麦克森的“舌尖生药试毒法”与严苛晨会
+> 2. 丹尼尔·罗宾斯“徒步80英里求职”的麦克森祖训
+> 3. 巨骗菲利普·穆西卡的“双面人生”与华尔街晚宴
+> 4. 1975年 Economost 扫码枪的“药房狂想曲”
 
 ### 1. 约翰·麦克森的“舌尖生药试毒法”与严苛晨会
 在 19 世纪中叶的纽约曼哈顿，约翰·麦克森以其令人望而生畏的“生药检验神技”闻名遐迩。
@@ -302,25 +284,18 @@
 
 ### 1. 跨越两百年的传世名言金句 (Iconic Quotes)
 
-```text
-==================================================================================================
-1. “In the business of healing, a single adulterated herb or an hour's delay in delivery is not merely a commercial failure—it is a betrayal of human life.”
-   “在关乎治病救人的事业中，一剂掺假的草药或一小时的物流延误，绝不仅仅是商业上的失败——那是对人类生命的彻底背叛。”
-   —— 约翰·麦克森 (John McKesson, 1845年少女巷商行训词)
-
-2. “We shall pay every legitimate creditor one hundred cents on the dollar, with interest. A century of integrity cannot, and will not, be erased by the deceit of an impostor.”
-   “我们必须向每一位合法债权人全额支付百分之百的本金，并附带利息。一个世纪积攒的诚信基业，绝不能、也绝不会被一个骗子的欺诈所抹杀。”
-   —— 威廉·J·沃道尔 (William J. Wardall, 1939年重整报告)
-
-3. “True logistics in healthcare is not about moving cardboard boxes; it is about delivering precision, safety, and hope across an unbroken chain of trust.”
-   “医疗健康的真正物流，绝非搬运瓦楞纸箱；而是在一条永不中断的信任链条上，传递精准、安全与生命的希望。”
-   —— 麦克森现代化战略发展纲领 (Modern McKesson Philosophy)
-
-4. “When a storm hits the healthcare system, the distributor must be the immovable anchor, ensuring that the medicine reaches the bedside before the dawn.”
-   “当风暴席卷整个医疗系统时，分销商必须成为坚不可摧的铁锚，确保每一粒救命药物在黎明破晓前送达病榻之侧。”
-   —— 麦克森战时与抗疫应急响应准则 (Emergency Response Doctrine)
-==================================================================================================
-```
+> 1. “In the business of healing, a single adulterated herb or an hour's delay in delivery is not merely a commercial failure—it is a betrayal of human life.”
+> **“在关乎治病救人的事业中，一剂掺假的草药或一小时的物流延误，绝不仅仅是商业上的失败——那是对人类生命的彻底背叛。”**
+> **—— 约翰·麦克森 (John McKesson, 1845年少女巷商行训词)**
+> 2. “We shall pay every legitimate creditor one hundred cents on the dollar, with interest. A century of integrity cannot, and will not, be erased by the deceit of an impostor.”
+> “我们必须向每一位合法债权人全额支付百分之百的本金，并附带利息。一个世纪积攒的诚信基业，绝不能、也绝不会被一个骗子的欺诈所抹杀。”
+> **—— 威廉·J·沃道尔 (William J. Wardall, 1939年重整报告)**
+> 3. “True logistics in healthcare is not about moving cardboard boxes; it is about delivering precision, safety, and hope across an unbroken chain of trust.”
+> “医疗健康的真正物流，绝非搬运瓦楞纸箱；而是在一条永不中断的信任链条上，传递精准、安全与生命的希望。”
+> **—— 麦克森现代化战略发展纲领 (Modern McKesson Philosophy)**
+> 4. “When a storm hits the healthcare system, the distributor must be the immovable anchor, ensuring that the medicine reaches the bedside before the dawn.”
+> “当风暴席卷整个医疗系统时，分销商必须成为坚不可摧的铁锚，确保每一粒救命药物在黎明破晓前送达病榻之侧。”
+> **—— 麦克森战时与抗疫应急响应准则 (Emergency Response Doctrine)**
 
 ### 2. 约翰·麦克森与麦克森公司详尽重大历史年表 (1807 — 2026)
 

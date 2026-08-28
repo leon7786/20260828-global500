@@ -11,20 +11,16 @@
 
 ---
 
-```text
-==================================================================================================
-【中国石油 (CNPC) 奠基领袖与精神图腾档案速览】
-• 核心实体：中国石油天然气集团有限公司 (China National Petroleum Corporation, CNPC)
-• 历史演进：燃料工业部石油管理总局(1949) -> 石油工业部(1955) -> 中国石油天然气总公司(1988) -> 中石油集团(1998)
-• 科学奠基人：李四光 (1889–1971, 地质力学创立者，打破“中国贫油论”，推演松辽与华北油气远景)
-• 战役统帅：余秋里 (1914–1999, 独臂将军、首任石油工业部部长) & 康世恩 (1915–1995, 清华地质学子、前线总指挥、副总理)
-• 精神楷模：王进喜 (1923–1970, 1205钻井队队长、大庆“铁人”)，大庆精神与铁人精神图腾
-• 世纪地标资产：大庆油田、长庆油田、塔里木油田、西气东输四线超级管网、中亚/中俄跨国能源动脉
-• 极限科技里程碑：深地塔科1井（亚洲首口10,910米特深科学钻井）、12000米自动化特深井钻机
-• 财富世界500强：2026年稳居全球前10强，年营业收入逾4000亿美元，保障14亿人能源安全
-• 核心精神内核：爱国、创业、求实、献身；两论起家、三老四严、四个一样；苦干实干、挑战极限
-==================================================================================================
-```
+> ### 📋 【中国石油 (CNPC) 奠基领袖与精神图腾档案速览】
+> • 核心实体：中国石油天然气集团有限公司 (China National Petroleum Corporation, CNPC)
+> • 历史演进：燃料工业部石油管理总局(1949) -> 石油工业部(1955) -> 中国石油天然气总公司(1988) -> 中石油集团(1998)
+> • 科学奠基人：李四光 (1889–1971, 地质力学创立者，打破“中国贫油论”，推演松辽与华北油气远景)
+> • 战役统帅：余秋里 (1914–1999, 独臂将军、首任石油工业部部长) & 康世恩 (1915–1995, 清华地质学子、前线总指挥、副总理)
+> • 精神楷模：王进喜 (1923–1970, 1205钻井队队长、大庆“铁人”)，大庆精神与铁人精神图腾
+> • 世纪地标资产：大庆油田、长庆油田、塔里木油田、西气东输四线超级管网、中亚/中俄跨国能源动脉
+> • 极限科技里程碑：深地塔科1井（亚洲首口10,910米特深科学钻井）、12000米自动化特深井钻机
+> • 财富世界500强：2026年稳居全球前10强，年营业收入逾4000亿美元，保障14亿人能源安全
+> • 核心精神内核：爱国、创业、求实、献身；两论起家、三老四严、四个一样；苦干实干、挑战极限
 
 ---
 
@@ -212,11 +208,7 @@
 
 ## 🧠 第八章：中石油奠基者八大底层认知工具箱与商业哲学 (Mental Model Toolkit)
 
-```text
-==================================================================================================
-【中国石油工业奠基者八大底层认知与战略思维模型】
-==================================================================================================
-```
+> ### 📋 【中国石油工业奠基者八大底层认知与战略思维模型】
 
 ### 1. 地质力学与构造控油第一性原理模型 (Geomechanical Tectonic Control Model)
 - **提出者**：李四光 (Li Siguang)
@@ -296,31 +288,24 @@
 
 ### 1. 传世经典名言金句中英对照 (Iconic Bilingual Quotes)
 
-```text
-1. 王进喜 (Wang Jinxi)：
-   “宁肯少活二十年，拼命也要拿下大油田！这困难，那困难，国家缺油是最大的困难；有条件要上，没有条件创造条件也要上！”
-   "I would rather shorten my life by twenty years, but I will fight with all my might to conquer this giant oilfield! There are countless difficulties, but our nation's lack of oil is the greatest difficulty of all. When conditions exist, we march forward; when conditions do not exist, we shall create them and march forward!"
-
-2. 王进喜 (Wang Jinxi)：
-   “干，才是马列主义；不干，半点马列主义也没有！人无压力轻飘飘，井无压力不出油；石油工人一声吼，地球也要抖三抖！”
-   "To do and to struggle is true Marxism; to sit idle has not half a shred of Marxism in it! A man without pressure drifts aimlessly, just as a well without reservoir pressure yields no oil. When petroleum workers let out a mighty roar, even the Earth itself shall tremble!"
-
-3. 李四光 (Li Siguang)：
-   “真理只有一个，它不在权威的教条里，而在客观大自然的岩层与构造应力之中。科学尊重事实，绝不屈服于任何外国权威的偏见。”
-   "There is only one truth, and it rests not within the dogmas of authority, but deep inside the objective rock strata and tectonic stress fields of nature. Science honors facts and shall never bow to the prejudices of foreign dogmas."
-
-4. 余秋里 (Yu Qiuli)：
-   “搞工业会战就要有红军打仗的气魄！没有粮食，我们挖野菜；没有吊车，我们用人拉；谁敢在质量上打折扣，就是对国家和人民的犯罪！”
-   "Leading an industrial campaign requires the sheer spirit of the Red Army in battle! If we have no food, we dig wild herbs; if we have no cranes, we haul with human shoulders; whoever compromises on quality commits a crime against our nation and our people!"
-
-5. 康世恩 (Kang Shi'en)：
-   “搞石油绝不能搞唯心主义。必须当老实人、说老实话、办老实事。每一个地层数据、每一张测井曲线，都必须经得起子孙后代与历史的严苛检验。”
-   "Petroleum exploration permits no idealism or deception. We must be honest men, speak honest words, and do honest work. Every single subsurface data point and logging curve must withstand the rigorous scrutiny of history and future generations."
-
-6. 钱学森致敬大庆与石油人 (Qian Xuesen on Daqing Spirit)：
-   “大庆石油会战不仅为国家拿下了大油田，更重要的是创立了一整套把马克思主义哲学、现代系统工程与严密科学管理融为一体的中国现代工业化道路。”
-   "The Daqing Oil Campaign not only secured a giant oilfield for our country, but more importantly, pioneered a modern Chinese industrialization pathway that seamlessly integrates Marxist philosophy, systems engineering, and rigorous scientific management."
-```
+> - **1. 王进喜 (Wang Jinxi)**：
+> “宁肯少活二十年，拼命也要拿下大油田！这困难，那困难，国家缺油是最大的困难；有条件要上，没有条件创造条件也要上！”
+> "I would rather shorten my life by twenty years, but I will fight with all my might to conquer this giant oilfield! There are countless difficulties, but our nation's lack of oil is the greatest difficulty of all. When conditions exist, we march forward; when conditions do not exist, we shall create them and march forward!"
+> - **2. 王进喜 (Wang Jinxi)**：
+> “干，才是马列主义；不干，半点马列主义也没有！人无压力轻飘飘，井无压力不出油；石油工人一声吼，地球也要抖三抖！”
+> "To do and to struggle is true Marxism; to sit idle has not half a shred of Marxism in it! A man without pressure drifts aimlessly, just as a well without reservoir pressure yields no oil. When petroleum workers let out a mighty roar, even the Earth itself shall tremble!"
+> - **3. 李四光 (Li Siguang)**：
+> “真理只有一个，它不在权威的教条里，而在客观大自然的岩层与构造应力之中。科学尊重事实，绝不屈服于任何外国权威的偏见。”
+> "There is only one truth, and it rests not within the dogmas of authority, but deep inside the objective rock strata and tectonic stress fields of nature. Science honors facts and shall never bow to the prejudices of foreign dogmas."
+> - **4. 余秋里 (Yu Qiuli)**：
+> “搞工业会战就要有红军打仗的气魄！没有粮食，我们挖野菜；没有吊车，我们用人拉；谁敢在质量上打折扣，就是对国家和人民的犯罪！”
+> "Leading an industrial campaign requires the sheer spirit of the Red Army in battle! If we have no food, we dig wild herbs; if we have no cranes, we haul with human shoulders; whoever compromises on quality commits a crime against our nation and our people!"
+> - **5. 康世恩 (Kang Shi'en)**：
+> **“搞石油绝不能搞唯心主义。必须当老实人、说老实话、办老实事。每一个地层数据、每一张测井曲线，都必须经得起子孙后代与历史的严苛检验。”**
+> "Petroleum exploration permits no idealism or deception. We must be honest men, speak honest words, and do honest work. Every single subsurface data point and logging curve must withstand the rigorous scrutiny of history and future generations."
+> - **6. 钱学森致敬大庆与石油人 (Qian Xuesen on Daqing Spirit)**：
+> “大庆石油会战不仅为国家拿下了大油田，更重要的是创立了一整套把马克思主义哲学、现代系统工程与严密科学管理融为一体的中国现代工业化道路。”
+> "The Daqing Oil Campaign not only secured a giant oilfield for our country, but more importantly, pioneered a modern Chinese industrialization pathway that seamlessly integrates Marxist philosophy, systems engineering, and rigorous scientific management."
 
 ---
 
