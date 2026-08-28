@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-import os
-import json
-import re
+import os, json, re
 
 base_dir = '/root/1CT-Share/20260828-global500'
 founder_dir = os.path.join(base_dir, 'Founder')
@@ -331,4 +329,4 @@ out_path = os.path.join(base_dir, 'site_data.json')
 with open(out_path, 'w', encoding='utf-8') as f:
     json.dump(site_data, f, ensure_ascii=False, indent=2)
 
-print(f"Generated site_data.json with {len(companies)} companies! All 100 enterprise logos, founder names & brand themes mapped.")
+print(f"Generated site_data.json with {len(companies)} companies! All 100 logos mapped.")
