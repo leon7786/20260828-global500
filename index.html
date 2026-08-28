@@ -374,11 +374,11 @@
   <div class="flex-1 flex max-w-full relative">
 
     <!-- -------------------------------------------------- -->
-    <!-- LEFT SIDEBAR: Sticky on Desktop, Drawer on Mobile  -->
-    <!-- Width: 260px (Ultra-clean & space-saving)          -->
+    <!-- LEFT SIDEBAR: Sticky on Desktop (Width: 1/3 Screen)-->
+    <!-- Drawer on Mobile: 85vw                             -->
     <!-- -------------------------------------------------- -->
     <aside id="sidebar" 
-           class="fixed inset-y-0 left-0 z-50 w-[75vw] max-w-[260px] lg:w-[260px] lg:sticky lg:top-14 lg:h-[calc(100vh-3.5rem)] bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 shrink-0 shadow-2xl lg:shadow-none">
+           class="fixed inset-y-0 left-0 z-50 w-[85vw] sm:w-[380px] lg:w-1/3 lg:max-w-[440px] xl:max-w-[480px] lg:sticky lg:top-14 lg:h-[calc(100vh-3.5rem)] bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 shrink-0 shadow-2xl lg:shadow-none">
       
       <!-- Mobile Close Header in Drawer -->
       <div class="lg:hidden p-3 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--bg-page)]">
@@ -723,7 +723,7 @@
         const initial = (c.name_en || c.name_cn).slice(0, 2).toUpperCase();
         
         const item = document.createElement('button');
-        item.className = `w-full text-left px-2.5 py-2.5 rounded-xl transition flex items-center justify-between group ${
+        item.className = `w-full text-left px-3 py-2.5 rounded-xl transition flex items-center justify-between group ${
           isActive 
             ? 'bg-sky-50 dark:bg-sky-950/80 text-sky-950 dark:text-sky-100 border-l-[3.5px] border-sky-500 shadow-2xs font-semibold ring-1 ring-sky-200 dark:ring-sky-900/50' 
             : 'hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-muted)]'
@@ -735,7 +735,7 @@
         };
 
         item.innerHTML = `
-          <div class="flex items-center gap-2 min-w-0 flex-1">
+          <div class="flex items-center gap-2.5 min-w-0 flex-1">
             <!-- Rank Badge: No.1 ~ No.100 -->
             <span class="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded shrink-0 ${
               isActive ? 'bg-sky-600 text-white shadow-2xs' : 'bg-[var(--bg-page)] text-[var(--text-dim)] border border-[var(--border-color)]'
@@ -744,24 +744,24 @@
             </span>
             
             <!-- Company Logo with Fallback -->
-            <div class="w-6 h-6 rounded-md bg-white dark:bg-slate-800 border border-[var(--border-color)] flex items-center justify-center shrink-0 overflow-hidden shadow-2xs p-0.5">
+            <div class="w-7 h-7 rounded-lg bg-white dark:bg-slate-800 border border-[var(--border-color)] flex items-center justify-center shrink-0 overflow-hidden shadow-2xs p-0.5">
               <img src="${c.logo_url}" alt="${c.name_en}" class="w-full h-full object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
-              <span class="hidden w-full h-full text-[9px] font-bold text-white ${c.brand_bg || 'bg-sky-600'} rounded items-center justify-center font-mono">${initial}</span>
+              <span class="hidden w-full h-full text-[10px] font-bold text-white ${c.brand_bg || 'bg-sky-600'} rounded items-center justify-center font-mono">${initial}</span>
             </div>
 
             <!-- Company & Founder Info -->
             <div class="min-w-0 flex-1">
-              <div class="text-xs truncate font-semibold text-[var(--text-main)] group-hover:text-sky-600 transition-colors">
+              <div class="text-xs sm:text-[13px] truncate font-bold text-[var(--text-main)] group-hover:text-sky-600 transition-colors">
                 ${companyTitle}
               </div>
-              <div class="text-[11px] text-[var(--text-dim)] truncate flex items-center gap-1 mt-0.5">
-                <span class="text-sky-600 dark:text-sky-400 font-medium">👤</span>
+              <div class="text-[11px] sm:text-xs text-[var(--text-dim)] truncate flex items-center gap-1 mt-0.5">
+                <span class="text-sky-600 dark:text-sky-400 font-medium shrink-0">👤</span>
                 <span class="truncate">${c.founder_name}</span>
               </div>
             </div>
           </div>
-          <span class="text-xs text-[var(--text-dim)] opacity-30 group-hover:opacity-100 group-hover:text-sky-500 transition shrink-0 ml-1">
-            <i data-lucide="chevron-right" class="w-3.5 h-3.5"></i>
+          <span class="text-xs text-[var(--text-dim)] opacity-30 group-hover:opacity-100 group-hover:text-sky-500 transition shrink-0 ml-1.5">
+            <i data-lucide="chevron-right" class="w-4 h-4"></i>
           </span>
         `;
         listEl.appendChild(item);
