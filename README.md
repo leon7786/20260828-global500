@@ -1,11 +1,25 @@
 # 🌐 Fortune Global 500 创始人全景史诗传记智库 (2026 Edition)
 
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-sky.svg?style=for-the-badge&logo=github)](https://leon7786.github.io/20260828-global500/)
+[![Master Biographies](https://img.shields.io/badge/Master%20Biographies-100%20Enterprises-emerald.svg?style=for-the-badge)](https://leon7786.github.io/20260828-global500/)
+[![Total Text Volume](https://img.shields.io/badge/Total%20Volume-1.96%20MB-amber.svg?style=for-the-badge)](https://leon7786.github.io/20260828-global500/)
+
 > **基于《001-亚马逊-Amazon》黄金基准打造的非虚构商业文学与第一性原理传记智库。**  
 > 汇聚《财富》世界 500 强前 100 强企业的深度商业史诗、创始人全景生平、十卷史诗架构、电影级名场面对话、8 大底层思维模型与万字年表。
 
 ---
 
-## 📌 核心导航入口
+## 🌟 在线交互式阅读体验 (GitHub Pages)
+
+👉 **立即访问在线智库网站**：**[https://leon7786.github.io/20260828-global500/](https://leon7786.github.io/20260828-global500/)**
+
+- 🔍 **毫秒级全库检索**：支持按企业中文/英文名、创始人、排名、国家及行业快速过滤；
+- 📖 **沉浸式双语阅读器**：内置 Markdown 实时解析、Mermaid 架构图与时间轴渲染、一键切换创始人传记 / 企业沿革档案；
+- 📊 **可视化统计中枢**：直观展示国别分布、行业占比与长篇传记排行榜。
+
+---
+
+## 📌 核心本地导航入口
 
 - 📊 **[项目进度中枢 (PROGRESS.md)](./PROGRESS.md)**：实时追踪 Top 100 企业传记与公司深度档案的体量与状态
 - 🏛️ **[世界 500 强创始人总索引 (Founder/README.md)](./Founder/README.md)**：包含 001~100 强全部企业的独立传记与公司档案入口
@@ -27,6 +41,8 @@
 
 ```text
 20260828-global500/
+├── index.html                 # GitHub Pages 现代化交互单页网站
+├── site_data.json             # 百强企业结构化元数据索引
 ├── README.md                  # 仓库主页与总览导航
 ├── PROGRESS.md                # 实时进度追踪总控看板
 ├── list.md                    # 世界500强完整名单
@@ -38,8 +54,3 @@
 │   │   └── README.md          # 单体企业导航页
 │   └── ... (002 ~ 100)
 ```
-
----
-
-## 📜 编撰规范与版权
-本项目遵循 `global500-founder-biography` 大师级编撰规范，融合详实的历史档案考据与深刻的商业第一性原理推演。
