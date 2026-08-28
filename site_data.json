@@ -1,7 +1,7 @@
 {
   "total_companies": 100,
   "master_count": 21,
-  "total_bytes": 1965078,
+  "total_bytes": 1963484,
   "companies": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
       "industry": "🛒 零售与电商",
       "founder_title": "山姆·沃尔顿 (Sam Walton)：零售拓荒者、天天平价信仰与全球商业第一帝国全景史诗传记",
       "founder_quote": "“在这个世界上，只有一个真正的老板——那就是我们的顾客！顾客只需要做一件简单至极的事情，就能把从董事长到清洁工的每一个人全部解雇：那就是——把手里的钞票花在别的地方！我们所有的降价、所有的省吃俭用，都是为了让那些在土地里辛苦劳作的普通人，能用最体面的价格过上更有尊严的生活！”",
-      "founder_size": 29966,
-      "founder_size_kb": 29.3,
+      "founder_size": 28372,
+      "founder_size_kb": 27.7,
       "company_size_kb": 6.3,
       "status": "🌟 大师级深度精修"
     },

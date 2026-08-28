@@ -1,6 +1,6 @@
 # 📊 《财富》世界500强 TOP 100 智库建设与精修进度大盘 (Progress Dashboard)
 
-> 📅 **最后更新时间**：`2026-08-29 00:42:02`  
+> 📅 **最后更新时间**：`2026-08-29 00:53:25`  
 > 🎯 **目标**：为全球 500 强前 100 家超级巨头与创始人建立独家专属档案，打造兼具商业洞察与文学可读性的大师级深度人物志全景文库。
 
 ---
@@ -13,7 +13,7 @@
 | 📑 **核心文档总量** | **300 / 300 篇 (100.0%)** | 每家均含 `company.md` + `founder.md` + `README.md` |
 | 🌟 **大师级深度精修数** | **28 家** (持续逐家精雕推进中) | 具备 10 大完整章节、电影级场景还原与硬核底层心法 |
 | ✅ **基础全景已完成数** | **72 家** (待逐家深化至大师级) | 具备完整生平时间线、公司全景与核心护城河分析 |
-| 📚 **全库总语料规模** | **2.70 MB (2,826,929 bytes)** | 高密度 Markdown 文档与 Mermaid 可视化架构图 |
+| 📚 **全库总语料规模** | **2.69 MB (2,825,335 bytes)** | 高密度 Markdown 文档与 Mermaid 可视化架构图 |
 
 ---
 
@@ -42,7 +42,7 @@
 | 排名 | 企业与专题名称 | 当前品质层级 | 传记体量 (KB) | 🏢 公司全景 | 👤 创始人志 |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **#001** | **亚马逊-Amazon** | 🌟 大师级深度精修 | 37.9 KB | [company.md](Founder/001-亚马逊-Amazon/company.md) | [founder.md](Founder/001-亚马逊-Amazon/founder.md) |
-| **#002** | **沃尔玛-Walmart** | 🌟 大师级深度精修 | 29.3 KB | [company.md](Founder/002-沃尔玛-Walmart/company.md) | [founder.md](Founder/002-沃尔玛-Walmart/founder.md) |
+| **#002** | **沃尔玛-Walmart** | 🌟 大师级深度精修 | 27.7 KB | [company.md](Founder/002-沃尔玛-Walmart/company.md) | [founder.md](Founder/002-沃尔玛-Walmart/founder.md) |
 | **#003** | **国家电网-StateGrid** | 🌟 大师级深度精修 | 47.6 KB | [company.md](Founder/003-国家电网-StateGrid/company.md) | [founder.md](Founder/003-国家电网-StateGrid/founder.md) |
 | **#004** | **联合健康-UnitedHealth** | 🌟 大师级深度精修 | 50.8 KB | [company.md](Founder/004-联合健康-UnitedHealth/company.md) | [founder.md](Founder/004-联合健康-UnitedHealth/founder.md) |
 | **#005** | **沙特阿美-SaudiAramco** | 🌟 大师级深度精修 | 56.0 KB | [company.md](Founder/005-沙特阿美-SaudiAramco/company.md) | [founder.md](Founder/005-沙特阿美-SaudiAramco/founder.md) |
