@@ -140,7 +140,7 @@
     }
 
     /* Custom Scrollbar for Sidebar & Content */
-    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar { width: 4px; height: 4px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
     ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
@@ -156,45 +156,45 @@
       word-break: break-word;
     }
     .prose-custom h1 {
-      font-size: clamp(1.45rem, 2.3vw + 0.5rem, 2.15rem);
+      font-size: clamp(1.35rem, 2.2vw + 0.5rem, 2.15rem);
       font-weight: 800;
       color: var(--prose-h1);
-      margin-top: 1rem;
-      margin-bottom: 1.25rem;
-      padding-bottom: 0.75rem;
+      margin-top: 0.5rem;
+      margin-bottom: 1.15rem;
+      padding-bottom: 0.65rem;
       border-bottom: 2px solid var(--border-color);
       line-height: 1.35;
       letter-spacing: -0.025em;
     }
     .prose-custom h2 {
-      font-size: clamp(1.18rem, 1.6vw + 0.3rem, 1.55rem);
+      font-size: clamp(1.15rem, 1.6vw + 0.3rem, 1.55rem);
       font-weight: 700;
       color: var(--prose-h2);
-      margin-top: 2.5rem;
-      margin-bottom: 0.9rem;
-      padding-bottom: 0.45rem;
+      margin-top: 2rem;
+      margin-bottom: 0.8rem;
+      padding-bottom: 0.4rem;
       border-bottom: 1px dashed var(--border-color);
       line-height: 1.4;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       gap: 0.5rem;
-      scroll-margin-top: 5rem;
+      scroll-margin-top: 6.5rem;
     }
     .prose-custom h3 {
-      font-size: clamp(1.02rem, 1.2vw + 0.2rem, 1.28rem);
+      font-size: clamp(1rem, 1.2vw + 0.2rem, 1.28rem);
       font-weight: 600;
       color: var(--prose-h3);
-      margin-top: 1.75rem;
-      margin-bottom: 0.6rem;
+      margin-top: 1.5rem;
+      margin-bottom: 0.55rem;
       line-height: 1.45;
-      scroll-margin-top: 5rem;
+      scroll-margin-top: 6.5rem;
     }
     .prose-custom p {
-      font-size: var(--article-font-size, 1rem);
+      font-size: var(--article-font-size, 0.98rem);
       color: var(--prose-p);
-      line-height: 1.88;
-      margin-bottom: 1.25rem;
+      line-height: 1.85;
+      margin-bottom: 1.15rem;
       text-align: justify;
     }
     .prose-custom strong {
@@ -202,26 +202,26 @@
       font-weight: 700;
     }
     .prose-custom ul, .prose-custom ol {
-      font-size: var(--article-font-size, 1rem);
+      font-size: var(--article-font-size, 0.98rem);
       color: var(--prose-p);
-      margin-bottom: 1.25rem;
-      padding-left: 1.5rem;
+      margin-bottom: 1.15rem;
+      padding-left: 1.35rem;
       line-height: 1.8;
     }
     .prose-custom ul { list-style-type: disc; }
     .prose-custom ol { list-style-type: decimal; }
-    .prose-custom li { margin-bottom: 0.5rem; }
+    .prose-custom li { margin-bottom: 0.45rem; }
     
     .prose-custom blockquote {
-      border-left: 4.5px solid var(--quote-border);
+      border-left: 4px solid var(--quote-border);
       background: var(--quote-bg);
-      padding: 1.15rem 1.5rem;
-      border-radius: 0 0.85rem 0.85rem 0;
+      padding: 1rem 1.25rem;
+      border-radius: 0 0.75rem 0.75rem 0;
       color: var(--quote-text);
       font-style: italic;
-      margin: 1.75rem 0;
-      font-size: clamp(0.92rem, 0.9vw + 0.1rem, 1.04rem);
-      line-height: 1.8;
+      margin: 1.35rem 0;
+      font-size: clamp(0.9rem, 0.9vw + 0.1rem, 1.02rem);
+      line-height: 1.75;
       border-top: 1px solid var(--border-color);
       border-right: 1px solid var(--border-color);
       border-bottom: 1px solid var(--border-color);
@@ -231,15 +231,15 @@
     .prose-custom pre {
       background: var(--code-bg);
       border: 1px solid var(--code-border);
-      padding: 1.25rem;
-      border-radius: 0.85rem;
+      padding: 1rem;
+      border-radius: 0.75rem;
       font-family: 'JetBrains Mono', monospace;
-      font-size: 0.84rem;
+      font-size: 0.82rem;
       overflow-x: auto;
       max-width: 100%;
       color: var(--code-text);
-      margin: 1.75rem 0;
-      line-height: 1.65;
+      margin: 1.35rem 0;
+      line-height: 1.6;
       white-space: pre-wrap;
       word-break: break-all;
       box-shadow: var(--card-shadow);
@@ -249,8 +249,8 @@
       display: block;
       overflow-x: auto;
       border-collapse: collapse;
-      font-size: 0.88rem;
-      margin: 1.75rem 0;
+      font-size: 0.85rem;
+      margin: 1.35rem 0;
       border: 1px solid var(--border-color);
       border-radius: 0.75rem;
       background: var(--bg-surface);
@@ -259,20 +259,20 @@
     .prose-custom th {
       background: var(--table-header);
       color: var(--text-main);
-      padding: 0.8rem 1.1rem;
+      padding: 0.65rem 0.9rem;
       border-bottom: 1px solid var(--border-color);
       font-weight: 600;
       white-space: nowrap;
     }
     .prose-custom td {
-      padding: 0.8rem 1.1rem;
+      padding: 0.65rem 0.9rem;
       border-bottom: 1px solid var(--border-color);
       color: var(--text-muted);
     }
     .prose-custom hr {
       border: 0;
       border-top: 1px solid var(--border-color);
-      margin: 2.5rem 0;
+      margin: 2rem 0;
     }
 
     /* Reading Progress Bar */
@@ -288,6 +288,11 @@
       background-color: var(--bg-sidebar-hover);
     }
 
+    /* Mobile drawer slide transition */
+    #sidebar {
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
     /* Print styles */
     @media print {
       header, aside, #mobile-backdrop, .no-print { display: none !important; }
@@ -300,62 +305,72 @@
 <body class="h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
 
   <!-- Top Reading Progress Indicator -->
-  <div class="fixed top-0 left-0 right-0 h-1 bg-transparent z-50">
+  <div class="fixed top-0 left-0 right-0 h-1 bg-transparent z-50 pointer-events-none">
     <div id="progress-bar" class="h-full bg-gradient-to-r from-sky-500 to-indigo-600 w-0"></div>
   </div>
 
-  <!-- Top Global Bar -->
-  <header class="h-14 bg-[var(--bg-surface)] border-b border-[var(--border-color)] px-4 lg:px-6 flex items-center justify-between shrink-0 z-40 shadow-xs">
-    <div class="flex items-center gap-3">
-      <!-- Mobile Sidebar Toggle -->
-      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-lg hover:bg-[var(--bg-sidebar-hover)] transition" aria-label="打开企业目录">
-        <i data-lucide="menu" class="w-5 h-5"></i>
+  <!-- -------------------------------------------------- -->
+  <!-- TOP UNIFIED HEADER (Responsive & Compact on Phone)  -->
+  <!-- -------------------------------------------------- -->
+  <header class="bg-[var(--bg-surface)] border-b border-[var(--border-color)] px-3 sm:px-6 py-2 sm:py-2.5 flex items-center justify-between shrink-0 z-40 shadow-xs">
+    
+    <!-- Left: Mobile Menu Trigger + Brand / Current Active Title -->
+    <div class="flex items-center gap-2 sm:gap-3 min-w-0">
+      <!-- Mobile Sidebar Toggle (Distinct pill button) -->
+      <button onclick="toggleMobileSidebar()" class="lg:hidden flex items-center gap-1 px-2.5 py-1.5 bg-[var(--bg-page)] text-[var(--text-main)] hover:bg-[var(--bg-sidebar-hover)] rounded-lg text-xs font-semibold border border-[var(--border-color)] shrink-0 transition" aria-label="打开企业目录">
+        <i data-lucide="menu" class="w-4 h-4 text-sky-600"></i>
+        <span>目录</span>
       </button>
 
-      <div class="flex items-center gap-2.5">
-        <div class="w-8 h-8 rounded-lg bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-xs text-white font-black text-sm">
+      <div class="flex items-center gap-2 min-w-0">
+        <div class="w-7 h-7 sm:w-8 sm:h-8 rounded-lg bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-xs text-white font-black text-xs sm:text-sm shrink-0">
           500
         </div>
-        <div class="flex items-center gap-2">
-          <h1 class="font-extrabold text-sm sm:text-base text-[var(--text-main)] tracking-tight">Global 500 传记智库</h1>
-          <span class="text-[10px] sm:text-xs font-semibold px-2 py-0.5 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 rounded-full">2026 Edition</span>
+        <!-- On Mobile show compact active company, on PC show Global 500 title -->
+        <div class="min-w-0 hidden sm:flex items-center gap-2">
+          <h1 class="font-extrabold text-sm sm:text-base text-[var(--text-main)] tracking-tight truncate">Global 500 传记智库</h1>
+          <span class="text-[10px] font-semibold px-2 py-0.5 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 rounded-full shrink-0">2026</span>
+        </div>
+        <div class="min-w-0 sm:hidden flex items-center gap-1.5">
+          <span id="mobile-header-rank" class="text-[11px] font-bold text-sky-600 bg-sky-50 dark:bg-sky-950 px-1.5 py-0.2 rounded border border-sky-200 dark:border-sky-800 shrink-0">#001</span>
+          <span id="mobile-header-title" class="text-xs font-bold text-[var(--text-main)] truncate">亚马逊</span>
         </div>
       </div>
     </div>
 
     <!-- Right Controls: Theme Switcher, Font size, TOC trigger & GitHub Link -->
-    <div class="flex items-center gap-2 sm:gap-3">
+    <div class="flex items-center gap-1.5 sm:gap-2 shrink-0">
       
       <!-- 🎨 3-Theme Mode Switcher (Light / Sepia / Dark) -->
-      <div class="flex items-center gap-0.5 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)] text-xs">
-        <button onclick="setTheme('light')" id="btn-theme-light" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="☀️ 极简白">
+      <div class="flex items-center gap-0.5 bg-[var(--bg-page)] p-0.5 sm:p-1 rounded-lg sm:rounded-xl border border-[var(--border-color)] text-xs">
+        <button onclick="setTheme('light')" id="btn-theme-light" class="p-1 sm:p-1.5 rounded-md sm:rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="☀️ 极简白">
           <i data-lucide="sun" class="w-3.5 h-3.5"></i>
         </button>
-        <button onclick="setTheme('sepia')" id="btn-theme-sepia" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="📜 羊皮纸护眼">
+        <button onclick="setTheme('sepia')" id="btn-theme-sepia" class="p-1 sm:p-1.5 rounded-md sm:rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="📜 羊皮纸护眼">
           <i data-lucide="book-open" class="w-3.5 h-3.5"></i>
         </button>
-        <button onclick="setTheme('dark')" id="btn-theme-dark" class="p-1.5 rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="🌙 深邃暗夜">
+        <button onclick="setTheme('dark')" id="btn-theme-dark" class="p-1 sm:p-1.5 rounded-md sm:rounded-lg text-[var(--text-dim)] hover:text-[var(--text-main)] transition" title="🌙 深邃暗夜">
           <i data-lucide="moon" class="w-3.5 h-3.5"></i>
         </button>
       </div>
 
-      <!-- Font Size Controller -->
-      <div class="hidden sm:flex items-center gap-1 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)] text-xs">
+      <!-- Font Size Controller (Desktop only) -->
+      <div class="hidden md:flex items-center gap-1 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)] text-xs">
         <button onclick="changeFontSize(-1)" class="px-2 py-0.5 text-[var(--text-muted)] hover:text-[var(--text-main)] hover:bg-[var(--bg-surface)] rounded transition font-medium" title="减小字号">A-</button>
         <span class="text-[var(--border-color)]">|</span>
         <button onclick="changeFontSize(1)" class="px-2 py-0.5 text-[var(--text-muted)] hover:text-[var(--text-main)] hover:bg-[var(--bg-surface)] rounded transition font-medium" title="加大字号">A+</button>
       </div>
 
-      <!-- TOC Drawer Button for Mobile/Tablet -->
-      <button onclick="toggleToc()" id="btn-toc" class="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-amber-50 dark:bg-amber-950/40 hover:bg-amber-100 text-amber-800 dark:text-amber-300 rounded-lg text-xs font-medium border border-amber-200 dark:border-amber-800/60 transition">
+      <!-- TOC Drawer Button -->
+      <button onclick="toggleToc()" id="btn-toc" class="flex items-center gap-1 px-2 py-1.5 sm:px-2.5 sm:py-1.5 bg-amber-50 dark:bg-amber-950/40 hover:bg-amber-100 text-amber-800 dark:text-amber-300 rounded-lg text-xs font-medium border border-amber-200 dark:border-amber-800/60 transition">
         <i data-lucide="list-tree" class="w-3.5 h-3.5"></i>
-        <span class="hidden sm:inline">章节导读</span>
+        <span class="hidden xs:inline">章节</span>
       </button>
 
       <a href="https://github.com/leon7786/20260828-global500" target="_blank" 
-         class="flex items-center gap-1.5 px-3 py-1.5 bg-[var(--bg-page)] hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-main)] rounded-lg text-xs font-medium border border-[var(--border-color)] transition">
+         class="flex items-center gap-1 p-1.5 sm:px-2.5 sm:py-1.5 bg-[var(--bg-page)] hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-main)] rounded-lg text-xs font-medium border border-[var(--border-color)] transition">
         <i data-lucide="github" class="w-3.5 h-3.5"></i>
-        <span class="hidden sm:inline">GitHub</span>
+        <span class="hidden sm:inline">源码</span>
       </a>
     </div>
   </header>
@@ -365,31 +380,35 @@
 
     <!-- -------------------------------------------------- -->
     <!-- LEFT SIDEBAR: Company Selector & Filters           -->
+    <!-- Mobile Width: Max 280px (leaving comfortable space)-->
     <!-- -------------------------------------------------- -->
     <aside id="sidebar" 
-           class="fixed inset-y-0 left-0 z-40 w-80 sm:w-88 bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col transition-transform duration-300 -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-xl lg:shadow-none">
+           class="fixed inset-y-0 left-0 z-40 w-[80vw] max-w-[285px] sm:w-76 lg:w-80 bg-[var(--bg-sidebar)] border-r border-[var(--border-color)] flex flex-col -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-2xl lg:shadow-none">
       
-      <!-- Mobile Close Bar -->
+      <!-- Mobile Close Header in Drawer -->
       <div class="lg:hidden p-3 border-b border-[var(--border-color)] flex items-center justify-between bg-[var(--bg-page)]">
-        <span class="font-bold text-xs text-[var(--text-main)]">选择 500 强企业</span>
-        <button onclick="toggleMobileSidebar()" class="p-1.5 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-md">
+        <div class="flex items-center gap-1.5">
+          <i data-lucide="building" class="w-4 h-4 text-sky-600"></i>
+          <span class="font-bold text-xs text-[var(--text-main)]">选择 500 强企业</span>
+        </div>
+        <button onclick="toggleMobileSidebar()" class="p-1 text-[var(--text-dim)] hover:text-[var(--text-main)] rounded-md">
           <i data-lucide="x" class="w-4 h-4"></i>
         </button>
       </div>
 
       <!-- Search & Filters in Sidebar -->
-      <div class="p-3.5 border-b border-[var(--border-color)] bg-[var(--bg-page)] space-y-2.5">
+      <div class="p-3 border-b border-[var(--border-color)] bg-[var(--bg-page)] space-y-2">
         <!-- Search Input -->
         <div class="relative">
-          <i data-lucide="search" class="w-4 h-4 text-[var(--text-dim)] absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
-          <input type="text" id="search-input" placeholder="搜索企业、创始人、行业..." 
-                 class="w-full pl-9 pr-3 py-1.5 bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-lg text-xs text-[var(--text-main)] placeholder-[var(--text-dim)] focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
+          <i data-lucide="search" class="w-3.5 h-3.5 text-[var(--text-dim)] absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <input type="text" id="search-input" placeholder="搜索企业、创始人..." 
+                 class="w-full pl-8 pr-2.5 py-1.5 bg-[var(--bg-surface)] border border-[var(--border-color)] rounded-lg text-xs text-[var(--text-main)] placeholder-[var(--text-dim)] focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
         </div>
 
         <!-- Filter Dropdowns -->
         <div class="grid grid-cols-2 gap-1.5">
-          <select id="country-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
-            <option value="">🌍 全部国家</option>
+          <select id="country-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-1.5 py-1.5 focus:outline-none focus:border-sky-500">
+            <option value="">🌍 国家</option>
             <option value="🇨🇳 中国">🇨🇳 中国</option>
             <option value="🇺🇸 美国">🇺🇸 美国</option>
             <option value="🇩🇪 德国">🇩🇪 德国</option>
@@ -398,8 +417,8 @@
             <option value="🇬🇧 英国">🇬🇧 英国</option>
           </select>
 
-          <select id="industry-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
-            <option value="">🏢 全部行业</option>
+          <select id="industry-filter" class="bg-[var(--bg-surface)] border border-[var(--border-color)] text-[11px] text-[var(--text-muted)] rounded-lg px-1.5 py-1.5 focus:outline-none focus:border-sky-500">
+            <option value="">🏢 行业</option>
             <option value="💻 科技与芯片">💻 科技与芯片</option>
             <option value="🛒 零售与电商">🛒 零售与电商</option>
             <option value="🛢️ 石油与能源">🛢️ 石油与能源</option>
@@ -410,33 +429,35 @@
           </select>
         </div>
 
-        <div class="flex items-center justify-between text-[11px] text-[var(--text-dim)] px-0.5">
-          <span id="filtered-count">共 100 家企业</span>
-          <select id="sort-filter" class="bg-transparent text-[11px] text-[var(--text-muted)] focus:outline-none cursor-pointer">
+        <div class="flex items-center justify-between text-[10px] text-[var(--text-dim)] px-0.5">
+          <span id="filtered-count">共 100 家</span>
+          <select id="sort-filter" class="bg-transparent text-[10px] text-[var(--text-muted)] focus:outline-none cursor-pointer">
             <option value="rank-asc">按排名 (1-100)</option>
-            <option value="size-desc">按字数体量</option>
+            <option value="size-desc">按篇幅体量</option>
           </select>
         </div>
       </div>
 
       <!-- Scrollable Company List -->
-      <nav id="company-list" class="flex-1 overflow-y-auto p-2 space-y-1 divide-y divide-[var(--border-color)]/50">
+      <nav id="company-list" class="flex-1 overflow-y-auto p-1.5 space-y-0.5 divide-y divide-[var(--border-color)]/40">
         <!-- List items injected here -->
       </nav>
     </aside>
 
-    <!-- Mobile Backdrop -->
-    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-black/40 backdrop-blur-xs z-30 hidden lg:hidden"></div>
+    <!-- Mobile Backdrop (Tap outside to close drawer) -->
+    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-black/50 backdrop-blur-xs z-30 hidden lg:hidden"></div>
 
     <!-- -------------------------------------------------- -->
     <!-- RIGHT MAIN CONTENT: Reader & Article View          -->
     <!-- -------------------------------------------------- -->
     <main class="flex-1 flex flex-col bg-[var(--bg-surface)] overflow-hidden relative">
       
-      <!-- Right Sub-Header Toolbar -->
-      <div class="px-4 sm:px-8 py-3 bg-[var(--bg-surface)] border-b border-[var(--border-color)] flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs z-20">
-        <div class="flex items-center gap-3 min-w-0">
-          <span id="active-rank" class="px-2.5 py-1 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 text-xs font-bold rounded-lg shrink-0">#001</span>
+      <!-- Right Sub-Header Toolbar (Streamlined & Compact) -->
+      <div class="px-3 sm:px-8 py-2 sm:py-2.5 bg-[var(--bg-surface)] border-b border-[var(--border-color)] flex flex-wrap items-center justify-between gap-2 shrink-0 shadow-2xs z-20">
+        
+        <!-- Desktop Breadcrumb Info -->
+        <div class="hidden sm:flex items-center gap-2.5 min-w-0">
+          <span id="active-rank" class="px-2 py-0.5 bg-sky-50 dark:bg-sky-950/60 text-sky-700 dark:text-sky-400 border border-sky-200 dark:border-sky-800 text-xs font-bold rounded-md shrink-0">#001</span>
           <div class="min-w-0">
             <div class="flex items-center gap-2">
               <h2 id="active-title" class="font-bold text-sm sm:text-base text-[var(--text-main)] truncate">亚马逊 (Amazon)</h2>
@@ -445,17 +466,17 @@
           </div>
         </div>
 
-        <!-- Tab Controls (Founder / Company / Readme) -->
-        <div class="flex items-center gap-1 bg-[var(--bg-page)] p-1 rounded-xl border border-[var(--border-color)]">
-          <button onclick="switchTab('founder')" id="tab-founder" class="px-3 py-1.5 text-xs font-semibold rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center gap-1.5">
+        <!-- Segmented Tab Controls (Full width on phone, pill group on desktop) -->
+        <div class="w-full sm:w-auto flex items-center gap-1 bg-[var(--bg-page)] p-0.5 sm:p-1 rounded-lg sm:rounded-xl border border-[var(--border-color)]">
+          <button onclick="switchTab('founder')" id="tab-founder" class="flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center justify-center gap-1">
             <i data-lucide="user" class="w-3.5 h-3.5"></i>
-            <span>创始人史诗传记</span>
+            <span>创始人传记</span>
           </button>
-          <button onclick="switchTab('company')" id="tab-company" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5">
+          <button onclick="switchTab('company')" id="tab-company" class="flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center justify-center gap-1">
             <i data-lucide="building" class="w-3.5 h-3.5"></i>
             <span>企业档案</span>
           </button>
-          <button onclick="switchTab('readme')" id="tab-readme" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5">
+          <button onclick="switchTab('readme')" id="tab-readme" class="flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center justify-center gap-1">
             <i data-lucide="compass" class="w-3.5 h-3.5"></i>
             <span>专栏总览</span>
           </button>
@@ -466,30 +487,30 @@
       <div class="flex-1 flex overflow-hidden relative">
 
         <!-- Scrollable Article Area -->
-        <div id="article-scroll-container" class="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12 scroll-smooth" onscroll="handleArticleScroll()">
+        <div id="article-scroll-container" class="flex-1 overflow-y-auto px-3.5 py-4 sm:px-8 sm:py-8 lg:px-12 lg:py-10 scroll-smooth" onscroll="handleArticleScroll()">
           <div class="max-w-3.5xl mx-auto">
-            
+
             <!-- Markdown Content Render Target -->
             <div id="article-content" class="prose-custom">
-              <div class="text-center py-24 text-[var(--text-dim)]">
+              <div class="text-center py-20 text-[var(--text-dim)]">
                 <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
                 <p class="text-sm">正在加载全景史诗传记...</p>
               </div>
             </div>
 
             <!-- Bottom Article Navigation Footer -->
-            <div class="mt-16 pt-8 border-t border-[var(--border-color)] flex items-center justify-between text-xs sm:text-sm text-[var(--text-muted)] no-print">
-              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition">
-                <i data-lucide="arrow-left" class="w-4 h-4"></i>
+            <div class="mt-12 sm:mt-16 pt-6 sm:pt-8 border-t border-[var(--border-color)] flex items-center justify-between text-xs sm:text-sm text-[var(--text-muted)] no-print">
+              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1 px-2.5 py-1.5 sm:px-3 sm:py-2 rounded-lg hover:bg-[var(--bg-page)] transition">
+                <i data-lucide="arrow-left" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
                 <span id="prev-title">上一篇</span>
               </button>
               <button onclick="scrollToArticleTop()" class="text-[var(--text-dim)] hover:text-[var(--text-main)] text-xs flex items-center gap-1">
                 <i data-lucide="arrow-up" class="w-3.5 h-3.5"></i>
                 <span>回到顶部</span>
               </button>
-              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-[var(--bg-page)] transition text-sky-600 font-semibold">
+              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1 px-2.5 py-1.5 sm:px-3 sm:py-2 rounded-lg hover:bg-[var(--bg-page)] transition text-sky-600 font-semibold">
                 <span id="next-title">下一篇</span>
-                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                <i data-lucide="arrow-right" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
               </button>
             </div>
 
@@ -499,9 +520,9 @@
         <!-- -------------------------------------------------- -->
         <!-- RIGHT OUTLINE / TOC PANEL                          -->
         <!-- -------------------------------------------------- -->
-        <aside id="toc-panel" class="hidden xl:block w-72 bg-[var(--bg-page)] border-l border-[var(--border-color)] p-6 overflow-y-auto shrink-0">
+        <aside id="toc-panel" class="hidden xl:block w-72 bg-[var(--bg-page)] border-l border-[var(--border-color)] p-5 overflow-y-auto shrink-0">
           <div class="sticky top-0">
-            <h3 class="text-xs font-bold text-[var(--text-main)] uppercase tracking-wider mb-4 flex items-center gap-2">
+            <h3 class="text-xs font-bold text-[var(--text-main)] uppercase tracking-wider mb-3 flex items-center gap-2">
               <i data-lucide="list" class="w-4 h-4 text-sky-600"></i>
               <span>本文导读目录</span>
             </h3>
@@ -522,7 +543,7 @@
     let currentFiltered = [];
     let currentIndex = 0;
     let currentTab = 'founder';
-    let currentFontSizeRem = 1.0;
+    let currentFontSizeRem = 0.98;
     let currentTheme = localStorage.getItem('global500_theme') || 'light';
 
     function setTheme(theme) {
@@ -616,7 +637,7 @@
     function renderSidebar() {
       const listEl = document.getElementById('company-list');
       listEl.innerHTML = '';
-      document.getElementById('filtered-count').innerText = `共 ${currentFiltered.length} 家企业`;
+      document.getElementById('filtered-count').innerText = `共 ${currentFiltered.length} 家`;
 
       if (currentFiltered.length === 0) {
         listEl.innerHTML = '<div class="p-6 text-center text-xs text-[var(--text-dim)]">无匹配企业</div>';
@@ -628,9 +649,9 @@
         const isActive = allCompanies[currentIndex] && allCompanies[currentIndex].rank === c.rank;
         
         const item = document.createElement('button');
-        item.className = `w-full text-left p-2.5 rounded-xl transition flex items-center justify-between group ${
+        item.className = `w-full text-left p-2 rounded-lg transition flex items-center justify-between group ${
           isActive 
-            ? 'bg-[var(--bg-active)] text-sky-900 dark:text-sky-200 border-l-4 border-sky-600 font-semibold shadow-2xs' 
+            ? 'bg-[var(--bg-active)] text-sky-900 dark:text-sky-200 border-l-3 border-sky-600 font-semibold shadow-2xs' 
             : 'hover:bg-[var(--bg-sidebar-hover)] text-[var(--text-muted)]'
         }`;
         item.onclick = () => {
@@ -641,7 +662,7 @@
 
         item.innerHTML = `
           <div class="flex items-center gap-2 min-w-0">
-            <span class="text-[11px] font-mono font-bold px-1.5 py-0.5 rounded ${
+            <span class="text-[10px] font-mono font-bold px-1 py-0.5 rounded ${
               isActive ? 'bg-sky-200/80 dark:bg-sky-900 text-sky-900 dark:text-sky-200' : 'bg-[var(--bg-page)] text-[var(--text-dim)]'
             }">
               #${String(c.rank).padStart(3, '0')}
@@ -666,9 +687,14 @@
       currentIndex = index;
       const c = allCompanies[currentIndex];
 
+      // Update Desktop Sub-Header
       document.getElementById('active-rank').innerText = '#' + String(c.rank).padStart(3, '0');
       document.getElementById('active-title').innerText = `${c.name_cn} (${c.name_en})`;
       document.getElementById('active-meta').innerText = `${c.country} · ${c.industry}`;
+
+      // Update Mobile Top Header Title
+      document.getElementById('mobile-header-rank').innerText = '#' + String(c.rank).padStart(3, '0');
+      document.getElementById('mobile-header-title').innerText = c.name_cn;
 
       // Update Navigation Buttons
       const prevBtn = document.getElementById('btn-prev');
@@ -702,9 +728,9 @@
       ['founder', 'company', 'readme'].forEach(t => {
         const btn = document.getElementById(`tab-${t}`);
         if (t === tab) {
-          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center gap-1.5";
+          btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center justify-center gap-1";
         } else {
-          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center gap-1.5";
+          btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center justify-center gap-1";
         }
       });
       const c = allCompanies[currentIndex];
@@ -715,9 +741,9 @@
     async function loadMarkdown(folder, type) {
       const contentEl = document.getElementById('article-content');
       contentEl.innerHTML = `
-        <div class="text-center py-24 text-[var(--text-dim)]">
-          <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
-          <p class="text-sm">正在加载史料文档...</p>
+        <div class="text-center py-20 text-[var(--text-dim)]">
+          <i data-lucide="loader" class="w-7 h-7 animate-spin mx-auto mb-2.5 text-sky-600"></i>
+          <p class="text-xs text-[var(--text-dim)]">正在加载史料文档...</p>
         </div>
       `;
       lucide.createIcons();
@@ -739,9 +765,9 @@
 
       } catch (err) {
         contentEl.innerHTML = `
-          <div class="p-12 text-center text-[var(--text-dim)] bg-[var(--bg-page)] rounded-2xl border border-[var(--border-color)] my-8">
-            <p class="text-rose-500 font-semibold mb-1">无法载入 ${fileName}</p>
-            <p class="text-xs text-[var(--text-dim)]">请确认文件路径与网络连接。</p>
+          <div class="p-8 text-center text-[var(--text-dim)] bg-[var(--bg-page)] rounded-xl border border-[var(--border-color)] my-6">
+            <p class="text-rose-500 font-semibold mb-1 text-xs sm:text-sm">无法载入 ${fileName}</p>
+            <p class="text-[11px] text-[var(--text-dim)]">请确认文件路径与网络连接。</p>
           </div>
         `;
       }
