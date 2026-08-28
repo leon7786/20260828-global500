@@ -16,7 +16,6 @@
             'xs': '375px',
             'sm': '640px',
             'md': '768px',
-            'ipad': '834px',
             'lg': '1024px',
             'xl': '1280px',
             '2xl': '1536px',
@@ -28,6 +27,7 @@
               500: '#0ea5e9',
               600: '#0284c7',
               700: '#0369a1',
+              800: '#075985',
               900: '#0c4a6e',
             }
           }
@@ -54,7 +54,7 @@
       font-family: 'Plus Jakarta Sans', 'Noto Sans SC', sans-serif;
       overflow-x: hidden;
       width: 100%;
-      max-width: 100vw;
+      height: 100%;
       margin: 0;
       padding: 0;
       background-color: #f8fafc;
@@ -62,16 +62,14 @@
       -webkit-tap-highlight-color: transparent;
     }
 
-    /* Safe Area insets for iPhone / iPad Home bar and notch */
-    .safe-top {
-      padding-top: env(safe-area-inset-top, 0px);
-    }
-    .safe-bottom {
-      padding-bottom: env(safe-area-inset-bottom, 16px);
-    }
+    /* Custom Scrollbar for Sidebar & Content */
+    ::-webkit-scrollbar { width: 5px; height: 5px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 9999px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
 
     /* ---------------------------------------------------- */
-    /* Light Mode Markdown Reader Responsive Typography    */
+    /* Light Mode Markdown Reader Typography               */
     /* ---------------------------------------------------- */
     .prose-custom {
       width: 100%;
@@ -81,75 +79,79 @@
       word-break: break-word;
     }
     .prose-custom h1 {
-      font-size: clamp(1.25rem, 2.5vw + 0.5rem, 1.85rem);
+      font-size: clamp(1.35rem, 2.2vw + 0.5rem, 1.95rem);
       font-weight: 800;
       color: #0f172a;
       margin-top: 1.5rem;
-      margin-bottom: 0.75rem;
-      padding-bottom: 0.5rem;
-      border-bottom: 1px solid #e2e8f0;
-      line-height: 1.3;
+      margin-bottom: 0.85rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1.5px solid #e2e8f0;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
     }
     .prose-custom h2 {
-      font-size: clamp(1.1rem, 2vw + 0.3rem, 1.45rem);
+      font-size: clamp(1.15rem, 1.8vw + 0.3rem, 1.5rem);
       font-weight: 700;
       color: #0369a1;
-      margin-top: 1.5rem;
-      margin-bottom: 0.6rem;
-      line-height: 1.35;
+      margin-top: 2rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.35rem;
+      border-bottom: 1px dashed #e2e8f0;
+      line-height: 1.4;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       gap: 0.5rem;
     }
     .prose-custom h3 {
-      font-size: clamp(0.95rem, 1.5vw + 0.2rem, 1.2rem);
+      font-size: clamp(1rem, 1.3vw + 0.2rem, 1.25rem);
       font-weight: 600;
       color: #b45309;
-      margin-top: 1.25rem;
-      margin-bottom: 0.4rem;
-      line-height: 1.4;
+      margin-top: 1.5rem;
+      margin-bottom: 0.5rem;
+      line-height: 1.45;
     }
     .prose-custom p {
-      font-size: clamp(0.88rem, 1vw + 0.15rem, 0.98rem);
+      font-size: clamp(0.9rem, 0.9vw + 0.15rem, 1rem);
       color: #334155;
-      line-height: 1.75;
-      margin-bottom: 0.85rem;
+      line-height: 1.8;
+      margin-bottom: 1rem;
     }
     .prose-custom ul, .prose-custom ol {
-      font-size: clamp(0.88rem, 1vw + 0.15rem, 0.98rem);
+      font-size: clamp(0.9rem, 0.9vw + 0.15rem, 1rem);
       color: #334155;
-      margin-bottom: 0.85rem;
-      padding-left: 1.25rem;
-      line-height: 1.7;
+      margin-bottom: 1rem;
+      padding-left: 1.5rem;
+      line-height: 1.75;
     }
     .prose-custom ul { list-style-type: disc; }
     .prose-custom ol { list-style-type: decimal; }
-    .prose-custom li { margin-bottom: 0.35rem; }
+    .prose-custom li { margin-bottom: 0.4rem; }
     .prose-custom blockquote {
       border-left: 4px solid #f59e0b;
       background: #fffbeb;
-      padding: 0.85rem 1.15rem;
-      border-radius: 0 0.5rem 0.5rem 0;
+      padding: 1rem 1.25rem;
+      border-radius: 0 0.75rem 0.75rem 0;
       color: #92400e;
       font-style: italic;
-      margin: 1rem 0;
-      font-size: clamp(0.85rem, 1vw + 0.1rem, 0.95rem);
-      line-height: 1.65;
+      margin: 1.25rem 0;
+      font-size: clamp(0.88rem, 0.9vw + 0.1rem, 0.98rem);
+      line-height: 1.7;
       border-top: 1px solid #fef3c7;
       border-right: 1px solid #fef3c7;
       border-bottom: 1px solid #fef3c7;
+      box-shadow: 0 1px 2px rgba(245, 158, 11, 0.05);
     }
     .prose-custom pre {
       background: #f8fafc;
       border: 1px solid #e2e8f0;
-      padding: 0.85rem;
+      padding: 1rem;
       border-radius: 0.75rem;
-      font-size: clamp(0.72rem, 0.9vw + 0.1rem, 0.82rem);
+      font-size: clamp(0.75rem, 0.85vw + 0.1rem, 0.85rem);
       overflow-x: auto;
       max-width: 100%;
       color: #0369a1;
-      margin: 1rem 0;
+      margin: 1.25rem 0;
       white-space: pre-wrap;
       word-break: break-all;
     }
@@ -158,8 +160,8 @@
       display: block;
       overflow-x: auto;
       border-collapse: collapse;
-      font-size: clamp(0.78rem, 1vw, 0.88rem);
-      margin: 1rem 0;
+      font-size: clamp(0.8rem, 0.9vw, 0.9rem);
+      margin: 1.25rem 0;
       border: 1px solid #e2e8f0;
       border-radius: 0.5rem;
       background: #ffffff;
@@ -167,68 +169,20 @@
     .prose-custom th {
       background: #f1f5f9;
       color: #0f172a;
-      padding: 0.6rem 0.85rem;
+      padding: 0.65rem 0.9rem;
       border-bottom: 1px solid #cbd5e1;
       font-weight: 600;
       white-space: nowrap;
     }
     .prose-custom td {
-      padding: 0.6rem 0.85rem;
+      padding: 0.65rem 0.9rem;
       border-bottom: 1px solid #f1f5f9;
       color: #334155;
     }
     .prose-custom hr {
       border: 0;
       border-top: 1px solid #e2e8f0;
-      margin: 1.5rem 0;
-    }
-
-    /* ---------------------------------------------------- */
-    /* CSS Media Queries for Fine-Grained Device Tuning     */
-    /* ---------------------------------------------------- */
-    
-    /* 📱 Mobile Phones (< 640px) */
-    @media (max-width: 639px) {
-      .header-title { font-size: 0.95rem; }
-      .hero-stat-card { padding: 0.75rem; }
-      .hero-stat-val { font-size: 1.15rem; }
-      .filter-select { width: 100%; }
-      .card-item { padding: 1rem; }
-      .reader-dialog {
-        width: 100vw !important;
-        height: 100vh !important;
-        max-height: 100vh !important;
-        border-radius: 0 !important;
-        border: none !important;
-      }
-      .tab-btn {
-        padding: 0.35rem 0.5rem !important;
-        font-size: 0.7rem !important;
-      }
-    }
-
-    /* 📟 iPad / Tablets Portrait & Landscape (640px to 1024px) */
-    @media (min-width: 640px) and (max-width: 1024px) {
-      .hero-stat-val { font-size: 1.35rem; }
-      .reader-dialog {
-        width: 94vw;
-        height: 90vh;
-        border-radius: 1rem;
-      }
-      .tab-btn {
-        padding: 0.4rem 0.75rem;
-        font-size: 0.75rem;
-      }
-    }
-
-    /* 💻 PC / Laptop (> 1024px) */
-    @media (min-width: 1025px) {
-      .reader-dialog {
-        width: 85vw;
-        max-width: 1080px;
-        height: 88vh;
-        border-radius: 1.25rem;
-      }
+      margin: 2rem 0;
     }
 
     /* Mermaid diagrams container auto scroll */
@@ -236,109 +190,82 @@
       width: 100%;
       overflow-x: auto;
       -webkit-overflow-scrolling: touch;
-      margin: 1rem 0;
-      padding: 1rem;
-      background: #f8fafc;
+      margin: 1.25rem 0;
+      padding: 1.25rem;
+      background: #ffffff;
       border: 1px solid #e2e8f0;
       border-radius: 0.75rem;
       text-align: center;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
     }
   </style>
 </head>
 
-<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white safe-top safe-bottom">
+<body class="bg-slate-50 text-slate-900 h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
 
-  <!-- Header / Navigation (Light Glassmorphism) -->
-  <header class="sticky top-0 z-40 bg-white/90 backdrop-blur-md border-b border-slate-200/90 px-3.5 sm:px-6 lg:px-8 py-2.5 sm:py-3.5 flex items-center justify-between shadow-xs">
-    <div class="flex items-center gap-2.5 sm:gap-3.5 min-w-0">
-      <div class="w-8 h-8 sm:w-10 sm:h-10 shrink-0 rounded-xl bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-md shadow-sky-500/20 text-white font-black text-sm sm:text-base">
-        500
-      </div>
-      <div class="min-w-0">
-        <h1 class="header-title font-extrabold text-sm sm:text-base lg:text-lg bg-gradient-to-r from-slate-900 via-slate-800 to-sky-600 bg-clip-text text-transparent truncate flex items-center gap-1.5">
-          <span>Global 500 传记智库</span>
-          <span class="text-[10px] sm:text-xs font-semibold px-1.5 py-0.2 sm:px-2 sm:py-0.5 bg-sky-50 text-sky-700 border border-sky-200 rounded-full shrink-0">2026</span>
-        </h1>
-        <p class="text-[11px] sm:text-xs text-slate-500 truncate hidden xs:block">非虚构商业史诗与第一性原理思维模型</p>
+  <!-- Top Global Bar -->
+  <header class="h-14 bg-white border-b border-slate-200 px-4 lg:px-6 flex items-center justify-between shrink-0 z-30 shadow-xs">
+    <div class="flex items-center gap-3">
+      <!-- Mobile Sidebar Toggle -->
+      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition" aria-label="打开目录">
+        <i data-lucide="menu" class="w-5 h-5"></i>
+      </button>
+
+      <div class="flex items-center gap-2.5">
+        <div class="w-8 h-8 rounded-lg bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-xs text-white font-black text-sm">
+          500
+        </div>
+        <div class="flex items-center gap-2">
+          <h1 class="font-extrabold text-sm sm:text-base text-slate-900 tracking-tight">Global 500 传记智库</h1>
+          <span class="text-[10px] sm:text-xs font-semibold px-2 py-0.5 bg-sky-50 text-sky-700 border border-sky-200 rounded-full">2026 Edition</span>
+        </div>
       </div>
     </div>
 
-    <!-- Right Header Actions -->
-    <div class="flex items-center gap-1.5 sm:gap-2 shrink-0">
+    <!-- Quick Actions -->
+    <div class="flex items-center gap-2">
+      <div class="hidden md:flex items-center gap-3 text-xs text-slate-500 mr-2">
+        <span>已收录 <b>100</b> 家巨头</span>
+        <span class="text-slate-300">|</span>
+        <span><b>1.96 MB</b> 纯文本</span>
+      </div>
       <a href="https://github.com/leon7786/20260828-global500" target="_blank" 
-         class="flex items-center gap-1 sm:gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium border border-slate-200 transition">
-        <i data-lucide="github" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
+         class="flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium border border-slate-200 transition">
+        <i data-lucide="github" class="w-3.5 h-3.5"></i>
         <span class="hidden sm:inline">GitHub</span>
       </a>
-      <button onclick="scrollToTop()" 
-              class="flex items-center justify-center w-8 h-8 sm:w-auto sm:px-3 sm:py-1.5 bg-sky-50 hover:bg-sky-100 text-sky-700 rounded-lg text-xs font-medium border border-sky-200 transition">
-        <i data-lucide="arrow-up" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
-        <span class="hidden sm:inline ml-1">回顶部</span>
-      </button>
     </div>
   </header>
 
-  <!-- Hero & Statistics Ribbon (Light Gradient Theme) -->
-  <section class="bg-gradient-to-b from-white via-slate-50 to-slate-50 border-b border-slate-200/80 py-4 sm:py-6 lg:py-8 px-3.5 sm:px-6 lg:px-8">
-    <div class="max-w-7xl mx-auto">
+  <!-- Main Split Layout Container -->
+  <div class="flex-1 flex overflow-hidden relative">
+
+    <!-- -------------------------------------------------- -->
+    <!-- LEFT SIDEBAR: Company Selector & Filters           -->
+    <!-- -------------------------------------------------- -->
+    <aside id="sidebar" 
+           class="fixed inset-y-0 left-0 z-40 w-80 sm:w-88 bg-white border-r border-slate-200 flex flex-col transition-transform duration-300 -translate-x-full lg:translate-x-0 lg:static lg:z-auto shrink-0 shadow-xl lg:shadow-none">
       
-      <!-- 4-Stat Cards Grid -->
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3.5 lg:gap-4 mb-4 sm:mb-6">
-        <div class="hero-stat-card bg-white border border-slate-200/90 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5 shadow-xs">
-          <div class="p-2 sm:p-2.5 bg-sky-50 text-sky-600 rounded-lg shrink-0">
-            <i data-lucide="building-2" class="w-4 h-4 sm:w-5 sm:h-5"></i>
-          </div>
-          <div class="min-w-0">
-            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-slate-900" id="stat-total-companies">100</div>
-            <div class="text-[10px] sm:text-xs text-slate-500 truncate">百强巨头全收录</div>
-          </div>
-        </div>
-
-        <div class="hero-stat-card bg-white border border-slate-200/90 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5 shadow-xs">
-          <div class="p-2 sm:p-2.5 bg-amber-50 text-amber-600 rounded-lg shrink-0">
-            <i data-lucide="award" class="w-4 h-4 sm:w-5 sm:h-5"></i>
-          </div>
-          <div class="min-w-0">
-            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-amber-600" id="stat-master-count">17+</div>
-            <div class="text-[10px] sm:text-xs text-slate-500 truncate">大师级重塑传记</div>
-          </div>
-        </div>
-
-        <div class="hero-stat-card bg-white border border-slate-200/90 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5 shadow-xs">
-          <div class="p-2 sm:p-2.5 bg-emerald-50 text-emerald-600 rounded-lg shrink-0">
-            <i data-lucide="database" class="w-4 h-4 sm:w-5 sm:h-5"></i>
-          </div>
-          <div class="min-w-0">
-            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-emerald-600" id="stat-total-bytes">1.96 MB</div>
-            <div class="text-[10px] sm:text-xs text-slate-500 truncate">全库纯文本体量</div>
-          </div>
-        </div>
-
-        <div class="hero-stat-card bg-white border border-slate-200/90 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5 shadow-xs">
-          <div class="p-2 sm:p-2.5 bg-purple-50 text-purple-600 rounded-lg shrink-0">
-            <i data-lucide="brain-circuit" class="w-4 h-4 sm:w-5 sm:h-5"></i>
-          </div>
-          <div class="min-w-0">
-            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-purple-600">800+</div>
-            <div class="text-[10px] sm:text-xs text-slate-500 truncate">思维模型总库</div>
-          </div>
-        </div>
+      <!-- Mobile Close Bar -->
+      <div class="lg:hidden p-3 border-b border-slate-100 flex items-center justify-between bg-slate-50">
+        <span class="font-bold text-xs text-slate-700">选择 500 强企业</span>
+        <button onclick="toggleMobileSidebar()" class="p-1.5 text-slate-400 hover:text-slate-700 rounded-md">
+          <i data-lucide="x" class="w-4 h-4"></i>
+        </button>
       </div>
 
-      <!-- Search & Filters Container (Light Theme) -->
-      <div class="bg-white border border-slate-200 p-3 sm:p-4 rounded-xl sm:rounded-2xl shadow-sm flex flex-col lg:flex-row gap-2.5 sm:gap-3 items-stretch lg:items-center justify-between">
-        
+      <!-- Search & Filters in Sidebar -->
+      <div class="p-3.5 border-b border-slate-200 bg-slate-50/70 space-y-2.5">
         <!-- Search Input -->
-        <div class="relative flex-1">
-          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none"></i>
-          <input type="text" id="search-input" placeholder="输入企业名 / 英文 / 创始人 / 行业 (如: 亚马逊, 黄仁勋, 芯片)..." 
-                 class="w-full pl-9 sm:pl-10 pr-4 py-2 sm:py-2.5 bg-slate-50 border border-slate-200 rounded-lg sm:rounded-xl text-xs sm:text-sm text-slate-800 placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition">
+        <div class="relative">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <input type="text" id="search-input" placeholder="搜索企业、创始人、行业..." 
+                 class="w-full pl-9 pr-3 py-1.5 bg-white border border-slate-200 rounded-lg text-xs text-slate-800 placeholder-slate-400 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 shadow-2xs transition">
         </div>
 
-        <!-- Filter Selects Grid (2 cols on phone, inline on desktop) -->
-        <div class="grid grid-cols-2 sm:flex sm:flex-wrap items-center gap-2">
-          <!-- Country Filter -->
-          <select id="country-filter" class="filter-select bg-slate-50 border border-slate-200 text-xs text-slate-700 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
+        <!-- Filter Dropdowns -->
+        <div class="grid grid-cols-2 gap-1.5">
+          <select id="country-filter" class="bg-white border border-slate-200 text-[11px] text-slate-700 rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
             <option value="">🌍 全部国家</option>
             <option value="🇨🇳 中国">🇨🇳 中国</option>
             <option value="🇺🇸 美国">🇺🇸 美国</option>
@@ -348,8 +275,7 @@
             <option value="🇬🇧 英国">🇬🇧 英国</option>
           </select>
 
-          <!-- Industry Filter -->
-          <select id="industry-filter" class="filter-select bg-slate-50 border border-slate-200 text-xs text-slate-700 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
+          <select id="industry-filter" class="bg-white border border-slate-200 text-[11px] text-slate-700 rounded-lg px-2 py-1.5 focus:outline-none focus:border-sky-500">
             <option value="">🏢 全部行业</option>
             <option value="💻 科技与芯片">💻 科技与芯片</option>
             <option value="🛒 零售与电商">🛒 零售与电商</option>
@@ -359,219 +285,232 @@
             <option value="🏦 金融与银行">🏦 金融与银行</option>
             <option value="🏗️ 建筑与工程">🏗️ 建筑与工程</option>
           </select>
+        </div>
 
-          <!-- Sort Filter (Full width on tiny screens) -->
-          <select id="sort-filter" class="filter-select col-span-2 sm:col-span-1 bg-slate-50 border border-slate-200 text-xs text-slate-700 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
-            <option value="rank-asc">🔢 默认排名 (1-100)</option>
-            <option value="size-desc">📚 传记长篇排行</option>
+        <div class="flex items-center justify-between text-[11px] text-slate-500 px-0.5">
+          <span id="filtered-count">共 100 家企业</span>
+          <select id="sort-filter" class="bg-transparent text-[11px] text-slate-600 focus:outline-none cursor-pointer">
+            <option value="rank-asc">按排名 (1-100)</option>
+            <option value="size-desc">按字数体量</option>
           </select>
         </div>
       </div>
-    </div>
-  </section>
 
-  <!-- Main Content Area: Responsive Light Cards Grid -->
-  <main class="flex-1 max-w-7xl mx-auto w-full px-3.5 sm:px-6 lg:px-8 py-4 sm:py-6">
-    <div id="loading" class="text-center py-16 sm:py-24 text-slate-400 flex flex-col items-center gap-3">
-      <i data-lucide="loader" class="w-7 h-7 sm:w-8 sm:h-8 animate-spin text-sky-600"></i>
-      <p class="text-xs sm:text-sm">正在加载世界 500 强传记智库数据...</p>
-    </div>
+      <!-- Scrollable Company List -->
+      <nav id="company-list" class="flex-1 overflow-y-auto p-2 space-y-1 divide-y divide-slate-100">
+        <!-- List items injected here -->
+      </nav>
+    </aside>
 
-    <!-- Company Grid (1 col on mobile, 2 cols on iPad, 3 cols on desktop) -->
-    <div id="company-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-4 hidden">
-      <!-- Cards dynamically injected -->
-    </div>
+    <!-- Mobile Backdrop -->
+    <div id="mobile-backdrop" onclick="toggleMobileSidebar()" class="fixed inset-0 bg-slate-900/40 backdrop-blur-xs z-30 hidden lg:hidden"></div>
 
-    <div id="empty-state" class="text-center py-16 sm:py-24 hidden">
-      <i data-lucide="search-x" class="w-10 h-10 sm:w-12 sm:h-12 text-slate-300 mx-auto mb-3"></i>
-      <p class="text-slate-500 text-xs sm:text-sm">未找到匹配的企业或创始人档案，请尝试更换关键词。</p>
-    </div>
-  </main>
-
-  <!-- Interactive Reader Modal (Light Mode) -->
-  <div id="reader-modal" class="fixed inset-0 z-50 bg-slate-900/50 backdrop-blur-sm hidden flex items-center justify-center p-0 sm:p-4 lg:p-6">
-    <div class="reader-dialog bg-white border border-slate-200 w-full h-full flex flex-col overflow-hidden shadow-2xl animate-in fade-in duration-150">
+    <!-- -------------------------------------------------- -->
+    <!-- RIGHT MAIN CONTENT: Reader & Article View          -->
+    <!-- -------------------------------------------------- -->
+    <main class="flex-1 flex flex-col bg-white overflow-hidden">
       
-      <!-- Modal Header (Clean Light Theme) -->
-      <div class="px-3.5 sm:px-6 py-2.5 sm:py-3.5 bg-slate-50 border-b border-slate-200 flex items-center justify-between gap-2 shrink-0">
-        <div class="flex items-center gap-2 sm:gap-3 min-w-0">
-          <span id="modal-rank" class="px-2 py-0.5 sm:px-2.5 sm:py-1 bg-sky-50 text-sky-700 border border-sky-200 text-[11px] sm:text-xs font-bold rounded-md sm:rounded-lg shrink-0">#001</span>
+      <!-- Right Sub-Header Toolbar -->
+      <div class="px-4 sm:px-8 py-3 bg-white border-b border-slate-200 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs">
+        <div class="flex items-center gap-3 min-w-0">
+          <span id="active-rank" class="px-2.5 py-1 bg-sky-50 text-sky-700 border border-sky-200 text-xs font-bold rounded-lg shrink-0">#001</span>
           <div class="min-w-0">
-            <h3 id="modal-title" class="font-bold text-xs sm:text-sm lg:text-base text-slate-900 truncate">公司名称</h3>
-            <p id="modal-subtitle" class="text-[10px] sm:text-xs text-slate-500 truncate">Founder Biography</p>
+            <div class="flex items-center gap-2">
+              <h2 id="active-title" class="font-bold text-sm sm:text-base text-slate-900 truncate">亚马逊 (Amazon)</h2>
+              <span id="active-meta" class="text-xs text-slate-500 hidden sm:inline">🇺🇸 美国 · 🛒 零售与电商</span>
+            </div>
           </div>
         </div>
 
-        <!-- Tab Switcher -->
-        <div class="flex items-center gap-1 bg-slate-200/70 p-0.5 sm:p-1 rounded-lg sm:rounded-xl shrink-0">
-          <button onclick="switchTab('founder')" id="tab-founder" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg bg-sky-600 text-white shadow-xs transition">👤 传记</button>
-          <button onclick="switchTab('company')" id="tab-company" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-600 hover:text-slate-900 transition">🏢 企业</button>
-          <button onclick="switchTab('readme')" id="tab-readme" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-600 hover:text-slate-900 transition">📊 导航</button>
+        <!-- Tab Controls (Founder / Company / Readme) -->
+        <div class="flex items-center gap-1 bg-slate-100 p-1 rounded-xl">
+          <button onclick="switchTab('founder')" id="tab-founder" class="px-3 py-1.5 text-xs font-semibold rounded-lg bg-white text-sky-700 shadow-xs transition flex items-center gap-1.5">
+            <i data-lucide="user" class="w-3.5 h-3.5"></i>
+            <span>创始人史诗传记</span>
+          </button>
+          <button onclick="switchTab('company')" id="tab-company" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5">
+            <i data-lucide="building" class="w-3.5 h-3.5"></i>
+            <span>企业档案</span>
+          </button>
+          <button onclick="switchTab('readme')" id="tab-readme" class="px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5">
+            <i data-lucide="compass" class="w-3.5 h-3.5"></i>
+            <span>专栏总览</span>
+          </button>
         </div>
-
-        <!-- Close Button -->
-        <button onclick="closeReader()" class="p-1.5 sm:p-2 text-slate-400 hover:text-slate-700 rounded-lg hover:bg-slate-200/60 transition shrink-0" aria-label="关闭">
-          <i data-lucide="x" class="w-4 h-4 sm:w-5 sm:h-5"></i>
-        </button>
       </div>
 
-      <!-- Modal Body (Scrollable Light Container) -->
-      <div id="modal-content" class="flex-1 p-4 sm:p-6 lg:p-10 overflow-y-auto prose-custom max-w-none bg-white">
-        <!-- Markdown content rendered here -->
+      <!-- Main Scrollable Article Body -->
+      <div id="article-scroll-container" class="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12">
+        <div class="max-w-4xl mx-auto">
+          
+          <div id="article-content" class="prose-custom">
+            <!-- Markdown content will be dynamically loaded here -->
+            <div class="text-center py-24 text-slate-400">
+              <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
+              <p class="text-sm">正在加载全景史诗传记...</p>
+            </div>
+          </div>
+
+          <!-- Bottom Article Navigation Footer -->
+          <div class="mt-16 pt-8 border-t border-slate-200 flex items-center justify-between text-xs sm:text-sm text-slate-600">
+            <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition">
+              <i data-lucide="arrow-left" class="w-4 h-4"></i>
+              <span id="prev-title">上一篇</span>
+            </button>
+            <span class="text-slate-400 text-xs font-mono">100 Enterprises Hub</span>
+            <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition text-sky-600 font-semibold">
+              <span id="next-title">下一篇</span>
+              <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </button>
+          </div>
+
+        </div>
       </div>
-    </div>
+
+    </main>
+
   </div>
-
-  <!-- Footer (Light Minimalist) -->
-  <footer class="bg-white border-t border-slate-200 py-4 sm:py-6 text-center text-[11px] sm:text-xs text-slate-500 safe-bottom">
-    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-      <p>© 2026 Fortune Global 500 Founder Biography Open Repository.</p>
-      <p class="text-slate-400">适配所有移动与桌面终端 · 经典浅色护眼排版</p>
-    </div>
-  </footer>
 
   <script>
     let allCompanies = [];
-    let currentFolder = '';
+    let currentFiltered = [];
+    let currentIndex = 0;
     let currentTab = 'founder';
 
     mermaid.initialize({ startOnLoad: false, theme: 'default' });
 
-    function scrollToTop() {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+    function toggleMobileSidebar() {
+      const sidebar = document.getElementById('sidebar');
+      const backdrop = document.getElementById('mobile-backdrop');
+      sidebar.classList.toggle('-translate-x-full');
+      backdrop.classList.toggle('hidden');
     }
 
-    // Fetch site data
+    // Load Data
     async function initData() {
       try {
         const res = await fetch('./site_data.json');
         const data = await res.json();
         allCompanies = data.companies;
-        document.getElementById('stat-total-companies').innerText = data.total_companies;
-        document.getElementById('stat-master-count').innerText = data.master_count + ' 篇';
-        document.getElementById('stat-total-bytes').innerText = (data.total_bytes / (1024 * 1024)).toFixed(2) + ' MB';
+        currentFiltered = [...allCompanies];
         
-        renderGrid(allCompanies);
-        document.getElementById('loading').classList.add('hidden');
-        document.getElementById('company-grid').classList.remove('hidden');
+        renderSidebar();
+        selectCompany(0); // Default to #001 Amazon
         lucide.createIcons();
       } catch (err) {
-        console.error('Failed to load data', err);
-        document.getElementById('loading').innerHTML = '<p class="text-rose-500 text-xs sm:text-sm">数据加载失败，请刷新重试。</p>';
+        console.error('Failed to load site data', err);
+        document.getElementById('article-content').innerHTML = '<p class="text-rose-500 text-center py-20">数据载入失败，请刷新重试。</p>';
       }
     }
 
-    function renderGrid(list) {
-      const grid = document.getElementById('company-grid');
-      const empty = document.getElementById('empty-state');
-      grid.innerHTML = '';
+    // Render Left Sidebar Items
+    function renderSidebar() {
+      const listEl = document.getElementById('company-list');
+      listEl.innerHTML = '';
+      document.getElementById('filtered-count').innerText = `共 ${currentFiltered.length} 家企业`;
 
-      if (list.length === 0) {
-        empty.classList.remove('hidden');
+      if (currentFiltered.length === 0) {
+        listEl.innerHTML = '<div class="p-6 text-center text-xs text-slate-400">无匹配企业</div>';
         return;
       }
-      empty.classList.add('hidden');
 
-      list.forEach(c => {
+      currentFiltered.forEach((c, idx) => {
         const isMaster = c.founder_size >= 25000;
-        const card = document.createElement('div');
-        card.className = "card-item bg-white border border-slate-200 hover:border-sky-400 rounded-xl sm:rounded-2xl p-4 sm:p-5 transition duration-200 hover:shadow-lg hover:shadow-sky-500/5 flex flex-col justify-between group cursor-pointer shadow-2xs";
-        card.onclick = () => openReader(c.folder, c.rank, `${c.name_cn} (${c.name_en})`);
+        const isActive = allCompanies[currentIndex] && allCompanies[currentIndex].rank === c.rank;
+        
+        const item = document.createElement('button');
+        item.className = `w-full text-left p-2.5 rounded-xl transition flex items-center justify-between group ${
+          isActive 
+            ? 'bg-sky-50 text-sky-900 border-l-4 border-sky-600 font-semibold shadow-2xs' 
+            : 'hover:bg-slate-100 text-slate-700'
+        }`;
+        item.onclick = () => {
+          const originalIdx = allCompanies.findIndex(x => x.rank === c.rank);
+          selectCompany(originalIdx);
+          if (window.innerWidth < 1024) toggleMobileSidebar();
+        };
 
-        card.innerHTML = `
-          <div>
-            <div class="flex items-center justify-between gap-1.5 mb-2.5">
-              <span class="font-extrabold text-xs px-2 py-0.5 rounded-md sm:rounded-lg ${isMaster ? 'bg-amber-50 text-amber-700 border border-amber-200' : 'bg-slate-100 text-slate-600'}">
-                #${String(c.rank).padStart(3, '0')}
-              </span>
-              <div class="flex items-center gap-1.5 text-[11px] sm:text-xs">
-                <span class="text-slate-500">${c.country}</span>
-                <span class="px-1.5 py-0.2 sm:px-2 sm:py-0.5 bg-slate-100 text-slate-600 rounded border border-slate-200">${c.industry}</span>
-              </div>
-            </div>
-
-            <h3 class="text-sm sm:text-base font-bold text-slate-900 group-hover:text-sky-600 transition flex items-center justify-between gap-2">
-              <span class="truncate">${c.name_cn}</span>
-              <span class="text-[11px] sm:text-xs font-normal text-slate-400 truncate shrink-0">${c.name_en}</span>
-            </h3>
-
-            <p class="text-[11px] sm:text-xs text-slate-500 mt-2 line-clamp-2 italic bg-slate-50 p-2 rounded-lg border border-slate-100">
-              "${c.founder_quote || '暂无引言摘要...'}"
-            </p>
-          </div>
-
-          <div class="mt-3.5 pt-2.5 border-t border-slate-100 flex items-center justify-between text-[11px] sm:text-xs">
-            <span class="px-1.5 py-0.2 sm:px-2 sm:py-0.5 rounded ${isMaster ? 'bg-emerald-50 text-emerald-700 border border-emerald-200 font-semibold' : 'bg-slate-100 text-slate-500'}">
-              ${c.status}
+        item.innerHTML = `
+          <div class="flex items-center gap-2 min-w-0">
+            <span class="text-[11px] font-mono font-bold px-1.5 py-0.5 rounded ${
+              isActive ? 'bg-sky-200/70 text-sky-800' : 'bg-slate-100 text-slate-500'
+            }">
+              #${String(c.rank).padStart(3, '0')}
             </span>
-            <span class="font-mono text-slate-400 text-[11px] sm:text-xs">${c.founder_size_kb} KB</span>
+            <div class="min-w-0">
+              <div class="text-xs truncate font-medium text-slate-900">${c.name_cn}</div>
+              <div class="text-[10px] text-slate-400 truncate">${c.name_en} · ${c.country.split(' ')[0]}</div>
+            </div>
           </div>
+          <span class="text-[10px] font-mono text-slate-400 shrink-0 ${isMaster ? 'text-amber-600 font-semibold' : ''}">
+            ${c.founder_size_kb}K
+          </span>
         `;
-        grid.appendChild(card);
+        listEl.appendChild(item);
       });
       lucide.createIcons();
     }
 
-    // Filter Logic
-    function applyFilters() {
-      const q = document.getElementById('search-input').value.toLowerCase().trim();
-      const country = document.getElementById('country-filter').value;
-      const industry = document.getElementById('industry-filter').value;
-      const sort = document.getElementById('sort-filter').value;
+    // Select & Load Company Content
+    async function selectCompany(index) {
+      if (index < 0 || index >= allCompanies.length) return;
+      currentIndex = index;
+      const c = allCompanies[currentIndex];
 
-      let filtered = allCompanies.filter(c => {
-        const matchQ = !q || c.name_cn.toLowerCase().includes(q) || c.name_en.toLowerCase().includes(q) || c.founder_title.toLowerCase().includes(q) || String(c.rank).includes(q);
-        const matchCountry = !country || c.country === country;
-        const matchIndustry = !industry || c.industry === industry;
-        return matchQ && matchCountry && matchIndustry;
-      });
+      document.getElementById('active-rank').innerText = '#' + String(c.rank).padStart(3, '0');
+      document.getElementById('active-title').innerText = `${c.name_cn} (${c.name_en})`;
+      document.getElementById('active-meta').innerText = `${c.country} · ${c.industry}`;
 
-      if (sort === 'size-desc') {
-        filtered.sort((a, b) => b.founder_size - a.founder_size);
+      // Update Navigation Buttons
+      const prevBtn = document.getElementById('btn-prev');
+      const nextBtn = document.getElementById('btn-next');
+      if (currentIndex > 0) {
+        prevBtn.classList.remove('invisible');
+        document.getElementById('prev-title').innerText = `#${String(allCompanies[currentIndex-1].rank).padStart(3, '0')} ${allCompanies[currentIndex-1].name_cn}`;
       } else {
-        filtered.sort((a, b) => a.rank - b.rank);
+        prevBtn.classList.add('invisible');
       }
 
-      renderGrid(filtered);
+      if (currentIndex < allCompanies.length - 1) {
+        nextBtn.classList.remove('invisible');
+        document.getElementById('next-title').innerText = `#${String(allCompanies[currentIndex+1].rank).padStart(3, '0')} ${allCompanies[currentIndex+1].name_cn}`;
+      } else {
+        nextBtn.classList.add('invisible');
+      }
+
+      renderSidebar();
+      await loadMarkdown(c.folder, currentTab);
+      document.getElementById('article-scroll-container').scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    document.getElementById('search-input').addEventListener('input', applyFilters);
-    document.getElementById('country-filter').addEventListener('change', applyFilters);
-    document.getElementById('industry-filter').addEventListener('change', applyFilters);
-    document.getElementById('sort-filter').addEventListener('change', applyFilters);
-
-    // Open Reader Modal
-    async function openReader(folder, rank, name) {
-      currentFolder = folder;
-      currentTab = 'founder';
-      document.getElementById('modal-rank').innerText = '#' + String(rank).padStart(3, '0');
-      document.getElementById('modal-title').innerText = name;
-      document.getElementById('reader-modal').classList.remove('hidden');
-      document.body.style.overflow = 'hidden';
-      await loadMarkdown(folder, 'founder');
+    function navigateCompany(step) {
+      selectCompany(currentIndex + step);
     }
 
-    function closeReader() {
-      document.getElementById('reader-modal').classList.add('hidden');
-      document.body.style.overflow = 'auto';
-    }
-
+    // Tab Switcher (Founder / Company / Readme)
     async function switchTab(tab) {
       currentTab = tab;
       ['founder', 'company', 'readme'].forEach(t => {
         const btn = document.getElementById(`tab-${t}`);
         if (t === tab) {
-          btn.className = "tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg bg-sky-600 text-white shadow-xs transition";
+          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg bg-white text-sky-700 shadow-xs transition flex items-center gap-1.5";
         } else {
-          btn.className = "tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-600 hover:text-slate-900 transition";
+          btn.className = "px-3 py-1.5 text-xs font-semibold rounded-lg text-slate-600 hover:text-slate-900 transition flex items-center gap-1.5";
         }
       });
-      await loadMarkdown(currentFolder, tab);
+      const c = allCompanies[currentIndex];
+      if (c) await loadMarkdown(c.folder, tab);
     }
 
+    // Fetch and render Markdown
     async function loadMarkdown(folder, type) {
-      const modalContent = document.getElementById('modal-content');
-      modalContent.innerHTML = '<div class="text-center py-16 sm:py-20 text-slate-400 text-xs sm:text-sm"><i data-lucide="loader" class="w-5 h-5 sm:w-6 sm:h-6 animate-spin mx-auto mb-2 text-sky-600"></i>正在读取 Markdown 史料...</div>';
+      const contentEl = document.getElementById('article-content');
+      contentEl.innerHTML = `
+        <div class="text-center py-24 text-slate-400">
+          <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
+          <p class="text-sm">正在加载史料文档...</p>
+        </div>
+      `;
       lucide.createIcons();
 
       const fileName = type === 'founder' ? 'founder.md' : (type === 'company' ? 'company.md' : 'README.md');
@@ -581,12 +520,12 @@
         if (!res.ok) throw new Error('File not found');
         const text = await res.text();
         
-        // Parse markdown
+        // Parse markdown to HTML
         const html = marked.parse(text);
-        modalContent.innerHTML = DOMPurify.sanitize(html);
+        contentEl.innerHTML = DOMPurify.sanitize(html);
 
-        // Render Mermaid Diagrams with responsive wrapper
-        modalContent.querySelectorAll('pre code.language-mermaid').forEach(async (el) => {
+        // Render Mermaid Diagrams
+        contentEl.querySelectorAll('pre code.language-mermaid').forEach(async (el) => {
           const graphDefinition = el.innerText;
           const container = document.createElement('div');
           container.className = 'mermaid-container mermaid';
@@ -596,14 +535,42 @@
         await mermaid.run();
 
       } catch (err) {
-        modalContent.innerHTML = `<div class="p-6 sm:p-8 text-center text-slate-400"><p class="text-rose-500 mb-1 text-xs sm:text-sm">无法加载 ${fileName}</p><p class="text-[11px] sm:text-xs">请确认文件路径与网络连接。</p></div>`;
+        contentEl.innerHTML = `
+          <div class="p-12 text-center text-slate-400 bg-slate-50 rounded-2xl border border-slate-200 my-8">
+            <p class="text-rose-500 font-semibold mb-1">无法载入 ${fileName}</p>
+            <p class="text-xs text-slate-500">请确认文件是否存在。</p>
+          </div>
+        `;
       }
     }
 
-    // Keyboard support: Escape to close modal
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') closeReader();
-    });
+    // Filter Logic
+    function applyFilters() {
+      const q = document.getElementById('search-input').value.toLowerCase().trim();
+      const country = document.getElementById('country-filter').value;
+      const industry = document.getElementById('industry-filter').value;
+      const sort = document.getElementById('sort-filter').value;
+
+      currentFiltered = allCompanies.filter(c => {
+        const matchQ = !q || c.name_cn.toLowerCase().includes(q) || c.name_en.toLowerCase().includes(q) || c.founder_title.toLowerCase().includes(q) || String(c.rank).includes(q);
+        const matchCountry = !country || c.country === country;
+        const matchIndustry = !industry || c.industry === industry;
+        return matchQ && matchCountry && matchIndustry;
+      });
+
+      if (sort === 'size-desc') {
+        currentFiltered.sort((a, b) => b.founder_size - a.founder_size);
+      } else {
+        currentFiltered.sort((a, b) => a.rank - b.rank);
+      }
+
+      renderSidebar();
+    }
+
+    document.getElementById('search-input').addEventListener('input', applyFilters);
+    document.getElementById('country-filter').addEventListener('change', applyFilters);
+    document.getElementById('industry-filter').addEventListener('change', applyFilters);
+    document.getElementById('sort-filter').addEventListener('change', applyFilters);
 
     initData();
   </script>
