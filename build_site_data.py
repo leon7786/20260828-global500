@@ -6,7 +6,35 @@ import re
 base_dir = '/root/1CT-Share/20260828-global500'
 founder_dir = os.path.join(base_dir, 'Founder')
 
-# Industry and country classification mapping for top 100
+# Domain mapping for top 100 enterprises for official high-res logo fetching
+domain_map = {
+    'Amazon': 'amazon.com', 'Walmart': 'walmart.com', 'StateGrid': 'sgcc.com.cn', 'UnitedHealth': 'unitedhealthgroup.com',
+    'SaudiAramco': 'aramco.com', 'Apple': 'apple.com', 'McKesson': 'mckesson.com', 'Alphabet': 'google.com',
+    'CVSHealth': 'cvshealth.com', 'CNPC': 'cnpc.com.cn', 'BerkshireHathaway': 'berkshirehathaway.com', 'Sinopec': 'sinopec.com',
+    'Volkswagen': 'volkswagen.com', 'Toyota': 'toyota-global.com', 'ExxonMobil': 'exxonmobil.com', 'Cencora': 'cencora.com',
+    'CSCEC': 'cscec.com', 'Microsoft': 'microsoft.com', 'JPMorganChase': 'jpmorganchase.com', 'Costco': 'costco.com',
+    'Cigna': 'cigna.com', 'Shell': 'shell.com', 'Foxconn': 'foxconn.com', 'Glencore': 'glencore.com',
+    'Trafigura': 'trafigura.com', 'Samsung': 'samsung.com', 'CardinalHealth': 'cardinalhealth.com', 'NVIDIA': 'nvidia.com',
+    'ICBC': 'icbc.com.cn', 'Meta': 'meta.com', 'ElevanceHealth': 'elevancehealth.com', 'Centene': 'centene.com',
+    'BP': 'bp.com', 'BankOfAmerica': 'bankofamerica.com', 'ABC': 'abchina.com', 'Chevron': 'chevron.com',
+    'CCB': 'ccb.com', 'Ford': 'ford.com', 'GM': 'gm.com', 'TotalEnergies': 'totalenergies.com',
+    'JD': 'jd.com', 'ChinaLife': 'chinalife.com.cn', 'Stellantis': 'stellantis.com', 'BOC': 'boc.cn',
+    'Citigroup': 'citigroup.com', 'HomeDepot': 'homedepot.com', 'FannieMae': 'fanniemae.com', 'PingAn': 'pingan.cn',
+    'CREC': 'crecg.com', 'BMW': 'bmw.com', 'MercedesBenz': 'mercedes-benz.com', 'Kroger': 'kroger.com',
+    'ChinaMobile': 'chinamobileltd.com', 'Santander': 'santander.com', 'Honda': 'honda.com', 'Alibaba': 'alibabagroup.com',
+    'CRCC': 'crcc.cn', 'BNPParibas': 'bnpparibas.com', 'CITIC': 'citic.com', 'Verizon': 'verizon.com',
+    'Phillips66': 'phillips66.com', 'HSBC': 'hsbc.com', 'MarathonPetroleum': 'marathonpetroleum.com', 'Sberbank': 'sberbank.ru',
+    'DeutscheTelekom': 'telekom.com', 'CCCC': 'ccccltd.cn', 'Allianz': 'allianz.com', 'ChinaResources': 'crc.com.hk',
+    'StoneX': 'stonex.com', 'StateFarm': 'statefarm.com', 'FreddieMac': 'freddiemac.com', 'Hyundai': 'hyundai.com',
+    'Humana': 'humana.com', 'EDF': 'edf.fr', 'ATT': 'att.com', 'MitsubishiCorp': 'mitsubishicorp.com',
+    'GoldmanSachs': 'goldmansachs.com', 'Hengli': 'hengli.com', 'Comcast': 'comcast.com', 'WellsFargo': 'wellsfargo.com',
+    'Huawei': 'huawei.com', 'TSMC': 'tsmc.com', 'CNOOC': 'cnooc.com.cn', 'MorganStanley': 'morganstanley.com',
+    'Reliance': 'ril.com', 'CSG': 'csg.cn', 'ShandongEnergy': 'shandong-energy.com', 'Valero': 'valero.com',
+    'Gazprom': 'gazprom.com', 'Dell': 'dell.com', 'BYD': 'bydglobal.com', 'LIC': 'licindia.in',
+    'Nestle': 'nestle.com', 'AXA': 'axa.com', 'Equinor': 'equinor.com', 'Target': 'target.com',
+    'Tencent': 'tencent.com', 'AholdDelhaize': 'aholddelhaize.com', 'ChinaMinmetals': 'minmetals.com', 'ChinaBaowu': 'baowugroup.com'
+}
+
 country_map = {
     'Amazon': '🇺🇸 美国', 'Walmart': '🇺🇸 美国', 'StateGrid': '🇨🇳 中国', 'UnitedHealth': '🇺🇸 美国',
     'SaudiAramco': '🇸🇦 沙特', 'Apple': '🇺🇸 美国', 'McKesson': '🇺🇸 美国', 'Alphabet': '🇺🇸 美国',
@@ -34,25 +62,29 @@ def get_country(folder_name):
 def get_industry(folder_name):
     fn = folder_name.lower()
     if any(k in fn for k in ['apple', 'alphabet', 'microsoft', 'nvidia', 'meta', 'tencent', 'dell']):
-        return '💻 科技与芯片'
+        return '💻 科技芯片'
     if any(k in fn for k in ['amazon', 'walmart', 'costco', 'jd', 'target', 'homedepot', 'ahold']):
-        return '🛒 零售与电商'
-    if any(k in fn for k in ['aramco', 'cnpc', 'sinopec', 'exxon', 'shell', 'bp', 'chevron', 'total', 'gazprom', 'cnooc']):
-        return '🛢️ 石油与能源'
-    if any(k in fn for k in ['unitedhealth', 'mckesson', 'cvs', 'cencora', 'cigna', 'cardinal', 'elevance', 'centene']):
-        return '🏥 医疗与健康'
-    if any(k in fn for k in ['volkswagen', 'toyota', 'ford', 'gm', 'stellantis', 'bmw', 'mercedes', 'byd', 'hyundai']):
-        return '🚗 汽车与出行'
-    if any(k in fn for k in ['jpmorgan', 'icbc', 'bankofamerica', 'abc', 'ccb', 'boc', 'citigroup', 'fanniemae', 'pingan', 'morganstanley']):
-        return '🏦 金融与银行'
-    if any(k in fn for k in ['stategrid', 'csg']):
-        return '⚡ 电网与公用事业'
-    if any(k in fn for k in ['cscec', 'crec', 'crcc', 'powerchina']):
-        return '🏗️ 建筑与工程'
-    if any(k in fn for k in ['foxconn']):
-        return '⚙️ 精密代工与制造'
-    if any(k in fn for k in ['glencore', 'trafigura', 'reliance', 'chinaminmetals', 'chinabaowu', 'shandongenergy']):
-        return '⛏️ 大宗商品与金属'
+        return '🛒 零售电商'
+    if any(k in fn for k in ['aramco', 'cnpc', 'sinopec', 'exxon', 'shell', 'bp', 'chevron', 'total', 'gazprom', 'cnooc', 'phillips', 'marathon', 'valero']):
+        return '🛢️ 石油能源'
+    if any(k in fn for k in ['unitedhealth', 'mckesson', 'cvs', 'cencora', 'cigna', 'cardinal', 'elevance', 'centene', 'humana']):
+        return '🏥 医疗健康'
+    if any(k in fn for k in ['volkswagen', 'toyota', 'ford', 'gm', 'stellantis', 'bmw', 'mercedes', 'byd', 'hyundai', 'honda']):
+        return '🚗 汽车出行'
+    if any(k in fn for k in ['jpmorgan', 'icbc', 'bankofamerica', 'abc', 'ccb', 'boc', 'citigroup', 'fanniemae', 'pingan', 'morganstanley', 'goldman', 'wellsfargo', 'santander', 'hsbc', 'sberbank', 'bnp', 'citic', 'stonex', 'statefarm', 'freddie', 'lic', 'axa']):
+        return '🏦 金融银行'
+    if any(k in fn for k in ['stategrid', 'csg', 'edf']):
+        return '⚡ 电网公用'
+    if any(k in fn for k in ['cscec', 'crec', 'crcc', 'powerchina', 'cccc']):
+        return '🏗️ 建筑工程'
+    if any(k in fn for k in ['foxconn', 'tsmc']):
+        return '⚙️ 制造芯片'
+    if any(k in fn for k in ['glencore', 'trafigura', 'reliance', 'chinaminmetals', 'chinabaowu', 'shandongenergy', 'hengli']):
+        return '⛏️ 资源大宗'
+    if any(k in fn for k in ['chinamobile', 'verizon', 'deutschetelekom', 'att', 'comcast']):
+        return '📡 电信传媒'
+    if any(k in fn for k in ['nestle', 'kroger']):
+        return '🍞 食品消费'
     return '🏢 综合产业'
 
 dirs = sorted([d for d in os.listdir(founder_dir) if os.path.isdir(os.path.join(founder_dir, d)) and d[0].isdigit()])
@@ -66,22 +98,41 @@ for d in dirs:
     
     founder_file = os.path.join(founder_dir, d, 'founder.md')
     company_file = os.path.join(founder_dir, d, 'company.md')
-    readme_file = os.path.join(founder_dir, d, 'README.md')
     
     founder_size = os.path.getsize(founder_file) if os.path.exists(founder_file) else 0
     company_size = os.path.getsize(company_file) if os.path.exists(company_file) else 0
     
-    # Extract founder title from founder.md
     founder_title = "创始人全景传记"
+    founder_name = ""
     founder_quote = ""
     if os.path.exists(founder_file):
         with open(founder_file, 'r', encoding='utf-8') as f:
-            lines = [f.readline() for _ in range(10)]
+            lines = [f.readline() for _ in range(15)]
             for line in lines:
                 if line.startswith('# '):
                     founder_title = line.replace('# ', '').strip()
+                    m = re.match(r'#\s*([^：:\n]+)', line)
+                    if m:
+                        founder_name = m.group(1).strip()
+                        founder_name = re.sub(r'的全景史诗传记.*', '', founder_name).strip()
                 elif line.startswith('> **“') or line.startswith('> “'):
                     founder_quote = line.replace('> ', '').replace('**', '').strip()
+
+    # Fallback founder name if empty
+    if not founder_name:
+        founder_name = f"{name_cn}创始团队"
+
+    # Clean short founder name for display (max 18 chars)
+    short_founder_name = founder_name
+    if ' 与 ' in short_founder_name:
+        short_founder_name = short_founder_name.split(' 与 ')[0] + '等'
+    elif ' & ' in short_founder_name:
+        short_founder_name = short_founder_name.split(' & ')[0] + '等'
+    if len(short_founder_name) > 20:
+        short_founder_name = short_founder_name[:18] + '...'
+
+    domain = domain_map.get(name_en, f"{name_en.lower()}.com")
+    logo_url = f"https://www.google.com/s2/favicons?domain={domain}&sz=64"
     
     status = "🌟 大师级深度精修" if founder_size >= 20000 else ("✨ 详实传记" if founder_size >= 10000 else "📝 标准传记")
     
@@ -90,8 +141,12 @@ for d in dirs:
         'folder': d,
         'name_cn': name_cn,
         'name_en': name_en,
+        'domain': domain,
+        'logo_url': logo_url,
         'country': get_country(d),
         'industry': get_industry(d),
+        'founder_name': founder_name,
+        'short_founder_name': short_founder_name,
         'founder_title': founder_title,
         'founder_quote': founder_quote[:150] + ('...' if len(founder_quote) > 150 else ''),
         'founder_size': founder_size,
@@ -100,14 +155,15 @@ for d in dirs:
         'status': status
     })
 
-output_data = {
+site_data = {
     'total_companies': len(companies),
     'master_count': len([c for c in companies if c['founder_size'] >= 20000]),
-    'total_bytes': sum([c['founder_size'] for c in companies]),
+    'generated_at': '2026-08-29',
     'companies': companies
 }
 
-with open(os.path.join(base_dir, 'site_data.json'), 'w', encoding='utf-8') as f:
-    json.dump(output_data, f, ensure_ascii=False, indent=2)
+out_path = os.path.join(base_dir, 'site_data.json')
+with open(out_path, 'w', encoding='utf-8') as f:
+    json.dump(site_data, f, ensure_ascii=False, indent=2)
 
-print(f"Generated site_data.json with {len(companies)} companies! Total Master size: {output_data['total_bytes']:,} bytes")
+print(f"Generated site_data.json with {len(companies)} companies! Included logo_url and founder_name.")
