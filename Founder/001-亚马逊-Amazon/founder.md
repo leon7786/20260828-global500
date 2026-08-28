@@ -19,10 +19,6 @@
 
 ---
 
-## 🧭 全景生命历程与重大历史决断编年轴 (Chronological Epic)
-
----
-
 ## 🎬 第一章：血统、古巴难民养父与德州牧场的硬核童年 (1964 — 1982)
 
 ### 1. 17岁少女与马戏团演员的未成熟结晶
@@ -305,4 +301,3 @@
 4. **论聪明与善良**  
    > *“聪明是一种天赋，而善良是一种选择。天赋是天赐的，而选择是困难的。当你年华老去，你最自豪的一定不是你有多聪明，而是你做出了多少勇敢而善良的抉择。”*  
    > _“Cleverness is a gift, kindness is a choice. Gifts are easy — they're given after all. Choices can be hard. You can seduce yourself with your gifts if you're not careful, and if you do, it will probably be to the detriment of your choices.”_
-

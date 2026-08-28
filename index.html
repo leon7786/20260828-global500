@@ -43,7 +43,7 @@
   <script src="https://unpkg.com/lucide@latest"></script>
 
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
     
     *, *::before, *::after {
       box-sizing: border-box;
@@ -68,7 +68,7 @@
     ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
 
     /* ---------------------------------------------------- */
-    /* Light Mode Markdown Reader Typography               */
+    /* Light Mode Editorial Typography                      */
     /* ---------------------------------------------------- */
     .prose-custom {
       width: 100%;
@@ -78,79 +78,89 @@
       word-break: break-word;
     }
     .prose-custom h1 {
-      font-size: clamp(1.35rem, 2.2vw + 0.5rem, 1.95rem);
+      font-size: clamp(1.4rem, 2.2vw + 0.5rem, 2.1rem);
       font-weight: 800;
       color: #0f172a;
-      margin-top: 1.5rem;
-      margin-bottom: 0.85rem;
-      padding-bottom: 0.6rem;
-      border-bottom: 1.5px solid #e2e8f0;
+      margin-top: 1rem;
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.75rem;
+      border-bottom: 2px solid #e2e8f0;
       line-height: 1.35;
-      letter-spacing: -0.02em;
+      letter-spacing: -0.025em;
     }
     .prose-custom h2 {
-      font-size: clamp(1.15rem, 1.8vw + 0.3rem, 1.5rem);
+      font-size: clamp(1.15rem, 1.6vw + 0.3rem, 1.55rem);
       font-weight: 700;
       color: #0369a1;
-      margin-top: 2rem;
-      margin-bottom: 0.75rem;
-      padding-bottom: 0.35rem;
-      border-bottom: 1px dashed #e2e8f0;
+      margin-top: 2.25rem;
+      margin-bottom: 0.85rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px dashed #cbd5e1;
       line-height: 1.4;
       display: flex;
       flex-wrap: wrap;
       align-items: center;
       gap: 0.5rem;
+      scroll-margin-top: 5rem;
     }
     .prose-custom h3 {
-      font-size: clamp(1rem, 1.3vw + 0.2rem, 1.25rem);
+      font-size: clamp(1rem, 1.2vw + 0.2rem, 1.25rem);
       font-weight: 600;
       color: #b45309;
-      margin-top: 1.5rem;
-      margin-bottom: 0.5rem;
+      margin-top: 1.6rem;
+      margin-bottom: 0.55rem;
       line-height: 1.45;
+      scroll-margin-top: 5rem;
     }
     .prose-custom p {
-      font-size: clamp(0.9rem, 0.9vw + 0.15rem, 1rem);
+      font-size: var(--article-font-size, 0.96rem);
       color: #334155;
-      line-height: 1.8;
-      margin-bottom: 1rem;
+      line-height: 1.85;
+      margin-bottom: 1.15rem;
+      text-align: justify;
+    }
+    .prose-custom strong {
+      color: #0f172a;
+      font-weight: 700;
     }
     .prose-custom ul, .prose-custom ol {
-      font-size: clamp(0.9rem, 0.9vw + 0.15rem, 1rem);
+      font-size: var(--article-font-size, 0.96rem);
       color: #334155;
-      margin-bottom: 1rem;
+      margin-bottom: 1.15rem;
       padding-left: 1.5rem;
-      line-height: 1.75;
+      line-height: 1.8;
     }
     .prose-custom ul { list-style-type: disc; }
     .prose-custom ol { list-style-type: decimal; }
-    .prose-custom li { margin-bottom: 0.4rem; }
+    .prose-custom li { margin-bottom: 0.45rem; }
+    
     .prose-custom blockquote {
       border-left: 4px solid #f59e0b;
       background: #fffbeb;
-      padding: 1rem 1.25rem;
-      border-radius: 0 0.75rem 0.75rem 0;
+      padding: 1.15rem 1.4rem;
+      border-radius: 0 0.85rem 0.85rem 0;
       color: #92400e;
       font-style: italic;
-      margin: 1.25rem 0;
-      font-size: clamp(0.88rem, 0.9vw + 0.1rem, 0.98rem);
-      line-height: 1.7;
+      margin: 1.5rem 0;
+      font-size: clamp(0.9rem, 0.9vw + 0.1rem, 1.02rem);
+      line-height: 1.75;
       border-top: 1px solid #fef3c7;
       border-right: 1px solid #fef3c7;
       border-bottom: 1px solid #fef3c7;
-      box-shadow: 0 1px 2px rgba(245, 158, 11, 0.05);
+      box-shadow: 0 2px 4px rgba(245, 158, 11, 0.05);
     }
     .prose-custom pre {
       background: #f8fafc;
       border: 1px solid #e2e8f0;
-      padding: 1rem;
-      border-radius: 0.75rem;
-      font-size: clamp(0.75rem, 0.85vw + 0.1rem, 0.85rem);
+      padding: 1.15rem;
+      border-radius: 0.85rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.82rem;
       overflow-x: auto;
       max-width: 100%;
       color: #0369a1;
-      margin: 1.25rem 0;
+      margin: 1.5rem 0;
+      line-height: 1.6;
       white-space: pre-wrap;
       word-break: break-all;
     }
@@ -159,40 +169,58 @@
       display: block;
       overflow-x: auto;
       border-collapse: collapse;
-      font-size: clamp(0.8rem, 0.9vw, 0.9rem);
-      margin: 1.25rem 0;
+      font-size: 0.86rem;
+      margin: 1.5rem 0;
       border: 1px solid #e2e8f0;
-      border-radius: 0.5rem;
+      border-radius: 0.75rem;
       background: #ffffff;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.02);
     }
     .prose-custom th {
       background: #f1f5f9;
       color: #0f172a;
-      padding: 0.65rem 0.9rem;
+      padding: 0.75rem 1rem;
       border-bottom: 1px solid #cbd5e1;
       font-weight: 600;
       white-space: nowrap;
     }
     .prose-custom td {
-      padding: 0.65rem 0.9rem;
+      padding: 0.75rem 1rem;
       border-bottom: 1px solid #f1f5f9;
       color: #334155;
     }
     .prose-custom hr {
       border: 0;
       border-top: 1px solid #e2e8f0;
-      margin: 2rem 0;
+      margin: 2.25rem 0;
+    }
+
+    /* Reading Progress Bar */
+    #progress-bar {
+      transition: width 0.1s ease-out;
+    }
+
+    /* Print styles */
+    @media print {
+      header, aside, #mobile-backdrop, .no-print { display: none !important; }
+      main, #article-scroll-container { overflow: visible !important; height: auto !important; }
+      body { background: white !important; color: black !important; }
     }
   </style>
 </head>
 
 <body class="bg-slate-50 text-slate-900 h-screen flex flex-col antialiased overflow-hidden selection:bg-sky-500 selection:text-white">
 
+  <!-- Top Reading Progress Indicator -->
+  <div class="fixed top-0 left-0 right-0 h-1 bg-slate-100 z-50">
+    <div id="progress-bar" class="h-full bg-gradient-to-r from-sky-500 to-indigo-600 w-0"></div>
+  </div>
+
   <!-- Top Global Bar -->
-  <header class="h-14 bg-white border-b border-slate-200 px-4 lg:px-6 flex items-center justify-between shrink-0 z-30 shadow-xs">
+  <header class="h-14 bg-white border-b border-slate-200 px-4 lg:px-6 flex items-center justify-between shrink-0 z-40 shadow-xs">
     <div class="flex items-center gap-3">
       <!-- Mobile Sidebar Toggle -->
-      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition" aria-label="打开目录">
+      <button onclick="toggleMobileSidebar()" class="lg:hidden p-2 -ml-1 text-slate-600 hover:text-slate-900 rounded-lg hover:bg-slate-100 transition" aria-label="打开企业目录">
         <i data-lucide="menu" class="w-5 h-5"></i>
       </button>
 
@@ -207,13 +235,22 @@
       </div>
     </div>
 
-    <!-- Quick Actions -->
-    <div class="flex items-center gap-2">
-      <div class="hidden md:flex items-center gap-3 text-xs text-slate-500 mr-2">
-        <span>已收录 <b>100</b> 家巨头</span>
+    <!-- Right Controls: Font size adjust, TOC trigger & GitHub Link -->
+    <div class="flex items-center gap-2 sm:gap-3">
+      
+      <!-- Font Size Controller -->
+      <div class="hidden sm:flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200/80 text-xs">
+        <button onclick="changeFontSize(-1)" class="px-2 py-0.5 text-slate-600 hover:text-slate-900 hover:bg-white rounded transition font-medium" title="减小字号">A-</button>
         <span class="text-slate-300">|</span>
-        <span><b>1.96 MB</b> 纯文本</span>
+        <button onclick="changeFontSize(1)" class="px-2 py-0.5 text-slate-600 hover:text-slate-900 hover:bg-white rounded transition font-medium" title="加大字号">A+</button>
       </div>
+
+      <!-- TOC Drawer Button for Mobile/Tablet -->
+      <button onclick="toggleToc()" id="btn-toc" class="flex items-center gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-amber-50 hover:bg-amber-100 text-amber-800 rounded-lg text-xs font-medium border border-amber-200 transition">
+        <i data-lucide="list-tree" class="w-3.5 h-3.5"></i>
+        <span class="hidden sm:inline">章节目录</span>
+      </button>
+
       <a href="https://github.com/leon7786/20260828-global500" target="_blank" 
          class="flex items-center gap-1.5 px-3 py-1.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded-lg text-xs font-medium border border-slate-200 transition">
         <i data-lucide="github" class="w-3.5 h-3.5"></i>
@@ -293,16 +330,16 @@
     <!-- -------------------------------------------------- -->
     <!-- RIGHT MAIN CONTENT: Reader & Article View          -->
     <!-- -------------------------------------------------- -->
-    <main class="flex-1 flex flex-col bg-white overflow-hidden">
+    <main class="flex-1 flex flex-col bg-white overflow-hidden relative">
       
       <!-- Right Sub-Header Toolbar -->
-      <div class="px-4 sm:px-8 py-3 bg-white border-b border-slate-200 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs">
+      <div class="px-4 sm:px-8 py-3 bg-white border-b border-slate-200 flex flex-wrap items-center justify-between gap-3 shrink-0 shadow-2xs z-20">
         <div class="flex items-center gap-3 min-w-0">
           <span id="active-rank" class="px-2.5 py-1 bg-sky-50 text-sky-700 border border-sky-200 text-xs font-bold rounded-lg shrink-0">#001</span>
           <div class="min-w-0">
             <div class="flex items-center gap-2">
               <h2 id="active-title" class="font-bold text-sm sm:text-base text-slate-900 truncate">亚马逊 (Amazon)</h2>
-              <span id="active-meta" class="text-xs text-slate-500 hidden sm:inline">🇺🇸 美国 · 🛒 零售与电商</span>
+              <span id="active-meta" class="text-xs text-slate-500 hidden md:inline">🇺🇸 美国 · 🛒 零售与电商</span>
             </div>
           </div>
         </div>
@@ -324,32 +361,70 @@
         </div>
       </div>
 
-      <!-- Main Scrollable Article Body -->
-      <div id="article-scroll-container" class="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12">
-        <div class="max-w-4xl mx-auto">
-          
-          <div id="article-content" class="prose-custom">
-            <!-- Markdown content will be dynamically loaded here -->
-            <div class="text-center py-24 text-slate-400">
-              <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
-              <p class="text-sm">正在加载全景史诗传记...</p>
+      <!-- Main Layout Body: Article + Floating Table of Contents -->
+      <div class="flex-1 flex overflow-hidden relative">
+
+        <!-- Scrollable Article Area -->
+        <div id="article-scroll-container" class="flex-1 overflow-y-auto p-4 sm:p-8 lg:p-12 scroll-smooth" onscroll="handleArticleScroll()">
+          <div class="max-w-3.5xl mx-auto">
+            
+            <!-- Article Header Info Card -->
+            <div id="article-meta-banner" class="mb-8 p-4 sm:p-5 bg-gradient-to-br from-slate-50 via-white to-sky-50/40 border border-slate-200/90 rounded-2xl flex flex-wrap items-center justify-between gap-3 shadow-2xs">
+              <div class="flex items-center gap-2 text-xs text-slate-600">
+                <span class="p-1.5 bg-sky-100 text-sky-700 rounded-lg"><i data-lucide="book-open" class="w-4 h-4"></i></span>
+                <span id="read-length-tag">字数统计: 34.6 KB (~1.3 万字)</span>
+                <span class="text-slate-300">·</span>
+                <span id="read-time-tag" class="text-slate-500">⏱️ 约 12 分钟精读</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="text-xs px-2.5 py-1 bg-emerald-50 text-emerald-700 border border-emerald-200 rounded-lg font-medium">
+                  🌟 黄金基准篇目
+                </span>
+              </div>
             </div>
-          </div>
 
-          <!-- Bottom Article Navigation Footer -->
-          <div class="mt-16 pt-8 border-t border-slate-200 flex items-center justify-between text-xs sm:text-sm text-slate-600">
-            <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition">
-              <i data-lucide="arrow-left" class="w-4 h-4"></i>
-              <span id="prev-title">上一篇</span>
-            </button>
-            <span class="text-slate-400 text-xs font-mono">100 Enterprises Hub</span>
-            <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition text-sky-600 font-semibold">
-              <span id="next-title">下一篇</span>
-              <i data-lucide="arrow-right" class="w-4 h-4"></i>
-            </button>
-          </div>
+            <!-- Markdown Content Render Target -->
+            <div id="article-content" class="prose-custom">
+              <div class="text-center py-24 text-slate-400">
+                <i data-lucide="loader" class="w-8 h-8 animate-spin mx-auto mb-3 text-sky-600"></i>
+                <p class="text-sm">正在加载全景史诗传记...</p>
+              </div>
+            </div>
 
+            <!-- Bottom Article Navigation Footer -->
+            <div class="mt-16 pt-8 border-t border-slate-200 flex items-center justify-between text-xs sm:text-sm text-slate-600 no-print">
+              <button onclick="navigateCompany(-1)" id="btn-prev" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition">
+                <i data-lucide="arrow-left" class="w-4 h-4"></i>
+                <span id="prev-title">上一篇</span>
+              </button>
+              <button onclick="scrollToArticleTop()" class="text-slate-500 hover:text-slate-900 text-xs flex items-center gap-1">
+                <i data-lucide="arrow-up" class="w-3.5 h-3.5"></i>
+                <span>回到顶部</span>
+              </button>
+              <button onclick="navigateCompany(1)" id="btn-next" class="flex items-center gap-1.5 px-3 py-2 rounded-lg hover:bg-slate-100 transition text-sky-600 font-semibold">
+                <span id="next-title">下一篇</span>
+                <i data-lucide="arrow-right" class="w-4 h-4"></i>
+              </button>
+            </div>
+
+          </div>
         </div>
+
+        <!-- -------------------------------------------------- -->
+        <!-- RIGHT OUTLINE / TOC PANEL                          -->
+        <!-- -------------------------------------------------- -->
+        <aside id="toc-panel" class="hidden xl:block w-72 bg-slate-50/60 border-l border-slate-200 p-6 overflow-y-auto shrink-0">
+          <div class="sticky top-0">
+            <h3 class="text-xs font-bold text-slate-900 uppercase tracking-wider mb-4 flex items-center gap-2">
+              <i data-lucide="list" class="w-4 h-4 text-sky-600"></i>
+              <span>本文导读目录</span>
+            </h3>
+            <nav id="toc-list" class="space-y-1.5 text-xs text-slate-600">
+              <!-- TOC Links dynamically parsed -->
+            </nav>
+          </div>
+        </aside>
+
       </div>
 
     </main>
@@ -361,12 +436,39 @@
     let currentFiltered = [];
     let currentIndex = 0;
     let currentTab = 'founder';
+    let currentFontSizeRem = 0.96;
 
     function toggleMobileSidebar() {
       const sidebar = document.getElementById('sidebar');
       const backdrop = document.getElementById('mobile-backdrop');
       sidebar.classList.toggle('-translate-x-full');
       backdrop.classList.toggle('hidden');
+    }
+
+    function toggleToc() {
+      const toc = document.getElementById('toc-panel');
+      if (toc.classList.contains('hidden')) {
+        toc.classList.remove('hidden');
+      } else {
+        toc.classList.add('hidden');
+      }
+    }
+
+    function changeFontSize(delta) {
+      currentFontSizeRem = Math.min(Math.max(currentFontSizeRem + delta * 0.08, 0.8), 1.3);
+      document.documentElement.style.setProperty('--article-font-size', `${currentFontSizeRem}rem`);
+    }
+
+    function scrollToArticleTop() {
+      document.getElementById('article-scroll-container').scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function handleArticleScroll() {
+      const container = document.getElementById('article-scroll-container');
+      const scrollTop = container.scrollTop;
+      const scrollHeight = container.scrollHeight - container.clientHeight;
+      const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 0;
+      document.getElementById('progress-bar').style.width = `${progress}%`;
     }
 
     // Load Data
@@ -444,6 +546,11 @@
       document.getElementById('active-title').innerText = `${c.name_cn} (${c.name_en})`;
       document.getElementById('active-meta').innerText = `${c.country} · ${c.industry}`;
 
+      const wordsEstimate = Math.round(c.founder_size / 2.6);
+      const minutesEstimate = Math.max(Math.round(wordsEstimate / 350), 3);
+      document.getElementById('read-length-tag').innerText = `字数统计: ${c.founder_size_kb} KB (~${wordsEstimate.toLocaleString()} 字)`;
+      document.getElementById('read-time-tag').innerText = `⏱️ 约 ${minutesEstimate} 分钟精读`;
+
       // Update Navigation Buttons
       const prevBtn = document.getElementById('btn-prev');
       const nextBtn = document.getElementById('btn-next');
@@ -463,7 +570,7 @@
 
       renderSidebar();
       await loadMarkdown(c.folder, currentTab);
-      document.getElementById('article-scroll-container').scrollTo({ top: 0, behavior: 'smooth' });
+      scrollToArticleTop();
     }
 
     function navigateCompany(step) {
@@ -485,7 +592,7 @@
       if (c) await loadMarkdown(c.folder, tab);
     }
 
-    // Fetch and render Markdown
+    // Fetch and render Markdown + Generate Dynamic TOC
     async function loadMarkdown(folder, type) {
       const contentEl = document.getElementById('article-content');
       contentEl.innerHTML = `
@@ -507,14 +614,50 @@
         const html = marked.parse(text);
         contentEl.innerHTML = DOMPurify.sanitize(html);
 
+        // Build Dynamic TOC from H2 / H3
+        buildTableOfContents(contentEl);
+        lucide.createIcons();
+
       } catch (err) {
         contentEl.innerHTML = `
           <div class="p-12 text-center text-slate-400 bg-slate-50 rounded-2xl border border-slate-200 my-8">
             <p class="text-rose-500 font-semibold mb-1">无法载入 ${fileName}</p>
-            <p class="text-xs text-slate-500">请确认文件是否存在。</p>
+            <p class="text-xs text-slate-500">请确认文件路径与网络连接。</p>
           </div>
         `;
       }
+    }
+
+    function buildTableOfContents(container) {
+      const tocList = document.getElementById('toc-list');
+      tocList.innerHTML = '';
+      const headers = container.querySelectorAll('h2, h3');
+
+      if (headers.length === 0) {
+        tocList.innerHTML = '<p class="text-slate-400">暂无章节标题</p>';
+        return;
+      }
+
+      headers.forEach((h, i) => {
+        const id = 'sec-' + i;
+        h.id = id;
+        const text = h.innerText.replace(/^[0-9🎬🧭🏬🌪️🛡️🧠🥣💬📅\.\s]+/, '').trim() || h.innerText;
+        const isH2 = h.tagName === 'H2';
+
+        const a = document.createElement('a');
+        a.href = '#' + id;
+        a.className = `block py-1 px-2 rounded-lg transition truncate ${
+          isH2 
+            ? 'font-bold text-slate-800 hover:text-sky-600 hover:bg-slate-100' 
+            : 'pl-4 text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+        }`;
+        a.innerText = text;
+        a.onclick = (e) => {
+          e.preventDefault();
+          h.scrollIntoView({ behavior: 'smooth' });
+        };
+        tocList.appendChild(a);
+      });
     }
 
     // Filter Logic
