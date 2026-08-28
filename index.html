@@ -719,7 +719,7 @@
 
       currentFiltered.forEach((c, idx) => {
         const isActive = allCompanies[currentIndex] && allCompanies[currentIndex].rank === c.rank;
-        const companyTitle = c.name_en ? `${c.name_cn} (${c.name_en})` : c.name_cn;
+        const companyTitle = c.name_en ? `${c.rank}. ${c.name_cn} (${c.name_en})` : `${c.rank}. ${c.name_cn}`;
         const initial = (c.name_en || c.name_cn).slice(0, 2).toUpperCase();
         
         const item = document.createElement('button');
@@ -735,14 +735,7 @@
         };
 
         item.innerHTML = `
-          <div class="flex items-center gap-2.5 min-w-0 flex-1">
-            <!-- Rank Badge: No.1 ~ No.100 -->
-            <span class="text-[10px] font-mono font-bold px-1.5 py-0.5 rounded shrink-0 ${
-              isActive ? 'bg-sky-600 text-white shadow-2xs' : 'bg-[var(--bg-page)] text-[var(--text-dim)] border border-[var(--border-color)]'
-            }">
-              No.${c.rank}
-            </span>
-            
+          <div class="flex items-center gap-3 min-w-0 flex-1">
             <!-- Company Logo with Fallback -->
             <div class="w-7 h-7 rounded-lg bg-white dark:bg-slate-800 border border-[var(--border-color)] flex items-center justify-center shrink-0 overflow-hidden shadow-2xs p-0.5">
               <img src="${c.logo_url}" alt="${c.name_en}" class="w-full h-full object-contain" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';" loading="lazy">
@@ -754,7 +747,7 @@
               <div class="text-xs sm:text-[13px] truncate font-bold text-[var(--text-main)] group-hover:text-sky-600 transition-colors">
                 ${companyTitle}
               </div>
-              <div class="text-[11px] sm:text-xs text-[var(--text-dim)] truncate flex items-center gap-1 mt-0.5">
+              <div class="text-[11px] sm:text-xs text-[var(--text-dim)] truncate flex items-center gap-1.5 mt-0.5">
                 <span class="text-sky-600 dark:text-sky-400 font-medium shrink-0">👤</span>
                 <span class="truncate">${c.founder_name}</span>
               </div>
