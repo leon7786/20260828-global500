@@ -1,7 +1,5 @@
 # #83 中国海洋石油集团有限公司与奠基领军者档案 (CNOOC & Qin Wencai)
 
-本目录收录《财富》世界500强 **第 83 位** —— **中国海洋石油集团有限公司 (China National Offshore Oil Corporation, CNOOC)** 及其奠基领军团队与首任总经理 **秦文彩 (Qin Wencai)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

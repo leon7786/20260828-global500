@@ -1,7 +1,5 @@
 # #9 CVS Health公司与创始人档案 (CVS Health & Stanley Goldstein)
 
-本目录收录《财富》世界500强 **第 9 位** —— **CVS Health公司 (CVS Health Corporation)** 及其创始人 **斯坦利·戈德斯坦 (Stanley Goldstein)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

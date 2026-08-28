@@ -1,7 +1,5 @@
 # #5 沙特阿美公司与奠基发展史档案 (Saudi Aramco & Founders)
 
-本目录收录《财富》世界500强 **第 5 位** —— **沙特阿美公司 (Saudi Arabian Oil Group / Saudi Aramco)** 及其百年黑金奠基与国家能源战略演进的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

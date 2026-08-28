@@ -1,7 +1,5 @@
 # #37 中国建设银行与奠基历史档案 (China Construction Bank & Founding Heritage)
 
-本目录收录《财富》世界500强 **第 37 位** —— **中国建设银行股份有限公司 (China Construction Bank Corporation, CCB)** 及其奠基先驱、重大基建金融探索与新金融行动的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

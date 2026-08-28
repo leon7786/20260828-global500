@@ -1,7 +1,5 @@
 # #25 托克集团与创始人档案 (Trafigura & Claude Dauphin)
 
-本目录收录《财富》世界500强 **第 25 位** —— **托克集团 (Trafigura Group)** 及其联合创始人 **克劳德·多芬 (Claude Dauphin)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

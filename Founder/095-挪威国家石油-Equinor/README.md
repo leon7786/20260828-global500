@@ -1,7 +1,5 @@
 # #95 挪威国家石油 (Equinor) 与奠基先驱档案 (Equinor & The North Sea Pioneers)
 
-本目录收录《财富》世界500强 **第 95 位** —— **挪威国家石油公司 (Equinor ASA / 原 Statoil)** 及其 **国家奠基先驱与制度设计全景档案**。
-
 ---
 
 ## 📑 目录文档索引

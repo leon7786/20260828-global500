@@ -1,10 +1,5 @@
 # 福特汽车公司 (Ford Motor Company) —— 全球汽车工业缔造者与 Ford+ 智能出行巨擘全景介绍
 
-**《财富》世界500强排名：第 38 位**
-
-**年度营业收入：$187,267 百万美元（约 1873 亿美元）**
-**官方网站：[www.ford.com](https://www.ford.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

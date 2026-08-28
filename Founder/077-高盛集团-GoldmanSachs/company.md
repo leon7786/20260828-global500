@@ -1,10 +1,5 @@
 # 高盛集团 (The Goldman Sachs Group, Inc.) —— 全球顶级投资银行与跨国资本市场做市巨头全景介绍
 
-**《财富》世界500强排名：第 77 位**
-
-**年度营业收入：$125,097 百万美元（约 1250.9 亿美元）**
-**官方网站：[www.goldmansachs.com](https://www.goldmansachs.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

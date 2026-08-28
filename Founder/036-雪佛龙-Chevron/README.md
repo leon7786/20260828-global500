@@ -1,7 +1,5 @@
 # #36 雪佛龙公司与奠基人档案 (Chevron Corporation & Demetrius Scofield)
 
-本目录收录《财富》世界500强 **第 36 位** —— **雪佛龙公司 (Chevron Corporation，前身为加利福尼亚标准石油 Socal / 太平洋海岸石油公司)** 及其创始人 **德米特里厄斯·斯科菲尔德 (Demetrius Scofield)**、加州石油先驱 **查尔斯·费尔顿 (Charles Felton)** 与沙特探油传奇地质师 **马克斯·斯坦尼克 (Max Steineke)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

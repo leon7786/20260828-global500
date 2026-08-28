@@ -1,7 +1,5 @@
 # #72 现代汽车公司与创始人档案 (Hyundai Motor & Chung Ju-yung)
 
-本目录收录《财富》世界500强 **第 72 位** —— **现代汽车公司 (Hyundai Motor Company)** 及其传奇奠基人 **郑周永 (Chung Ju-yung)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

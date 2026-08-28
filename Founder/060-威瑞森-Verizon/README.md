@@ -1,7 +1,5 @@
 # #60 威瑞森电信与创始人档案 (Verizon Communications & Founders)
 
-本目录收录《财富》世界500强 **第 60 位** —— 全美网络质量领先的通信巨擘 **威瑞森电信 (Verizon Communications Inc.)** 及其历史奠基者 **雷·史密斯 (Ray Smith)** 与传奇接线工总裁 **伊万·塞登伯格 (Ivan Seidenberg)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

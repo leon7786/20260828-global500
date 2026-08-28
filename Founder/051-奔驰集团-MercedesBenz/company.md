@@ -1,10 +1,5 @@
 # 梅赛德斯-奔驰集团 (Mercedes-Benz Group AG) —— 全球豪华汽车发明者与科技出行帝国全景介绍
 
-**《财富》世界500强排名：第 51 位**
-
-**年度营业收入：$149,126 百万美元（约 1491 亿美元）**
-**官方网站：[group.mercedes-benz.com](https://group.mercedes-benz.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

@@ -1,10 +1,5 @@
 # 亚马逊公司 (Amazon.com, Inc.) —— 全球商业与云计算帝国全景介绍
 
-**《财富》世界500强排名：第 1 位**
-
-**年度营业收入：$716,924 百万美元（约 7169 亿美元）**
-**官方网站：[www.amazon.com](https://www.amazon.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)
@@ -78,4 +73,3 @@
 14. **达成业绩 (Deliver Results)**：专注于核心输入并始终达成卓越结果。
 15. **力求成为最佳雇主 (Strive to be Earth's Best Employer)**：创造安全、包容且高效的工作环境。
 16. **胸怀大局，承担责任 (Success and Scale Bring Broad Responsibility)**：从地方社区到全球生态，承担跨国巨头应有的责任。
-

@@ -1,10 +1,5 @@
 # Elevance Health公司 (Elevance Health, Inc.) —— 全球健康保障与全人健康服务帝国全景介绍
 
-**《财富》世界500强排名：第 31 位**
-
-**年度营业收入：$199,125 百万美元（约 1991 亿美元）**
-**官方网站：[www.elevancehealth.com](https://www.elevancehealth.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

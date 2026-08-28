@@ -1,7 +1,5 @@
 # #10 中国石油天然气集团与奠基发展史档案 (CNPC & Petroleum History)
 
-本目录收录《财富》世界500强 **第 10 位** —— **中国石油天然气集团有限公司 (China National Petroleum Corporation / CNPC)** 及其新中国石油工业奠基与战略演进的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

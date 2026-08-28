@@ -1,7 +1,5 @@
 # #29 中国工商银行与奠基历史档案 (ICBC & Founding Epic)
 
-本目录收录《财富》世界500强 **第 29 位** —— **中国工商银行股份有限公司 (Industrial and Commercial Bank of China Limited / ICBC)** 及其波澜壮阔的奠基发展史深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

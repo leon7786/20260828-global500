@@ -1,7 +1,5 @@
 # #43 Stellantis集团与领军者档案 (Stellantis & Leadership)
 
-本目录收录《财富》世界500强 **第 43 位** —— **Stellantis集团 (Stellantis N.V.)** 及其由 PSA 标致雪铁龙与 FCA 菲亚特克莱斯勒跨国世纪合并的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

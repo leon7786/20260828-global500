@@ -1,7 +1,5 @@
 # #66 中国交通建设集团有限公司与奠基档案 (CCCC & Pioneer Builders)
 
-本目录收录《财富》世界500强 **第 66 位** —— **中国交通建设集团有限公司 (China Communications Construction Group / CCCC)** 及其跨世纪奠基先辈与超级工程领军者谱系的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

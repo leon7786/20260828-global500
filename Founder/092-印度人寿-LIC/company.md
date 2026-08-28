@@ -1,9 +1,5 @@
 # 印度人寿保险公司 (Life Insurance Corporation of India, LIC) —— 南亚次大陆金融巨擘全景介绍
 
-**《财富》世界500强排名：第 92 位**
-**企业座右铭：Yogakshemam Vahamyaham (योगक्षेमं वहाम्यहम् —— 你的福祉由我守护)**
-**官方网站：[www.licindia.in](https://www.licindia.in)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

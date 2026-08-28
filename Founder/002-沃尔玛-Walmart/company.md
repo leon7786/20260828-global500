@@ -1,10 +1,5 @@
 # 沃尔玛公司 (Walmart Inc.) —— 全球实体与全渠道零售霸主全景介绍
 
-**《财富》世界500强排名：第 2 位**
-
-**年度营业收入：$713,163 百万美元（约 7131 亿美元）**
-**官方网站：[www.walmart.com](https://www.walmart.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)
@@ -66,4 +61,3 @@
 2. **尊重个人 (Respect for the Individual)**：倾听一线员工声音，推行平等的“开门政策 (Open Door Policy)”，鼓励包容与多元发展。
 3. **追求卓越 (Strive for Excellence)**：持续创新，勇于拥抱新技术，每天比昨天做得更好。
 4. **恪守诚信 (Act with Integrity)**：坚持最高标准的商业道德规范，做正确的事。
-

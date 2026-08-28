@@ -1,10 +1,5 @@
 # 现代汽车公司 (Hyundai Motor Company) —— 全球前三汽车帝国与未来智能出行巨头全景介绍
 
-**《财富》世界500强排名：第 72 位**
-
-**年度营业收入：$131,021 百万美元（约 1310.2 亿美元）**
-**官方网站：[www.hyundai.com](https://www.hyundai.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

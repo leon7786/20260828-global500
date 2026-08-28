@@ -1,7 +1,5 @@
 # #93 雀巢公司与创始人档案 (Nestlé & Henri Nestlé / The Page Brothers)
 
-本目录收录《财富》世界500强 **第 93 位** —— **雀巢公司 (Nestlé S.A.)** 及其创始人 **亨利·雀巢 (Henri Nestlé)** 与 **佩奇兄弟 (Page Brothers)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,10 +1,5 @@
 # 戴尔科技公司 (Dell Technologies Inc.) —— 全球企业级IT基础设施与AI算力工厂巨擘全景介绍
 
-**《财富》世界500强排名：第 90 位**
-
-**年度营业收入：$113,538 百万美元（约 1135.4 亿美元）**
-**官方网站：[www.dell.com](https://www.dell.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

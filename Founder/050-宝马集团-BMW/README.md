@@ -1,7 +1,5 @@
 # #50 宝马集团与创始人档案 (BMW Group & Founders / Quandt Family)
 
-本目录收录《财富》世界500强 **第 50 位** —— **宝马集团 (BMW Group / Bayerische Motoren Werke AG)** 及其创始人 **卡尔·拉普 (Karl Rapp)** 与匡特家族 (Quandt Family) 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,10 +1,5 @@
 # 信诺集团 (The Cigna Group) —— 全球医疗健康与药事服务帝国全景介绍
 
-**《财富》世界500强排名：第 21 位**
-
-**年度营业收入：$274,900 百万美元（约 2749 亿美元）**
-**官方网站：[www.thecignagroup.com](https://www.thecignagroup.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

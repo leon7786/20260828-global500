@@ -1,7 +1,5 @@
 # #97 腾讯控股与创始人五虎将档案 (Tencent & Pony Ma / The Five Tigers)
 
-本目录收录《财富》世界500强 **第 97 位** —— **腾讯控股有限公司 (Tencent Holdings Limited)** 及其创始人 **马化腾 (Pony Ma)** 与“腾讯五虎将”的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

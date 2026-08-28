@@ -1,7 +1,5 @@
 # #35 中国农业银行与奠基历史档案 (Agricultural Bank of China & Founding Heritage)
 
-本目录收录《财富》世界500强 **第 35 位** —— **中国农业银行股份有限公司 (Agricultural Bank of China Limited, ABC)** 及其奠基先驱、农村金融改革历程与跨时代跨越的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

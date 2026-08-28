@@ -1,10 +1,5 @@
 # 嘉能可 (Glencore plc) —— 全球大宗商品贸易与矿业巨擘全景介绍
 
-**《财富》世界500强排名：第 24 位**
-
-**年度营业收入：$247,535 百万美元（约 2475 亿美元）**
-**官方网站：[www.glencore.com](https://www.glencore.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

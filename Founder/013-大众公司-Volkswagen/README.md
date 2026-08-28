@@ -1,7 +1,5 @@
 # #13 大众汽车集团与费迪南德·保时捷档案 (Volkswagen AG & Ferdinand Porsche)
 
-本目录收录《财富》世界500强 **第 13 位** —— **大众汽车集团 (Volkswagen AG)** 及其核心奠基人 **费迪南德·保时捷 (Ferdinand Porsche)** 与传奇掌门人 **费迪南德·皮耶希 (Ferdinand Piëch)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

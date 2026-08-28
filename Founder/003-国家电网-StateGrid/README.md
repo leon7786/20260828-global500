@@ -1,7 +1,5 @@
 # #3 国家电网有限公司与奠基发展史档案 (State Grid & Institutional Evolution)
 
-本目录收录《财富》世界500强 **第 3 位** —— **国家电网有限公司 (State Grid Corporation of China)** 及其电力工业奠基与特高压战略演进的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

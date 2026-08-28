@@ -1,7 +1,5 @@
 # #70 州立农业保险公司与创始人档案 (State Farm & George J. Mecherle)
 
-本目录收录《财富》世界500强 **第 70 位** —— **州立农业保险公司 (State Farm Insurance)** 及其创始人 **乔治·J·梅切尔 (George J. Mecherle)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,9 +1,5 @@
 # Equinor公司 (Equinor ASA) —— 挪威国家能源巨擘与全球海上风电先锋全景介绍
 
-**《财富》世界500强排名：第 95 位**
-**企业定位：领先的能源转型践行者 (A broad energy company committed to long-term value)**
-**官方网站：[www.equinor.com](https://www.equinor.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

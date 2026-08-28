@@ -1,7 +1,5 @@
 # #11 伯克希尔－哈撒韦公司与沃伦·巴菲特档案 (Berkshire Hathaway & Warren Buffett)
 
-本目录收录《财富》世界500强 **第 11 位** —— **伯克希尔－哈撒韦公司 (Berkshire Hathaway Inc.)** 及其掌门人与现代奠基者 **沃伦·巴菲特 (Warren Buffett)** 与 **查理·芒格 (Charlie Munger)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

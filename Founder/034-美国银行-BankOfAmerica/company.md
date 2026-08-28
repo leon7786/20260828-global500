@@ -1,10 +1,5 @@
 # 美国银行 (Bank of America Corporation) —— 全球综合金融航母与负责任增长标杆全景介绍
 
-**《财富》世界500强排名：第 34 位**
-
-**年度营业收入：$191,567 百万美元（约 1915 亿美元）**
-**官方网站：[www.bankofamerica.com](https://www.bankofamerica.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

@@ -1,7 +1,5 @@
 # #28 英伟达公司与创始人档案 (NVIDIA & Jensen Huang)
 
-本目录收录《财富》世界500强 **第 28 位** —— **英伟达公司 (NVIDIA Corporation)** 及其创始人 **黄仁勋 (Jensen Huang)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

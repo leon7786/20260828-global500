@@ -1,7 +1,5 @@
 # #88 瓦莱罗能源公司与创始人档案 (Valero Energy & Bill Greehey)
 
-本目录收录《财富》世界500强 **第 88 位** —— **瓦莱罗能源公司 (Valero Energy Corporation)** 及其创始人兼传奇商业领袖 **比尔·格里希 (Bill Greehey)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

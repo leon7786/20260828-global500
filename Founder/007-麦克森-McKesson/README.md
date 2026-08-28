@@ -1,7 +1,5 @@
 # #7 麦克森公司与创始人档案 (McKesson & John McKesson)
 
-本目录收录《财富》世界500强 **第 7 位** —— **麦克森公司 (McKesson Corporation)** 及其创始人 **约翰·麦克森 (John McKesson)** 与 **查尔斯·奥尔科特 (Charles Olcott)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

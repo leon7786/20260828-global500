@@ -1,7 +1,5 @@
 # #40 道达尔能源公司与创始人档案 (TotalEnergies & Ernest Mercier)
 
-本目录收录《财富》世界500强 **第 40 位** —— **道达尔能源公司 (TotalEnergies SE，前身为法国石油公司 CFP)** 及其传奇奠基人 **欧内斯特·梅西埃 (Ernest Mercier)**、国家主权战略推动者 **雷蒙·普恩加莱 (Raymond Poincaré)** 与现任掌门人 **帕特里克·普扬内 (Patrick Pouyanné)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

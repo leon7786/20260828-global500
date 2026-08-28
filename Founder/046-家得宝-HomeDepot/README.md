@@ -1,7 +1,5 @@
 # #46 家得宝与创始人档案 (The Home Depot & Bernie Marcus / Arthur Blank)
 
-本目录收录《财富》世界500强 **第 46 位** —— **家得宝 (The Home Depot, Inc.)** 及其创始人 **伯尼·马库斯 (Bernie Marcus)** 与 **阿瑟·布兰克 (Arthur Blank)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

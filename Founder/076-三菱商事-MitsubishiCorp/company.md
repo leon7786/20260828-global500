@@ -1,10 +1,5 @@
 # 三菱商事株式会社 (Mitsubishi Corporation) —— 全球综合商社旗舰与跨国资源产业投资巨头全景介绍
 
-**《财富》世界500强排名：第 76 位**
-
-**年度营业收入：$125,512 百万美元（约 1255.1 亿美元）**
-**官方网站：[www.mitsubishicorp.com](https://www.mitsubishicorp.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

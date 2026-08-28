@@ -1,10 +1,5 @@
 # 克罗格公司 (The Kroger Co.) —— 全美最大传统生鲜超市帝国全景介绍
 
-**《财富》世界500强排名：第 52 位**
-
-**年度营业收入：$147,642 百万美元（约 1476 亿美元）**
-**官方网站：[www.thekrogerco.com](https://www.thekrogerco.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

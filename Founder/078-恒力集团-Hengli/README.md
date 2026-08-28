@@ -1,7 +1,5 @@
 # #78 恒力集团与创始人档案 (Hengli Group & Chen Jianhua / Fan Hongwei)
 
-本目录收录《财富》世界500强 **第 78 位** —— **恒力集团有限公司 (Hengli Group Co., Ltd.)** 及其创始人夫妇 **陈建华 (Chen Jianhua)** 与 **范红卫 (Fan Hongwei)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

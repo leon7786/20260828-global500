@@ -1,7 +1,5 @@
 # #34 美国银行与创始人档案 (Bank of America & Amadeo Giannini)
 
-本目录收录《财富》世界500强 **第 34 位** —— **美国银行 (Bank of America Corporation)** 及其传奇平民银行家创始人 **阿马迪奥·彼得·贾尼尼 (Amadeo Peter Giannini / A.P. Giannini)** 与现代掌舵人 **布莱恩·莫伊尼汉 (Brian Moynihan)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

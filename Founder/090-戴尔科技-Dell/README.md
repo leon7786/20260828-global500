@@ -1,7 +1,5 @@
 # #90 戴尔科技公司与创始人档案 (Dell Technologies & Michael Dell)
 
-本目录收录《财富》世界500强 **第 90 位** —— **戴尔科技公司 (Dell Technologies Inc.)** 及其创始人兼首席执行官 **迈克尔·戴尔 (Michael Dell)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

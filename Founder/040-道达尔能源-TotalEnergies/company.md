@@ -1,10 +1,5 @@
 # 道达尔能源公司 (TotalEnergies SE) —— 全球综合多能源巨擘与低碳转型先锋全景介绍
 
-**《财富》世界500强排名：第 40 位**
-
-**年度营业收入：$182,344 百万美元（约 1823 亿美元）**
-**官方网站：[www.totalenergies.com](https://www.totalenergies.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

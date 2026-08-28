@@ -1,10 +1,5 @@
 # 威瑞森电信 (Verizon Communications) —— 全美网络质量之王与 5G 超宽带基建帝国全景介绍
 
-**《财富》世界500强排名：第 60 位**
-
-**年度营业收入：$138,191 百万美元（约 1381 亿美元）**
-**官方网站：[www.verizon.com](https://www.verizon.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

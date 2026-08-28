@@ -1,7 +1,5 @@
 # #16 Cencora 公司与百年医药流通奠基人档案 (Cencora & AmerisourceBergen Pioneers)
 
-本目录收录《财富》世界500强 **第 16 位** —— **Cencora 公司 (原美源伯根 AmerisourceBergen)** 及其奠基人 **吕西安·布伦斯威格 (Lucien Brunswig)** 与 **罗伯特·卑尔根 (Robert Bergen)** 等先驱的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

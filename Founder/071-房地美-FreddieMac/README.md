@@ -1,7 +1,5 @@
 # #71 房地美与美国住房金融体系档案 (Freddie Mac & US Congress Legislation)
 
-本目录收录《财富》世界500强 **第 71 位** —— **联邦住房贷款抵押公司 / 房地美 (Federal Home Loan Mortgage Corp., Freddie Mac)** 及其立法奠基背景与制度演进的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

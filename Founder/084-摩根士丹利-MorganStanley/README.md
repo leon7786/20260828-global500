@@ -1,7 +1,5 @@
 # #84 摩根士丹利公司与创始人档案 (Morgan Stanley & Henry S. Morgan / Harold Stanley)
 
-本目录收录《财富》世界500强 **第 84 位** —— **摩根士丹利 (Morgan Stanley)** 及其创始人 **亨利·S·摩根 (Henry Sturgis Morgan)** 与 **哈罗德·斯坦利 (Harold Stanley)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,7 +1,5 @@
 # #64 俄罗斯联邦储蓄银行与创始人档案 (Sberbank & Nicholas I / Herman Gref)
 
-本目录收录《财富》世界500强 **第 64 位** —— **俄罗斯联邦储蓄银行 (Sberbank of Russia)** 及其历史奠基者 **沙皇尼古拉一世 (Nicholas I)** 与现代数字化/AI重塑统帅 **格尔曼·格列夫 (Herman Gref)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

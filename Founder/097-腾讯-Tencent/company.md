@@ -1,9 +1,5 @@
 # 腾讯控股有限公司 (Tencent Holdings Limited) —— 全球互联网科技与数字娱乐帝国全景介绍
 
-**《财富》世界500强排名：第 97 位**
-**企业使命与愿景：用户为本，科技向善 (Value for Users, Tech for Good)**
-**官方网站：[www.tencent.com](https://www.tencent.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

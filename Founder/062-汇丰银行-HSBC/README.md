@@ -1,7 +1,5 @@
 # #62 汇丰银行控股公司与创始人档案 (HSBC Holdings & Thomas Sutherland)
 
-本目录收录《财富》世界500强 **第 62 位** —— **汇丰银行控股公司 (HSBC Holdings plc)** 及其创始人 **托马斯·萨瑟兰德 (Thomas Sutherland)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

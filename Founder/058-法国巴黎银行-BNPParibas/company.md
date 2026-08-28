@@ -1,10 +1,5 @@
 # 法国巴黎银行 (BNP Paribas S.A.) —— 欧洲大陆第一大综合银行与全球绿色金融巨舰全景介绍
 
-**《财富》世界500强排名：第 58 位**
-
-**年度营业收入：$141,642 百万美元（约 1416 亿美元）**
-**官方网站：[group.bnpparibas](https://group.bnpparibas)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

@@ -1,7 +1,5 @@
 # #30 Meta公司与创始人档案 (Meta & Mark Zuckerberg)
 
-本目录收录《财富》世界500强 **第 30 位** —— **Meta Platforms公司 (Meta Platforms, Inc.)** 及其创始人 **马克·扎克伯格 (Mark Zuckerberg)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

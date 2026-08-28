@@ -1,10 +1,5 @@
 # 英伟达公司 (NVIDIA Corporation) —— 全球加速计算与人工智能基础设施霸主全景介绍
 
-**《财富》世界500强排名：第 28 位**
-
-**年度营业收入：$215,938 百万美元（约 2159 亿美元）**
-**官方网站：[www.nvidia.com](https://www.nvidia.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

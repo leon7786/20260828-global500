@@ -1,10 +1,5 @@
 # 西班牙国家银行 (Banco Santander) —— 跨大西洋综合金融与数字化银行巨舰全景介绍
 
-**《财富》世界500强排名：第 54 位**
-
-**年度营业收入：$145,070 百万美元（约 1450 亿美元）**
-**官方网站：[www.santander.com](https://www.santander.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

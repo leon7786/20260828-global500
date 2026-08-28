@@ -1,7 +1,5 @@
 # #26 三星电子与创始人档案 (Samsung Electronics & Lee Byung-chull)
 
-本目录收录《财富》世界500强 **第 26 位** —— **三星电子 (Samsung Electronics)** 及其奠基人 **李秉喆 (Lee Byung-chull)** 与李健熙的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

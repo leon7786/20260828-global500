@@ -1,7 +1,5 @@
 # #31 Elevance Health公司与奠基人档案 (Elevance Health & Anthem Heritage)
 
-本目录收录《财富》世界500强 **第 31 位** —— **Elevance Health公司 (Elevance Health, Inc.，前身为 Anthem, Inc.)** 及其奠基先驱与转型领袖的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

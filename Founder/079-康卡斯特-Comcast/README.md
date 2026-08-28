@@ -1,7 +1,5 @@
 # #79 康卡斯特与创始人档案 (Comcast & Ralph J. Roberts)
 
-本目录收录《财富》世界500强 **第 79 位** —— **美国康卡斯特电信公司 (Comcast Corporation)** 及其传奇奠基人 **拉尔夫·J·罗伯茨 (Ralph J. Roberts)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

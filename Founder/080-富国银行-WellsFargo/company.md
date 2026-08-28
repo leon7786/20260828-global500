@@ -1,10 +1,5 @@
 # 美国富国银行 (Wells Fargo & Company) —— 全球顶尖零售金融巨擘与百年商业银行帝国全景介绍
 
-**《财富》世界500强排名：第 80 位**
-
-**年度营业收入：$123,529 百万美元（约 1235.3 亿美元）**
-**官方网站：[www.wellsfargo.com](https://www.wellsfargo.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

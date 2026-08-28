@@ -1,7 +1,5 @@
 # #33 英国石油公司与创始人档案 (BP p.l.c. & William Knox D'Arcy)
 
-本目录收录《财富》世界500强 **第 33 位** —— **英国石油公司 (BP p.l.c.，前身为盎格鲁-波斯石油公司 APOC)** 及其传奇创始人 **威廉·诺克斯·达西 (William Knox D'Arcy)**、功勋勘探地质家 **乔治·雷诺兹 (George Reynolds)** 与国家战略奠基人 **温斯顿·丘吉尔 (Winston Churchill)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,7 +1,5 @@
 # #80 富国银行与创始人档案 (Wells Fargo & Henry Wells / William G. Fargo)
 
-本目录收录《财富》世界500强 **第 80 位** —— **美国富国银行 (Wells Fargo & Company)** 及其传奇双子星创始人 **亨利·韦尔斯 (Henry Wells)** 与 **威廉·G·法戈 (William G. Fargo)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

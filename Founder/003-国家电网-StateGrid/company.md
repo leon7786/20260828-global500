@@ -1,10 +1,5 @@
 # 国家电网有限公司 (State Grid Corporation of China) —— 全球最大公用事业与特高压电网帝国全景介绍
 
-**《财富》世界500强排名：第 3 位**
-
-**年度营业收入：$555,371 百万美元（约 5553 亿美元）**
-**官方网站：[www.sgcc.com.cn](http://www.sgcc.com.cn)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

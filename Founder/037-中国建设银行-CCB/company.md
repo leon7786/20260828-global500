@@ -1,10 +1,5 @@
 # 中国建设银行股份有限公司 (China Construction Bank Corporation) —— 全球大型综合商业银行与基建住房金融领军者全景介绍
 
-**《财富》世界500强排名：第 37 位**
-
-**年度营业收入：$188,657 百万美元（约 1887 亿美元）**
-**官方网站：[www.ccb.com](https://www.ccb.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

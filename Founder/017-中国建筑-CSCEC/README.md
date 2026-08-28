@@ -1,7 +1,5 @@
 # #17 中国建筑集团有限公司与大国工匠奠基档案 (CSCEC & Pioneers)
 
-本目录收录《财富》世界500强 **第 17 位** —— **中国建筑集团有限公司 (China State Construction Engineering Corp. / CSCEC)** 及其奠基历程与大国建造拓荒者群像的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

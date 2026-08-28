@@ -1,7 +1,5 @@
 # #56 阿里巴巴集团与创始人档案 (Alibaba Group & Jack Ma / Joseph Tsai)
 
-本目录收录《财富》世界500强 **第 56 位** —— 全球数字商业与云计算领军巨头 **阿里巴巴集团控股有限公司 (Alibaba Group Holding Limited)** 及其联合创始人 **马云 (Jack Ma)**、**蔡崇信 (Joseph Tsai)** 与湖畔“十八罗汉”的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

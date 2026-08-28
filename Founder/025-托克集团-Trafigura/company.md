@@ -1,10 +1,5 @@
 # 托克集团 (Trafigura Group) —— 全球独立大宗商品贸易与物流巨擘全景介绍
 
-**《财富》世界500强排名：第 25 位**
-
-**年度营业收入：$240,268 百万美元（约 2403 亿美元）**
-**官方网站：[www.trafigura.com](https://www.trafigura.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

@@ -1,7 +1,5 @@
 # #63 马拉松原油公司与创始人档案 (Marathon Petroleum & Donnell Dynasty)
 
-本目录收录《财富》世界500强 **第 63 位** —— **马拉松原油公司 (Marathon Petroleum Corporation)** 及其历史奠基者 **俄亥俄石油先驱与唐奈尔家族 (The Ohio Oil Co. & Donnell Dynasty)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

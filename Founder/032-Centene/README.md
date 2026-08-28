@@ -1,7 +1,5 @@
 # #32 Centene公司与创始人档案 (Centene Corporation & Elizabeth Brinn)
 
-本目录收录《财富》世界500强 **第 32 位** —— **Centene公司 (Centene Corporation)** 及其传奇女创始人 **伊丽莎白·布林 (Elizabeth Brinn)** 与功勋掌门人 **迈克尔·内多夫 (Michael F. Neidorff)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

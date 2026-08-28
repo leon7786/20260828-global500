@@ -1,10 +1,5 @@
 # 中国农业银行股份有限公司 (Agricultural Bank of China Limited) —— 全球大型综合银行与普惠乡村振兴主力军全景介绍
 
-**《财富》世界500强排名：第 35 位**
-
-**年度营业收入：$190,708 百万美元（约 1907 亿美元）**
-**官方网站：[www.abchina.com](https://www.abchina.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

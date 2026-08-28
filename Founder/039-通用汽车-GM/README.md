@@ -1,7 +1,5 @@
 # #39 通用汽车公司与创始人档案 (General Motors & William C. Durant)
 
-本目录收录《财富》世界500强 **第 39 位** —— **通用汽车公司 (General Motors Company, GM)** 及其传奇狂人创始人 **威廉·C·杜兰特 (William Crapo Durant)**、现代管理学宗师 **阿尔弗雷德·P·斯隆 (Alfred P. Sloan)** 与现任董事长兼 CEO **玛丽·博拉 (Mary Barra)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

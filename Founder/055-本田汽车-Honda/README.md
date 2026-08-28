@@ -1,7 +1,5 @@
 # #55 本田汽车与创始人档案 (Honda Motor & Soichiro Honda)
 
-本目录收录《财富》世界500强 **第 55 位** —— 全球第一大内燃机制造商与摩托车霸主 **本田技研工业株式会社 (Honda Motor Co., Ltd.)** 及其创始人 **本田宗一郎 (Soichiro Honda)** 与 **藤泽武夫 (Takeo Fujisawa)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,7 +1,5 @@
 # #51 梅赛德斯-奔驰集团与创始人档案 (Mercedes-Benz Group & Founders)
 
-本目录收录《财富》世界500强 **第 51 位** —— **梅赛德斯-奔驰集团 (Mercedes-Benz Group AG)** 及其创始人 **卡尔·本茨 (Karl Benz)**、**戈特利布·戴姆勒 (Gottlieb Daimler)**、**贝尔塔·本茨 (Bertha Benz)** 与 **威廉·迈巴赫 (Wilhelm Maybach)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

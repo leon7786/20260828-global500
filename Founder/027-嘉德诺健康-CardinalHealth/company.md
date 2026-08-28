@@ -1,10 +1,5 @@
 # 嘉德诺健康集团 (Cardinal Health, Inc.) —— 全球医药流通与医疗器械智造巨擎全景介绍
 
-**《财富》世界500强排名：第 27 位**
-
-**年度营业收入：$222,578 百万美元（约 2226 亿美元）**
-**官方网站：[www.cardinalhealth.com](https://www.cardinalhealth.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

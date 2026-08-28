@@ -1,7 +1,5 @@
 # #14 丰田汽车公司与丰田喜一郎档案 (Toyota Motor & Kiichiro Toyoda)
 
-本目录收录《财富》世界500强 **第 14 位** —— **丰田汽车公司 (Toyota Motor Corporation)** 及其创始人 **丰田喜一郎 (Kiichiro Toyoda)** 与丰田家族的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

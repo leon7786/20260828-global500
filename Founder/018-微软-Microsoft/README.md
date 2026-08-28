@@ -1,7 +1,5 @@
 # #18 微软公司与比尔·盖茨 & 保罗·艾伦档案 (Microsoft & Bill Gates / Paul Allen)
 
-本目录收录《财富》世界500强 **第 18 位** —— **微软公司 (Microsoft Corporation)** 及其创始人 **比尔·盖茨 (Bill Gates)** 与 **保罗·艾伦 (Paul Allen)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

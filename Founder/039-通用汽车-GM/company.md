@@ -1,10 +1,5 @@
 # 通用汽车公司 (General Motors Company) —— 全球多品牌汽车集团奠基者与 Ultium 智能出行全景介绍
 
-**《财富》世界500强排名：第 39 位**
-
-**年度营业收入：$185,019 百万美元（约 1850 亿美元）**
-**官方网站：[www.gm.com](https://www.gm.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

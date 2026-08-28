@@ -1,7 +1,5 @@
 # #48 中国平安与创始人档案 (Ping An & Peter Ma 马明哲)
 
-本目录收录《财富》世界500强 **第 48 位** —— **中国平安保险（集团）股份有限公司 (Ping An Insurance (Group) Company of China, Ltd.)** 及其创始人 **马明哲 (Peter Ma)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

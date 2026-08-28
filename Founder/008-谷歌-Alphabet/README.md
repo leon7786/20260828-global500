@@ -1,7 +1,5 @@
 # #8 Alphabet公司 (Google) 与创始人档案 (Alphabet & Larry Page / Sergey Brin)
 
-本目录收录《财富》世界500强 **第 8 位** —— **Alphabet公司 (Google)** 及其联合创始人 **拉里·佩奇 (Larry Page)** 与 **谢尔盖·布林 (Sergey Brin)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

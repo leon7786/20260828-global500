@@ -1,7 +1,5 @@
 # #76 三菱商事与创始人档案 (Mitsubishi Corporation & Yataro Iwasaki)
 
-本目录收录《财富》世界500强 **第 76 位** —— **三菱商事株式会社 (Mitsubishi Corporation)** 及其开山鼻祖 **岩崎弥太郎 (Yataro Iwasaki)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

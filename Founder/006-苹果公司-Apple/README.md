@@ -1,7 +1,5 @@
 # #6 苹果公司与创始人档案 (Apple & Steve Jobs / Steve Wozniak)
 
-本目录收录《财富》世界500强 **第 6 位** —— **苹果公司 (Apple Inc.)** 及其联合创始人 **史蒂夫·乔布斯 (Steve Jobs)** 与 **斯蒂夫·沃兹尼亚克 (Steve Wozniak)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

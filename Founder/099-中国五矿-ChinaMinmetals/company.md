@@ -1,9 +1,5 @@
 # 中国五矿集团有限公司 (China Minmetals Corporation) —— 全球金属矿产航母与冶金建设国家队全景介绍
 
-**《财富》世界500强排名：第 99 位**
-**企业使命：矿业报国、矿业强国 (Serving the Nation with Metals and Minerals)**
-**官方网站：[www.minmetals.com.cn](https://www.minmetals.com.cn)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

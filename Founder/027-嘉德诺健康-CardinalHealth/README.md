@@ -1,7 +1,5 @@
 # #27 嘉德诺健康集团与创始人档案 (Cardinal Health & Robert D. Walter)
 
-本目录收录《财富》世界500强 **第 27 位** —— **嘉德诺健康集团 (Cardinal Health, Inc.)** 及其传奇创始人 **罗伯特·D·沃尔特 (Robert D. Walter)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

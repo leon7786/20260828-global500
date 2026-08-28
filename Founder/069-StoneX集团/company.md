@@ -1,10 +1,5 @@
 # StoneX集团 (StoneX Group Inc.) —— 全球机构金融网络与大宗商品做市巨擎全景介绍
 
-**《财富》世界500强排名：第 69 位**
-
-**年度营业收入：$132,378 百万美元（约 1323.8 亿美元）**
-**官方网站：[www.stonex.com](https://www.stonex.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

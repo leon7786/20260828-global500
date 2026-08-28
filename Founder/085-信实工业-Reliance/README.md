@@ -1,7 +1,5 @@
 # #85 信实工业公司与创始人档案 (Reliance Industries & Dhirubhai Ambani)
 
-本目录收录《财富》世界500强 **第 85 位** —— **信实工业公司 (Reliance Industries Limited, RIL)** 及其创始人 **迪鲁巴伊·安巴尼 (Dhirubhai Ambani)** 与传承掌舵者 **穆克什·安巴尼 (Mukesh Ambani)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,7 +1,5 @@
 # #67 安联保险集团与创始人档案 (Allianz SE & Carl von Thieme)
 
-本目录收录《财富》世界500强 **第 67 位** —— **安联保险集团 (Allianz SE)** 及其创始人 **卡尔·冯·蒂梅 (Carl von Thieme)** 与 **威廉·冯·芬克 (Wilhelm von Finck)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

@@ -1,9 +1,5 @@
 # 皇家阿霍德德尔海兹集团 (Koninklijke Ahold Delhaize N.V.) —— 欧美跨国食品零售巨擎全景介绍
 
-**《财富》世界500强排名：第 98 位**
-**企业口号：Eat well, save time, live better (吃得更好，节省时间，生活更美)**
-**官方网站：[www.aholddelhaize.com](https://www.aholddelhaize.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

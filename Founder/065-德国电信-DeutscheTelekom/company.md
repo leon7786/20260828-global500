@@ -1,10 +1,5 @@
 # 德国电信 (Deutsche Telekom AG) —— 全球跨大西洋电信霸主与数字中枢全景介绍
 
-**《财富》世界500强排名：第 65 位**
-
-**年度营业收入：$134,313 百万美元（约 1343.1 亿美元）**
-**官方网站：[www.telekom.com](https://www.telekom.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

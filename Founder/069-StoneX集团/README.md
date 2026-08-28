@@ -1,7 +1,5 @@
 # #69 StoneX集团与创始人档案 (StoneX Group & Saul Stone)
 
-本目录收录《财富》世界500强 **第 69 位** —— **StoneX集团 (StoneX Group Inc.)** 及其创始人 **索尔·斯通 (Saul Stone)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

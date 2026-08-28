@@ -1,9 +1,5 @@
 # 塔吉特公司 (Target Corporation) —— 美国平价时尚与全渠道零售巨擘全景介绍
 
-**《财富》世界500强排名：第 96 位**
-**企业口号：Expect More. Pay Less. (期待更多，花费更少)**
-**官方网站：[www.target.com](https://www.target.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

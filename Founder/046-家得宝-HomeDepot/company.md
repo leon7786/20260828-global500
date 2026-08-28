@@ -1,10 +1,5 @@
 # 家得宝 (The Home Depot, Inc.) —— 全球家居改善与建材仓储零售霸主全景介绍
 
-**《财富》世界500强排名：第 46 位**
-
-**年度营业收入：$164,683 百万美元（约 1647 亿美元）**
-**官方网站：[www.homedepot.com](https://www.homedepot.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

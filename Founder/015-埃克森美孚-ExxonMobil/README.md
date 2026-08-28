@@ -1,7 +1,5 @@
 # #15 埃克森美孚公司与约翰·D·洛克菲勒档案 (ExxonMobil & John D. Rockefeller)
 
-本目录收录《财富》世界500强 **第 15 位** —— **埃克森美孚公司 (ExxonMobil Corporation)** 及其鼻祖奠基人 **约翰·D·洛克菲勒 (John D. Rockefeller)** 与标准石油帝国的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

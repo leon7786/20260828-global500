@@ -1,7 +1,5 @@
 # #20 开市客公司与吉姆·辛内格尔 & 杰夫·布罗特曼档案 (Costco Wholesale & Jim Sinegal / Jeffrey Brotman)
 
-本目录收录《财富》世界500强 **第 20 位** —— **开市客公司 (Costco Wholesale Corporation)** 及其创始人 **詹姆斯·“吉姆”·辛内格尔 (James Sinegal)** 与 **杰弗里·布罗特曼 (Jeffrey Brotman)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

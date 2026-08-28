@@ -1,7 +1,5 @@
 # #96 塔吉特公司与创始人档案 (Target & George Draper Dayton)
 
-本目录收录《财富》世界500强 **第 96 位** —— **塔吉特公司 (Target Corporation)** 及其创始人 **乔治·德雷珀·戴顿 (George Draper Dayton)** 与现代开拓者的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

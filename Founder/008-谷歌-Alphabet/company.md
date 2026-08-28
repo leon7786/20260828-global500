@@ -1,10 +1,5 @@
 # Alphabet公司 (Google) —— 全球搜索引擎霸主与人工智能超级帝国全景介绍
 
-**《财富》世界500强排名：第 8 位**
-
-**年度营业收入：$402,836 百万美元（约 4028 亿美元）**
-**官方网站：[abc.xyz](https://abc.xyz) / [www.google.com](https://www.google.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

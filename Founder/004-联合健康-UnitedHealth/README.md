@@ -1,7 +1,5 @@
 # #4 联合健康集团与创始人档案 (UnitedHealth Group & Richard Burke)
 
-本目录收录《财富》世界500强 **第 4 位** —— **联合健康集团 (UnitedHealth Group Inc.)** 及其创始人 **理查德·伯克 (Richard T. Burke)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

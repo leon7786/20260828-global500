@@ -1,10 +1,5 @@
 # 雪佛龙公司 (Chevron Corporation) —— 全球综合能源巨头与资本回报标杆全景介绍
 
-**《财富》世界500强排名：第 36 位**
-
-**年度营业收入：$189,031 百万美元（约 1890 亿美元）**
-**官方网站：[www.chevron.com](https://www.chevron.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

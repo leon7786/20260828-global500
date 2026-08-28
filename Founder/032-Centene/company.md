@@ -1,10 +1,5 @@
 # Centene公司 (Centene Corporation) —— 全美政府赞助医疗保障与平价管理式医疗霸主全景介绍
 
-**《财富》世界500强排名：第 32 位**
-
-**年度营业收入：$194,777 百万美元（约 1948 亿美元）**
-**官方网站：[www.centene.com](https://www.centene.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

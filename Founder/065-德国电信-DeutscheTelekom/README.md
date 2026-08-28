@@ -1,7 +1,5 @@
 # #65 德国电信与创始人档案 (Deutsche Telekom & Stephan / Sommer / Höttges)
 
-本目录收录《财富》世界500强 **第 65 位** —— **德国电信 (Deutsche Telekom AG)** 及其历史奠基者 **海因里希·冯·施特凡 (Heinrich von Stephan)**、私有化功勋 **罗恩·佐默 (Ron Sommer)** 与现代跨大西洋霸权统帅 **提姆·霍特格斯 (Timotheus Höttges)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

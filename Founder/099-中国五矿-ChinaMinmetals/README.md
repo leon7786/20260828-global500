@@ -1,7 +1,5 @@
 # #99 中国五矿集团与国家奠基史诗档案 (China Minmetals & Founding Epic)
 
-本目录收录《财富》世界500强 **第 99 位** —— **中国五矿集团有限公司 (China Minmetals Corporation)** 及其 **国家战略奠基与领军先驱全景档案**。
-
 ---
 
 ## 📑 目录文档索引

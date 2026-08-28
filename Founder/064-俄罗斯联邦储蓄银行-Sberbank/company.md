@@ -1,10 +1,5 @@
 # 俄罗斯联邦储蓄银行 (Sberbank of Russia) —— 跨世纪金融霸主与AI科技航母全景介绍
 
-**《财富》世界500强排名：第 64 位**
-
-**年度营业收入：$135,076 百万美元（约 1350.8 亿美元）**
-**官方网站：[www.sberbank.com](https://www.sberbank.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

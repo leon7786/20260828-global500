@@ -1,10 +1,5 @@
 # 三星电子 (Samsung Electronics) —— 全球半导体与智能终端超级帝国全景介绍
 
-**《财富》世界500强排名：第 26 位**
-
-**年度营业收入：$234,675 百万美元（约 2347 亿美元）**
-**官方网站：[www.samsung.com](https://www.samsung.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

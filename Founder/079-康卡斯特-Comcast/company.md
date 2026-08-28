@@ -1,10 +1,5 @@
 # 美国康卡斯特电信公司 (Comcast Corporation) —— 全球超宽带网络与跨国传媒娱乐巨擘全景介绍
 
-**《财富》世界500强排名：第 79 位**
-
-**年度营业收入：$123,707 百万美元（约 1237.1 亿美元）**
-**官方网站：[www.corporate.comcast.com](https://corporate.comcast.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

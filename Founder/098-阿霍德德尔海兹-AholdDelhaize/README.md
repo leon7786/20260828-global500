@@ -1,7 +1,5 @@
 # #98 皇家阿霍德德尔海兹集团与创始人档案 (Ahold Delhaize & Albert Heijn / Delhaize Brothers)
 
-本目录收录《财富》世界500强 **第 98 位** —— **皇家阿霍德德尔海兹集团 (Koninklijke Ahold Delhaize N.V.)** 及其创始人 **阿尔伯特·海恩 (Albert Heijn)** 与 **德尔海兹兄弟 (The Delhaize Brothers)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

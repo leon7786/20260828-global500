@@ -1,7 +1,5 @@
 # #42 中国人寿与奠基史志 (China Life & Foundation History)
 
-本目录收录《财富》世界500强 **第 42 位** —— **中国人寿保险（集团）公司 (China Life Insurance (Group) Company)** 及其跨越七十余载波澜壮阔的奠基与改革全景档案。
-
 ---
 
 ## 📑 目录文档索引

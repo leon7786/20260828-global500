@@ -1,12 +1,5 @@
 # 大众汽车集团 (Volkswagen AG) —— 全球汽车工业制造巨擘与多品牌帝国全景介绍
 
-**《财富》世界500强排名：第 13 位**
-
-**年度营业收入：$363,091 百万美元（约 3630 亿美元）**
-
-**全球汽车年交付量：约 900+ 万辆**
-**官方网站：[www.volkswagen-group.com](https://www.volkswagen-group.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

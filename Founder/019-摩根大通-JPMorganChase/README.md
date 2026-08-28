@@ -1,7 +1,5 @@
 # #19 摩根大通公司与 J.P. 摩根 & 杰米·戴蒙档案 (JPMorgan Chase & J. Pierpont Morgan / Jamie Dimon)
 
-本目录收录《财富》世界500强 **第 19 位** —— **摩根大通公司 (JPMorgan Chase & Co.)** 及其历史奠基者 **约翰·皮尔庞特·摩根 (J. Pierpont Morgan)** 与现代掌舵者 **杰米·戴蒙 (Jamie Dimon)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

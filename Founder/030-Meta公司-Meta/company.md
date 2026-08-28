@@ -1,10 +1,5 @@
 # Meta Platforms公司 (Meta) —— 全球社交网络与开源人工智能帝国全景介绍
 
-**《财富》世界500强排名：第 30 位**
-
-**年度营业收入：$200,966 百万美元（约 2010 亿美元）**
-**官方网站：[about.meta.com](https://about.meta.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

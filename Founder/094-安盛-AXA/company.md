@@ -1,9 +1,5 @@
 # 安盛集团 (AXA S.A.) —— 全球多元化保险与资产管理巨擘全景介绍
 
-**《财富》世界500强排名：第 94 位**
-**企业使命：Act for human progress by protecting what matters (保护关键所在，助力人类进步)**
-**官方网站：[www.axa.com](https://www.axa.com)**
-
 ---
 
 ## 🏢 企业基本信息 (Corporate Snapshot)

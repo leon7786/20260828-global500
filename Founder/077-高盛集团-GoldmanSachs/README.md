@@ -1,7 +1,5 @@
 # #77 高盛集团与创始人档案 (Goldman Sachs & Marcus Goldman)
 
-本目录收录《财富》世界500强 **第 77 位** —— **高盛集团 (The Goldman Sachs Group, Inc.)** 及其开山祖师 **马库斯·高盛 (Marcus Goldman)** 与 **塞缪尔·萨克斯 (Samuel Sachs)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引

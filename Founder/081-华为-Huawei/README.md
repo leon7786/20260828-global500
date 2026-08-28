@@ -1,7 +1,5 @@
 # #81 华为投资控股有限公司与创始人档案 (Huawei & Ren Zhengfei)
 
-本目录收录《财富》世界500强 **第 81 位** —— **华为投资控股有限公司 (Huawei Investment & Holding Co., Ltd.)** 及其创始人 **任正非 (Ren Zhengfei)** 的深度全景档案。
-
 ---
 
 ## 📑 目录文档索引
