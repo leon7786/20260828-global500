@@ -1,6 +1,6 @@
 # 📊 《财富》世界500强 TOP 100 智库建设与精修进度大盘 (Progress Dashboard)
 
-> 📅 **最后更新时间**：`2026-08-29 02:11:35`  
+> 📅 **最后更新时间**：`2026-08-29 02:51:44`  
 > 🎯 **目标**：为全球 500 强前 100 家超级巨头与创始人建立独家专属档案，打造兼具商业洞察与文学可读性的大师级深度人物志全景文库。
 
 ---
@@ -11,9 +11,9 @@
 | :--- | :--- | :--- |
 | 🏢 **建档企业覆盖率** | **100 / 100 家 (100.0%)** | 全部 100 家企业专属目录与三件套结构 100% 就绪 |
 | 📑 **核心文档总量** | **300 / 300 篇 (100.0%)** | 每家均含 `company.md` + `founder.md` + `README.md` |
-| 🌟 **大师级深度精修数** | **25 家** (持续逐家精雕推进中) | 具备 10 大完整章节、电影级场景还原与硬核底层心法 |
-| ✅ **基础全景已完成数** | **75 家** (待逐家深化至大师级) | 具备完整生平时间线、公司全景与核心护城河分析 |
-| 📚 **全库总语料规模** | **2.04 MB (2,136,905 bytes)** | 高密度 Markdown 文档与 Mermaid 可视化架构图 |
+| 🌟 **大师级深度精修数** | **26 家** (持续逐家精雕推进中) | 具备 10 大完整章节、电影级场景还原与硬核底层心法 |
+| ✅ **基础全景已完成数** | **74 家** (待逐家深化至大师级) | 具备完整生平时间线、公司全景与核心护城河分析 |
+| 📚 **全库总语料规模** | **2.05 MB (2,151,341 bytes)** | 高密度 Markdown 文档与 Mermaid 可视化架构图 |
 
 ---
 
@@ -57,10 +57,10 @@
 | **#014** | **丰田汽车-Toyota** | 🌟 大师级深度精修 | 56.5 KB | [company.md](Founder/014-丰田汽车-Toyota/company.md) | [founder.md](Founder/014-丰田汽车-Toyota/founder.md) |
 | **#015** | **埃克森美孚-ExxonMobil** | 🌟 大师级深度精修 | 42.2 KB | [company.md](Founder/015-埃克森美孚-ExxonMobil/company.md) | [founder.md](Founder/015-埃克森美孚-ExxonMobil/founder.md) |
 | **#016** | **Cencora** | 🌟 大师级深度精修 | 45.2 KB | [company.md](Founder/016-Cencora/company.md) | [founder.md](Founder/016-Cencora/founder.md) |
-| **#017** | **中国建筑-CSCEC** | ✅ 基础全景完成 | 13.1 KB | [company.md](Founder/017-中国建筑-CSCEC/company.md) | [founder.md](Founder/017-中国建筑-CSCEC/founder.md) |
+| **#017** | **中国建筑-CSCEC** | 🌟 大师级深度精修 | 21.7 KB | [company.md](Founder/017-中国建筑-CSCEC/company.md) | [founder.md](Founder/017-中国建筑-CSCEC/founder.md) |
 | **#018** | **微软-Microsoft** | 🌟 大师级深度精修 | 62.8 KB | [company.md](Founder/018-微软-Microsoft/company.md) | [founder.md](Founder/018-微软-Microsoft/founder.md) |
-| **#019** | **摩根大通-JPMorganChase** | 🌟 大师级深度精修 | 26.1 KB | [company.md](Founder/019-摩根大通-JPMorganChase/company.md) | [founder.md](Founder/019-摩根大通-JPMorganChase/founder.md) |
-| **#020** | **开市客-Costco** | 🌟 大师级深度精修 | 15.7 KB | [company.md](Founder/020-开市客-Costco/company.md) | [founder.md](Founder/020-开市客-Costco/founder.md) |
+| **#019** | **摩根大通-JPMorganChase** | 🌟 大师级深度精修 | 25.2 KB | [company.md](Founder/019-摩根大通-JPMorganChase/company.md) | [founder.md](Founder/019-摩根大通-JPMorganChase/founder.md) |
+| **#020** | **开市客-Costco** | 🌟 大师级深度精修 | 22.0 KB | [company.md](Founder/020-开市客-Costco/company.md) | [founder.md](Founder/020-开市客-Costco/founder.md) |
 | **#021** | **信诺集团-Cigna** | ✅ 基础全景完成 | 8.5 KB | [company.md](Founder/021-信诺集团-Cigna/company.md) | [founder.md](Founder/021-信诺集团-Cigna/founder.md) |
 | **#022** | **壳牌公司-Shell** | ✅ 基础全景完成 | 7.8 KB | [company.md](Founder/022-壳牌公司-Shell/company.md) | [founder.md](Founder/022-壳牌公司-Shell/founder.md) |
 | **#023** | **鸿海富士康-Foxconn** | ✅ 基础全景完成 | 14.7 KB | [company.md](Founder/023-鸿海富士康-Foxconn/company.md) | [founder.md](Founder/023-鸿海富士康-Foxconn/founder.md) |
