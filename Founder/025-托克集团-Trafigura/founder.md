@@ -5,14 +5,14 @@
 
 ---
 
-> ### 📋 【传主档案速览】
-> • 全名：克劳德·多芬 (Claude Dauphin)
-> • 生卒：1951 年 6 月 10 日 – 2015 年 9 月 30 日 (享年 64 岁)
-> • 出生地：法国 诺曼底 乌尔加特 (Houlgate, Normandy) | 逝世地：瑞士 日内瓦 (Geneva)
-> • 身份：托克集团 (Trafigura Group) 联合创始人兼长期执行主席
-> • 家族渊源：诺曼底废旧金属回收商之子 (Guy Dauphin Environnement 家族企业)
-> • 行业威望：大宗商品界最受尊重的物理实物贸易大师、员工持股合伙制坚定践行者
-> • 核心精神图腾：实物资产重构贸易、团队绝对忠诚、危机担当与身先士卒、极度低调务实
+### 📋 传主档案速览
+• 全名：克劳德·多芬 (Claude Dauphin)
+• 生卒：1951 年 6 月 10 日 – 2015 年 9 月 30 日 (享年 64 岁)
+• 出生地：法国 诺曼底 乌尔加特 (Houlgate, Normandy) | 逝世地：瑞士 日内瓦 (Geneva)
+• 身份：托克集团 (Trafigura Group) 联合创始人兼长期执行主席
+• 家族渊源：诺曼底废旧金属回收商之子 (Guy Dauphin Environnement 家族企业)
+• 行业威望：大宗商品界最受尊重的物理实物贸易大师、员工持股合伙制坚定践行者
+• 核心精神图腾：实物资产重构贸易、团队绝对忠诚、危机担当与身先士卒、极度低调务实
 
 ---
 
@@ -91,9 +91,9 @@
 ## 💬 第六章：克劳德·多芬传世名言金句 (Iconic Quotes)
 
 1. **论合伙人文化与团队**  
-   > *“一个人走可能走得很快，但一群志同道合、利益一体的伙伴能够穿越任何沙漠与严寒。托克的财富不是储油罐里的石油，而是每一个愿意为同伴托付后背的合伙人。”*  
-   > _“You may walk fast alone, but only a united partnership can endure the desert and the winter. Trafigura's true wealth is not the oil in the tanks, but the partners who trust each other implicitly.”_
+*“一个人走可能走得很快，但一群志同道合、利益一体的伙伴能够穿越任何沙漠与严寒。托克的财富不是储油罐里的石油，而是每一个愿意为同伴托付后背的合伙人。”*
+_“You may walk fast alone, but only a united partnership can endure the desert and the winter. Trafigura's true wealth is not the oil in the tanks, but the partners who trust each other implicitly.”_
 
 2. **论危机与担当**  
-   > *“当风暴降临时，优秀的船长永远最后一个离开甲板；如果必须有人走进风暴去承担代价，那个人必须是我。”*  
-   > _“When a tempest strikes, a true captain is the last to leave the deck; if someone must step into the storm to bear the cost, that person must be me.”_
+*“当风暴降临时，优秀的船长永远最后一个离开甲板；如果必须有人走进风暴去承担代价，那个人必须是我。”*
+_“When a tempest strikes, a true captain is the last to leave the deck; if someone must step into the storm to bear the cost, that person must be me.”_

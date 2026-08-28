@@ -5,16 +5,16 @@
 
 ---
 
-> ### 📋 【传主与现代缔造者档案速览】
-> • 历史奠基人：卢西恩·拿破仑·布伦斯威格 (Lucien Napoleon Brunswig, 1854–1943)
-> • 现代合流领袖：埃米尔·马蒂尼 (Emil P. Martini Jr.)、罗伯特·马蒂尼 (Robert E. Martini)、
-> 戴夫·约斯特 (R. David Yost)、史蒂文·柯利斯 (Steven H. Collis)、鲍勃·莫奇 (Bob Mauch)
-> • 创办/演进谱系：Brunswig Drug Co. (1888) + Bergen Drug Co. (1947) + Kauffman-Lattimer / AmeriSource (1902/1994)
-> -> AmerisourceBergen (2001 世纪合并) -> Cencora, Inc. (2023 全球统合更名)
-> • 出生与国籍：1854 年 8 月 10 日生于法国默兹省蒙梅迪 (Montmédy, France) | 美籍法裔药剂拓荒家
-> • 企业历史地位：2026年《财富》世界500强第16位 (年营业收入超 2900 亿~3000 亿美元)
-> 全美最大的专科特药 (Specialty) 与肿瘤药物分销中枢、全球超低温细胞基因疗法 (CGT) 冷链领军者
-> • 核心精神图腾：生物特药冷链极值防御、好邻居独立药房生态飞轮、静脉到静脉零容错、化学纯度第一性原理
+### 📋 传主与现代缔造者档案速览
+• 历史奠基人：卢西恩·拿破仑·布伦斯威格 (Lucien Napoleon Brunswig, 1854–1943)
+• 现代合流领袖：埃米尔·马蒂尼 (Emil P. Martini Jr.)、罗伯特·马蒂尼 (Robert E. Martini)、
+戴夫·约斯特 (R. David Yost)、史蒂文·柯利斯 (Steven H. Collis)、鲍勃·莫奇 (Bob Mauch)
+• 创办/演进谱系：Brunswig Drug Co. (1888) + Bergen Drug Co. (1947) + Kauffman-Lattimer / AmeriSource (1902/1994)
+-> AmerisourceBergen (2001 世纪合并) -> Cencora, Inc. (2023 全球统合更名)
+• 出生与国籍：1854 年 8 月 10 日生于法国默兹省蒙梅迪 (Montmédy, France) | 美籍法裔药剂拓荒家
+• 企业历史地位：2026年《财富》世界500强第16位 (年营业收入超 2900 亿~3000 亿美元)
+全美最大的专科特药 (Specialty) 与肿瘤药物分销中枢、全球超低温细胞基因疗法 (CGT) 冷链领军者
+• 核心精神图腾：生物特药冷链极值防御、好邻居独立药房生态飞轮、静脉到静脉零容错、化学纯度第一性原理
 
 ---
 
@@ -29,7 +29,7 @@
 - **父亲查尔斯·A·布伦斯威格 (Charles A. Brunswig)**：是一名备受当地村民尊重的乡村全科医生。在 19 世纪中叶霍乱与伤寒频发的法国乡村，老布伦斯威格整日奔波于泥泞的农舍之间，随身携带着沉重的皮革药箱，亲手用天平为穷苦病人研磨草药、调配退热散。
 - **母亲罗莎莉·拉扎德 (Rosalie Lazard)**：出身于法国阿尔萨斯-洛林地区的商人望族，赋予了少年卢西恩对商业契约、数字核算与严谨秩序的天生敏锐度。
 - **药剂学的最初烙印**：在父亲的诊疗室里，小卢西恩最深刻的童年记忆不是玩具，而是整齐排列的深棕色玻璃药瓶、研钵捣碎植物根茎散发出的苦涩香气，以及父亲反复告诫他的铁律：
-  > **“卢西恩，天平上的指针哪怕偏离半个格林（Grain，英厘），给病人服下的就不是治病的良药，而是致命的毒药。药剂师的手，必须比法官的天平还要精准。”**
+**“卢西恩，天平上的指针哪怕偏离半个格林（Grain，英厘），给病人服下的就不是治病的良药，而是致命的毒药。药剂师的手，必须比法官的天平还要精准。”**
 
 ### 2. 1870 普法战争浩劫与 17 岁少年的跨洋逃难
 1870 年夏天，普法战争爆发。拿破仑三世的法兰西第二帝国在色当战役惨败，普鲁士大军长驱直入，默兹省全境沦为战火硝烟弥漫的前线。
@@ -90,13 +90,13 @@
 - **1907 买断更名 Brunswig Drug Company**：1907 年，卢西恩正式出资全额收购了合伙人布劳恩的股份，将企业正式重组并更名为 **Brunswig Drug Company（布伦斯威格药业公司）**，亲自出任总裁兼董事长。
 - 他在布伦斯威格大楼内建立了更加宏大的五层综合现代医药枢纽：地下一层为恒温地窖，存放易挥发醚类与血清疫苗；一层为急诊配药与分拣发货大厅；二层为全美西最奢华的外科仪器展示厅；三层至四层为庞大的原料药仓储；五层则是名震西部的“布伦斯威格现代药物化验室”。
 
-> BRUNSWIG DRUG COMPANY - 1907 (501 N. MAIN ST)
-> [5F] 分析化学与生物制剂化验室 (Purity & Standard Testing Lab)
-> [4F] 大宗原料药与进口天然植物药材仓 (Bulk Botanicals & Chemicals)
-> [3F] 标准化片剂/酊剂/胶囊包装流水线 (Compounding & Bottling Line)
-> [2F] 外科精密手术器械与医院装备展厅 (Surgical Instruments & Hospital)
-> [1F] 铁路与马车极速分拣调度中枢 (Express Logistics & Fulfillment)
-> [B1] 恒温地窖生物血清与特种疫苗储存库 (Cold Storage Serums & Vaccines)
+BRUNSWIG DRUG COMPANY - 1907 (501 N. MAIN ST)
+[5F] 分析化学与生物制剂化验室 (Purity & Standard Testing Lab)
+[4F] 大宗原料药与进口天然植物药材仓 (Bulk Botanicals & Chemicals)
+[3F] 标准化片剂/酊剂/胶囊包装流水线 (Compounding & Bottling Line)
+[2F] 外科精密手术器械与医院装备展厅 (Surgical Instruments & Hospital)
+[1F] 铁路与马车极速分拣调度中枢 (Express Logistics & Fulfillment)
+[B1] 恒温地窖生物血清与特种疫苗储存库 (Cold Storage Serums & Vaccines)
 
 ### 3. 西南版图大扩张：菲尼克斯、图森与圣地亚哥连锁重镇
 在卢西恩的运筹帷幄下，布伦斯威格药业展开了极具前瞻性的区域裂变：
@@ -164,7 +164,7 @@
 - 这场由美国著名联邦法官**斯坦利·斯波金 (Judge Stanley Sporkin)** 主审的世纪大审判整整持续了 7 周，数百名行业高管、经济学家和反垄断专家出庭作证，堆积的证据卷宗高达数十万页。
 - 诉讼焦点在于：药品分销是否是一个独立的、不可替代的国家级相关市场？
 - 1998 年 7 月 31 日，斯波金法官签署了长达 60 页的历史性判决书，斩钉截铁地下达禁令阻止合并：
-  > **“处方药的批发分销不仅是单纯的物流，它是全美数万家社区药房、养老院和重症医院赖以生存的氧气管道。如果允许市场集中于两家超级寡头，竞争的熄灭必将导致药品配送费率上涨、服务质量下降，最终将不可承受的代价转嫁到最无助的重症患者身上！”**
+**“处方药的批发分销不仅是单纯的物流，它是全美数万家社区药房、养老院和重症医院赖以生存的氧气管道。如果允许市场集中于两家超级寡头，竞争的熄灭必将导致药品配送费率上涨、服务质量下降，最终将不可承受的代价转嫁到最无助的重症患者身上！”**
 - 判决一出，两项轰动华尔街的跨级并购案彻底宣告流产。
 
 ### 3. 2001.08.29 密谋破局：美源伯根 (AmerisourceBergen) 70亿对等合并
@@ -218,10 +218,10 @@
   - 全球每台运输罐配备实时卫星 GPS 轨迹追踪、三轴重力防倾斜震荡传感器与秒级温度记录仪；
   - 实现了人类医药史上对生物活性物质最严苛的“链条身份唯一性 (Chain of Identity, COI)”与“责任交接链 (Chain of Custody, COC)”全流程数字化不可篡改锁定。
 
-> CENCORA / WORLD COURIER "VEIN-TO-VEIN" CGT LIFELINE
-> [1. 患者采血] ---> [2. 2~8℃ 极速温控空运] ---> [3. 药企中心实验室基因修饰/扩增]
-> |
-> [6. 医院复苏回输] <--- [5. -196℃ 液氮干罐全球直递] <--- [4. -196℃ 液氮深低温玻璃化冻存]
+CENCORA / WORLD COURIER "VEIN-TO-VEIN" CGT LIFELINE
+[1. 患者采血] ---> [2. 2~8℃ 极速温控空运] ---> [3. 药企中心实验室基因修饰/扩增]
+|
+[6. 医院复苏回输] <--- [5. -196℃ 液氮干罐全球直递] <--- [4. -196℃ 液氮深低温玻璃化冻存]
 
 ### 2. 2021 并购欧洲巨头 Alliance Healthcare：65 亿美元的全球大合纵
 2021 年 6 月，在史蒂文·柯利斯的主导下，美源伯根完成了公司历史上最大规模的跨国并购——以 **65 亿美元（约 54.7 亿欧元）** 现金从沃尔格林联合博姿（Walgreens Boots Alliance, WBA）手中全资收购了欧洲最大的医药分销商之一 **Alliance Healthcare**。
@@ -246,15 +246,15 @@
 
 ## 🧠 第八章：Cencora 八大底层商业认知工具箱 (Mental Models)
 
-> 【Cencora 传世八大第一性商业与供应链思维模型】
-> 1. 生物特药冷链极值防御模型 (Biological Cold-Chain Moat)
-> 2. 独立药房命运共同体飞轮 (Independent Pharmacy Cooperative Flywheel)
-> 3. 静脉到静脉零容错生命链法则 (Vein-to-Vein Zero-Defect Lifeline)
-> 4. 药品化学纯度第一性原理 (Standard of Chemical Purity & Anti-Counterfeit)
-> 5. 临床诊所全周期深度嵌合模型 (Clinical Practice Full-Cycle Embedding)
-> 6. 万亿周转极低毛利精益套利模型 (Scale-Velocity Working Capital Arbitrage)
-> 7. 全球医药供应链冗余与韧性防御 (Global Pandemic Resilient Redundancy)
-> 8. 三源归一品牌势能聚合模型 (Unified Brand Energy Convergence)
+【Cencora 传世八大第一性商业与供应链思维模型】
+1. 生物特药冷链极值防御模型 (Biological Cold-Chain Moat)
+2. 独立药房命运共同体飞轮 (Independent Pharmacy Cooperative Flywheel)
+3. 静脉到静脉零容错生命链法则 (Vein-to-Vein Zero-Defect Lifeline)
+4. 药品化学纯度第一性原理 (Standard of Chemical Purity & Anti-Counterfeit)
+5. 临床诊所全周期深度嵌合模型 (Clinical Practice Full-Cycle Embedding)
+6. 万亿周转极低毛利精益套利模型 (Scale-Velocity Working Capital Arbitrage)
+7. 全球医药供应链冗余与韧性防御 (Global Pandemic Resilient Redundancy)
+8. 三源归一品牌势能聚合模型 (Unified Brand Energy Convergence)
 
 ### 1. 生物特药冷链极值防御模型 (Biological Cold-Chain Moat)
 - **底层心法**：在成熟的商业社会中，容易运输的标品终将沦为无利润的红海泥潭；而**物理交付难度最高、环境容错率最低的品类，蕴藏着最坚不可摧的超额利润高墙**。
@@ -320,24 +320,24 @@
 ### 经典名言金句 (Iconic Quotes)
 
 1. > **“药品的流通不是简单的商业仓储与吨位搬运，它是微观分子与病患生命之间最不可断裂的信任纽带。”**  
-   > *“Pharmaceutical distribution is never merely commercial warehousing and tonnage hauling; it is the unbreakable bond of trust between micro-molecules and human lives.”*  
-   > —— 卢西恩·拿破仑·布伦斯威格 (Lucien Napoleon Brunswig)
+*“Pharmaceutical distribution is never merely commercial warehousing and tonnage hauling; it is the unbreakable bond of trust between micro-molecules and human lives.”*
+—— 卢西恩·拿破仑·布伦斯威格 (Lucien Napoleon Brunswig)
 
 2. > **“天平上的指针哪怕偏离半个格林，给病人服下的就不是治病的良药，而是致命的毒药。药剂师的天职是捍卫绝对的精确。”**  
-   > *“Even if the needle on the balance deviates by half a grain, what is administered to the patient is no longer medicine, but deadly poison. The pharmacist's calling is to defend absolute precision.”*  
-   > —— 卢西恩·布伦斯威格 (1885 年新奥尔良化验室训诫)
+*“Even if the needle on the balance deviates by half a grain, what is administered to the patient is no longer medicine, but deadly poison. The pharmacist's calling is to defend absolute precision.”*
+—— 卢西恩·布伦斯威格 (1885 年新奥尔良化验室训诫)
 
 3. > **“不要试图消灭独立药房，我们要成为他们最坚强的后盾，让每一个街角的邻里药剂师都拥有对抗商业托拉斯的力量。”**  
-   > *“Do not attempt to eliminate independent pharmacies; we must become their strongest backbone, empowering every neighborhood pharmacist on the corner to stand against commercial trusts.”*  
-   > —— 戴夫·约斯特 (R. David Yost, 创立 Good Neighbor Pharmacy 宣言)
+*“Do not attempt to eliminate independent pharmacies; we must become their strongest backbone, empowering every neighborhood pharmacist on the corner to stand against commercial trusts.”*
+—— 戴夫·约斯特 (R. David Yost, 创立 Good Neighbor Pharmacy 宣言)
 
 4. > **“在小分子时代，分销拼的是吨位与速度；在细胞与生物制药时代，分销拼的是零下 196 度的极温控制与零容错的生命责任。”**  
-   > *“In the era of small molecules, distribution competed on tonnage and speed; in the era of cellular and biopharmaceuticals, it competes on minus 196-degree extreme thermal control and zero-tolerance responsibility for life.”*  
-   > —— 史蒂文·柯利斯 (Steven H. Collis)
+*“In the era of small molecules, distribution competed on tonnage and speed; in the era of cellular and biopharmaceuticals, it competes on minus 196-degree extreme thermal control and zero-tolerance responsibility for life.”*
+—— 史蒂文·柯利斯 (Steven H. Collis)
 
 5. > **“我们之所以更名为 Cencora，是因为我们的使命已经超越了简单的地理名称拼凑。我们是全球健康的枢纽，每一剂药物的流转皆是对生命的终极关怀。”**  
-   > *“We rebranded to Cencora because our mission has transcended a mere patchwork of legacy geographical names. We are the central hub of global health, and every delivery of medicine is an ultimate act of care.”*  
-   > —— 鲍勃·莫奇 (Bob Mauch, 2023 全球更名演讲)
+*“We rebranded to Cencora because our mission has transcended a mere patchwork of legacy geographical names. We are the central hub of global health, and every delivery of medicine is an ultimate act of care.”*
+—— 鲍勃·莫奇 (Bob Mauch, 2023 全球更名演讲)
 
 ---
 

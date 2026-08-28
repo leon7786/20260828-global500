@@ -5,17 +5,17 @@
 
 ---
 
-> ### 📋 【双奠基领袖档案速览】
-> • 地质拓荒奠基人：马克斯·斯坦尼克 (Max Steineke, 1898 — 1952)
-> - 身份：加州阿拉伯标准石油公司 (CASOC / 阿美前身) 传奇首席地质师
-> - 核心功勋：抗命坚持深钻“达曼7号繁荣之井”、主导发现全球最大陆上油田加瓦尔 (Ghawar)
-> - 荣誉：美国石油地质家协会 (AAPG) 最高学术荣誉“西德尼·鲍尔斯纪念奖章”获得者
-> • 现代掌舵与首位本土CEO：阿里·易卜拉欣·纳伊米 (Ali Ibrahim Al-Naimi, 1935 — )
-> - 身份：沙特阿美首位沙特籍总裁兼首席执行官 (1988–1995)、沙特石油与矿产资源大臣 (1995–2016)
-> - 传奇轨迹：从 4 岁赤足贝都因放羊娃、12 岁阿美跑腿信差，自学考入斯坦福，登顶执掌全球原油央行
-> • 核心实体：沙特阿拉伯石油公司 (Saudi Arabian Oil Group / Saudi Aramco)
-> • 历史极值市值：超 2.4 万亿美元（人类商业史上规模最大 IPO 纪录保持者）
-> • 核心精神图腾：达曼7号抗命一击、3美元极致开采成本护城河、闲置产能全球稳定器、教育立国
+### 📋 双奠基领袖档案速览
+• 地质拓荒奠基人：马克斯·斯坦尼克 (Max Steineke, 1898 — 1952)
+- 身份：加州阿拉伯标准石油公司 (CASOC / 阿美前身) 传奇首席地质师
+- 核心功勋：抗命坚持深钻“达曼7号繁荣之井”、主导发现全球最大陆上油田加瓦尔 (Ghawar)
+- 荣誉：美国石油地质家协会 (AAPG) 最高学术荣誉“西德尼·鲍尔斯纪念奖章”获得者
+• 现代掌舵与首位本土CEO：阿里·易卜拉欣·纳伊米 (Ali Ibrahim Al-Naimi, 1935 — )
+- 身份：沙特阿美首位沙特籍总裁兼首席执行官 (1988–1995)、沙特石油与矿产资源大臣 (1995–2016)
+- 传奇轨迹：从 4 岁赤足贝都因放羊娃、12 岁阿美跑腿信差，自学考入斯坦福，登顶执掌全球原油央行
+• 核心实体：沙特阿拉伯石油公司 (Saudi Arabian Oil Group / Saudi Aramco)
+• 历史极值市值：超 2.4 万亿美元（人类商业史上规模最大 IPO 纪录保持者）
+• 核心精神图腾：达曼7号抗命一击、3美元极致开采成本护城河、闲置产能全球稳定器、教育立国
 
 ---
 
@@ -96,7 +96,7 @@
 - **旧金山总部的“死刑判决”**：
   - 截至 1937 年底，CASOC 已经在沙特荒漠中砸进了数百万美元巨资（相当于今天的数亿美元），颗粒无收。
   - 此时大萧条阴影尚未消散，加州标准石油公司的股东与董事会高管彻底失去了耐心。加州总部接连向达兰拍发加急绝密电报，措辞严厉地命令：
-    > **“鉴于达曼地区勘探毫无商业产出，立即终止所有在钻井位，封死井口，就地遣散沙特当地雇员，美国工程技术人员全员打包撤回旧金山！”**
+**“鉴于达曼地区勘探毫无商业产出，立即终止所有在钻井位，封死井口，就地遣散沙特当地雇员，美国工程技术人员全员打包撤回旧金山！”**
 
 ### 3. 斯坦尼克抗命深钻：达曼7号井与1938年3月3日破晓奇迹
 面对总部的撤退死刑令，斯坦尼克展现出了一位伟大科学家的钢铁意志与战略定力。
@@ -104,7 +104,7 @@
   - 斯坦尼克通过对邻国巴林岛浅层油田岩芯的反复对比，结合自己在沙特荒漠中收集的数千块化石碎片，推导出一个极其激进的大胆结论：**前 6 口井失败的原因是钻探深度远远不够！真正的超级巨型生油层并不在浅层的始新世或白垩系地层，而是深埋在地下 1300 米至 1500 米处的侏罗系碳酸盐岩地层（即斯坦尼克命名的‘阿拉伯带’ Arab Zone）！**
 - **立下军令状抗命**：
   - 斯坦尼克亲自起草了一份长达数十页的详尽地质论证电报，直接越级发送给 SOCAL 董事会核心决策层，以自己的职业生涯和声誉作为赌注：
-    > **“请给我们最后一次机会，把达曼 7 号井继续往深处钻！如果穿透阿拉伯带石灰岩依然没有油流，我将自愿辞去一切职务并承担全部责任；但如果现在撤退，我们将把人类历史上最富饶的石油盆地拱手让给竞争对手！”**
+**“请给我们最后一次机会，把达曼 7 号井继续往深处钻！如果穿透阿拉伯带石灰岩依然没有油流，我将自愿辞去一切职务并承担全部责任；但如果现在撤退，我们将把人类历史上最富饶的石油盆地拱手让给竞争对手！”**
   - 董事会被斯坦尼克的笃定所打动，勉强同意给予最后三个月的宽限期。
 - **1938 年 3 月 3 日：繁荣之井喷涌**：
   - 钻探工人们日夜不停地轮班操作蒸汽钻机。1938 年 3 月 3 日清晨，当钻头一路艰难推进到地下 **4,727 英尺（约 1,440 米）** 时，剧烈的高压脉冲突然从井底顺着钻杆疯狂震颤！
@@ -191,7 +191,7 @@
 2008 年上半年，国际金融投机资本大肆炒作全球原油“见顶论（Peak Oil）”，NYMEX 原油期货一路疯涨至 **147.27 美元/桶** 的人类历史最高极值。
 - 高昂的油价严重拖垮了全球实体经济，西方七国集团（G7）领导人纷纷指责沙特人为制造短缺。
 - 纳伊米在吉达紧急召集全球主要消费国与生产国首脑能源峰会，发表了掷地有声的公开演说：
-  > **“国际原油市场上根本不存在任何现货供应短缺！当前的疯狂高价，纯粹是由华尔街金融投机客在期货衍生品市场上的无度操纵所制造的虚假泡沫！”**
+**“国际原油市场上根本不存在任何现货供应短缺！当前的疯狂高价，纯粹是由华尔街金融投机客在期货衍生品市场上的无度操纵所制造的虚假泡沫！”**
 - 为击垮投机泡沫，纳伊米启动了沙特阿美长期储备的 **每日 150 万至 200 万桶“富余闲置产能 (Spare Capacity)”**，开足马力向现货市场注入平价原油，并公开承诺沙特随时准备满足全球消费者的每一桶额外需求。
 - 当 2008 年底雷曼兄弟倒闭、全球次贷危机全面引爆时，沙特阿美的闲置产能机制再次发挥了“原油中央银行”的反周期对冲功能，避免了全球能源供应链的剧烈休克。
 
@@ -202,7 +202,7 @@
   - 纳伊米洞察到了经济学的本质规律：如果沙特阿美单方面减产，油价短期虽然会被托住，但腾出的市场份额会被高成本的美国页岩油迅速蚕食；沙特阿美将沦为替高成本对手免费“买单”的冤大头。
   - **2014 年 11 月维也纳会议**：纳伊米力排众议，宣布沙特阿美**绝不单方面减产，任由市场供求自由决定价格**！
   - 纳伊米在接受英国《金融时报》采访时留下了那句震动全球华尔街的传世狠话：
-    > **“不管是 20 美元、40 美元还是 50 美元，沙特阿美单桶生产成本只有区区 3 美元！我们拥有全世界最雄厚的现金储备和最低的成本，能坚持很多年；但那些每桶成本需要 60 到 80 美元的高杠杆对手，他们能撑多久？”**
+**“不管是 20 美元、40 美元还是 50 美元，沙特阿美单桶生产成本只有区区 3 美元！我们拥有全世界最雄厚的现金储备和最低的成本，能坚持很多年；但那些每桶成本需要 60 到 80 美元的高杠杆对手，他们能撑多久？”**
   - 随后国际油价暴跌至 27 美元，超过 100 家高负债的美国页岩油开采商在一年内相继宣告破产清算，全球能源行业被迫进行了一场剧烈的成本去杠杆出清，沙特阿美的全球市场份额与定价底线再次得到捍卫。
 
 ---
@@ -259,38 +259,38 @@
 
 ## 🧠 第八章：八大底层战略与认知工具箱 (Mental Models)
 
-> 【沙特阿美与奠基领袖八大传世底层认知模型】
-> 1. 极致低成本护城河模型 (Lowest-Cost Producer Moat)
-> • 核心心法：大宗商品本质上是同质化的，任何溢价都是暂时的。只有将单桶全流程开采成本
-> 死死压制在全行业全球绝对底线 ($3-$5/桶)，才能在油价经历 10 美元暴跌的任何
-> 极端凛冬中依然产生充沛的自由现金流，在漫长残酷的周期中活活熬死所有高成本对手。
-> 2. 闲置产能战略威慑模型 (Spare Capacity Leverage / Central Bank of Oil)
-> • 核心心法：常年不惜牺牲短期收益保留 150-200 万桶/日随时可启用的“富余闲置产能”，
-> **使沙特阿美拥有了如同全球“原油中央银行”般的非对称权力——能在供应中断时**
-> 开闸平抑恐慌，也能在对手扩产时放水施压，掌握全球大宗商品定价终极话语权。
-> 3. 地质深层第一性原理 (Subsurface First-Principles Drilling)
-> • 核心心法：当所有人都在地表浅层按既有经验寻找参照物时，敢于打破浅层教条，从岩石学、
-> 沉积古地理与古构造应力场的底层物理机理出发，做出反共识的深层钻探战略豪赌。
-> 4. 和平商业赎买与制度嫁接模型 (Peaceful Buyout & Institutional Continuity)
-> • 核心心法：资源主权回归绝不能诉诸民粹式的暴力没收与盲目排外。以公允的商业资产补偿
-> 换取和平交接，全盘移植并保留西方最顶级的工程规范、财务透明度与唯才录用机制，
-> 实现国家所有权与跨国卓越运营能力的完美统一。
-> 5. 梯子全层攀爬领导力 (Every-Rung Leadership Ladder)
-> • 核心心法：真正的行业统帅必须从最底层的信差、钻井工、水文员干起，亲自摸过每一根管道、
-> 闻过每一批泥浆。唯有对系统每一个最微小的齿轮了如指掌，才能在高层战略决策中
-> 穿透下属的粉饰汇报，做出最接地气、最致命的精准决断。
-> 6. 贝都因极端环境韧性思维 (Bedouin Desert Resilience)
-> • 核心心法：像沙漠游牧民族面对沙暴一样审视商业周期：永远不为丰水期的繁荣冲昏头脑，
-> 永远在丰年储备骆驼奶与水源（现金流与闲置产能）；在沙暴降临时把头埋低保持定力，
-> 等待风暴散去后再迅速出击捕获战果。
-> 7. 原油直达化学品价值跃迁模型 (Crude-to-Chemicals Value Chain Leap)
-> • 核心心法：摆脱对传统低附加值初级燃料消费的单一路径依赖，通过重组并购与尖端催化技术，
-> 将 70%-80% 的原油直接解构重塑为高技术门槛、长生命周期的特种高分子化学材料，
-> 实现产业链维度上的跨越式升维。
-> 8. 资源资本向脑力资本转化飞轮 (Resource-to-Knowledge Endowment Flywheel)
-> • 核心心法：不可再生的地下矿藏是上天的暂时馈赠，唯有将不可再生的地质财富在黄金窗口期
-> 迅速转化为源源不断的人才储备、基础科研基础设施与学术禀赋基金，才能打破资源诅咒，
-> 让国家文明在后化石时代获得永续繁衍的动力源泉。
+【沙特阿美与奠基领袖八大传世底层认知模型】
+1. 极致低成本护城河模型 (Lowest-Cost Producer Moat)
+• 核心心法：大宗商品本质上是同质化的，任何溢价都是暂时的。只有将单桶全流程开采成本
+死死压制在全行业全球绝对底线 ($3-$5/桶)，才能在油价经历 10 美元暴跌的任何
+极端凛冬中依然产生充沛的自由现金流，在漫长残酷的周期中活活熬死所有高成本对手。
+2. 闲置产能战略威慑模型 (Spare Capacity Leverage / Central Bank of Oil)
+• 核心心法：常年不惜牺牲短期收益保留 150-200 万桶/日随时可启用的“富余闲置产能”，
+**使沙特阿美拥有了如同全球“原油中央银行”般的非对称权力——能在供应中断时**
+开闸平抑恐慌，也能在对手扩产时放水施压，掌握全球大宗商品定价终极话语权。
+3. 地质深层第一性原理 (Subsurface First-Principles Drilling)
+• 核心心法：当所有人都在地表浅层按既有经验寻找参照物时，敢于打破浅层教条，从岩石学、
+沉积古地理与古构造应力场的底层物理机理出发，做出反共识的深层钻探战略豪赌。
+4. 和平商业赎买与制度嫁接模型 (Peaceful Buyout & Institutional Continuity)
+• 核心心法：资源主权回归绝不能诉诸民粹式的暴力没收与盲目排外。以公允的商业资产补偿
+换取和平交接，全盘移植并保留西方最顶级的工程规范、财务透明度与唯才录用机制，
+实现国家所有权与跨国卓越运营能力的完美统一。
+5. 梯子全层攀爬领导力 (Every-Rung Leadership Ladder)
+• 核心心法：真正的行业统帅必须从最底层的信差、钻井工、水文员干起，亲自摸过每一根管道、
+闻过每一批泥浆。唯有对系统每一个最微小的齿轮了如指掌，才能在高层战略决策中
+穿透下属的粉饰汇报，做出最接地气、最致命的精准决断。
+6. 贝都因极端环境韧性思维 (Bedouin Desert Resilience)
+• 核心心法：像沙漠游牧民族面对沙暴一样审视商业周期：永远不为丰水期的繁荣冲昏头脑，
+永远在丰年储备骆驼奶与水源（现金流与闲置产能）；在沙暴降临时把头埋低保持定力，
+等待风暴散去后再迅速出击捕获战果。
+7. 原油直达化学品价值跃迁模型 (Crude-to-Chemicals Value Chain Leap)
+• 核心心法：摆脱对传统低附加值初级燃料消费的单一路径依赖，通过重组并购与尖端催化技术，
+将 70%-80% 的原油直接解构重塑为高技术门槛、长生命周期的特种高分子化学材料，
+实现产业链维度上的跨越式升维。
+8. 资源资本向脑力资本转化飞轮 (Resource-to-Knowledge Endowment Flywheel)
+• 核心心法：不可再生的地下矿藏是上天的暂时馈赠，唯有将不可再生的地质财富在黄金窗口期
+迅速转化为源源不断的人才储备、基础科研基础设施与学术禀赋基金，才能打破资源诅咒，
+让国家文明在后化石时代获得永续繁衍的动力源泉。
 
 ---
 
@@ -315,7 +315,7 @@
 ### 4. 拒绝“石油沙皇”头衔：一位永远记得羊群味道的斯坦福地质学家
 在掌管全球万亿级能源命脉的二十多年里，国际媒体和华尔街投行无数次冠以纳伊米“全球最具权势人物”、“能源沙皇”、“油价操盘手”等显赫头衔。
 - 但纳伊米在每一次公开演讲或接受采访时，总是平静地微笑着纠正对方：
-  > **“请不要叫我沙皇。我不是什么政客，也不是什么金融大鳄。我本质上永远是一个在沙漠里放过羊的贝都因孩子，一个毕业于斯坦福大学、热爱观察岩石和地层水流的普通地质工程师。”**
+**“请不要叫我沙皇。我不是什么政客，也不是什么金融大鳄。我本质上永远是一个在沙漠里放过羊的贝都因孩子，一个毕业于斯坦福大学、热爱观察岩石和地层水流的普通地质工程师。”**
 - 即使在退休后，纳伊米依然经常独自一人开车深入达兰周围的荒漠，抓起一把沙砾放在鼻尖轻嗅，凝视着远处的抽油机起伏，回味着那片赋予了他一切的大漠泥土气息。
 
 ---
@@ -325,28 +325,28 @@
 ### 经典名言金句 (Iconic Quotes)
 
 1. **论地质勘探与战略定力 (马克斯·斯坦尼克)**  
-   > *“大地从不轻易交出它的秘密。当所有平庸的数据都告诉你该放弃时，真正的突破往往就藏在再往下多钻几百英尺的坚硬地层之中。”*  
-   > _“The Earth does not give up its secrets easily. When all ordinary data tells you to quit, the true breakthrough is often hidden just a few hundred feet deeper into the rock.”_
+*“大地从不轻易交出它的秘密。当所有平庸的数据都告诉你该放弃时，真正的突破往往就藏在再往下多钻几百英尺的坚硬地层之中。”*
+_“The Earth does not give up its secrets easily. When all ordinary data tells you to quit, the true breakthrough is often hidden just a few hundred feet deeper into the rock.”_
 
 2. **论大宗商品周期与极致成本 (阿里·纳伊米)**  
-   > *“大宗商品的周期狂风永远会来去无常。不要试图去预测风暴何时降临，而要确保你的全流程生产成本比全世界所有对手都低。只要你的成本是 3 美元，你就拥有在任何狂风暴雨中泰然自若的特权。”*  
-   > _“The winds of commodity cycles come and go. Do not try to predict the storm; simply ensure your production costs are lower than anyone else in the world. As long as your cost is $3 a barrel, you hold the privilege of staying calm through any hurricane.”_
+*“大宗商品的周期狂风永远会来去无常。不要试图去预测风暴何时降临，而要确保你的全流程生产成本比全世界所有对手都低。只要你的成本是 3 美元，你就拥有在任何狂风暴雨中泰然自若的特权。”*
+_“The winds of commodity cycles come and go. Do not try to predict the storm; simply ensure your production costs are lower than anyone else in the world. As long as your cost is $3 a barrel, you hold the privilege of staying calm through any hurricane.”_
 
 3. **论大漠出身与求知信仰 (阿里·纳伊米)**  
-   > *“大沙漠教会了我两件事：第一，水源是生命，必须极度珍惜每一滴资源；第二，贫穷和出身绝不能定义你的天花板。只要你手里拿着书本，心里怀揣好奇，即使是光着脚的放羊娃也能走向世界的舞台中央。”*  
-   > _“The desert taught me two things: First, water is life, and you must cherish every drop. Second, poverty and birth never define your ceiling. As long as you hold a book and remain curious, even a barefoot shepherd boy can walk to the center of the world stage.”_
+*“大沙漠教会了我两件事：第一，水源是生命，必须极度珍惜每一滴资源；第二，贫穷和出身绝不能定义你的天花板。只要你手里拿着书本，心里怀揣好奇，即使是光着脚的放羊娃也能走向世界的舞台中央。”*
+_“The desert taught me two things: First, water is life, and you must cherish every drop. Second, poverty and birth never define your ceiling. As long as you hold a book and remain curious, even a barefoot shepherd boy can walk to the center of the world stage.”_
 
 4. **论原油央行的闲置产能威慑 (阿里·纳伊米)**  
-   > *“拥有闲置产能就像是在刀鞘中保留着一柄未出鞘的利刃。你不需要每天挥舞它，但全世界所有人都知道它能在几秒钟内斩断任何投机者的非分之想。”*  
-   > _“Having spare capacity is like keeping a sharp sword in its scabbard. You do not need to wield it every day, but the entire world knows it can cut through any speculator’s greed in seconds.”_
+*“拥有闲置产能就像是在刀鞘中保留着一柄未出鞘的利刃。你不需要每天挥舞它，但全世界所有人都知道它能在几秒钟内斩断任何投机者的非分之想。”*
+_“Having spare capacity is like keeping a sharp sword in its scabbard. You do not need to wield it every day, but the entire world knows it can cut through any speculator’s greed in seconds.”_
 
 5. **论和平国有化与制度传承 (阿里·纳伊米)**  
-   > *“国家的尊严不在于你用愤怒夺回了什么，而在于你用智慧保留并光大了什么。沙特阿美最宝贵的财富不是地下的原油，而是那套严苛、透明、唯才是举的现代化工程师管理灵魂。”*  
-   > _“A nation’s dignity is not measured by what it seizes in anger, but by what it preserves and elevates through wisdom. Saudi Aramco’s greatest asset is not the oil underground, but its rigorous, transparent, and meritocratic engineering soul.”_
+*“国家的尊严不在于你用愤怒夺回了什么，而在于你用智慧保留并光大了什么。沙特阿美最宝贵的财富不是地下的原油，而是那套严苛、透明、唯才是举的现代化工程师管理灵魂。”*
+_“A nation’s dignity is not measured by what it seizes in anger, but by what it preserves and elevates through wisdom. Saudi Aramco’s greatest asset is not the oil underground, but its rigorous, transparent, and meritocratic engineering soul.”_
 
 6. **论后石油时代与教育立国 (阿里·纳伊米)**  
-   > *“石器时代之所以结束，并不是因为地球上的石头用光了；石油时代也终将落幕，但绝不是因为地下没有了石油。真正的繁荣不在于我们开采了多少桶原油，而在于我们用这些财富培养了多少拥有创造力的大脑。”*  
-   > _“The Stone Age did not end because the world ran out of stones, and the Oil Age will end long before the world runs out of oil. True prosperity is not measured by the barrels we pump, but by the creative minds we nurture with that wealth.”_
+*“石器时代之所以结束，并不是因为地球上的石头用光了；石油时代也终将落幕，但绝不是因为地下没有了石油。真正的繁荣不在于我们开采了多少桶原油，而在于我们用这些财富培养了多少拥有创造力的大脑。”*
+_“The Stone Age did not end because the world ran out of stones, and the Oil Age will end long before the world runs out of oil. True prosperity is not measured by the barrels we pump, but by the creative minds we nurture with that wealth.”_
 
 ---
 

@@ -1,8 +1,8 @@
 # 雀巢公司 (Nestlé S.A.) —— 全球第一大食品饮料与营养健康帝国全景介绍
 
-> **《财富》世界500强排名：第 93 位**  
-> **企业愿景：Good food, Good life (优质食品，美好生活)**  
-> **官方网站：[www.nestle.com](https://www.nestle.com)**
+**《财富》世界500强排名：第 93 位**
+**企业愿景：Good food, Good life (优质食品，美好生活)**
+**官方网站：[www.nestle.com](https://www.nestle.com)**
 
 ---
 

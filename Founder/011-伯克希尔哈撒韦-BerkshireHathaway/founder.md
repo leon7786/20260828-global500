@@ -5,23 +5,23 @@
 
 ---
 
-> 【双雄传主档案速览】
-> • 全名：
-> - 沃伦·爱德华·巴菲特 (Warren Edward Buffett) | 1930.08.30 (处女座，内布拉斯加州奥马哈) | 誉称：“奥马哈先知 (Oracle of Omaha)”
-> - 查尔斯·托马斯·芒格 (Charles Thomas Munger, 1924–2023) | 1924.01.01 (摩羯座，享年 99 岁) | 誉称：“幕后总建筑师 / 漫步者”
-> • 学历背景：
-> - 巴菲特：内布拉斯加大学林肯分校理学学士 (1950) -> 哥伦比亚大学商学院经济学硕士 (1951, 师从“价值投资之父”本杰明·格雷厄姆与大卫·多德，全A+毕业)
-> - 芒格：密歇根大学数学系肄业 -> 加州理工学院气象学 -> 哈佛大学法学院优秀法学博士 (1948, 破格录取 Magna Cum Laude)
-> • 创办/控股核心实体：
-> - 巴菲特合伙企业 (Buffett Partnership Ltd., 1956)
-> - 伯克希尔·哈撒韦公司 (Berkshire Hathaway Inc., 1965)
-> - 芒格-托尔斯律师事务所 (Munger, Tolles & Olson, 1962)、威斯科金融公司 (Wesco Financial)
-> • 颠覆发明与商业创举：
-> - 彻底升华现代价值投资体系：将格雷厄姆冷酷苛刻的“烟蒂理论 (Cigar-Butt Investing)”升级为芒格主导的“以公允价格买入具备宽广护城河与顶级管理层的伟大企业”；
-> - 打造人类商业史上最庞大、成本最低的保险浮存金 (Insurance Float) 投资飞轮（国民赔偿保险、GEICO 政府雇员保险、通用再保险），提供千亿美元级的永久免息复利投资弹药；
-> - 创造人类证券史上最昂贵的单一股票纪录：伯克希尔 A 类股（BRK.A）每股股价突破 60 万美元，自 1965 年以来年复合回报率超 20%，累计涨幅超 43,000 倍（4,300,000%）；
-> - 将每年一度的奥马哈股东大会打造成全球 4 万余名价值投资信徒朝圣的“资本家伍德斯托克狂欢节 (Woodstock for Capitalists)”。
-> • 核心精神图腾：湿雪与长坡、能力圈 (Circle of Competence)、经济护城河 (Economic Moat)、安全边际、逆向思维 (Inversion)、多元思维模型格栅、每天5罐全糖樱桃可乐与麦当劳早餐
+【双雄传主档案速览】
+• 全名：
+- 沃伦·爱德华·巴菲特 (Warren Edward Buffett) | 1930.08.30 (处女座，内布拉斯加州奥马哈) | 誉称：“奥马哈先知 (Oracle of Omaha)”
+- 查尔斯·托马斯·芒格 (Charles Thomas Munger, 1924–2023) | 1924.01.01 (摩羯座，享年 99 岁) | 誉称：“幕后总建筑师 / 漫步者”
+• 学历背景：
+- 巴菲特：内布拉斯加大学林肯分校理学学士 (1950) -> 哥伦比亚大学商学院经济学硕士 (1951, 师从“价值投资之父”本杰明·格雷厄姆与大卫·多德，全A+毕业)
+- 芒格：密歇根大学数学系肄业 -> 加州理工学院气象学 -> 哈佛大学法学院优秀法学博士 (1948, 破格录取 Magna Cum Laude)
+• 创办/控股核心实体：
+- 巴菲特合伙企业 (Buffett Partnership Ltd., 1956)
+- 伯克希尔·哈撒韦公司 (Berkshire Hathaway Inc., 1965)
+- 芒格-托尔斯律师事务所 (Munger, Tolles & Olson, 1962)、威斯科金融公司 (Wesco Financial)
+• 颠覆发明与商业创举：
+- 彻底升华现代价值投资体系：将格雷厄姆冷酷苛刻的“烟蒂理论 (Cigar-Butt Investing)”升级为芒格主导的“以公允价格买入具备宽广护城河与顶级管理层的伟大企业”；
+- 打造人类商业史上最庞大、成本最低的保险浮存金 (Insurance Float) 投资飞轮（国民赔偿保险、GEICO 政府雇员保险、通用再保险），提供千亿美元级的永久免息复利投资弹药；
+- 创造人类证券史上最昂贵的单一股票纪录：伯克希尔 A 类股（BRK.A）每股股价突破 60 万美元，自 1965 年以来年复合回报率超 20%，累计涨幅超 43,000 倍（4,300,000%）；
+- 将每年一度的奥马哈股东大会打造成全球 4 万余名价值投资信徒朝圣的“资本家伍德斯托克狂欢节 (Woodstock for Capitalists)”。
+• 核心精神图腾：湿雪与长坡、能力圈 (Circle of Competence)、经济护城河 (Economic Moat)、安全边际、逆向思维 (Inversion)、多元思维模型格栅、每天5罐全糖樱桃可乐与麦当劳早餐
 
 ---
 
@@ -55,7 +55,7 @@
 ### 1. 宾大沃顿退学、哈佛商学院 10 分钟拒信
 1947 年，17 岁的巴菲特在父亲强烈要求下进入宾夕法尼亚大学**沃顿商学院 (Wharton School)**。已经在现实商业世界赚取数千美元的巴菲特，对沃顿商学院那些照本宣科的会计学教授感到极度失望，认为他们“在用繁琐的公式掩盖商业常识的匮乏”。大二结束后，巴菲特坚决离开沃顿，转学回到家乡**内布拉斯加大学林肯分校**，仅用一年时间修完学分，于 1950 年（19岁）提前拿到理学学士学位。
 - **哈佛商学院面试的世纪惨败**：1950 年春，巴菲特赴芝加哥参加**哈佛商学院 (Harvard Business School)** 面试。考官看到眼前这个穿着不合身西装、体型瘦弱且年仅 19 岁的青年，草草问了几个常规问题，短短 10 分钟后便合上表格冷冷地说：“沃伦，你可以走了，哈佛不会录取你。”遭到沉重打击的巴菲特失魂落魄地坐火车返回奥马哈。然而几十年后巴菲特感慨：
-  > **“哈佛大学拒绝录取我，是我这辈子遭遇过的最伟大的幸运！如果我当年去了哈佛，我很可能会沦为华尔街某个大投行里打包垃圾债券的平庸高管；正是因为哈佛的拒绝，命运才把我推向了本杰明·格雷厄姆的怀抱。”**
+**“哈佛大学拒绝录取我，是我这辈子遭遇过的最伟大的幸运！如果我当年去了哈佛，我很可能会沦为华尔街某个大投行里打包垃圾债券的平庸高管；正是因为哈佛的拒绝，命运才把我推向了本杰明·格雷厄姆的怀抱。”**
 
 ### 2. 哥伦比亚大学商学院：格雷厄姆唯一给过 A+ 的门徒
 在奥马哈图书馆，巴菲特偶然翻开了华尔街大师**本杰明·格雷厄姆 (Benjamin Graham)** 的名著《聪明的投资者》。读完前几章，巴菲特整个人如遭雷击。格雷厄姆确立了价值投资的三大基石：
@@ -107,7 +107,7 @@
 ### 1. 1972 年喜诗糖果 (See's Candies)：芒格主导的“认知大跃迁”
 1972 年初，加州传统高端糖果品牌**喜诗糖果 (See's Candies)** 挂牌出售，开价 **2,500 万美元**。
 - **格雷厄姆门徒的抗拒与芒格的棒喝**：喜诗账面有形净资产仅 **800 万美元**，溢价超 3 倍，巴菲特最初坚决拒绝。芒格严厉棒喝：
-  > **“沃伦，别再像个守财奴一样到处找苟延残喘的破产烟蒂了！以公允的价格买入一家伟大的企业，远远胜过以便宜的价格买入一家平庸的企业！”**
+**“沃伦，别再像个守财奴一样到处找苟延残喘的破产烟蒂了！以公允的价格买入一家伟大的企业，远远胜过以便宜的价格买入一家平庸的企业！”**
 - **定价权与 20 亿美元现金流**：芒格指出加州消费者送礼对喜诗有绝对情感黏性，每年情人节和圣诞节哪怕涨价 10%–15%，顾客也绝不会流失。巴菲特最终以 **2,500 万美元** 全资收购。随后 40 年间，喜诗糖果几乎无需追加资本开支，累计贡献了 **超 20 亿美元税前纯现金流**。巴菲特感叹：“喜诗糖果彻底治愈了我对烟蒂投资的狭隘偏执，是查理一手将我拉出了格雷厄姆的局限！”
 
 ### 2. 1976 年 GEICO 拯救战：从死地到超级印钞机
@@ -120,8 +120,8 @@
 ### 4. 1991 年所罗门兄弟危机：捍卫声誉的国会生死战
 1991 年 8 月，华尔街投行**所罗门兄弟 (Salomon Brothers)** 顶级交易员违规竞标美国国债面临被吊销资格的灭顶之灾。持股 7 亿美元优先股的 61 岁巴菲特临危受命出任临时董事长，并在周日斡旋财政部暂缓禁令。
 - **1991 年 9 月 4 日国会传世证词**：巴菲特在国会听证会上斩钉截铁宣告：
-  > **“给公司赔了钱，我可以理解并原谅；但如果谁给公司带来哪怕一丁点的声誉损失，我都将冷酷无情、绝不姑息！”**  
-  > _“Lose money for the firm, and I will be understanding; lose a shred of reputation for the firm, and I will be ruthless.”_
+**“给公司赔了钱，我可以理解并原谅；但如果谁给公司带来哪怕一丁点的声誉损失，我都将冷酷无情、绝不姑息！”**
+_“Lose money for the firm, and I will be understanding; lose a shred of reputation for the firm, and I will be ruthless.”_
 - 他设立著名的**“头版测试 (Front Page Test)”**：决策前设想明日登上当地报纸头版被亲友阅读是否羞愧。巴菲特力挽狂澜拯救了所罗门，确立了“资本良心”的崇高地位。1998 年伯克希尔斥资 **220 亿美元** 换股收购**通用再保险 (General Re)**，浮存金跃居全球顶级。
 
 ---
@@ -160,38 +160,38 @@
 
 ### 4. 2023 年 11 月 28 日：查理·芒格辞世与帝国权杖交接
 2023 年 11 月 28 日，一代智者查理·芒格在加州安详辞世，享年 99 岁（距百岁仅 33 天）。巴菲特在股东信首页深情悼念：
-> **“查理·芒格是伯克希尔·哈撒韦的‘总建筑师’，而我只是负责将图纸付诸实施的‘总承包商’。是他终结了我捡烟蒂的迷思，构建了追求卓越企业的蓝图。没有查理，就没有今天的伯克希尔！”**
+**“查理·芒格是伯克希尔·哈撒韦的‘总建筑师’，而我只是负责将图纸付诸实施的‘总承包商’。是他终结了我捡烟蒂的迷思，构建了追求卓越企业的蓝图。没有查理，就没有今天的伯克希尔！”**
 - 伯克希尔确立接班人体系：主管非保险业务副董事长**格雷格·阿贝尔 (Greg Abel)** 为下一任 CEO；副董事长**阿吉特·贾恩 (Ajit Jain)** 继续统领保险帝国；长子霍华德·巴菲特出任非执行董事长捍卫企业文化。
 
 ---
 
 ## 🧠 第七章：沃伦·巴菲特与查理·芒格八大底层投资工具箱与商业哲学 (Mental Models)
 
-> 【巴菲特与芒格八大底层认知模型与思维武器】
-> 1. 能力圈法则 (The Circle of Competence Boundary)
-> • 核心心法：了解能力圈的边界，远比能力圈的大小重要千百倍。如果你无法看清一家公司未来十年之后的
-> 自由现金流分布，哪怕全天下都在疯抢，也坚决一分钱不买；将精力死锁在自己完全看懂的领域。
-> 2. 结构性经济护城河定理 (The Structural Economic Moat)
-> • 核心心法：伟大企业就像一座城堡，最重要的不是城墙的华丽，而是环绕城堡周围那条又宽又深的护城河
-> （无形品牌定价权、高转换成本、网络效应、规模低成本优势），能永久性抵御一切掠夺者。
-> 3. 20 次打孔卡思维假说 (The 20-Slot Punch Card Framework)
-> • 核心心法：假设你一生只有一张只能打 20 个孔的投资卡，每次重大决策消耗一孔。当你意识到机会极度
-> 稀缺时，绝不会把资本浪费在平庸项目上，只会极其耐心地等待全垒打的绝杀良机。
-> 4. 市场先生情绪利用法则 (Exploiting Mr. Market's Bipolar Cycles)
-> • 核心心法：市场是来为你服务的，而不是来指导你的。市场先生是躁狂抑郁症患者。在所有人狂欢的泡沫
-> 顶峰保持冷血克制；在所有人绝望割肉踩踏时，带着装满真金白银的麻袋冲进交易大厅。
-> 5. 芒格式逆向思考法 (Invert, Always Invert)
-> • 核心心法：想知道如何成功，先去研究成千上万家企业是如何破产倒闭的；“如果我知道我将来会死在哪里，
-> 我就永远不去那个地方！”避免愚蠢比追求聪明更容易带来长期卓越成就。
-> 6. 价格与价值的本质分野 (Price is What You Pay, Value is What You Get)
-> • 核心心法：价格是你付出的成本，价值是你真正获得的企业内在所有权；股价只是每日跳动的交易报价，
-> 企业的内在价值是其剩余生命周期中所能产生的所有自由现金流折现到今天的现金总和。
-> 7. 保险浮存金零成本负债杠杆 (Insurance Float Capital Leverage Architecture)
-> • 核心心法：坚决拒绝可能导致爆仓的银行高息短期借款；通过极其严谨保守的核保获取具备无限久期、
-> 产生承保利润的巨额免息保险浮存金，打造人类商业史上最安全的负成本复利杠杆发动机。
-> 8. 多元思维模型格栅 (Latticework of Mental Models)
-> • 核心心法：如果手里只有一把锤子，你看所有问题都会像钉子。绝不能局限于单一学科，必须将数学
-> （复利/概率）、物理学（临界点）、生物学（演化）、工程学（冗余）与心理学融会贯通。
+【巴菲特与芒格八大底层认知模型与思维武器】
+1. 能力圈法则 (The Circle of Competence Boundary)
+• 核心心法：了解能力圈的边界，远比能力圈的大小重要千百倍。如果你无法看清一家公司未来十年之后的
+自由现金流分布，哪怕全天下都在疯抢，也坚决一分钱不买；将精力死锁在自己完全看懂的领域。
+2. 结构性经济护城河定理 (The Structural Economic Moat)
+• 核心心法：伟大企业就像一座城堡，最重要的不是城墙的华丽，而是环绕城堡周围那条又宽又深的护城河
+（无形品牌定价权、高转换成本、网络效应、规模低成本优势），能永久性抵御一切掠夺者。
+3. 20 次打孔卡思维假说 (The 20-Slot Punch Card Framework)
+• 核心心法：假设你一生只有一张只能打 20 个孔的投资卡，每次重大决策消耗一孔。当你意识到机会极度
+稀缺时，绝不会把资本浪费在平庸项目上，只会极其耐心地等待全垒打的绝杀良机。
+4. 市场先生情绪利用法则 (Exploiting Mr. Market's Bipolar Cycles)
+• 核心心法：市场是来为你服务的，而不是来指导你的。市场先生是躁狂抑郁症患者。在所有人狂欢的泡沫
+顶峰保持冷血克制；在所有人绝望割肉踩踏时，带着装满真金白银的麻袋冲进交易大厅。
+5. 芒格式逆向思考法 (Invert, Always Invert)
+• 核心心法：想知道如何成功，先去研究成千上万家企业是如何破产倒闭的；“如果我知道我将来会死在哪里，
+我就永远不去那个地方！”避免愚蠢比追求聪明更容易带来长期卓越成就。
+6. 价格与价值的本质分野 (Price is What You Pay, Value is What You Get)
+• 核心心法：价格是你付出的成本，价值是你真正获得的企业内在所有权；股价只是每日跳动的交易报价，
+企业的内在价值是其剩余生命周期中所能产生的所有自由现金流折现到今天的现金总和。
+7. 保险浮存金零成本负债杠杆 (Insurance Float Capital Leverage Architecture)
+• 核心心法：坚决拒绝可能导致爆仓的银行高息短期借款；通过极其严谨保守的核保获取具备无限久期、
+产生承保利润的巨额免息保险浮存金，打造人类商业史上最安全的负成本复利杠杆发动机。
+8. 多元思维模型格栅 (Latticework of Mental Models)
+• 核心心法：如果手里只有一把锤子，你看所有问题都会像钉子。绝不能局限于单一学科，必须将数学
+（复利/概率）、物理学（临界点）、生物学（演化）、工程学（冗余）与心理学融会贯通。
 
 ---
 
@@ -217,34 +217,34 @@
 ## 💬 第九章：沃伦·巴菲特与查理·芒格传世经典名言金句中英对照 (Iconic Quotes)
 
 1. **论恐惧与贪婪的逆向法则**  
-   > *“在别人贪婪时保持恐惧，在别人恐惧时极度贪婪。”*  
-   > _“Be fearful when others are greedy, and greedy when others are fearful.”_  
-   > —— 沃伦·巴菲特 (Warren Buffett)
+*“在别人贪婪时保持恐惧，在别人恐惧时极度贪婪。”*
+_“Be fearful when others are greedy, and greedy when others are fearful.”_
+—— 沃伦·巴菲特 (Warren Buffett)
 
 2. **论声誉的脆弱与无价**  
-   > *“建立一个良好的商业声誉需要花费整整 20 年的时间，而毁掉它只需要短短 5 分钟。如果你真正想通了这一点，你做任何事情的方式都会截然不同。”*  
-   > _“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.”_  
-   > —— 沃伦·巴菲特 (Warren Buffett)
+*“建立一个良好的商业声誉需要花费整整 20 年的时间，而毁掉它只需要短短 5 分钟。如果你真正想通了这一点，你做任何事情的方式都会截然不同。”*
+_“It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.”_
+—— 沃伦·巴菲特 (Warren Buffett)
 
 3. **论伟大企业与平庸企业的本质分野**  
-   > *“以公允的价格买入一家伟大的企业，远远胜过以便宜的价格买入一家平庸的企业。时间是伟大企业最忠诚的朋友，却是平庸企业最冷酷的敌人。”*  
-   > _“It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Time is the friend of the wonderful business, the enemy of the mediocre.”_  
-   > —— 查理·芒格 (Charlie Munger) & 沃伦·巴菲特 (Warren Buffett)
+*“以公允的价格买入一家伟大的企业，远远胜过以便宜的价格买入一家平庸的企业。时间是伟大企业最忠诚的朋友，却是平庸企业最冷酷的敌人。”*
+_“It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Time is the friend of the wonderful business, the enemy of the mediocre.”_
+—— 查理·芒格 (Charlie Munger) & 沃伦·巴菲特 (Warren Buffett)
 
 4. **论潮水褪去与真实价值**  
-   > *“唯有当潮水真正退去的时候，你才能看清究竟是谁一直在裸泳。”*  
-   > _“Only when the tide goes out do you discover who's been swimming naked.”_  
-   > —— 沃伦·巴菲特 (Warren Buffett)
+*“唯有当潮水真正退去的时候，你才能看清究竟是谁一直在裸泳。”*
+_“Only when the tide goes out do you discover who's been swimming naked.”_
+—— 沃伦·巴菲特 (Warren Buffett)
 
 5. **论逆向思考的终极智慧**  
-   > *“反过来想，总是反过来想！如果我知道我将来会死在什么地方，我就永远不会去那个地方。”*  
-   > _“Invert, always invert: Turn a situation or problem upside down. Look at it backward. What happens if all our plans go wrong? If I knew where I was going to die, I'd never go there.”_  
-   > —— 查理·芒格 (Charlie Munger)
+*“反过来想，总是反过来想！如果我知道我将来会死在什么地方，我就永远不会去那个地方。”*
+_“Invert, always invert: Turn a situation or problem upside down. Look at it backward. What happens if all our plans go wrong? If I knew where I was going to die, I'd never go there.”_
+—— 查理·芒格 (Charlie Munger)
 
 6. **论能力圈与诚实认知**  
-   > *“如果你不知道自己的能力圈边界在哪里，那你就根本谈不上拥有能力圈。承认自己的无知是智慧的真正开端。”*  
-   > _“If you have competence, you pretty much know its boundaries already. To have a competence that you don't know the boundaries of, is no competence at all.”_  
-   > —— 查理·芒格 (Charlie Munger)
+*“如果你不知道自己的能力圈边界在哪里，那你就根本谈不上拥有能力圈。承认自己的无知是智慧的真正开端。”*
+_“If you have competence, you pretty much know its boundaries already. To have a competence that you don't know the boundaries of, is no competence at all.”_
+—— 查理·芒格 (Charlie Munger)
 
 ---
 

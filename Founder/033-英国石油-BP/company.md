@@ -1,8 +1,9 @@
 # 英国石油公司 (BP p.l.c.) —— 全球综合能源巨擘与低碳转型先锋全景介绍
 
-> **《财富》世界500强排名：第 33 位**  
-> **年度营业收入：$192,549 百万美元（约 1925 亿美元）**  
-> **官方网站：[www.bp.com](https://www.bp.com)**
+**《财富》世界500强排名：第 33 位**
+
+**年度营业收入：$192,549 百万美元（约 1925 亿美元）**
+**官方网站：[www.bp.com](https://www.bp.com)**
 
 ---
 
@@ -59,7 +60,7 @@
 ## 🎯 企业文化与行动准则 (Culture & Principles)
 
 - **企业崇高宗旨 (Purpose)**：
-  > **“为人类与地球重新构想能源 (Reimagining energy for people and our planet)”**
+**“为人类与地球重新构想能源 (Reimagining energy for people and our planet)”**
 - **行动准则 (Who We Are)**：
   1. **践行使命 (Live our purpose)**：确保每一次能源勘探与供应都兼顾安全与社会责任。
   2. **追求胜利 (Play to win)**：在竞争激烈的全球大宗商品市场中保持敏锐嗅觉与卓越执行力。

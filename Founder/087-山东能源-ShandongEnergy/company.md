@@ -1,8 +1,9 @@
 # 山东能源集团有限公司 (Shandong Energy Group) —— 全球综合能源领航者与高端清洁化工巨擘全景介绍
 
-> **《财富》世界500强排名：第 87 位**  
-> **年度营业收入：$116,559 百万美元（约 1165.6 亿美元）**  
-> **官方网站：[www.shandong-energy.com](http://www.shandong-energy.com)**
+**《财富》世界500强排名：第 87 位**
+
+**年度营业收入：$116,559 百万美元（约 1165.6 亿美元）**
+**官方网站：[www.shandong-energy.com](http://www.shandong-energy.com)**
 
 ---
 

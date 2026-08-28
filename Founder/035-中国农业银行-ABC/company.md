@@ -1,8 +1,9 @@
 # 中国农业银行股份有限公司 (Agricultural Bank of China Limited) —— 全球大型综合银行与普惠乡村振兴主力军全景介绍
 
-> **《财富》世界500强排名：第 35 位**  
-> **年度营业收入：$190,708 百万美元（约 1907 亿美元）**  
-> **官方网站：[www.abchina.com](https://www.abchina.com)**
+**《财富》世界500强排名：第 35 位**
+
+**年度营业收入：$190,708 百万美元（约 1907 亿美元）**
+**官方网站：[www.abchina.com](https://www.abchina.com)**
 
 ---
 
@@ -57,9 +58,10 @@
 ## 🎯 企业文化与办行理念 (Culture & Values)
 
 - **企业崇高使命 (Mission)**：
-  > **“面向‘三农’，服务图强 (Serving Sannong and Flourishing the Nation)”**
+**“面向‘三农’，服务图强 (Serving Sannong and Flourishing the Nation)”**
 - **核心价值观 (Core Values)**：
   1. **诚信立业 (Integrity First)**：坚守合规底线与契约精神，珍惜人民托付的每一分钱。
   2. **稳健行远 (Prudent Progress)**：敬畏金融风险规律，做跨越经济周期的百年长青大行。
 - **行训精神 (Motto)**：
-  > **“严谨、求实、创新、奉献”**
+
+**“严谨、求实、创新、奉献”**

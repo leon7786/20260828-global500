@@ -1,8 +1,9 @@
 # 梅赛德斯-奔驰集团 (Mercedes-Benz Group AG) —— 全球豪华汽车发明者与科技出行帝国全景介绍
 
-> **《财富》世界500强排名：第 51 位**  
-> **年度营业收入：$149,126 百万美元（约 1491 亿美元）**  
-> **官方网站：[group.mercedes-benz.com](https://group.mercedes-benz.com)**
+**《财富》世界500强排名：第 51 位**
+
+**年度营业收入：$149,126 百万美元（约 1491 亿美元）**
+**官方网站：[group.mercedes-benz.com](https://group.mercedes-benz.com)**
 
 ---
 
@@ -62,7 +63,7 @@
 ## 🎯 企业文化与战略哲学 (Corporate Culture & Strategy)
 
 梅赛德斯-奔驰百年不变的精神图腾凝练于创始人戈特利布·戴姆勒的名言：
-> **“唯有最好 (The Best or Nothing / Das Beste oder nichts)”**
+**“唯有最好 (The Best or Nothing / Das Beste oder nichts)”**
 
 集团核心价值准则：
 1. **开拓创新精神 (Pioneering Spirit)**：永不满足于现状，视技术突破为企业生存之本。

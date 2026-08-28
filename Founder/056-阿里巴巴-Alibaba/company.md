@@ -1,8 +1,9 @@
 # 阿里巴巴集团 (Alibaba Group) —— 全球数字商业生态、云计算与 AI 科技巨舰全景介绍
 
-> **《财富》世界500强排名：第 56 位**  
-> **年度营业收入：$144,170 百万美元（约 1441 亿美元）**  
-> **官方网站：[www.alibabagroup.com](https://www.alibabagroup.com)**
+**《财富》世界500强排名：第 56 位**
+
+**年度营业收入：$144,170 百万美元（约 1441 亿美元）**
+**官方网站：[www.alibabagroup.com](https://www.alibabagroup.com)**
 
 ---
 

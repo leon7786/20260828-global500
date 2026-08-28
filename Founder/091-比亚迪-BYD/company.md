@@ -1,8 +1,8 @@
 # 比亚迪股份有限公司 (BYD Company Limited) —— 全球新能源汽车与绿色能源帝国全景介绍
 
-> **《财富》世界500强排名：第 91 位**  
-> **企业愿景：用技术创新满足人们对美好生活的向往 (Technology by Design)**  
-> **官方网站：[www.bydglobal.com](https://www.bydglobal.com)**
+**《财富》世界500强排名：第 91 位**
+**企业愿景：用技术创新满足人们对美好生活的向往 (Technology by Design)**
+**官方网站：[www.bydglobal.com](https://www.bydglobal.com)**
 
 ---
 

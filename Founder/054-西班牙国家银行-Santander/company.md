@@ -1,8 +1,9 @@
 # 西班牙国家银行 (Banco Santander) —— 跨大西洋综合金融与数字化银行巨舰全景介绍
 
-> **《财富》世界500强排名：第 54 位**  
-> **年度营业收入：$145,070 百万美元（约 1450 亿美元）**  
-> **官方网站：[www.santander.com](https://www.santander.com)**
+**《财富》世界500强排名：第 54 位**
+
+**年度营业收入：$145,070 百万美元（约 1450 亿美元）**
+**官方网站：[www.santander.com](https://www.santander.com)**
 
 ---
 
@@ -62,7 +63,7 @@
 ## 🎯 企业文化与价值观 (Corporate Values)
 
 桑坦德银行的核心使命：
-> **“帮助人们和企业繁荣发展 (To help people and businesses prosper)”**
+**“帮助人们和企业繁荣发展 (To help people and businesses prosper)”**
 
 核心经营原则：
 1. **简单 (Simple)**：提供清晰明了、无隐形陷阱的金融产品与极简数字流程。

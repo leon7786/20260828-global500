@@ -5,14 +5,14 @@
 
 ---
 
-> ### 📋 【传主档案速览】
-> • 全名：罗伯特·D·沃尔特 (Robert D. Walter, "Bob Walter")
-> • 生辰：1945 年 (天蝎座) | 出生地：美国 俄亥俄州 哥伦布市 (Columbus, OH)
-> • 身份：嘉德诺健康集团 (Cardinal Health) 创始人、前董事长兼 CEO (执掌长达35年)
-> • 学历：俄亥俄大学机械工程学士 (B.S. in Mechanical Engineering, 1967)、哈佛商学院 MBA (1972)
-> • 董事会资历：曾任美国运通 (American Express)、诺德斯特龙 (Nordstrom)、百胜餐饮 (Yum! Brands) 独立董事
-> • 核心商业成就：以 26 岁食品批发小仓库起家，35 年主导逾 100 起教科书级并购，缔造两千亿级世界 500 强医疗巨头
-> • 核心精神图腾：战略大转型魄力、资本配置纪律、流程精细化工程、不可或缺的枢纽哲学
+### 📋 传主档案速览
+• 全名：罗伯特·D·沃尔特 (Robert D. Walter, "Bob Walter")
+• 生辰：1945 年 (天蝎座) | 出生地：美国 俄亥俄州 哥伦布市 (Columbus, OH)
+• 身份：嘉德诺健康集团 (Cardinal Health) 创始人、前董事长兼 CEO (执掌长达35年)
+• 学历：俄亥俄大学机械工程学士 (B.S. in Mechanical Engineering, 1967)、哈佛商学院 MBA (1972)
+• 董事会资历：曾任美国运通 (American Express)、诺德斯特龙 (Nordstrom)、百胜餐饮 (Yum! Brands) 独立董事
+• 核心商业成就：以 26 岁食品批发小仓库起家，35 年主导逾 100 起教科书级并购，缔造两千亿级世界 500 强医疗巨头
+• 核心精神图腾：战略大转型魄力、资本配置纪律、流程精细化工程、不可或缺的枢纽哲学
 
 ---
 
@@ -74,13 +74,13 @@
 ## 💬 第五章：罗伯特·沃尔特经典名言金句 (Iconic Quotes)
 
 1. **论战略转型的决断力**  
-   > *“当你发现自己身处一艘正在慢慢下沉的破船上时，最聪明的做法不是拼命去舀水，而是果断跳上一艘正迎着朝阳全速前进的巨轮。”*  
-   > _“When you find yourself in a leaking boat with no future, the smartest move is not to pump faster, but to leap decisively onto a ship sailing toward the dawn.”_
+*“当你发现自己身处一艘正在慢慢下沉的破船上时，最聪明的做法不是拼命去舀水，而是果断跳上一艘正迎着朝阳全速前进的巨轮。”*
+_“When you find yourself in a leaking boat with no future, the smartest move is not to pump faster, but to leap decisively onto a ship sailing toward the dawn.”_
 
 2. **论资本配置与并购**  
-   > *“并购从来不是为了在新闻头条上炫耀规模，而是关于资本回报率的数学题。如果你买下了一家资产却无法通过精细运营让它的齿轮转得更快，那你只是在给自己的资产负债表堆积垃圾。”*  
-   > _“Acquisitions are never about ego or headlines; they are pure mathematics of capital return. If you cannot make the acquired gears spin faster through operational rigor, you are merely accumulating waste on your balance sheet.”_
+*“并购从来不是为了在新闻头条上炫耀规模，而是关于资本回报率的数学题。如果你买下了一家资产却无法通过精细运营让它的齿轮转得更快，那你只是在给自己的资产负债表堆积垃圾。”*
+_“Acquisitions are never about ego or headlines; they are pure mathematics of capital return. If you cannot make the acquired gears spin faster through operational rigor, you are merely accumulating waste on your balance sheet.”_
 
 3. **论做医疗流通的责任**  
-   > *“我们运送的不是普通的肥皂和薯片，那是拯救垂危生命的胰岛素、靶向药与放射源。在我们的字典里，准时率 99% 不叫优秀，那意味着有 1% 的患者在绝望中等待抢救。”*  
-   > _“We do not ship soap or potato chips; we deliver life-saving insulins, oncology therapies, and radioactive tracers. 99% reliability is not acceptable—it means 1% of patients were left waiting in critical moments.”_
+*“我们运送的不是普通的肥皂和薯片，那是拯救垂危生命的胰岛素、靶向药与放射源。在我们的字典里，准时率 99% 不叫优秀，那意味着有 1% 的患者在绝望中等待抢救。”*
+_“We do not ship soap or potato chips; we deliver life-saving insulins, oncology therapies, and radioactive tracers. 99% reliability is not acceptable—it means 1% of patients were left waiting in critical moments.”_

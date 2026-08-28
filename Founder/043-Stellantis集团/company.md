@@ -1,8 +1,9 @@
 # Stellantis集团 (Stellantis N.V.) —— 全球多元化汽车与出行工业巨擘全景介绍
 
-> **《财富》世界500强排名：第 43 位**  
-> **年度营业收入：$173,144 百万美元（约 1731 亿美元）**  
-> **官方网站：[www.stellantis.com](https://www.stellantis.com)**
+**《财富》世界500强排名：第 43 位**
+
+**年度营业收入：$173,144 百万美元（约 1731 亿美元）**
+**官方网站：[www.stellantis.com](https://www.stellantis.com)**
 
 ---
 

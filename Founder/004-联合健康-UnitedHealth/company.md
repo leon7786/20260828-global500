@@ -1,8 +1,9 @@
 # 联合健康集团 (UnitedHealth Group Inc.) —— 全球最大健康保险与医疗科技帝国全景介绍
 
-> **《财富》世界500强排名：第 4 位**  
-> **年度营业收入：$447,567 百万美元（约 4475 亿美元）**  
-> **官方网站：[www.unitedhealthgroup.com](https://www.unitedhealthgroup.com)**
+**《财富》世界500强排名：第 4 位**
+
+**年度营业收入：$447,567 百万美元（约 4475 亿美元）**
+**官方网站：[www.unitedhealthgroup.com](https://www.unitedhealthgroup.com)**
 
 ---
 

@@ -1,8 +1,9 @@
 # 克罗格公司 (The Kroger Co.) —— 全美最大传统生鲜超市帝国全景介绍
 
-> **《财富》世界500强排名：第 52 位**  
-> **年度营业收入：$147,642 百万美元（约 1476 亿美元）**  
-> **官方网站：[www.thekrogerco.com](https://www.thekrogerco.com)**
+**《财富》世界500强排名：第 52 位**
+
+**年度营业收入：$147,642 百万美元（约 1476 亿美元）**
+**官方网站：[www.thekrogerco.com](https://www.thekrogerco.com)**
 
 ---
 
@@ -60,7 +61,8 @@
 ## 🎯 企业文化与价值观 (Values & Spirit)
 
 克罗格的核心企业使命：
-> **“滋养人类精神 (To Feed the Human Spirit)”**
+
+**“滋养人类精神 (To Feed the Human Spirit)”**
 
 核心价值观（The Kroger Values）：
 1. **诚信不欺 (Honesty & Integrity)**：恪守创始人“不卖自己不愿吃之物”的质量铁律。

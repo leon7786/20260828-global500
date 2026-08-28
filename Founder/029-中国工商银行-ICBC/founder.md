@@ -5,16 +5,16 @@
 
 ---
 
-> **【机构奠基与历史领军者档案】**
-> • 机构全称：中国工商银行股份有限公司 (ICBC) | 业界美誉：“宇宙第一大行”
-> • 设立渊源：1983 年国务院决策、1984 年 1 月 1 日从中国人民银行正式分设成立
-> • 历史草创奠基者：
-> 1. 陈立 (首任行长, 1984-1985) — 统筹全国央行信贷业务分设与平稳起步
-> 2. 张肖 (第二任行长, 1985-1996) — 奠定全国网点体系与联行电子化清算基础
-> • 现代改革与飞跃掌舵人：姜建清 (Jiang Jianqing, 1953 年出生)
-> • 曾任职务：中国工商银行党委书记、董事长兼行长 (执掌长达 16 年, 2000-2016)
-> • 学历：上海财经大学经济学硕士、上海交通大学工学博士 (金融风险管理方向)
-> • 历史功勋：铁腕化解不良资产、引进国际战投、操刀 2006 年 219 亿美元创纪录 A+H 同步上市，打造全球第一大行
+**【机构奠基与历史领军者档案】**
+• 机构全称：中国工商银行股份有限公司 (ICBC) | 业界美誉：“宇宙第一大行”
+• 设立渊源：1983 年国务院决策、1984 年 1 月 1 日从中国人民银行正式分设成立
+• 历史草创奠基者：
+1. 陈立 (首任行长, 1984-1985) — 统筹全国央行信贷业务分设与平稳起步
+2. 张肖 (第二任行长, 1985-1996) — 奠定全国网点体系与联行电子化清算基础
+• 现代改革与飞跃掌舵人：姜建清 (Jiang Jianqing, 1953 年出生)
+• 曾任职务：中国工商银行党委书记、董事长兼行长 (执掌长达 16 年, 2000-2016)
+• 学历：上海财经大学经济学硕士、上海交通大学工学博士 (金融风险管理方向)
+• 历史功勋：铁腕化解不良资产、引进国际战投、操刀 2006 年 219 亿美元创纪录 A+H 同步上市，打造全球第一大行
 
 ---
 
@@ -84,13 +84,13 @@
 ## 💬 第五章：姜建清传世金融名言 (Iconic Quotes)
 
 1. **论银行经营与风险底线**  
-   > *“银行就像一场没有终点的马拉松，跑得快不叫本事，跑得长久才是王者。在漫长的金融史册里，倒下的几乎全是追求短跑速度的明星，唯有敬畏风险、守住底线的人才能看到终点的曙光。”*  
-   > _“Banking is an endless marathon. Speed means nothing; longevity is everything. In financial history, those who chase short-term velocity collapse; only those who revere risk and hold the line will survive to see the dawn.”_
+*“银行就像一场没有终点的马拉松，跑得快不叫本事，跑得长久才是王者。在漫长的金融史册里，倒下的几乎全是追求短跑速度的明星，唯有敬畏风险、守住底线的人才能看到终点的曙光。”*
+_“Banking is an endless marathon. Speed means nothing; longevity is everything. In financial history, those who chase short-term velocity collapse; only those who revere risk and hold the line will survive to see the dawn.”_
 
 2. **论金融服务实体经济的天职**  
-   > *“金融是现代经济的血液，但血液永远不能脱离实体肌体自我循环。工商银行的每一分信贷投入，都必须化作国家工厂里转动的车轮、田野里金黄的稻麦与千家万户温暖的灯火。”*  
-   > _“Finance is the lifeblood of the economy, but it can never detach from the real body. Every loan from ICBC must power the turning gears in factories, the harvest in the fields, and the hearths of millions of homes.”_
+*“金融是现代经济的血液，但血液永远不能脱离实体肌体自我循环。工商银行的每一分信贷投入，都必须化作国家工厂里转动的车轮、田野里金黄的稻麦与千家万户温暖的灯火。”*
+_“Finance is the lifeblood of the economy, but it can never detach from the real body. Every loan from ICBC must power the turning gears in factories, the harvest in the fields, and the hearths of millions of homes.”_
 
 3. **论大行的责任与定力**  
-   > *“越是体量庞大的巨轮，在面对惊涛骇浪时越需要超凡的定力。工于至诚，不为浮华所动；行以致远，方显大国重器之底蕴。”*  
-   > _“The larger the vessel, the greater the composure required in the storm. Built on integrity, unmoved by vanity, enduring far into the future—this is the true spirit of a pillar institution.”_
+*“越是体量庞大的巨轮，在面对惊涛骇浪时越需要超凡的定力。工于至诚，不为浮华所动；行以致远，方显大国重器之底蕴。”*
+_“The larger the vessel, the greater the composure required in the storm. Built on integrity, unmoved by vanity, enduring far into the future—this is the true spirit of a pillar institution.”_

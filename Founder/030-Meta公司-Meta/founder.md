@@ -5,20 +5,20 @@
 
 ---
 
-> ### 📋 【传主档案速览】
-> • 全名：马克·埃利奥特·扎克伯格 (Mark Elliot Zuckerberg) | 1984.05.14 出生 (金牛座，纽约州白原市)
-> • 原生家庭：牙医父亲爱德华与精神科心理医生母亲卡伦，自幼家境优渥宽容
-> • 少年黑客启蒙：12岁用 Basic 语言为父亲牙医诊所编写局域网通信软件“ZuckNet”
-> • 高中菲利普斯埃克塞特奇迹：研发音乐推荐算法软件 Synapse，拒绝微软 95 万美元收购与高薪录用
-> • 创办实体：The Facebook (2004 年 2 月 4 日创立于哈佛大学柯克兰舍堂 H-33 宿舍) -> Meta Platforms, Inc.
-> • 颠覆发明与全球社交霸权：
-> - 2003 年秋在哈佛宿舍因失恋恶搞搭建评颜网站 Facemash，引发校园网络瘫痪险遭开除；
-> - 2004 年 2 月 4 日上线 thefacebook.com，数天内横扫哈佛、哥伦比亚、斯坦福与常春藤名校；
-> - 2006 年 22 岁断然撕毁雅虎 (Yahoo!) 10 亿美元收购要约协议，坚信连接全人类的价值远超十亿美金；
-> - 2012 年 10 亿美元闪电收购 Instagram、2014 年 190 Undefined 亿美元天价收购 WhatsApp 构筑全球社交铁幕；
-> - 2021 年将公司更名为 Meta，全面转向元宇宙 (Metaverse) 与开源人工智能 (Llama 家族)。
-> • 历史地位：全球现代社交网络开山鼻祖、掌控超 30 亿活跃用户的科技巨子
-> • 核心精神图腾：灰色圆领T恤与连帽衫、黑客精神海报 (The Hacker Way)、哈佛柯克兰宿舍H-33门牌、开源大模型Llama
+### 📋 传主档案速览
+• 全名：马克·埃利奥特·扎克伯格 (Mark Elliot Zuckerberg) | 1984.05.14 出生 (金牛座，纽约州白原市)
+• 原生家庭：牙医父亲爱德华与精神科心理医生母亲卡伦，自幼家境优渥宽容
+• 少年黑客启蒙：12岁用 Basic 语言为父亲牙医诊所编写局域网通信软件“ZuckNet”
+• 高中菲利普斯埃克塞特奇迹：研发音乐推荐算法软件 Synapse，拒绝微软 95 万美元收购与高薪录用
+• 创办实体：The Facebook (2004 年 2 月 4 日创立于哈佛大学柯克兰舍堂 H-33 宿舍) -> Meta Platforms, Inc.
+• 颠覆发明与全球社交霸权：
+- 2003 年秋在哈佛宿舍因失恋恶搞搭建评颜网站 Facemash，引发校园网络瘫痪险遭开除；
+- 2004 年 2 月 4 日上线 thefacebook.com，数天内横扫哈佛、哥伦比亚、斯坦福与常春藤名校；
+- 2006 年 22 岁断然撕毁雅虎 (Yahoo!) 10 亿美元收购要约协议，坚信连接全人类的价值远超十亿美金；
+- 2012 年 10 亿美元闪电收购 Instagram、2014 年 190 Undefined 亿美元天价收购 WhatsApp 构筑全球社交铁幕；
+- 2021 年将公司更名为 Meta，全面转向元宇宙 (Metaverse) 与开源人工智能 (Llama 家族)。
+• 历史地位：全球现代社交网络开山鼻祖、掌控超 30 亿活跃用户的科技巨子
+• 核心精神图腾：灰色圆领T恤与连帽衫、黑客精神海报 (The Hacker Way)、哈佛柯克兰宿舍H-33门牌、开源大模型Llama
 
 ---
 
@@ -69,7 +69,7 @@
 - 2006 年，门户巨头雅虎（Yahoo!）向仅有 22 岁、身穿连帽衫的马克抛出了一份价值 **10 亿美元** 的全现金收购合同。
 - 投资人和几乎所有高管都力劝马克签字套现，甚至爆发了激烈的董事会冲突。
 - 马克在董事会上冷静地撕毁了收购协议草案，并说道：
-  > **“雅虎甚至不知道他们买下我们后要做什么，而我们却对未来有清晰无比的十年规划！我们不是为了赚一笔钱卖掉公司，我们是为了把全世界每一个人都连接在一起！”**
+**“雅虎甚至不知道他们买下我们后要做什么，而我们却对未来有清晰无比的十年规划！我们不是为了赚一笔钱卖掉公司，我们是为了把全世界每一个人都连接在一起！”**
 - 几乎所有高管因此愤而离职，但马克凭借钢铁般的意志顶住了危机，带领 Facebook 继续独立狂奔。
 
 ---
@@ -89,51 +89,51 @@
 
 ## 🧠 第五章：马克·扎克伯格底层认知工具箱 (Mental Model Toolkit)
 
-> 【马克·扎克伯格八大底层黑客与社交思维模型】
-> 1. 快速行动打破常规模型 (Move Fast and Break Things)
-> • 核心心法：速度压倒一切完美主义。
-> 以极高的代码迭代与上线频率在真实世界中测试功能，不怕犯小错，唯快不破。
-> 2. 真实身份与社交图谱理论 (Real-Identity Social Graph)
-> • 核心心法：互联网不是匿名的游乐场。
-> 建立基于真实人际关系的数字孪生网络，利用信任与熟人动态产生无法迁移的高粘性网络效应。
-> 3. 黑客文化与代码主权 (The Hacker Way & Meritocracy)
-> • 核心心法：在组织内推崇“代码胜于雄辩 (Code Wins Arguments)”；
-> 用通宵 Hackathon 激发工程师的原生创新力，消灭等级森严的繁文缛节。
-> 4. 先发制人的防御性并购 (Preemptive Defensive M&A)
-> • 核心心法：一旦发现具有颠覆性潜在威胁的移动新生力量（如 Instagram、WhatsApp），
-> 不惜一切代价在早期以天价估值买断，将颠覆者转化为帝国护城河。
-> 5. 聚焦最底层元协议 (Meta-Protocol Dominance)
-> • 核心心法：掌握人类最基础的连接与通讯协议；
-> 从文字、图片、短视频到沉浸式 VR/AR 与空间交互，牢牢占据人类时间分配的最前沿。
-> 6. 开源作为战略杠杆 (Open-Source Commodity Strategy)
-> • 核心心法：将核心基础设施（如 PyTorch、Llama）全面开源，
-> 瓦解对手（如 OpenAI、谷歌）的闭源溢价壁垒，吸引全球数百万开发者共同完善生态。
-> 7. 创始人绝对控制权结构 (Dual-Class Founder Control)
-> • 核心心法：通过 AB 双重股权架构牢牢锁定控股投票权，
-> 确保企业在面对十年以上的长期颠覆性战略转型时（如元宇宙与开源 AI），不受短期资本噪音干扰。
-> 8. 第一天黑客敏捷重塑 (Perpetual Day 1 Hacker Agility)
-> • 核心心法：每隔五年主动发起自我颠覆；
-> 从桌面端转向移动端，从信息流转向短视频 Reels，从社交转向开源 AI。
+【马克·扎克伯格八大底层黑客与社交思维模型】
+1. 快速行动打破常规模型 (Move Fast and Break Things)
+• 核心心法：速度压倒一切完美主义。
+以极高的代码迭代与上线频率在真实世界中测试功能，不怕犯小错，唯快不破。
+2. 真实身份与社交图谱理论 (Real-Identity Social Graph)
+• 核心心法：互联网不是匿名的游乐场。
+建立基于真实人际关系的数字孪生网络，利用信任与熟人动态产生无法迁移的高粘性网络效应。
+3. 黑客文化与代码主权 (The Hacker Way & Meritocracy)
+• 核心心法：在组织内推崇“代码胜于雄辩 (Code Wins Arguments)”；
+用通宵 Hackathon 激发工程师的原生创新力，消灭等级森严的繁文缛节。
+4. 先发制人的防御性并购 (Preemptive Defensive M&A)
+• 核心心法：一旦发现具有颠覆性潜在威胁的移动新生力量（如 Instagram、WhatsApp），
+不惜一切代价在早期以天价估值买断，将颠覆者转化为帝国护城河。
+5. 聚焦最底层元协议 (Meta-Protocol Dominance)
+• 核心心法：掌握人类最基础的连接与通讯协议；
+从文字、图片、短视频到沉浸式 VR/AR 与空间交互，牢牢占据人类时间分配的最前沿。
+6. 开源作为战略杠杆 (Open-Source Commodity Strategy)
+• 核心心法：将核心基础设施（如 PyTorch、Llama）全面开源，
+瓦解对手（如 OpenAI、谷歌）的闭源溢价壁垒，吸引全球数百万开发者共同完善生态。
+7. 创始人绝对控制权结构 (Dual-Class Founder Control)
+• 核心心法：通过 AB 双重股权架构牢牢锁定控股投票权，
+确保企业在面对十年以上的长期颠覆性战略转型时（如元宇宙与开源 AI），不受短期资本噪音干扰。
+8. 第一天黑客敏捷重塑 (Perpetual Day 1 Hacker Agility)
+• 核心心法：每隔五年主动发起自我颠覆；
+从桌面端转向移动端，从信息流转向短视频 Reels，从社交转向开源 AI。
 
 ---
 
 ## 💬 第六章：马克·扎克伯格传世经典名言金句中英对照 (Iconic Quotes)
 
 1. **论行动与冒险**  
-   > *“快速行动，打破常规。除非你偶尔打破了一些东西，否则你行动的步伐就不够快！”*  
-   > _“Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.”_
+*“快速行动，打破常规。除非你偶尔打破了一些东西，否则你行动的步伐就不够快！”*
+_“Move fast and break things. Unless you are breaking stuff, you are not moving fast enough.”_
 
 2. **论最大的风险**  
-   > *“在这个日新月异的技术世界里，最大的风险就是不敢冒任何风险！”*  
-   > _“The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”_
+*“在这个日新月异的技术世界里，最大的风险就是不敢冒任何风险！”*
+_“The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”_
 
 3. **论使命与赚钱**  
-   > *“我们建立服务不是为了赚钱，我们赚钱是为了建立更好的服务！”*  
-   > _“We don't build services to make money; we make money to build better services.”_
+*“我们建立服务不是为了赚钱，我们赚钱是为了建立更好的服务！”*
+_“We don't build services to make money; we make money to build better services.”_
 
 4. **论连接世界**  
-   > *“把思考的焦点放在‘我们如何让每一个人都拥有发声的权利并连接彼此’，这是推动人类文明前进的最强大力量。”*  
-   > _“By giving people the power to share, we're making the world more transparent and connected.”_
+*“把思考的焦点放在‘我们如何让每一个人都拥有发声的权利并连接彼此’，这是推动人类文明前进的最强大力量。”*
+_“By giving people the power to share, we're making the world more transparent and connected.”_
 
 ---
 

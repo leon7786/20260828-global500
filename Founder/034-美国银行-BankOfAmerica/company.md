@@ -1,8 +1,9 @@
 # 美国银行 (Bank of America Corporation) —— 全球综合金融航母与负责任增长标杆全景介绍
 
-> **《财富》世界500强排名：第 34 位**  
-> **年度营业收入：$191,567 百万美元（约 1915 亿美元）**  
-> **官方网站：[www.bankofamerica.com](https://www.bankofamerica.com)**
+**《财富》世界500强排名：第 34 位**
+
+**年度营业收入：$191,567 百万美元（约 1915 亿美元）**
+**官方网站：[www.bankofamerica.com](https://www.bankofamerica.com)**
 
 ---
 
@@ -57,7 +58,7 @@
 ## 🎯 企业使命与核心价值观 (Mission & Purpose)
 
 - **企业崇高宗旨 (Purpose)**：
-  > **“通过连接人、思想与资源，让每一个人的财务生活变得更美好 (To help make financial lives better, through the power of every connection)”**
+**“通过连接人、思想与资源，让每一个人的财务生活变得更美好 (To help make financial lives better, through the power of every connection)”**
 - **核心价值观 (Core Values)**：
   1. **协同共赢 (Deliver Together)**：凝聚全球全牌照合力，为客户提供一站式综合金融解决方案。
   2. **负责任行动 (Act Responsibly)**：坚守审慎合规底线，做跨越经济周期的稳健长跑者。

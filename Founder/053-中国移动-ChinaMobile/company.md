@@ -1,8 +1,9 @@
 # 中国移动通信集团有限公司 (China Mobile) —— 全球最大信息通信与数智基建帝国全景介绍
 
-> **《财富》世界500强排名：第 53 位**  
-> **年度营业收入：$146,550 百万美元（约 1465 亿美元）**  
-> **官方网站：[www.chinamobileltd.com](https://www.chinamobileltd.com)**
+**《财富》世界500强排名：第 53 位**
+
+**年度营业收入：$146,550 百万美元（约 1465 亿美元）**
+**官方网站：[www.chinamobileltd.com](https://www.chinamobileltd.com)**
 
 ---
 

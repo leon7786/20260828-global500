@@ -1,8 +1,8 @@
 # 中国宝武钢铁集团有限公司 (China Baowu Steel Group) —— 全球第一大钢铁航母与绿色智慧制造全景介绍
 
-> **《财富》世界500强排名：第 100 位**  
-> **企业愿景：成为全球钢铁及先进材料业引领者 (Global Leader in Steel and Advanced Materials)**  
-> **官方网站：[www.baowugroup.com](https://www.baowugroup.com)**
+**《财富》世界500强排名：第 100 位**
+**企业愿景：成为全球钢铁及先进材料业引领者 (Global Leader in Steel and Advanced Materials)**
+**官方网站：[www.baowugroup.com](https://www.baowugroup.com)**
 
 ---
 

@@ -1,8 +1,9 @@
 # 马拉松原油公司 (Marathon Petroleum Corporation) —— 全美第一大炼油巨头全景介绍
 
-> **《财富》世界500强排名：第 63 位**  
-> **年度营业收入：$135,222 百万美元（约 1352.2 亿美元）**  
-> **官方网站：[www.marathonpetroleum.com](https://www.marathonpetroleum.com)**
+**《财富》世界500强排名：第 63 位**
+
+**年度营业收入：$135,222 百万美元（约 1352.2 亿美元）**
+**官方网站：[www.marathonpetroleum.com](https://www.marathonpetroleum.com)**
 
 ---
 

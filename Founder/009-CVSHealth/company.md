@@ -1,8 +1,9 @@
 # CVS Health公司 (CVS Health Corporation) —— 全球最大医药零售与健康管理生态帝国全景介绍
 
-> **《财富》世界500强排名：第 9 位**  
-> **年度营业收入：$402,067 百万美元（约 4020 亿美元）**  
-> **官方网站：[www.cvshealth.com](https://www.cvshealth.com)**
+**《财富》世界500强排名：第 9 位**
+
+**年度营业收入：$402,067 百万美元（约 4020 亿美元）**
+**官方网站：[www.cvshealth.com](https://www.cvshealth.com)**
 
 ---
 

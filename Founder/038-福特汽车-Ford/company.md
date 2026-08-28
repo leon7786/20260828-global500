@@ -1,8 +1,9 @@
 # 福特汽车公司 (Ford Motor Company) —— 全球汽车工业缔造者与 Ford+ 智能出行巨擘全景介绍
 
-> **《财富》世界500强排名：第 38 位**  
-> **年度营业收入：$187,267 百万美元（约 1873 亿美元）**  
-> **官方网站：[www.ford.com](https://www.ford.com)**
+**《财富》世界500强排名：第 38 位**
+
+**年度营业收入：$187,267 百万美元（约 1873 亿美元）**
+**官方网站：[www.ford.com](https://www.ford.com)**
 
 ---
 
@@ -58,7 +59,7 @@
 ## 🎯 企业文化与愿景 (The Ford+ Plan)
 
 - **企业崇高宗旨 (Purpose)**：
-  > **“通过构建一个每个人都能自由出行并追求梦想的美好世界，来帮助人类前行 (To help build a better world, where every person is free to move and pursue their dreams)”**
+**“通过构建一个每个人都能自由出行并追求梦想的美好世界，来帮助人类前行 (To help build a better world, where every person is free to move and pursue their dreams)”**
 - **Ford+ 核心价值观 (Values)**：
   1. **做正确的事 (Do the right thing)**：恪守对客户、员工与社会的最高诚信与安全承诺。
   2. **探索未知 (Discover & Be curious)**：永葆对技术极限与制造创新的好奇心。

@@ -1,8 +1,9 @@
 # 道达尔能源公司 (TotalEnergies SE) —— 全球综合多能源巨擘与低碳转型先锋全景介绍
 
-> **《财富》世界500强排名：第 40 位**  
-> **年度营业收入：$182,344 百万美元（约 1823 亿美元）**  
-> **官方网站：[www.totalenergies.com](https://www.totalenergies.com)**
+**《财富》世界500强排名：第 40 位**
+
+**年度营业收入：$182,344 百万美元（约 1823 亿美元）**
+**官方网站：[www.totalenergies.com](https://www.totalenergies.com)**
 
 ---
 
@@ -56,7 +57,7 @@
 ## 🎯 企业文化与价值观 (Culture & Purpose)
 
 - **企业崇高宗旨 (Purpose)**：
-  > **“为尽可能多的人提供更可负担、更清洁、更可靠且更容易获取的综合能源 (To provide energy that is more affordable, cleaner, more reliable and accessible to as many people as possible)”**
+**“为尽可能多的人提供更可负担、更清洁、更可靠且更容易获取的综合能源 (To provide energy that is more affordable, cleaner, more reliable and accessible to as many people as possible)”**
 - **五大核心价值观 (Core Values)**：
   1. **安全第一 (Safety)**：安全是所有业务运营的不可妥协基石。
   2. **彼此尊重 (Respect for Each Other)**：珍视多元文化与人权。

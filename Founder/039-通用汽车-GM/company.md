@@ -1,8 +1,9 @@
 # 通用汽车公司 (General Motors Company) —— 全球多品牌汽车集团奠基者与 Ultium 智能出行全景介绍
 
-> **《财富》世界500强排名：第 39 位**  
-> **年度营业收入：$185,019 百万美元（约 1850 亿美元）**  
-> **官方网站：[www.gm.com](https://www.gm.com)**
+**《财富》世界500强排名：第 39 位**
+
+**年度营业收入：$185,019 百万美元（约 1850 亿美元）**
+**官方网站：[www.gm.com](https://www.gm.com)**
 
 ---
 
@@ -58,7 +59,7 @@
 ## 🎯 企业文化与愿景 (One GM)
 
 - **企业崇高愿景 (Vision)**：
-  > **“创造一个零事故、零排放、零拥堵的全新美好世界 (A world with Zero Crashes, Zero Emissions and Zero Congestion)”**
+**“创造一个零事故、零排放、零拥堵的全新美好世界 (A world with Zero Crashes, Zero Emissions and Zero Congestion)”**
 - **One GM 核心价值观 (Values)**：
   1. **客户至上 (Customers First)**：将客户的安全与极致体验作为一切技术研发的北极星。
   2. **追求卓越与创新 (Excellence & Innovation)**：勇于颠覆传统，加速向电气化与智驾跃迁。

@@ -1,8 +1,9 @@
 # Centene公司 (Centene Corporation) —— 全美政府赞助医疗保障与平价管理式医疗霸主全景介绍
 
-> **《财富》世界500强排名：第 32 位**  
-> **年度营业收入：$194,777 百万美元（约 1948 亿美元）**  
-> **官方网站：[www.centene.com](https://www.centene.com)**
+**《财富》世界500强排名：第 32 位**
+
+**年度营业收入：$194,777 百万美元（约 1948 亿美元）**
+**官方网站：[www.centene.com](https://www.centene.com)**
 
 ---
 
@@ -58,7 +59,7 @@
 ## 🎯 企业使命与核心价值观 (Mission & Purpose)
 
 - **企业崇高使命 (Mission)**：
-  > **“改善社区健康，关爱每一个独特的鲜活个体 (Transforming the health of the community, one person at a time)”**
+**“改善社区健康，关爱每一个独特的鲜活个体 (Transforming the health of the community, one person at a time)”**
 - **核心价值观 (Core Values)**：
   1. **聚焦个体 (Focus on the Individual)**：深知每位低收入者背后的生活困境，拒绝将人抽象为统计数字。
   2. **全人关怀 (Whole-Health Approach)**：将医疗护理与住房、食物、心理健康紧密交织。

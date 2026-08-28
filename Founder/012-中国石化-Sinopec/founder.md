@@ -5,15 +5,15 @@
 
 ---
 
-> ### 📋 【传主与奠基团队档案速览】
-> • 核心传主：陈锦华 (Chen Jinhua, 1929.07 — 2016.07.02)
-> • 出生地：安徽省青阳县木镇镇 | 早期起点：上海第一印染厂艺徒
-> • 奠基领袖团队：李人俊（首任董事长兼党组书记）、陈锦华（首任总经理兼党组书记）、盛华仁、李毅中等
-> • 功勋科学家群像：闵恩泽（中国催化剂之父、两院院士）、舒兴田（分子筛与加氢裂化领军人、工程院院士）等
-> • 核心实体：中国石油化工集团有限公司 (China Petrochemical Corporation / Sinopec Group)
-> • 历史渊源：石油部/化工部/纺织部炼化资产统筹 -> 1983年中石化总公司 -> 1998年世纪重组为中石化集团
-> • 历史地位：新中国现代石化工业奠基人、中国超大型央企重组与现代治理开山者、国家宏观经济体制改革领航者
-> • 核心精神图腾：爱我中华振兴石化、百万吨乙烯自主化、芳烃成套技术突破、涪陵页岩气与万米深地工程
+### 📋 传主与奠基团队档案速览
+• 核心传主：陈锦华 (Chen Jinhua, 1929.07 — 2016.07.02)
+• 出生地：安徽省青阳县木镇镇 | 早期起点：上海第一印染厂艺徒
+• 奠基领袖团队：李人俊（首任董事长兼党组书记）、陈锦华（首任总经理兼党组书记）、盛华仁、李毅中等
+• 功勋科学家群像：闵恩泽（中国催化剂之父、两院院士）、舒兴田（分子筛与加氢裂化领军人、工程院院士）等
+• 核心实体：中国石油化工集团有限公司 (China Petrochemical Corporation / Sinopec Group)
+• 历史渊源：石油部/化工部/纺织部炼化资产统筹 -> 1983年中石化总公司 -> 1998年世纪重组为中石化集团
+• 历史地位：新中国现代石化工业奠基人、中国超大型央企重组与现代治理开山者、国家宏观经济体制改革领航者
+• 核心精神图腾：爱我中华振兴石化、百万吨乙烯自主化、芳烃成套技术突破、涪陵页岩气与万米深地工程
 
 ---
 
@@ -114,7 +114,7 @@
 ### 3. 击碎“多余论”：陈锦华的铁血集约化整编
 上收大厂触动了原部委与地方利益，社会上出现“中石化是多余行政卡子”、“应当撤销”的激烈非议。
 - **陈锦华在全行业干部大会上的掷地有声**：
-  > **“有些同志说我们中石化总公司是多余的，巴不得我们早点垮台。今天我把话放在这里：中石化多余不多余，不靠文件去争，也不靠嘴皮去辩，全看客观实绩！如果在三年内，我们拿不出比过去分散管理多得多的税利、解决不了全国十亿人的穿衣温饱与工业原料，我们自己向中央写辞职信，不用别人打，自己不打自倒！但只要中石化存在一天，就必须把分散的五指捏成铁拳头！”**
+**“有些同志说我们中石化总公司是多余的，巴不得我们早点垮台。今天我把话放在这里：中石化多余不多余，不靠文件去争，也不靠嘴皮去辩，全看客观实绩！如果在三年内，我们拿不出比过去分散管理多得多的税利、解决不了全国十亿人的穿衣温饱与工业原料，我们自己向中央写辞职信，不用别人打，自己不打自倒！但只要中石化存在一天，就必须把分散的五指捏成铁拳头！”**
 - **推行“三集中”管理**：
   - 强力实施**“原油集中调度、资金集中统管、产品集中销售”**，全国原油按最优炼化深度配置，资金池统一调度，全国石化工业全面蜕变为国家工业正规军。
 
@@ -190,32 +190,32 @@
 
 ## 🧠 第八章：陈锦华与中国石化八大底层工业认知工具箱 (Mental Models)
 
-> 【陈锦华与中国石化八大传世底层工业与管理心法】
-> 1. 大产业大联合大集中模型 (Grand Industrial Integration & Unified Allocation Model / "捏指成拳")
-> • 核心心法：现代重化工业具有极强物料耦合性与规模效应。行政壁垒与诸侯割据是效率杀手。
-> 必须推倒部门围墙，实现原料统配、资金统管、销售统一，把分散五指握成铁拳。
-> 2. 以税还贷与自力更生滚动投资模型 (Self-Sustaining Debt-by-Tax Reinvestment Model / "以税还贷、滚雪球发展")
-> • 核心心法：在大国财力短缺阶段，切忌坐等拨款。
-> 利用未来新增产能的税后现金流偿还商业贷款，以制度创新激活金融杠杆，
-> 实现重大工业基础设施从无到有的“滚雪球”式超常规跨越。
-> 3. 全产业链深度吃干榨净第一性原理 (Full-Value-Chain Molecular Optimization Principle / "吃干榨净、向分子要效益")
-> • 核心心法：石油绝不仅仅是燃料，而是碳氢分子宝库。
-> 从原油常减压到加氢催化裂化，必须梯级利用、物尽其用，将原油加工深度拉升到极致。
-> 4. 穿新鞋走新路的自负盈亏承包制模型 ("Wear New Shoes to Walk New Roads" Accountability Contract Model / "四定四保四包")
-> • 核心心法：打破传统国企大锅饭依赖。企业生存价值在于实绩与效益。
-> 将责权利绑定在军令状指标上，完不成任务不打自倒，激活全员生产力。
-> 5. 核心基础原料主权安全壁垒模型 (Feedstock Sovereignty & Complete Technology Moat / "技术主权、自主攻坚")
-> • 核心心法：大国经济命脉绝不能建立在别人的技术地基上。
-> 从乙烯裂解催化剂到芳烃PX全流程工艺，宁可耗费数十年接力攻关，也必须彻底打破国外垄断。
-> 6. 地质极限工程化破局模型 (Extreme Subsurface Engineering Framework / "向深地深海非常规进军")
-> • 核心心法：没有绝对的地质禁区，只有未突破的工程与理论认知。
-> 面对复杂海相页岩气与8000米超深层，以“地质-工程一体化”自主创新化险境为国家能源宝库。
-> 7. 跨周期上下游对冲与飞轮互补模型 (Anti-Cyclic Upstream-Downstream Hedging Flywheel / "以化补油、以销促炼")
-> • 核心心法：高油价时上游勘探暴利支撑，低油价时下游炼化享受低成本，终端3万座加油站稳定变现。
-> 全产业链纵向一体化构成抵御大宗商品周期波动的终极护城河。
-> 8. 绿色低碳分子重构与新旧能源迭代模型 (Green Molecular Transition & Hydrogen-Carbon Integration / "油气氢电服")
-> • 核心心法：传统能源巨头绝不能沦为旧时代恐龙。
-> 利用管网、终端网络与氢能资源，前瞻布局光伏绿氢、CCUS碳循环与充换电网络，实现跨代际分子重构。
+【陈锦华与中国石化八大传世底层工业与管理心法】
+1. 大产业大联合大集中模型 (Grand Industrial Integration & Unified Allocation Model / "捏指成拳")
+• 核心心法：现代重化工业具有极强物料耦合性与规模效应。行政壁垒与诸侯割据是效率杀手。
+必须推倒部门围墙，实现原料统配、资金统管、销售统一，把分散五指握成铁拳。
+2. 以税还贷与自力更生滚动投资模型 (Self-Sustaining Debt-by-Tax Reinvestment Model / "以税还贷、滚雪球发展")
+• 核心心法：在大国财力短缺阶段，切忌坐等拨款。
+利用未来新增产能的税后现金流偿还商业贷款，以制度创新激活金融杠杆，
+实现重大工业基础设施从无到有的“滚雪球”式超常规跨越。
+3. 全产业链深度吃干榨净第一性原理 (Full-Value-Chain Molecular Optimization Principle / "吃干榨净、向分子要效益")
+• 核心心法：石油绝不仅仅是燃料，而是碳氢分子宝库。
+从原油常减压到加氢催化裂化，必须梯级利用、物尽其用，将原油加工深度拉升到极致。
+4. 穿新鞋走新路的自负盈亏承包制模型 ("Wear New Shoes to Walk New Roads" Accountability Contract Model / "四定四保四包")
+• 核心心法：打破传统国企大锅饭依赖。企业生存价值在于实绩与效益。
+将责权利绑定在军令状指标上，完不成任务不打自倒，激活全员生产力。
+5. 核心基础原料主权安全壁垒模型 (Feedstock Sovereignty & Complete Technology Moat / "技术主权、自主攻坚")
+• 核心心法：大国经济命脉绝不能建立在别人的技术地基上。
+从乙烯裂解催化剂到芳烃PX全流程工艺，宁可耗费数十年接力攻关，也必须彻底打破国外垄断。
+6. 地质极限工程化破局模型 (Extreme Subsurface Engineering Framework / "向深地深海非常规进军")
+• 核心心法：没有绝对的地质禁区，只有未突破的工程与理论认知。
+面对复杂海相页岩气与8000米超深层，以“地质-工程一体化”自主创新化险境为国家能源宝库。
+7. 跨周期上下游对冲与飞轮互补模型 (Anti-Cyclic Upstream-Downstream Hedging Flywheel / "以化补油、以销促炼")
+• 核心心法：高油价时上游勘探暴利支撑，低油价时下游炼化享受低成本，终端3万座加油站稳定变现。
+全产业链纵向一体化构成抵御大宗商品周期波动的终极护城河。
+8. 绿色低碳分子重构与新旧能源迭代模型 (Green Molecular Transition & Hydrogen-Carbon Integration / "油气氢电服")
+• 核心心法：传统能源巨头绝不能沦为旧时代恐龙。
+利用管网、终端网络与氢能资源，前瞻布局光伏绿氢、CCUS碳循环与充换电网络，实现跨代际分子重构。
 
 ---
 
@@ -240,20 +240,20 @@
 ### 经典名言金句中英对照 (Iconic Quotes)
 
 1. **论石化工业之于民生与国运**  
-   > **“石化工业是国民经济的命脉母体。穿衣、吃粮、行路、造物，全中国十亿人的温饱与工业现代化，哪一样能离开石油化工？我们必须把分散的炼油厂与化纤厂捏成一个铁拳头，打造中国人自己的石化航空母舰！”**  
-   > _“The petrochemical industry is the very lifeblood and motherboard of the national economy. Clothing, food, mobility, and manufacturing — how could the livelihood and modernization of a billion Chinese people ever dispense with petrochemicals? We must forge our scattered refineries and chemical fiber plants into a single iron fist to build China's own petrochemical aircraft carrier!”_
+**“石化工业是国民经济的命脉母体。穿衣、吃粮、行路、造物，全中国十亿人的温饱与工业现代化，哪一样能离开石油化工？我们必须把分散的炼油厂与化纤厂捏成一个铁拳头，打造中国人自己的石化航空母舰！”**
+_“The petrochemical industry is the very lifeblood and motherboard of the national economy. Clothing, food, mobility, and manufacturing — how could the livelihood and modernization of a billion Chinese people ever dispense with petrochemicals? We must forge our scattered refineries and chemical fiber plants into a single iron fist to build China's own petrochemical aircraft carrier!”_
 
 2. **论打破部门壁垒与企业存在价值**  
-   > **“中石化多余不多余，不靠文件去争，也不靠嘴皮去辩，全看客观实绩！如果我们拿不出比过去分散管理多得多的税利、完不成中央交给的任务，我们自己解散，不打自倒！”**  
-   > _“Whether Sinopec is redundant or indispensable is not something to be argued through bureaucratic circulars or empty talk; it will be judged solely by our concrete performance! If we cannot deliver far greater tax revenues than under fragmented ministerial management and fail our national mission, we will disband voluntarily without waiting for others to strike us down!”_
+**“中石化多余不多余，不靠文件去争，也不靠嘴皮去辩，全看客观实绩！如果我们拿不出比过去分散管理多得多的税利、完不成中央交给的任务，我们自己解散，不打自倒！”**
+_“Whether Sinopec is redundant or indispensable is not something to be argued through bureaucratic circulars or empty talk; it will be judged solely by our concrete performance! If we cannot deliver far greater tax revenues than under fragmented ministerial management and fail our national mission, we will disband voluntarily without waiting for others to strike us down!”_
 
 3. **论大工业基建与自力更生**  
-   > **“搞大工业切忌坐等国家拨款。天下没有白掉的馅饼，我们要学会‘以税还贷’，用明天的增量效益为今天的建设买单，在改革的深水区里滚雪球向前走！”**  
-   > _“In building grand industrial projects, one must never passively wait for state handouts. There is no free lunch in this world; we must master 'repaying debt through future tax revenues,' using tomorrow's incremental profits to fund today's construction, rolling the snowball forward through the deep waters of reform!”_
+**“搞大工业切忌坐等国家拨款。天下没有白掉的馅饼，我们要学会‘以税还贷’，用明天的增量效益为今天的建设买单，在改革的深水区里滚雪球向前走！”**
+_“In building grand industrial projects, one must never passively wait for state handouts. There is no free lunch in this world; we must master 'repaying debt through future tax revenues,' using tomorrow's incremental profits to fund today's construction, rolling the snowball forward through the deep waters of reform!”_
 
 4. **论技术主权与自主创新**  
-   > **“中国搞对外引进是为了学习超越，而不是永远当别人的附庸。核心技术是买不来的，从乙烯催化剂到芳烃成套技术，必须靠我们几代石化人拼尽全力攻下来，把大国工业的地基踩在自己脚下！”**  
-   > _“China engages in foreign technology imports to learn and surpass, never to remain an eternal vassal. Core technologies can never be bought. From ethylene catalysts to complete aromatics technology, we must rely on generations of our own engineers to conquer them and firmly plant the bedrock of our national industry beneath our own feet!”_
+**“中国搞对外引进是为了学习超越，而不是永远当别人的附庸。核心技术是买不来的，从乙烯催化剂到芳烃成套技术，必须靠我们几代石化人拼尽全力攻下来，把大国工业的地基踩在自己脚下！”**
+_“China engages in foreign technology imports to learn and surpass, never to remain an eternal vassal. Core technologies can never be bought. From ethylene catalysts to complete aromatics technology, we must rely on generations of our own engineers to conquer them and firmly plant the bedrock of our national industry beneath our own feet!”_
 
 ---
 

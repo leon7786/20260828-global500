@@ -1,8 +1,9 @@
 # 威瑞森电信 (Verizon Communications) —— 全美网络质量之王与 5G 超宽带基建帝国全景介绍
 
-> **《财富》世界500强排名：第 60 位**  
-> **年度营业收入：$138,191 百万美元（约 1381 亿美元）**  
-> **官方网站：[www.verizon.com](https://www.verizon.com)**
+**《财富》世界500强排名：第 60 位**
+
+**年度营业收入：$138,191 百万美元（约 1381 亿美元）**
+**官方网站：[www.verizon.com](https://www.verizon.com)**
 
 ---
 
@@ -60,7 +61,7 @@
 ## 🎯 企业文化与价值观 (Corporate Purpose)
 
 威瑞森的核心使命：
-> **“我们创造连接，让世界充满希望 (We deliver the promises of the digital world)”**
+**“我们创造连接，让世界充满希望 (We deliver the promises of the digital world)”**
 
 核心价值观（The Verizon Credo）：
 1. **诚信为本 (Integrity)**：言必信、行必果，网络质量与客户隐私绝不妥协；

@@ -1,8 +1,9 @@
 # 房地美 (Freddie Mac / Federal Home Loan Mortgage Corp.) —— 全球住房抵押贷款流动性与证券化巨头全景介绍
 
-> **《财富》世界500强排名：第 71 位**  
-> **年度营业收入：$131,688 百万美元（约 1316.9 亿美元）**  
-> **官方网站：[www.freddiemac.com](https://www.freddiemac.com)**
+**《财富》世界500强排名：第 71 位**
+
+**年度营业收入：$131,688 百万美元（约 1316.9 亿美元）**
+**官方网站：[www.freddiemac.com](https://www.freddiemac.com)**
 
 ---
 

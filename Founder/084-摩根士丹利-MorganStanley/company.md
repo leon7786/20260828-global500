@@ -1,8 +1,9 @@
 # 摩根士丹利 (Morgan Stanley) —— 全球投资银行与万亿财富管理超级旗舰全景介绍
 
-> **《财富》世界500强排名：第 84 位**  
-> **年度营业收入：$119,662 百万美元（约 1196.6 亿美元）**  
-> **官方网站：[www.morganstanley.com](https://www.morganstanley.com)**
+**《财富》世界500强排名：第 84 位**
+
+**年度营业收入：$119,662 百万美元（约 1196.6 亿美元）**
+**官方网站：[www.morganstanley.com](https://www.morganstanley.com)**
 
 ---
 

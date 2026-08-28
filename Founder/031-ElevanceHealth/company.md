@@ -1,8 +1,9 @@
 # Elevance Health公司 (Elevance Health, Inc.) —— 全球健康保障与全人健康服务帝国全景介绍
 
-> **《财富》世界500强排名：第 31 位**  
-> **年度营业收入：$199,125 百万美元（约 1991 亿美元）**  
-> **官方网站：[www.elevancehealth.com](https://www.elevancehealth.com)**
+**《财富》世界500强排名：第 31 位**
+
+**年度营业收入：$199,125 百万美元（约 1991 亿美元）**
+**官方网站：[www.elevancehealth.com](https://www.elevancehealth.com)**
 
 ---
 
@@ -58,7 +59,7 @@
 ## 🎯 企业文化与核心价值观 (Culture & Purpose)
 
 - **企业崇高宗旨 (Purpose)**：
-  > **“改善人类健康 (Improving the Health of Humanity)”**
+**“改善人类健康 (Improving the Health of Humanity)”**
 - **核心价值观 (Core Values)**：
   1. **敏捷创新 (Agile)**：以光速适应瞬息万变的医疗政策与临床科技，拥抱变革。
   2. **绝对诚信 (Integrity)**：在生命关怀与资金托付中坚守最高道德伦理底线。

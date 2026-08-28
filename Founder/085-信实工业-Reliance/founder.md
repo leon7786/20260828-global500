@@ -5,14 +5,14 @@
 
 ---
 
-> ### 📋 【传主档案速览】
-> • 全名：迪拉杰拉尔·希拉昌德·安巴尼 (Dhirajlal Hirachand Ambani，通称 Dhirubhai Ambani)
-> • 生卒：1932 年 12 月 28 日 — 2002 年 7 月 6 日 | 出生地：印度古吉拉特邦 Chorwad 村
-> • 身份：信实工业创始人、印度现代商业思想教父、全球纺织与石化工业传奇巨擎
-> • 学历：仅受过初中基础教育（16岁辍学闯荡江湖）
-> • 历史贡献：打破印度“许可证制度”壁垒、开创印度全民散户持股时代、建成全球最大单体炼油厂
-> • 传承掌舵：穆克什·安巴尼 (Mukesh Ambani) —— 带领信实跨入 Jio 数字互联与万亿零售时代
-> • 核心精神图腾：规模经济暴力美学、逆向纵向一体化、散户股东同盟、敢想快想无极限
+### 📋 传主档案速览
+• 全名：迪拉杰拉尔·希拉昌德·安巴尼 (Dhirajlal Hirachand Ambani，通称 Dhirubhai Ambani)
+• 生卒：1932 年 12 月 28 日 — 2002 年 7 月 6 日 | 出生地：印度古吉拉特邦 Chorwad 村
+• 身份：信实工业创始人、印度现代商业思想教父、全球纺织与石化工业传奇巨擎
+• 学历：仅受过初中基础教育（16岁辍学闯荡江湖）
+• 历史贡献：打破印度“许可证制度”壁垒、开创印度全民散户持股时代、建成全球最大单体炼油厂
+• 传承掌舵：穆克什·安巴尼 (Mukesh Ambani) —— 带领信实跨入 Jio 数字互联与万亿零售时代
+• 核心精神图腾：规模经济暴力美学、逆向纵向一体化、散户股东同盟、敢想快想无极限
 
 ---
 
@@ -104,38 +104,38 @@
 
 ## 🧠 第五章：迪鲁巴伊·安巴尼底层认知工具箱 (Mental Model Toolkit)
 
-> 【迪鲁巴伊·安巴尼六大传世底层商业模型】
-> 1. 规模经济暴力美学 (Scale as the Ultimate Strategic Weapon)
-> • 核心心法：只要决定做一件事情，就必须按照全球最大规模、最先进技术标准去建设。
-> 超大规模不仅能带来绝对的单位成本领先，更能构筑起让对手绝望的准入壁垒。
-> 2. 逆向纵向一体化模型 (Backward Vertical Integration Playbook)
-> • 核心心法：从最贴近终端消费者的产品切入，逐步吃透产业链每个环节的利润与工艺，
-> 逐级向上游原料与能源源头反向吞并，彻底消除被上游卡脖子的风险。
-> 3. 散户股东信任同盟 (Retail Equity Evangelism)
-> • 核心心法：将千千万万普通平民变成企业的股东与合伙人。用持续真实的丰厚分红回报他们，
-> 散户的信任将化为企业在遭遇任何政治风暴和做空危机时最坚不可摧的护城河。
-> 4. 制度缝隙套利与穿透力 (Navigating & Dismantling Bureaucratic Labyrinths)
-> • 核心心法：任何僵化的体制与管制政策都存在内在矛盾与价格扭曲。
-> 以极高的商业智商与无畏魄力穿透条条框框，把政策阻碍转化为独家先发优势。
-> 5. 敢想、快想、前瞻思考 (Think Big, Think Fast, Think Ahead)
-> • 核心心法：平庸者之所以平庸，是因为他们在行动前就用自我设限杀死了梦想。
-> 思想是免费的，敢于构想常人不敢想象的未来，并以光速付诸执行。
-> 6. 家族基业长青与代际接力 (Multigenerational Wealth & Second-Curve Reinvention)
-> • 核心心法：将工程严谨性（穆克什）与商业胆魄代际传承，在第一增长曲线（石化炼油）
-> 巅峰时期果断布局第二曲线（移动互联 Jio 与绿色能源），实现帝国永续生长。
+【迪鲁巴伊·安巴尼六大传世底层商业模型】
+1. 规模经济暴力美学 (Scale as the Ultimate Strategic Weapon)
+• 核心心法：只要决定做一件事情，就必须按照全球最大规模、最先进技术标准去建设。
+超大规模不仅能带来绝对的单位成本领先，更能构筑起让对手绝望的准入壁垒。
+2. 逆向纵向一体化模型 (Backward Vertical Integration Playbook)
+• 核心心法：从最贴近终端消费者的产品切入，逐步吃透产业链每个环节的利润与工艺，
+逐级向上游原料与能源源头反向吞并，彻底消除被上游卡脖子的风险。
+3. 散户股东信任同盟 (Retail Equity Evangelism)
+• 核心心法：将千千万万普通平民变成企业的股东与合伙人。用持续真实的丰厚分红回报他们，
+散户的信任将化为企业在遭遇任何政治风暴和做空危机时最坚不可摧的护城河。
+4. 制度缝隙套利与穿透力 (Navigating & Dismantling Bureaucratic Labyrinths)
+• 核心心法：任何僵化的体制与管制政策都存在内在矛盾与价格扭曲。
+以极高的商业智商与无畏魄力穿透条条框框，把政策阻碍转化为独家先发优势。
+5. 敢想、快想、前瞻思考 (Think Big, Think Fast, Think Ahead)
+• 核心心法：平庸者之所以平庸，是因为他们在行动前就用自我设限杀死了梦想。
+思想是免费的，敢于构想常人不敢想象的未来，并以光速付诸执行。
+6. 家族基业长青与代际接力 (Multigenerational Wealth & Second-Curve Reinvention)
+• 核心心法：将工程严谨性（穆克什）与商业胆魄代际传承，在第一增长曲线（石化炼油）
+巅峰时期果断布局第二曲线（移动互联 Jio 与绿色能源），实现帝国永续生长。
 
 ---
 
 ## 💬 第六章：迪鲁巴伊·安巴尼传世经典名言金句 (Iconic Quotes)
 
 1. **论梦想与自主**  
-   > *“如果你不去建立属于自己的梦想，别人就会雇佣你来帮他们建立梦想！”*  
-   > _“If you don't build your dream, someone else will hire you to help them build theirs.”_
+*“如果你不去建立属于自己的梦想，别人就会雇佣你来帮他们建立梦想！”*
+_“If you don't build your dream, someone else will hire you to help them build theirs.”_
 
 2. **论格局与思考**  
-   > *“敢想、快想、前瞻思考！想法不属于任何特定阶层，它属于那些敢于行动并为之付出一切的人！”*  
-   > _“Think big, think fast, think ahead. Ideas are no one's monopoly.”_
+*“敢想、快想、前瞻思考！想法不属于任何特定阶层，它属于那些敢于行动并为之付出一切的人！”*
+_“Think big, think fast, think ahead. Ideas are no one's monopoly.”_
 
 3. **论逆境与拼搏**  
-   > *“在信实，我们的字典里从来没有‘不可能’这三个字！困难只是上天为了检验你的决心而设置的考验！”*  
-   > _“Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater.”_
+*“在信实，我们的字典里从来没有‘不可能’这三个字！困难只是上天为了检验你的决心而设置的考验！”*
+_“Our dreams have to be bigger. Our ambitions higher. Our commitment deeper. And our efforts greater.”_

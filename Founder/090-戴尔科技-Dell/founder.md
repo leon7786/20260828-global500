@@ -5,13 +5,13 @@
 
 ---
 
-> ### 📋 【传主档案速览】
-> • 全名：迈克尔·索尔·戴尔 (Michael Saul Dell)
-> • 生辰：1965 年 2 月 23 日 (双鱼座) | 出生地：美国德克萨斯州休斯敦 (Houston, TX)
-> • 身份：戴尔科技公司创始人、董事长兼 CEO、全球 PC 直销模式缔造者、科技史上最大并购操盘手
-> • 学历：德克萨斯大学奥斯汀分校 (UT Austin) 医预科（19岁大一辍学全职创业）
-> • 历史纪录：27岁成为《财富》500强史上最年轻CEO；主导 670 亿美元并购 EMC 创科技并购纪录
-> • 核心精神图腾：负营运资金直销模型、消灭中间商、私有化反脆弱逆袭、终身创始人韧性、AI Factory 算力重构
+### 📋 传主档案速览
+• 全名：迈克尔·索尔·戴尔 (Michael Saul Dell)
+• 生辰：1965 年 2 月 23 日 (双鱼座) | 出生地：美国德克萨斯州休斯敦 (Houston, TX)
+• 身份：戴尔科技公司创始人、董事长兼 CEO、全球 PC 直销模式缔造者、科技史上最大并购操盘手
+• 学历：德克萨斯大学奥斯汀分校 (UT Austin) 医预科（19岁大一辍学全职创业）
+• 历史纪录：27岁成为《财富》500强史上最年轻CEO；主导 670 亿美元并购 EMC 创科技并购纪录
+• 核心精神图腾：负营运资金直销模型、消灭中间商、私有化反脆弱逆袭、终身创始人韧性、AI Factory 算力重构
 
 ---
 
@@ -98,38 +98,38 @@
 
 ## 🧠 第五章：迈克尔·戴尔底层认知工具箱与思维模型 (Mental Model Toolkit)
 
-> 【迈克尔·戴尔六大传世底层商业模型】
-> 1. 负营运资金与零库存直销模型 (Negative Working Capital & Lean Direct Delivery)
-> • 核心心法：消灭一切阻隔在企业与终端客户之间的中间商与滞销库存。
-> 用客户的预付资金撬动生产，以秒级供应链响应让现金流实现自发性无限正循环。
-> 2. 终身创始人韧性与重返前线哲学 (Founder Mentality & Re-Invention)
-> • 核心心法：真正的创始人拥有职业经理人无法比拟的长期担当与冒险魄力。
-> 在企业遭遇周期性绝境时，敢于押上全部身家重返前线，推倒重来再造第二曲线。
-> 3. 私有化反脆弱战略重构法 (Privatization as a Transformative Safe Haven)
-> • 核心心法：当面临痛苦的长期战略转型时，敢于脱离注重短期季报的公开资本市场，
-> 在私有化保护罩下承受数年阵痛，完成深度的资产剥离与超级并购后再王者归来。
-> 4. 蛇吞象超级并购资本结构工程 (Mega-M&A Capital Engineering e.g. EMC)
-> • 核心心法：利用精准的债务杠杆、资产分拆与创新跟踪股票工具，以小博大吞并互补资产，
-> 瞬间打通产业链上下游，重塑行业格局。
-> 5. 极致客户亲密度与敏捷响应 (Extreme Customer Intimacy & Feedback Loop)
-> • 核心心法：直销的精髓不仅在于省去中间差价，更在于每天能第一时间接收到来自成千上万
-> 客户最真实的痛点反馈，以最快速度倒逼产品研发与服务升级。
-> 6. 开放生态与战略共生联盟 (Open Strategic Symbiosis e.g. Dell + NVIDIA)
-> • 核心心法：不盲目重复造轮子。在核心基础设施领域与全球最顶尖的芯片、软件巨头
-> 深度绑定，做整合能力最强、交付最可靠的企业级交钥匙超级工厂。
+【迈克尔·戴尔六大传世底层商业模型】
+1. 负营运资金与零库存直销模型 (Negative Working Capital & Lean Direct Delivery)
+• 核心心法：消灭一切阻隔在企业与终端客户之间的中间商与滞销库存。
+用客户的预付资金撬动生产，以秒级供应链响应让现金流实现自发性无限正循环。
+2. 终身创始人韧性与重返前线哲学 (Founder Mentality & Re-Invention)
+• 核心心法：真正的创始人拥有职业经理人无法比拟的长期担当与冒险魄力。
+在企业遭遇周期性绝境时，敢于押上全部身家重返前线，推倒重来再造第二曲线。
+3. 私有化反脆弱战略重构法 (Privatization as a Transformative Safe Haven)
+• 核心心法：当面临痛苦的长期战略转型时，敢于脱离注重短期季报的公开资本市场，
+在私有化保护罩下承受数年阵痛，完成深度的资产剥离与超级并购后再王者归来。
+4. 蛇吞象超级并购资本结构工程 (Mega-M&A Capital Engineering e.g. EMC)
+• 核心心法：利用精准的债务杠杆、资产分拆与创新跟踪股票工具，以小博大吞并互补资产，
+瞬间打通产业链上下游，重塑行业格局。
+5. 极致客户亲密度与敏捷响应 (Extreme Customer Intimacy & Feedback Loop)
+• 核心心法：直销的精髓不仅在于省去中间差价，更在于每天能第一时间接收到来自成千上万
+客户最真实的痛点反馈，以最快速度倒逼产品研发与服务升级。
+6. 开放生态与战略共生联盟 (Open Strategic Symbiosis e.g. Dell + NVIDIA)
+• 核心心法：不盲目重复造轮子。在核心基础设施领域与全球最顶尖的芯片、软件巨头
+深度绑定，做整合能力最强、交付最可靠的企业级交钥匙超级工厂。
 
 ---
 
 ## 💬 第六章：迈克尔·戴尔传世经典名言金句 (Iconic Quotes)
 
 1. **论创业与痛点**  
-   > *“你不需要成为一个天才才能创立一家伟大的公司。你只需要找到一个被传统巨头漠视的真实痛点，消除所有无谓的中间环节，以十倍的专注和速度去满足客户的渴望！”*  
-   > _“You don't have to be a genius to start a great company. You just need an idea that solves a real problem.”_
+*“你不需要成为一个天才才能创立一家伟大的公司。你只需要找到一个被传统巨头漠视的真实痛点，消除所有无谓的中间环节，以十倍的专注和速度去满足客户的渴望！”*
+_“You don't have to be a genius to start a great company. You just need an idea that solves a real problem.”_
 
 2. **论创新与冒险**  
-   > *“在这个充满不确定性的世界里，最大的风险就是你不敢承担任何风险。如果你永远只走别人走过的安全老路，你注定只能收获平庸！”*  
-   > _“You can't be afraid to fail, because that's when you learn. The biggest risk is not taking any risk.”_
+*“在这个充满不确定性的世界里，最大的风险就是你不敢承担任何风险。如果你永远只走别人走过的安全老路，你注定只能收获平庸！”*
+_“You can't be afraid to fail, because that's when you learn. The biggest risk is not taking any risk.”_
 
 3. **论长期主义与格局**  
-   > *“华尔街总是盯着下个季度的财报，但我们是在为未来的十年和二十年打造一家能够持续重塑科技工业的伟大企业！”*  
-   > _“We think about our business in terms of decades, not quarters.”_
+*“华尔街总是盯着下个季度的财报，但我们是在为未来的十年和二十年打造一家能够持续重塑科技工业的伟大企业！”*
+_“We think about our business in terms of decades, not quarters.”_
