@@ -615,6 +615,60 @@
       }
     }
 
+    // ----------------------------------------------------
+    // URL Hash & LocalStorage State Synchronization
+    // ----------------------------------------------------
+    function parseStateFromUrlOrStorage() {
+      let targetRank = null;
+      let targetTab = 'founder';
+
+      // 1. Check URL Hash (e.g. #028 or #rank=28&tab=company or #28)
+      const hash = window.location.hash.replace(/^#/, '').trim();
+      const params = new URLSearchParams(window.location.search || (hash.includes('?') ? hash.split('?')[1] : ''));
+
+      if (params.get('rank')) {
+        targetRank = parseInt(params.get('rank'));
+      }
+      if (params.get('tab')) {
+        targetTab = params.get('tab');
+      }
+
+      if (!targetRank && hash) {
+        const cleanHash = hash.split('?')[0].split('&')[0];
+        const match = cleanHash.match(/(\d+)/);
+        if (match) {
+          targetRank = parseInt(match[1]);
+        }
+        if (hash.includes('tab=')) {
+          const tabMatch = hash.match(/tab=([a-z]+)/);
+          if (tabMatch) targetTab = tabMatch[1];
+        }
+      }
+
+      // 2. Fallback to LocalStorage
+      if (!targetRank) {
+        const savedRank = localStorage.getItem('global500_active_rank');
+        if (savedRank) targetRank = parseInt(savedRank);
+      }
+      const savedTab = localStorage.getItem('global500_active_tab');
+      if (savedTab && ['founder', 'company', 'readme'].includes(savedTab)) {
+        targetTab = savedTab;
+      }
+
+      return { rank: targetRank || 1, tab: targetTab };
+    }
+
+    function syncStateToUrlAndStorage(c, tab) {
+      if (!c) return;
+      localStorage.setItem('global500_active_rank', c.rank);
+      localStorage.setItem('global500_active_tab', tab);
+      
+      const newHash = `#rank=${c.rank}&tab=${tab}`;
+      if (window.location.hash !== newHash) {
+        window.history.replaceState(null, '', newHash);
+      }
+    }
+
     // Load Data
     async function initData() {
       setTheme(currentTheme);
@@ -624,13 +678,33 @@
         allCompanies = data.companies;
         currentFiltered = [...allCompanies];
         
+        const state = parseStateFromUrlOrStorage();
+        let targetIndex = allCompanies.findIndex(x => x.rank === state.rank);
+        if (targetIndex === -1) targetIndex = 0;
+        
+        currentTab = state.tab;
+        updateTabButtonUI(currentTab);
+
         renderSidebar();
-        selectCompany(0); // Default to #001 Amazon
+        selectCompany(targetIndex, false);
         lucide.createIcons();
       } catch (err) {
         console.error('Failed to load site data', err);
         document.getElementById('article-content').innerHTML = '<p class="text-rose-500 text-center py-20">数据载入失败，请刷新重试。</p>';
       }
+    }
+
+    function updateTabButtonUI(tab) {
+      ['founder', 'company', 'readme'].forEach(t => {
+        const btn = document.getElementById(`tab-${t}`);
+        if (btn) {
+          if (t === tab) {
+            btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center justify-center gap-1";
+          } else {
+            btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center justify-center gap-1";
+          }
+        }
+      });
     }
 
     // Render Left Sidebar Items
@@ -681,10 +755,13 @@
     }
 
     // Select & Load Company Content
-    async function selectCompany(index) {
+    async function selectCompany(index, scroll = true) {
       if (index < 0 || index >= allCompanies.length) return;
       currentIndex = index;
       const c = allCompanies[currentIndex];
+
+      // Sync state to URL hash & LocalStorage
+      syncStateToUrlAndStorage(c, currentTab);
 
       // Update Desktop Sub-Header
       document.getElementById('active-rank').innerText = '#' + String(c.rank).padStart(3, '0');
@@ -714,7 +791,7 @@
 
       renderSidebar();
       await loadMarkdown(c.folder, currentTab);
-      scrollToArticleTop();
+      if (scroll) scrollToArticleTop();
     }
 
     function navigateCompany(step) {
@@ -724,17 +801,26 @@
     // Tab Switcher (Founder / Company / Readme)
     async function switchTab(tab) {
       currentTab = tab;
-      ['founder', 'company', 'readme'].forEach(t => {
-        const btn = document.getElementById(`tab-${t}`);
-        if (t === tab) {
-          btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg bg-[var(--bg-surface)] text-sky-700 dark:text-sky-400 shadow-xs transition flex items-center justify-center gap-1";
-        } else {
-          btn.className = "flex-1 sm:flex-initial px-2 sm:px-3 py-1 text-xs font-semibold rounded-md sm:rounded-lg text-[var(--text-muted)] hover:text-[var(--text-main)] transition flex items-center justify-center gap-1";
-        }
-      });
+      updateTabButtonUI(tab);
       const c = allCompanies[currentIndex];
-      if (c) await loadMarkdown(c.folder, tab);
+      if (c) {
+        syncStateToUrlAndStorage(c, tab);
+        await loadMarkdown(c.folder, tab);
+      }
     }
+
+    // Handle Browser Back / Forward History Navigation
+    window.addEventListener('hashchange', () => {
+      const state = parseStateFromUrlOrStorage();
+      const targetIdx = allCompanies.findIndex(x => x.rank === state.rank);
+      if (targetIdx !== -1 && targetIdx !== currentIndex) {
+        currentTab = state.tab;
+        updateTabButtonUI(currentTab);
+        selectCompany(targetIdx, false);
+      } else if (state.tab !== currentTab) {
+        switchTab(state.tab);
+      }
+    });
 
     // Fetch and render Markdown + Generate Dynamic TOC
     async function loadMarkdown(folder, type) {
