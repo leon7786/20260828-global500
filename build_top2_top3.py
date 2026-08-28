@@ -1,4 +1,7 @@
-# 山姆·沃尔顿 (Sam Walton) 与巴德·沃尔顿：平价零售帝国的创世纪与商业哲学
+# -*- coding: utf-8 -*-
+import os
+
+top2_content = """# 山姆·沃尔顿 (Sam Walton) 与巴德·沃尔顿：平价零售帝国的创世纪与商业哲学
 
 > **“只有当每一位普通家庭能用最微薄的薪水买到体面生活的商品时，零售商的真正价值才得以确立。我们不是商品的搬运工，我们是顾客的省钱代理人。”**  
 > —— 山姆·沃尔顿 (Sam Walton)，沃尔玛创始人
@@ -438,3 +441,8 @@
 | 2026年（当代）  | 沃尔玛年营收跨越 6,500 亿美元，连续多年稳居世界 500 强第一集团，商业遗产永存    |
 +--------------------------------------------------------------------------------------------------+
 ```
+"""
+
+with open('/root/1CT-Share/20260828-global500/Founder/002-沃尔玛-Walmart/founder.md', 'w', encoding='utf-8') as f:
+    f.write(top2_content.strip() + '\n')
+print("Top 2 Walmart written successfully, size:", len(top2_content.encode('utf-8')), "bytes")
