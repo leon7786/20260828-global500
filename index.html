@@ -2,7 +2,7 @@
 <html lang="zh-CN" class="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   <title>世界 500 强创始人全景史诗传记智库 | Fortune Global 500</title>
   
   <!-- Tailwind CSS CDN -->
@@ -12,6 +12,15 @@
       darkMode: 'class',
       theme: {
         extend: {
+          screens: {
+            'xs': '375px',
+            'sm': '640px',
+            'md': '768px',
+            'ipad': '834px',
+            'lg': '1024px',
+            'xl': '1280px',
+            '2xl': '1536px',
+          },
           colors: {
             brand: {
               50: '#f0f7ff',
@@ -41,116 +50,308 @@
 
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap');
-    body {
-      font-family: 'Plus Jakarta Sans', 'Noto Sans SC', sans-serif;
-    }
-    .prose-custom h1 { @apply text-2xl font-bold text-slate-100 mt-6 mb-4 border-b border-slate-700/60 pb-2; }
-    .prose-custom h2 { @apply text-xl font-bold text-sky-400 mt-6 mb-3 flex items-center gap-2; }
-    .prose-custom h3 { @apply text-lg font-semibold text-amber-300 mt-4 mb-2; }
-    .prose-custom p { @apply text-slate-300 leading-relaxed mb-3; }
-    .prose-custom ul { @apply list-disc list-inside text-slate-300 mb-3 space-y-1 pl-2; }
-    .prose-custom ol { @apply list-decimal list-inside text-slate-300 mb-3 space-y-1 pl-2; }
-    .prose-custom blockquote { @apply border-l-4 border-amber-500/80 bg-amber-500/10 px-4 py-3 rounded-r-lg text-amber-200 italic my-4; }
-    .prose-custom pre { @apply bg-slate-950/80 border border-slate-800 p-4 rounded-xl text-xs overflow-x-auto text-sky-300 my-4; }
-    .prose-custom table { @apply w-full text-left border-collapse text-sm my-4 border border-slate-800 rounded-lg overflow-hidden; }
-    .prose-custom th { @apply bg-slate-800/80 text-slate-200 px-3 py-2 border-b border-slate-700 font-semibold; }
-    .prose-custom td { @apply px-3 py-2 border-b border-slate-800 text-slate-300; }
-    .prose-custom hr { @apply border-slate-800 my-6; }
     
-    /* Custom Scrollbar */
-    ::-webkit-scrollbar { width: 6px; height: 6px; }
-    ::-webkit-scrollbar-track { background: #0f172a; }
-    ::-webkit-scrollbar-thumb { background: #334155; border-radius: 9999px; }
-    ::-webkit-scrollbar-thumb:hover { background: #475569; }
+    *, *::before, *::after {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      font-family: 'Plus Jakarta Sans', 'Noto Sans SC', sans-serif;
+      overflow-x: hidden;
+      width: 100%;
+      max-width: 100vw;
+      margin: 0;
+      padding: 0;
+      background-color: #020617;
+      color: #f8fafc;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    /* Safe Area insets for iPhone / iPad Home bar and notch */
+    .safe-top {
+      padding-top: env(safe-area-inset-top, 0px);
+    }
+    .safe-bottom {
+      padding-bottom: env(safe-area-inset-bottom, 16px);
+    }
+
+    /* ---------------------------------------------------- */
+    /* Markdown Reader Responsive Typography & Containment   */
+    /* ---------------------------------------------------- */
+    .prose-custom {
+      width: 100%;
+      max-width: 100%;
+      overflow-wrap: break-word;
+      word-wrap: break-word;
+      word-break: break-word;
+    }
+    .prose-custom h1 {
+      font-size: clamp(1.25rem, 2.5vw + 0.5rem, 1.85rem);
+      font-weight: 800;
+      color: #f8fafc;
+      margin-top: 1.5rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(51, 65, 85, 0.6);
+      line-height: 1.3;
+    }
+    .prose-custom h2 {
+      font-size: clamp(1.1rem, 2vw + 0.3rem, 1.45rem);
+      font-weight: 700;
+      color: #38bdf8;
+      margin-top: 1.5rem;
+      margin-bottom: 0.6rem;
+      line-height: 1.35;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .prose-custom h3 {
+      font-size: clamp(0.95rem, 1.5vw + 0.2rem, 1.2rem);
+      font-weight: 600;
+      color: #fcd34d;
+      margin-top: 1.25rem;
+      margin-bottom: 0.4rem;
+      line-height: 1.4;
+    }
+    .prose-custom p {
+      font-size: clamp(0.85rem, 1vw + 0.15rem, 0.95rem);
+      color: #cbd5e1;
+      line-height: 1.7;
+      margin-bottom: 0.85rem;
+    }
+    .prose-custom ul, .prose-custom ol {
+      font-size: clamp(0.85rem, 1vw + 0.15rem, 0.95rem);
+      color: #cbd5e1;
+      margin-bottom: 0.85rem;
+      padding-left: 1.25rem;
+      line-height: 1.65;
+    }
+    .prose-custom ul { list-style-type: disc; }
+    .prose-custom ol { list-style-type: decimal; }
+    .prose-custom li { margin-bottom: 0.35rem; }
+    .prose-custom blockquote {
+      border-left: 4px solid #f59e0b;
+      background: rgba(245, 158, 11, 0.08);
+      padding: 0.75rem 1rem;
+      border-radius: 0 0.5rem 0.5rem 0;
+      color: #fde68a;
+      font-style: italic;
+      margin: 1rem 0;
+      font-size: clamp(0.82rem, 1vw + 0.1rem, 0.92rem);
+      line-height: 1.6;
+    }
+    .prose-custom pre {
+      background: rgba(2, 6, 23, 0.95);
+      border: 1px solid #1e293b;
+      padding: 0.85rem;
+      border-radius: 0.75rem;
+      font-size: clamp(0.72rem, 0.9vw + 0.1rem, 0.82rem);
+      overflow-x: auto;
+      max-width: 100%;
+      color: #7dd3fc;
+      margin: 1rem 0;
+      white-space: pre-wrap;       /* Wrap on narrow screens */
+      word-break: break-all;
+    }
+    .prose-custom table {
+      width: 100%;
+      display: block;
+      overflow-x: auto;
+      border-collapse: collapse;
+      font-size: clamp(0.75rem, 1vw, 0.85rem);
+      margin: 1rem 0;
+      border: 1px solid #1e293b;
+      border-radius: 0.5rem;
+    }
+    .prose-custom th {
+      background: rgba(30, 41, 59, 0.9);
+      color: #f1f5f9;
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid #334155;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .prose-custom td {
+      padding: 0.5rem 0.75rem;
+      border-bottom: 1px solid #1e293b;
+      color: #cbd5e1;
+    }
+    .prose-custom hr {
+      border: 0;
+      border-top: 1px solid #1e293b;
+      margin: 1.5rem 0;
+    }
+
+    /* ---------------------------------------------------- */
+    /* CSS Media Queries for Fine-Grained Device Tuning     */
+    /* ---------------------------------------------------- */
+    
+    /* 📱 Mobile Phones (< 640px) */
+    @media (max-width: 639px) {
+      .header-title { font-size: 0.95rem; }
+      .hero-stat-card { padding: 0.75rem; }
+      .hero-stat-val { font-size: 1.15rem; }
+      .filter-select { width: 100%; }
+      .card-item { padding: 1rem; }
+      .reader-dialog {
+        width: 100vw !important;
+        height: 100vh !important;
+        max-height: 100vh !important;
+        border-radius: 0 !important;
+        border: none !important;
+      }
+      .tab-btn {
+        padding: 0.35rem 0.5rem !important;
+        font-size: 0.7rem !important;
+      }
+    }
+
+    /* 📟 iPad / Tablets Portrait & Landscape (640px to 1024px) */
+    @media (min-width: 640px) and (max-width: 1024px) {
+      .hero-stat-val { font-size: 1.35rem; }
+      .reader-dialog {
+        width: 94vw;
+        height: 90vh;
+        border-radius: 1rem;
+      }
+      .tab-btn {
+        padding: 0.4rem 0.75rem;
+        font-size: 0.75rem;
+      }
+    }
+
+    /* 💻 PC / Laptop (> 1024px) */
+    @media (min-width: 1025px) {
+      .reader-dialog {
+        width: 85vw;
+        max-width: 1080px;
+        height: 88vh;
+        border-radius: 1.25rem;
+      }
+    }
+
+    /* Mermaid diagrams container auto scroll */
+    .mermaid-container {
+      width: 100%;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      margin: 1rem 0;
+      padding: 1rem;
+      background: #020617;
+      border: 1px solid #1e293b;
+      border-radius: 0.75rem;
+      text-align: center;
+    }
   </style>
 </head>
 
-<body class="bg-dark-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white">
+<body class="bg-dark-950 text-slate-100 min-h-screen flex flex-col antialiased selection:bg-sky-500 selection:text-white safe-top safe-bottom">
 
   <!-- Header / Navigation -->
-  <header class="sticky top-0 z-40 bg-dark-900/90 backdrop-blur-md border-b border-slate-800/80 px-4 lg:px-8 py-3.5 flex items-center justify-between shadow-lg">
-    <div class="flex items-center gap-3">
-      <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-sky-500/20 text-white font-black text-xl">
+  <header class="sticky top-0 z-40 bg-dark-900/95 backdrop-blur-md border-b border-slate-800/80 px-3.5 sm:px-6 lg:px-8 py-2.5 sm:py-3.5 flex items-center justify-between shadow-lg">
+    <div class="flex items-center gap-2.5 sm:gap-3.5 min-w-0">
+      <div class="w-8 h-8 sm:w-10 sm:h-10 shrink-0 rounded-xl bg-gradient-to-tr from-sky-500 to-indigo-600 flex items-center justify-center shadow-lg shadow-sky-500/20 text-white font-black text-sm sm:text-base">
         500
       </div>
-      <div>
-        <h1 class="font-extrabold text-base lg:text-lg bg-gradient-to-r from-white via-slate-200 to-sky-400 bg-clip-text text-transparent flex items-center gap-2">
-          Global 500 创始人传记智库
-          <span class="text-xs font-semibold px-2 py-0.5 bg-sky-500/20 text-sky-400 border border-sky-500/30 rounded-full">2026 Edition</span>
+      <div class="min-w-0">
+        <h1 class="header-title font-extrabold text-sm sm:text-base lg:text-lg bg-gradient-to-r from-white via-slate-200 to-sky-400 bg-clip-text text-transparent truncate flex items-center gap-1.5">
+          <span>Global 500 传记智库</span>
+          <span class="text-[10px] sm:text-xs font-semibold px-1.5 py-0.2 sm:px-2 sm:py-0.5 bg-sky-500/20 text-sky-400 border border-sky-500/30 rounded-full shrink-0">2026</span>
         </h1>
-        <p class="text-xs text-slate-400 hidden sm:block">基于《001-亚马逊》黄金基准构建的万字深度非虚构商业史诗</p>
+        <p class="text-[11px] sm:text-xs text-slate-400 truncate hidden xs:block">非虚构商业史诗与第一性原理思维模型</p>
       </div>
     </div>
 
-    <div class="flex items-center gap-2 lg:gap-3">
-      <a href="https://github.com/leon7786/20260828-global500" target="_blank" class="flex items-center gap-1.5 px-3 py-1.5 bg-slate-800 hover:bg-slate-700 text-slate-200 rounded-lg text-xs font-medium border border-slate-700 transition">
-        <i data-lucide="github" class="w-4 h-4"></i>
-        <span>GitHub 源码</span>
+    <!-- Right Header Actions -->
+    <div class="flex items-center gap-1.5 sm:gap-2 shrink-0">
+      <a href="https://github.com/leon7786/20260828-global500" target="_blank" 
+         class="flex items-center gap-1 sm:gap-1.5 px-2.5 py-1.5 sm:px-3 sm:py-1.5 bg-slate-800/90 hover:bg-slate-700 text-slate-200 rounded-lg text-xs font-medium border border-slate-700 transition">
+        <i data-lucide="github" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
+        <span class="hidden sm:inline">GitHub</span>
       </a>
-      <button onclick="toggleDashboard()" id="btn-stats" class="flex items-center gap-1.5 px-3 py-1.5 bg-sky-600/20 hover:bg-sky-600/30 text-sky-400 rounded-lg text-xs font-medium border border-sky-500/30 transition">
-        <i data-lucide="bar-chart-2" class="w-4 h-4"></i>
-        <span>数据大盘</span>
+      <button onclick="scrollToTop()" 
+              class="flex items-center justify-center w-8 h-8 sm:w-auto sm:px-3 sm:py-1.5 bg-sky-600/20 hover:bg-sky-600/30 text-sky-400 rounded-lg text-xs font-medium border border-sky-500/30 transition">
+        <i data-lucide="arrow-up" class="w-3.5 h-3.5 sm:w-4 sm:h-4"></i>
+        <span class="hidden sm:inline ml-1">回顶部</span>
       </button>
     </div>
   </header>
 
-  <!-- Main Hero & Stat Ribbon -->
-  <section class="bg-gradient-to-b from-dark-900 via-dark-950 to-dark-950 border-b border-slate-800/60 py-8 px-4 lg:px-8">
+  <!-- Hero & Statistics Ribbon (Responsive Grid: 2 cols on Mobile, 4 cols on Tablet/PC) -->
+  <section class="bg-gradient-to-b from-dark-900 via-dark-950 to-dark-950 border-b border-slate-800/60 py-4 sm:py-6 lg:py-8 px-3.5 sm:px-6 lg:px-8">
     <div class="max-w-7xl mx-auto">
-      <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 lg:gap-4 mb-6">
-        <div class="bg-slate-900/60 border border-slate-800/80 rounded-xl p-3.5 flex items-center gap-3">
-          <div class="p-2.5 bg-sky-500/10 text-sky-400 rounded-lg"><i data-lucide="building-2" class="w-5 h-5"></i></div>
-          <div>
-            <div class="text-xl font-bold text-white" id="stat-total-companies">100</div>
-            <div class="text-xs text-slate-400">百强巨头全收录</div>
+      
+      <!-- 4-Stat Cards Grid -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-2.5 sm:gap-3.5 lg:gap-4 mb-4 sm:mb-6">
+        <div class="hero-stat-card bg-slate-900/70 border border-slate-800/80 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5">
+          <div class="p-2 sm:p-2.5 bg-sky-500/10 text-sky-400 rounded-lg shrink-0">
+            <i data-lucide="building-2" class="w-4 h-4 sm:w-5 sm:h-5"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-white" id="stat-total-companies">100</div>
+            <div class="text-[10px] sm:text-xs text-slate-400 truncate">百强巨头全收录</div>
           </div>
         </div>
-        <div class="bg-slate-900/60 border border-slate-800/80 rounded-xl p-3.5 flex items-center gap-3">
-          <div class="p-2.5 bg-amber-500/10 text-amber-400 rounded-lg"><i data-lucide="award" class="w-5 h-5"></i></div>
-          <div>
-            <div class="text-xl font-bold text-amber-300" id="stat-master-count">17+</div>
-            <div class="text-xs text-slate-400">大师级重塑传记</div>
+
+        <div class="hero-stat-card bg-slate-900/70 border border-slate-800/80 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5">
+          <div class="p-2 sm:p-2.5 bg-amber-500/10 text-amber-400 rounded-lg shrink-0">
+            <i data-lucide="award" class="w-4 h-4 sm:w-5 sm:h-5"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-amber-300" id="stat-master-count">17+</div>
+            <div class="text-[10px] sm:text-xs text-slate-400 truncate">大师级重塑传记</div>
           </div>
         </div>
-        <div class="bg-slate-900/60 border border-slate-800/80 rounded-xl p-3.5 flex items-center gap-3">
-          <div class="p-2.5 bg-emerald-500/10 text-emerald-400 rounded-lg"><i data-lucide="database" class="w-5 h-5"></i></div>
-          <div>
-            <div class="text-xl font-bold text-emerald-300" id="stat-total-bytes">1.96 MB</div>
-            <div class="text-xs text-slate-400">全库纯文本体量</div>
+
+        <div class="hero-stat-card bg-slate-900/70 border border-slate-800/80 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5">
+          <div class="p-2 sm:p-2.5 bg-emerald-500/10 text-emerald-400 rounded-lg shrink-0">
+            <i data-lucide="database" class="w-4 h-4 sm:w-5 sm:h-5"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-emerald-300" id="stat-total-bytes">1.96 MB</div>
+            <div class="text-[10px] sm:text-xs text-slate-400 truncate">全库纯文本体量</div>
           </div>
         </div>
-        <div class="bg-slate-900/60 border border-slate-800/80 rounded-xl p-3.5 flex items-center gap-3">
-          <div class="p-2.5 bg-purple-500/10 text-purple-400 rounded-lg"><i data-lucide="brain-circuit" class="w-5 h-5"></i></div>
-          <div>
-            <div class="text-xl font-bold text-purple-300">800+</div>
-            <div class="text-xs text-slate-400">第一性原理思维模型</div>
+
+        <div class="hero-stat-card bg-slate-900/70 border border-slate-800/80 rounded-xl p-3 sm:p-4 flex items-center gap-2.5 sm:gap-3.5">
+          <div class="p-2 sm:p-2.5 bg-purple-500/10 text-purple-400 rounded-lg shrink-0">
+            <i data-lucide="brain-circuit" class="w-4 h-4 sm:w-5 sm:h-5"></i>
+          </div>
+          <div class="min-w-0">
+            <div class="hero-stat-val text-base sm:text-lg lg:text-xl font-bold text-purple-300">800+</div>
+            <div class="text-[10px] sm:text-xs text-slate-400 truncate">思维模型总库</div>
           </div>
         </div>
       </div>
 
-      <!-- Search & Filters -->
-      <div class="bg-dark-900/80 border border-slate-800 p-4 rounded-2xl shadow-xl flex flex-col md:flex-row gap-3 items-center justify-between">
-        <div class="relative w-full md:w-96">
-          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2"></i>
-          <input type="text" id="search-input" placeholder="实时检索企业名 / 英文 / 创始人 / 行业..." 
-                 class="w-full pl-10 pr-4 py-2 bg-dark-950 border border-slate-800 rounded-xl text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition">
+      <!-- Search & Filters Container (Responsive Layout) -->
+      <div class="bg-dark-900/90 border border-slate-800 p-3 sm:p-4 rounded-xl sm:rounded-2xl shadow-xl flex flex-col lg:flex-row gap-2.5 sm:gap-3 items-stretch lg:items-center justify-between">
+        
+        <!-- Search Input -->
+        <div class="relative flex-1">
+          <i data-lucide="search" class="w-4 h-4 text-slate-400 absolute left-3.5 top-1/2 -translate-y-1/2 pointer-events-none"></i>
+          <input type="text" id="search-input" placeholder="输入企业名 / 英文 / 创始人 / 行业 (如: 亚马逊, 黄仁勋, 芯片)..." 
+                 class="w-full pl-9 sm:pl-10 pr-4 py-2 sm:py-2.5 bg-dark-950 border border-slate-800 rounded-lg sm:rounded-xl text-xs sm:text-sm text-slate-200 placeholder-slate-500 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 transition">
         </div>
 
-        <div class="flex flex-wrap items-center gap-2 w-full md:w-auto">
+        <!-- Filter Selects Grid (2 cols on phone, inline on desktop) -->
+        <div class="grid grid-cols-2 sm:flex sm:flex-wrap items-center gap-2">
           <!-- Country Filter -->
-          <select id="country-filter" class="bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-xl px-3 py-2 focus:outline-none focus:border-sky-500">
-            <option value="">🌍 全部国家 / 地区</option>
-            <option value="🇨🇳 中国">🇨🇳 中国企业</option>
-            <option value="🇺🇸 美国">🇺🇸 美国企业</option>
-            <option value="🇩🇪 德国">🇩🇪 德国企业</option>
-            <option value="🇯🇵 日本">🇯🇵 日本企业</option>
-            <option value="🇸🇦 沙特">🇸🇦 沙特企业</option>
-            <option value="🇬🇧 英国">🇬🇧 英国企业</option>
+          <select id="country-filter" class="filter-select bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
+            <option value="">🌍 全部国家</option>
+            <option value="🇨🇳 中国">🇨🇳 中国</option>
+            <option value="🇺🇸 美国">🇺🇸 美国</option>
+            <option value="🇩🇪 德国">🇩🇪 德国</option>
+            <option value="🇯🇵 日本">🇯🇵 日本</option>
+            <option value="🇸🇦 沙特">🇸🇦 沙特</option>
+            <option value="🇬🇧 英国">🇬🇧 英国</option>
           </select>
 
           <!-- Industry Filter -->
-          <select id="industry-filter" class="bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-xl px-3 py-2 focus:outline-none focus:border-sky-500">
-            <option value="">🏢 全部行业赛道</option>
+          <select id="industry-filter" class="filter-select bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
+            <option value="">🏢 全部行业</option>
             <option value="💻 科技与芯片">💻 科技与芯片</option>
             <option value="🛒 零售与电商">🛒 零售与电商</option>
             <option value="🛢️ 石油与能源">🛢️ 石油与能源</option>
@@ -160,70 +361,74 @@
             <option value="🏗️ 建筑与工程">🏗️ 建筑与工程</option>
           </select>
 
-          <!-- Sort Filter -->
-          <select id="sort-filter" class="bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-xl px-3 py-2 focus:outline-none focus:border-sky-500">
-            <option value="rank-asc">🔢 按 500 强排名 (1-100)</option>
-            <option value="size-desc">📚 按传记体量 (字数从多到少)</option>
+          <!-- Sort Filter (Full width on tiny screens) -->
+          <select id="sort-filter" class="filter-select col-span-2 sm:col-span-1 bg-dark-950 border border-slate-800 text-xs text-slate-300 rounded-lg sm:rounded-xl px-2.5 py-2 sm:px-3 sm:py-2 focus:outline-none focus:border-sky-500">
+            <option value="rank-asc">🔢 默认排名 (1-100)</option>
+            <option value="size-desc">📚 传记长篇排行</option>
           </select>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Main Content Area: Cards Grid -->
-  <main class="flex-1 max-w-7xl mx-auto w-full px-4 lg:px-8 py-6">
-    <div id="loading" class="text-center py-20 text-slate-500 flex flex-col items-center gap-3">
-      <i data-lucide="loader" class="w-8 h-8 animate-spin text-sky-500"></i>
-      <p class="text-sm">正在加载世界 500 强传记智库数据...</p>
+  <!-- Main Content Area: Responsive Cards Grid -->
+  <main class="flex-1 max-w-7xl mx-auto w-full px-3.5 sm:px-6 lg:px-8 py-4 sm:py-6">
+    <div id="loading" class="text-center py-16 sm:py-24 text-slate-500 flex flex-col items-center gap-3">
+      <i data-lucide="loader" class="w-7 h-7 sm:w-8 sm:h-8 animate-spin text-sky-500"></i>
+      <p class="text-xs sm:text-sm">正在加载世界 500 强传记智库数据...</p>
     </div>
 
-    <!-- Company Grid -->
-    <div id="company-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 hidden">
-      <!-- Dynamically injected cards -->
+    <!-- Company Grid (1 col on mobile, 2 cols on iPad portrait, 3 cols on desktop/iPad landscape) -->
+    <div id="company-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-4 hidden">
+      <!-- Cards dynamically injected -->
     </div>
 
-    <div id="empty-state" class="text-center py-20 hidden">
-      <i data-lucide="search-x" class="w-12 h-12 text-slate-600 mx-auto mb-3"></i>
-      <p class="text-slate-400 text-sm">未找到匹配的企业或创始人档案，请尝试调整筛选关键词。</p>
+    <div id="empty-state" class="text-center py-16 sm:py-24 hidden">
+      <i data-lucide="search-x" class="w-10 h-10 sm:w-12 sm:h-12 text-slate-600 mx-auto mb-3"></i>
+      <p class="text-slate-400 text-xs sm:text-sm">未找到匹配的企业或创始人档案，请尝试更换关键词。</p>
     </div>
   </main>
 
-  <!-- Interactive Reader Modal -->
-  <div id="reader-modal" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm hidden flex items-center justify-center p-2 sm:p-4 lg:p-6">
-    <div class="bg-dark-900 border border-slate-800 w-full max-w-5xl h-[92vh] rounded-2xl flex flex-col overflow-hidden shadow-2xl animate-in fade-in zoom-in-95 duration-200">
+  <!-- Interactive Reader Modal (Full screen on mobile, rounded modal on iPad/PC) -->
+  <div id="reader-modal" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-md hidden flex items-center justify-center p-0 sm:p-4 lg:p-6">
+    <div class="reader-dialog bg-dark-900 border border-slate-800 w-full h-full flex flex-col overflow-hidden shadow-2xl animate-in fade-in duration-150">
       
-      <!-- Modal Header -->
-      <div class="px-5 py-3.5 bg-dark-850 border-b border-slate-800 flex items-center justify-between">
-        <div class="flex items-center gap-3">
-          <span id="modal-rank" class="px-2.5 py-1 bg-sky-500/20 text-sky-400 border border-sky-500/30 text-xs font-bold rounded-lg">#001</span>
-          <div>
-            <h3 id="modal-title" class="font-bold text-base text-white">公司名称</h3>
-            <p id="modal-subtitle" class="text-xs text-slate-400">Founder Biography</p>
+      <!-- Modal Header (Compact on mobile) -->
+      <div class="px-3.5 sm:px-6 py-2.5 sm:py-3.5 bg-dark-850 border-b border-slate-800 flex items-center justify-between gap-2 shrink-0">
+        <div class="flex items-center gap-2 sm:gap-3 min-w-0">
+          <span id="modal-rank" class="px-2 py-0.5 sm:px-2.5 sm:py-1 bg-sky-500/20 text-sky-400 border border-sky-500/30 text-[11px] sm:text-xs font-bold rounded-md sm:rounded-lg shrink-0">#001</span>
+          <div class="min-w-0">
+            <h3 id="modal-title" class="font-bold text-xs sm:text-sm lg:text-base text-white truncate">公司名称</h3>
+            <p id="modal-subtitle" class="text-[10px] sm:text-xs text-slate-400 truncate">Founder Biography</p>
           </div>
         </div>
 
         <!-- Tab Switcher -->
-        <div class="flex items-center gap-1 bg-dark-950 p-1 rounded-xl border border-slate-800">
-          <button onclick="switchTab('founder')" id="tab-founder" class="px-3 py-1 text-xs font-semibold rounded-lg bg-sky-600 text-white transition">👤 创始人传记</button>
-          <button onclick="switchTab('company')" id="tab-company" class="px-3 py-1 text-xs font-semibold rounded-lg text-slate-400 hover:text-slate-200 transition">🏢 企业档案</button>
-          <button onclick="switchTab('readme')" id="tab-readme" class="px-3 py-1 text-xs font-semibold rounded-lg text-slate-400 hover:text-slate-200 transition">📊 专栏导航</button>
+        <div class="flex items-center gap-1 bg-dark-950 p-0.5 sm:p-1 rounded-lg sm:rounded-xl border border-slate-800 shrink-0">
+          <button onclick="switchTab('founder')" id="tab-founder" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg bg-sky-600 text-white transition">👤 传记</button>
+          <button onclick="switchTab('company')" id="tab-company" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-400 hover:text-slate-200 transition">🏢 企业</button>
+          <button onclick="switchTab('readme')" id="tab-readme" class="tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-400 hover:text-slate-200 transition">📊 导航</button>
         </div>
 
-        <button onclick="closeReader()" class="p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 transition">
-          <i data-lucide="x" class="w-5 h-5"></i>
+        <!-- Close Button -->
+        <button onclick="closeReader()" class="p-1.5 sm:p-2 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 transition shrink-0" aria-label="关闭">
+          <i data-lucide="x" class="w-4 h-4 sm:w-5 sm:h-5"></i>
         </button>
       </div>
 
-      <!-- Modal Body (Reader) -->
-      <div id="modal-content" class="flex-1 p-6 lg:p-10 overflow-y-auto prose-custom max-w-none">
+      <!-- Modal Body (Scrollable Container) -->
+      <div id="modal-content" class="flex-1 p-4 sm:p-6 lg:p-10 overflow-y-auto prose-custom max-w-none">
         <!-- Markdown content rendered here -->
       </div>
     </div>
   </div>
 
   <!-- Footer -->
-  <footer class="bg-dark-900 border-t border-slate-800 py-6 text-center text-xs text-slate-500">
-    <p>© 2026 Fortune Global 500 Founder Biography Open Repository. Built with first-principles methodology.</p>
+  <footer class="bg-dark-900 border-t border-slate-800 py-4 sm:py-6 text-center text-[11px] sm:text-xs text-slate-500 safe-bottom">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+      <p>© 2026 Fortune Global 500 Founder Biography Open Repository.</p>
+      <p class="text-slate-600">适配所有移动与桌面终端 · 第一性原理深度巨著</p>
+    </div>
   </footer>
 
   <script>
@@ -232,6 +437,10 @@
     let currentTab = 'founder';
 
     mermaid.initialize({ startOnLoad: false, theme: 'dark' });
+
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
 
     // Fetch site data
     async function initData() {
@@ -249,7 +458,7 @@
         lucide.createIcons();
       } catch (err) {
         console.error('Failed to load data', err);
-        document.getElementById('loading').innerHTML = '<p class="text-rose-400">数据加载失败，请刷新或确认 GitHub Pages 部署状态。</p>';
+        document.getElementById('loading').innerHTML = '<p class="text-rose-400 text-xs sm:text-sm">数据加载失败，请刷新重试。</p>';
       }
     }
 
@@ -267,36 +476,36 @@
       list.forEach(c => {
         const isMaster = c.founder_size >= 25000;
         const card = document.createElement('div');
-        card.className = "bg-dark-900/90 border border-slate-800/90 hover:border-sky-500/50 rounded-2xl p-5 transition duration-200 hover:shadow-xl hover:shadow-sky-500/5 flex flex-col justify-between group cursor-pointer";
+        card.className = "card-item bg-dark-900/90 border border-slate-800/90 hover:border-sky-500/50 rounded-xl sm:rounded-2xl p-4 sm:p-5 transition duration-200 hover:shadow-xl hover:shadow-sky-500/5 flex flex-col justify-between group cursor-pointer";
         card.onclick = () => openReader(c.folder, c.rank, `${c.name_cn} (${c.name_en})`);
 
         card.innerHTML = `
           <div>
-            <div class="flex items-center justify-between gap-2 mb-3">
-              <span class="font-extrabold text-sm px-2.5 py-0.5 rounded-lg ${isMaster ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'bg-slate-800 text-slate-300'}">
+            <div class="flex items-center justify-between gap-1.5 mb-2.5">
+              <span class="font-extrabold text-xs px-2 py-0.5 rounded-md sm:rounded-lg ${isMaster ? 'bg-amber-500/20 text-amber-300 border border-amber-500/30' : 'bg-slate-800 text-slate-300'}">
                 #${String(c.rank).padStart(3, '0')}
               </span>
-              <div class="flex items-center gap-1.5">
-                <span class="text-xs text-slate-400">${c.country}</span>
-                <span class="text-xs px-2 py-0.5 bg-slate-800/80 text-slate-300 rounded-md border border-slate-700/50">${c.industry}</span>
+              <div class="flex items-center gap-1.5 text-[11px] sm:text-xs">
+                <span class="text-slate-400">${c.country}</span>
+                <span class="px-1.5 py-0.2 sm:px-2 sm:py-0.5 bg-slate-800/80 text-slate-300 rounded border border-slate-700/50">${c.industry}</span>
               </div>
             </div>
 
-            <h3 class="text-base font-bold text-white group-hover:text-sky-400 transition flex items-center justify-between">
-              <span>${c.name_cn}</span>
-              <span class="text-xs font-normal text-slate-400">${c.name_en}</span>
+            <h3 class="text-sm sm:text-base font-bold text-white group-hover:text-sky-400 transition flex items-center justify-between gap-2">
+              <span class="truncate">${c.name_cn}</span>
+              <span class="text-[11px] sm:text-xs font-normal text-slate-400 truncate shrink-0">${c.name_en}</span>
             </h3>
 
-            <p class="text-xs text-slate-400 mt-2 line-clamp-2 italic bg-slate-950/60 p-2 rounded-lg border border-slate-800/50">
+            <p class="text-[11px] sm:text-xs text-slate-400 mt-2 line-clamp-2 italic bg-slate-950/60 p-2 rounded-lg border border-slate-800/50">
               "${c.founder_quote || '暂无引言摘要...'}"
             </p>
           </div>
 
-          <div class="mt-4 pt-3 border-t border-slate-800/60 flex items-center justify-between text-xs">
-            <span class="px-2 py-0.5 rounded ${isMaster ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-semibold' : 'bg-slate-800 text-slate-400'}">
+          <div class="mt-3.5 pt-2.5 border-t border-slate-800/60 flex items-center justify-between text-[11px] sm:text-xs">
+            <span class="px-1.5 py-0.2 sm:px-2 sm:py-0.5 rounded ${isMaster ? 'bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 font-semibold' : 'bg-slate-800 text-slate-400'}">
               ${c.status}
             </span>
-            <span class="font-mono text-slate-400">${c.founder_size_kb} KB</span>
+            <span class="font-mono text-slate-400 text-[11px] sm:text-xs">${c.founder_size_kb} KB</span>
           </div>
         `;
         grid.appendChild(card);
@@ -353,9 +562,9 @@
       ['founder', 'company', 'readme'].forEach(t => {
         const btn = document.getElementById(`tab-${t}`);
         if (t === tab) {
-          btn.className = "px-3 py-1 text-xs font-semibold rounded-lg bg-sky-600 text-white transition";
+          btn.className = "tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg bg-sky-600 text-white transition";
         } else {
-          btn.className = "px-3 py-1 text-xs font-semibold rounded-lg text-slate-400 hover:text-slate-200 transition";
+          btn.className = "tab-btn px-2 sm:px-3 py-1 text-[11px] sm:text-xs font-semibold rounded-md sm:rounded-lg text-slate-400 hover:text-slate-200 transition";
         }
       });
       await loadMarkdown(currentFolder, tab);
@@ -363,7 +572,7 @@
 
     async function loadMarkdown(folder, type) {
       const modalContent = document.getElementById('modal-content');
-      modalContent.innerHTML = '<div class="text-center py-20 text-slate-400"><i data-lucide="loader" class="w-6 h-6 animate-spin mx-auto mb-2 text-sky-500"></i>正在读取 Markdown 史料...</div>';
+      modalContent.innerHTML = '<div class="text-center py-16 sm:py-20 text-slate-400 text-xs sm:text-sm"><i data-lucide="loader" class="w-5 h-5 sm:w-6 sm:h-6 animate-spin mx-auto mb-2 text-sky-500"></i>正在读取 Markdown 史料...</div>';
       lucide.createIcons();
 
       const fileName = type === 'founder' ? 'founder.md' : (type === 'company' ? 'company.md' : 'README.md');
@@ -377,20 +586,25 @@
         const html = marked.parse(text);
         modalContent.innerHTML = DOMPurify.sanitize(html);
 
-        // Render Mermaid Diagrams if any
+        // Render Mermaid Diagrams with responsive wrapper
         modalContent.querySelectorAll('pre code.language-mermaid').forEach(async (el) => {
           const graphDefinition = el.innerText;
           const container = document.createElement('div');
-          container.className = 'mermaid my-6 bg-slate-950 p-4 rounded-xl border border-slate-800 text-center overflow-x-auto';
+          container.className = 'mermaid-container mermaid';
           container.innerHTML = graphDefinition;
           el.parentElement.replaceWith(container);
         });
         await mermaid.run();
 
       } catch (err) {
-        modalContent.innerHTML = `<div class="p-8 text-center text-slate-400"><p class="text-rose-400 mb-2">无法加载 ${fileName}</p><p class="text-xs">请确认文件是否存在。</p></div>`;
+        modalContent.innerHTML = `<div class="p-6 sm:p-8 text-center text-slate-400"><p class="text-rose-400 mb-1 text-xs sm:text-sm">无法加载 ${fileName}</p><p class="text-[11px] sm:text-xs">请确认文件路径与网络连接。</p></div>`;
       }
     }
+
+    // Keyboard support: Escape to close modal
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeReader();
+    });
 
     initData();
   </script>
