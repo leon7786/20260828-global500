@@ -135,7 +135,8 @@ curated_founders = {
     21: "戴维·科达尼与信诺奠基先驱 (David Cordani)",
     22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)",
     23: "郭台铭 (Terry Gou)",
-    24: "马克·里奇与平卡斯·格林 (Marc Rich)"
+    24: "马克·里奇与平卡斯·格林 (Marc Rich)",
+    25: "克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin)"
 }
 
 country_map = {

@@ -1,6 +1,6 @@
 {
   "total_companies": 100,
-  "master_count": 24,
+  "master_count": 25,
   "generated_at": "2026-08-29",
   "companies": [
     {
@@ -470,13 +470,13 @@
       "brand_bg": "bg-orange-600",
       "country": "🇸🇬 新加坡",
       "industry": "⛏️ 资源大宗",
-      "founder_name": "托克集团创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin)",
+      "founder_title": "克劳德·多芬 (Claude Dauphin)：废品场学徒、非洲炼狱与托克大宗商品隐形帝国",
+      "founder_quote": "“世人总以为大宗商品交易是一场坐在空调房里敲击键盘的金融博弈，但事实恰恰相反——真正的利润永远沾着泥浆、铁锈与原油的刺鼻气味。谁敢亲自走进最偏僻的矿山、最混乱的港口与最动荡的荒原，谁才能真正握紧掌控全球物资流转的命门。”",
+      "founder_size": 31115,
+      "founder_size_kb": 30.4,
       "company_size_kb": 3.8,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 26,

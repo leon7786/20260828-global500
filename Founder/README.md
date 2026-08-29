@@ -30,7 +30,7 @@
 | **#022** | **壳牌公司 (Shell)** | 马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel) | 🌟 大师级深度精修 | [查看人物志](Founder/022-壳牌公司-Shell/founder.md) |
 | **#023** | **鸿海富士康 (Foxconn)** | 郭台铭 (Terry Gou) | 🌟 大师级深度精修 | [查看人物志](Founder/023-鸿海富士康-Foxconn/founder.md) |
 | **#024** | **嘉能可 (Glencore)** | 马克·里奇与平卡斯·格林 (Marc Rich) | 🌟 大师级深度精修 | [查看人物志](Founder/024-嘉能可-Glencore/founder.md) |
-| **#025** | **托克集团 (Trafigura)** | 托克集团创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
+| **#025** | **托克集团 (Trafigura)** | 克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin) | 🌟 大师级深度精修 | [查看人物志](Founder/025-托克集团-Trafigura/founder.md) |
 | **#026** | **三星电子 (Samsung)** | 三星电子创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#027** | **嘉德诺健康 (CardinalHealth)** | 嘉德诺健康创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#028** | **英伟达 (NVIDIA)** | 英伟达创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
