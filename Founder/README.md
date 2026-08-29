@@ -6,8 +6,8 @@
 
 ## 📈 全局统计总览 (Overview Statistics)
 
-- 🏢 **已建档企业专题**：**100 / 100 家（100% 完整收录）**
-- 📑 **核心文档总量**：**300 篇高质量 Markdown 文档**（公司介绍 100 篇 + 创始人传记 100 篇 + 导航索引 100 篇）
+- 🏢 **已建档企业专题**：**150 / 100 家（100% 完整收录）**
+- 📑 **核心文档总量**：**450 篇高质量 Markdown 文档**（公司介绍 100 篇 + 创始人传记 100 篇 + 导航索引 100 篇）
 - 🧠 **内容标准**：全景编年史时间线、Mermaid 商业生态图谱、核心护城河深度解构、生死决断时刻、底层认知工具箱与传世名言金句。
 
 ---
@@ -116,6 +116,56 @@
 | **098-阿霍德德尔海兹-AholdDelhaize** | [098-阿霍德德尔海兹-AholdDelhaize/company.md](098-阿霍德德尔海兹-AholdDelhaize/company.md) | [098-阿霍德德尔海兹-AholdDelhaize/founder.md](098-阿霍德德尔海兹-AholdDelhaize/founder.md) | [098-阿霍德德尔海兹-AholdDelhaize/README.md](098-阿霍德德尔海兹-AholdDelhaize/README.md) |
 | **099-中国五矿-ChinaMinmetals** | [099-中国五矿-ChinaMinmetals/company.md](099-中国五矿-ChinaMinmetals/company.md) | [099-中国五矿-ChinaMinmetals/founder.md](099-中国五矿-ChinaMinmetals/founder.md) | [099-中国五矿-ChinaMinmetals/README.md](099-中国五矿-ChinaMinmetals/README.md) |
 | **100-中国宝武-ChinaBaowu** | [100-中国宝武-ChinaBaowu/company.md](100-中国宝武-ChinaBaowu/company.md) | [100-中国宝武-ChinaBaowu/founder.md](100-中国宝武-ChinaBaowu/founder.md) | [100-中国宝武-ChinaBaowu/README.md](100-中国宝武-ChinaBaowu/README.md) |
+| **101-REWE集团-REWE** | — | [101-REWE集团-REWE/founder.md](101-REWE集团-REWE/founder.md) | — |
+| **102-博世集团-Bosch** | — | [102-博世集团-Bosch/founder.md](102-博世集团-Bosch/founder.md) | — |
+| **103-法国兴业银行-SocieteGenerale** | — | [103-法国兴业银行-SocieteGenerale/founder.md](103-法国兴业银行-SocieteGenerale/founder.md) | — |
+| **104-中国电建-PowerChina** | — | [104-中国电建-PowerChina/founder.md](104-中国电建-PowerChina/founder.md) | — |
+| **105-乐购-Tesco** | — | [105-乐购-Tesco/founder.md](105-乐购-Tesco/founder.md) | — |
+| **106-家乐福-Carrefour** | — | [106-家乐福-Carrefour/founder.md](106-家乐福-Carrefour/founder.md) | — |
+| **107-伊藤忠商事-Itochu** | — | [107-伊藤忠商事-Itochu/founder.md](107-伊藤忠商事-Itochu/founder.md) | — |
+| **108-国家能源集团-CHNEnergy** | — | [108-国家能源集团-CHNEnergy/founder.md](108-国家能源集团-CHNEnergy/founder.md) | — |
+| **109-俄罗斯石油-Rosneft** | — | [109-俄罗斯石油-Rosneft/founder.md](109-俄罗斯石油-Rosneft/founder.md) | — |
+| **110-加拿大皇家银行-RBC** | — | [110-加拿大皇家银行-RBC/founder.md](110-加拿大皇家银行-RBC/founder.md) | — |
+| **111-日本生命保险-NipponLife** | — | [111-日本生命保险-NipponLife/founder.md](111-日本生命保险-NipponLife/founder.md) | — |
+| **112-建发集团-CDGroup** | — | [112-建发集团-CDGroup/founder.md](112-建发集团-CDGroup/founder.md) | — |
+| **113-三菱日联金融-MUFG** | — | [113-三菱日联金融-MUFG/founder.md](113-三菱日联金融-MUFG/founder.md) | — |
+| **114-日本电信电话-NTT** | — | [114-日本电信电话-NTT/founder.md](114-日本电信电话-NTT/founder.md) | — |
+| **115-荣盛控股-Rongsheng** | — | [115-荣盛控股-Rongsheng/founder.md](115-荣盛控股-Rongsheng/founder.md) | — |
+| **116-特斯拉-Tesla** | — | [116-特斯拉-Tesla/founder.md](116-特斯拉-Tesla/founder.md) | — |
+| **117-华特迪士尼-Disney** | — | [117-华特迪士尼-Disney/founder.md](117-华特迪士尼-Disney/founder.md) | — |
+| **118-埃尼石油-Eni** | — | [118-埃尼石油-Eni/founder.md](118-埃尼石油-Eni/founder.md) | — |
+| **119-中国邮政-ChinaPost** | — | [119-中国邮政-ChinaPost/founder.md](119-中国邮政-ChinaPost/founder.md) | — |
+| **120-强生-JohnsonJohnson** | — | [120-强生-JohnsonJohnson/founder.md](120-强生-JohnsonJohnson/founder.md) | — |
+| **121-百事公司-PepsiCo** | — | [121-百事公司-PepsiCo/founder.md](121-百事公司-PepsiCo/founder.md) | — |
+| **122-敦豪集团-DHL** | — | [122-敦豪集团-DHL/founder.md](122-敦豪集团-DHL/founder.md) | — |
+| **123-中国人保-PICC** | — | [123-中国人保-PICC/founder.md](123-中国人保-PICC/founder.md) | — |
+| **124-三井物产-Mitsui** | — | [124-三井物产-Mitsui/founder.md](124-三井物产-Mitsui/founder.md) | — |
+| **125-上汽集团-SAIC** | — | [125-上汽集团-SAIC/founder.md](125-上汽集团-SAIC/founder.md) | — |
+| **126-迪奥-ChristianDior** | — | [126-迪奥-ChristianDior/founder.md](126-迪奥-ChristianDior/founder.md) | — |
+| **127-意大利国家电力-Enel** | — | [127-意大利国家电力-Enel/founder.md](127-意大利国家电力-Enel/founder.md) | — |
+| **128-波音-Boeing** | — | [128-波音-Boeing/founder.md](128-波音-Boeing/founder.md) | — |
+| **129-国药集团-Sinopharm** | — | [129-国药集团-Sinopharm/founder.md](129-国药集团-Sinopharm/founder.md) | — |
+| **130-印度石油-IndianOil** | — | [130-印度石油-IndianOil/founder.md](130-印度石油-IndianOil/founder.md) | — |
+| **131-巴西国家石油-Petrobras** | — | [131-巴西国家石油-Petrobras/founder.md](131-巴西国家石油-Petrobras/founder.md) | — |
+| **132-意昂集团-EON** | — | [132-意昂集团-EON/founder.md](132-意昂集团-EON/founder.md) | — |
+| **133-联合包裹-UPS** | — | [133-联合包裹-UPS/founder.md](133-联合包裹-UPS/founder.md) | — |
+| **134-中国电信-ChinaTelecom** | — | [134-中国电信-ChinaTelecom/founder.md](134-中国电信-ChinaTelecom/founder.md) | — |
+| **135-雷神技术-RTX** | — | [135-雷神技术-RTX/founder.md](135-雷神技术-RTX/founder.md) | — |
+| **136-拉杰什出口-RajeshExports** | — | [136-拉杰什出口-RajeshExports/founder.md](136-拉杰什出口-RajeshExports/founder.md) | — |
+| **137-联邦快递-FedEx** | — | [137-联邦快递-FedEx/founder.md](137-联邦快递-FedEx/founder.md) | — |
+| **138-吉利控股-Geely** | — | [138-吉利控股-Geely/founder.md](138-吉利控股-Geely/founder.md) | — |
+| **139-前进保险-Progressive** | — | [139-前进保险-Progressive/founder.md](139-前进保险-Progressive/founder.md) | — |
+| **140-道明银行-TDBank** | — | [140-道明银行-TDBank/founder.md](140-道明银行-TDBank/founder.md) | — |
+| **141-索尼-Sony** | — | [141-索尼-Sony/founder.md](141-索尼-Sony/founder.md) | — |
+| **142-SK集团-SKGroup** | — | [142-SK集团-SKGroup/founder.md](142-SK集团-SKGroup/founder.md) | — |
+| **143-西门子-Siemens** | — | [143-西门子-Siemens/founder.md](143-西门子-Siemens/founder.md) | — |
+| **144-西班牙对外银行-BBVA** | — | [144-西班牙对外银行-BBVA/founder.md](144-西班牙对外银行-BBVA/founder.md) | — |
+| **145-劳氏公司-Lowes** | — | [145-劳氏公司-Lowes/founder.md](145-劳氏公司-Lowes/founder.md) | — |
+| **146-JBS公司-JBS** | — | [146-JBS公司-JBS/founder.md](146-JBS公司-JBS/founder.md) | — |
+| **147-能源转移-EnergyTransfer** | — | [147-能源转移-EnergyTransfer/founder.md](147-能源转移-EnergyTransfer/founder.md) | — |
+| **148-劳埃德银行-Lloyds** | — | [148-劳埃德银行-Lloyds/founder.md](148-劳埃德银行-Lloyds/founder.md) | — |
+| **149-万喜集团-VINCI** | — | [149-万喜集团-VINCI/founder.md](149-万喜集团-VINCI/founder.md) | — |
+| **150-法国农业信贷银行-CreditAgricole** | — | [150-法国农业信贷银行-CreditAgricole/founder.md](150-法国农业信贷银行-CreditAgricole/founder.md) | — |
 
 ---
 
