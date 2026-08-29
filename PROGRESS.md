@@ -1,7 +1,7 @@
 # 📊 《财富》世界500强 TOP 100 智库建设与精修进度大盘 (Progress Dashboard)
 
-> 📅 **最后更新时间**：`2026-08-29 11:59:24`  
-> 🎯 **目标**：为全球 500 强前 100 家超级巨头与创始人建立独家专属档案，打造兼具商业洞察与文学可读性的大师级深度人物志全景文库。
+> 📅 **最后更新时间**：`2026-08-29 12:12:52`  
+> 🎯 **目标**：打造兼具商业洞察与文学可读性的大师级深度人物志全景文库。
 
 ---
 
@@ -9,191 +9,113 @@
 
 | 指标项 | 统计数据 | 说明 |
 | :--- | :--- | :--- |
-| 🏢 **建档企业覆盖率** | **150 / 100 家 (100.0%)** | 全部 100 家企业专属目录与三件套结构 100% 就绪 |
-| 📑 **核心文档总量** | **350 / 300 篇 (100.0%)** | 每家均含 `company.md` + `founder.md` + `README.md` |
-| 🌟 **大师级深度精修数** | **26 家** (持续逐家精雕推进中) | 具备 10 大完整章节、电影级场景还原与硬核底层心法 |
-| ✅ **基础全景已完成数** | **124 家** (待逐家深化至大师级) | 具备完整生平时间线、公司全景与核心护城河分析 |
-| 📚 **全库总语料规模** | **2.48 MB (2,602,093 bytes)** | 高密度 Markdown 文档与 Mermaid 可视化架构图 |
-
----
-
-## 🌟 现已完成的「大师级深度精修传记」代表清单
-
-| 排名与企业 | 传主人物志 | 文件大小 | 核心高光内容 |
-| :--- | :--- | :---: | :--- |
-| **#001 亚马逊** | [杰夫·贝索斯 (Jeff Bezos)](Founder/001-亚马逊-Amazon/founder.md) | **38.8 KB** | 17岁未婚生母、德州牧场修风车、普林斯顿理论物理顿悟、2300%惊天发现与西雅图车库、后悔最小化框架、空椅子哲学 |
-| **#002 沃尔玛** | [萨姆·沃尔顿 (Sam Walton)](Founder/002-沃尔玛-Walmart/founder.md) | **27.4 KB** | 大萧条7岁送牛奶、二战陆军上尉、纽波特加盟店遭地东无情强行驱逐、开私人飞机低空侦察选址、1984华尔街跳草裙舞、1979旧皮卡首富 |
-| **#005 沙特阿美** | [马克斯·斯坦尼克 & 阿里·纳伊米](Founder/005-沙特阿美-SaudiAramco/founder.md) | **56.0 KB** | 伐木童工斯坦福地质梦、4岁赤足放羊娃12岁信差、达曼7号抗命深钻繁荣之井、加瓦尔超级油田、1980和平国有化、原油央行闲置产能战略、KAUST荒漠大学 |
-| **#006 苹果公司** | [史蒂夫·乔布斯 (Steve Jobs)](Founder/006-苹果公司-Apple/founder.md) | **36.5 KB** | 叙利亚生父送养风波、工匠养父车库背板启蒙、13岁致电惠普创始人、蓝盒子、里德书法课、海盗旗、NeXT与皮克斯亏损9年孤注一掷、果冻iMac、初代iPhone、现实扭曲场 |
-| **#008 谷歌** | [拉里·佩奇 & 谢尔盖·布林](Founder/008-谷歌-Alphabet/founder.md) | **26.5 KB** | 布林苏联犹太难民童年、佩奇梦中顿悟PageRank、乐高积木拼服务器挤爆斯坦福宽带、10万美元支票写给尚未注册公司、100万贱卖遭拒、十倍思维 (10X) 与牙刷测试 |
-| **#011 伯克希尔** | [沃伦·巴菲特 (Warren Buffett)](Founder/011-伯克希尔哈撒韦-BerkshireHathaway/founder.md) | **25.7 KB** | 6岁卖可口可乐口香糖、哥大格雷厄姆门徒、烟蒂投资转向护城河、喜诗糖果与可口可乐复利神话、滚雪球思维模型 |
-| **#028 英伟达** | [黄仁勋 (Jensen Huang)](Founder/028-英伟达-NVIDIA/founder.md) | **19.9 KB** | 肯塔基寄宿学校打扫全校最脏厕所、Denny's餐馆洗碗工、NV1惨败单刀赴会世嘉社长认错求生、RIVA 128背水一战、2006自研CUDA遭华尔街做空8年、首台DGX-1赠OpenAI、Blackwell算力封神 |
-| **#018 微软** | [比尔·盖茨 (Bill Gates)](Founder/018-微软-Microsoft/founder.md) | **19.4 KB** | 湖畔中学电传打字机少年黑客、哈佛宿舍8周手写Altair BASIC解释器、IBM谈判保留非独占授权世纪神操作、Windows 95滚石乐队营销、数据化消灭小儿麻痹症 |
-| **#056 阿里巴巴** | [马云 (Jack Ma)](Founder/056-阿里巴巴-Alibaba/founder.md) | **16.9 KB** | 西湖免费导游8年、三次高考、海博翻译社去义乌批发袜子发工资、西雅图首次上网搜索Beer和China、湖畔花园18罗汉、蔡崇信放弃70万美元加盟、淘宝非典闭关三年免费绝杀eBay、支付宝'如果去坐牢我去'、阿里云飞天十年封神 |
-| **#081 华为** | [任正非 (Ren Zhengfei)](Founder/081-华为-Huawei/founder.md) | **16.4 KB** | 贵州饥荒母亲分黄豆、重庆建工苦读三门外语、基建工程兵研发空气压力天平、43岁南油被骗200万除名婚变绝境、深圳2.1万创立华为、C&C08五楼跳楼动员令、学IBM、《华为的冬天》、海思备胎芯片一夜转正与Mate 60 Pro破局 |
-| **#091 比亚迪** | [王传福 (Wang Chuanfu)](Founder/091-比亚迪-BYD/founder.md) | **14.1 KB** | 安徽无为孤儿、哥嫂卖结婚金戒指供读、26岁北京有色院最年轻主任、借款250万创立比亚迪、'人加夹具'半自动产线击败日本全自动工厂、2.7亿收购秦川汽车遭遇暴跌嘲笑、刀片电池针刺实验、DM-i超级混动与登顶全球新能源第一 |
-| **#097 腾讯** | [马化腾 (Pony Ma)](Founder/097-腾讯-Tencent/founder.md) | **13.2 KB** | 深圳天文少年拍哈雷彗星、深大开发股票分析软件赚5万、华强北五虎凑资50万创立腾讯、QQ暴增濒临破产打算60万卖身深圳电信遭拒、南非Naspers入股7000倍神话、3Q大战10场神仙会、张小龙深夜邮件开启微信革命、除夕抢红包奇袭支付宝 |
-| **#082 台积电** | [张忠谋 (Morris Chang)](Founder/082-台积电-TSMC/founder.md) | **12.1 KB** | 穿越6个战区流亡求学、18岁哈佛全校唯一中国新生、德州仪器执掌3万人、56岁创立台积电首创纯晶圆代工模式重构全球半导体分工、0.13微米铜制程击溃IBM联盟、78岁金融海啸重披战袍逆周期砸百亿攻克28nm独占苹果A系列 |
+| 🏢 **建档企业覆盖率** | **100 / 100 家 (100.0%)** | 全部 100 家企业专属目录与公司全景档案就绪 |
+| 🌟 **Top 1–20 大师级人物志** | **20 / 20 家 (100.0%)** | 均达 22KB~64KB，8大心智模型与25项大事记 |
+| ⏳ **Top 21–100 待撰写人物志** | **80 家** | 已清空待逐家高标准撰写 |
 
 ---
 
 ## 📋 TOP 100 全量企业建档与精修状态总表
 
-| 排名 | 企业与专题名称 | 当前品质层级 | 传记体量 (KB) | 🏢 公司全景 | 👤 创始人志 |
+| 排名 | 企业与专题名称 | 创始人传记状态 | 传记体量 (KB) | 🏢 公司全景 | 👤 创始人志 |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| **#001** | **亚马逊-Amazon** | 🌟 大师级深度精修 | 32.4 KB | [company.md](Founder/001-亚马逊-Amazon/company.md) | [founder.md](Founder/001-亚马逊-Amazon/founder.md) |
-| **#002** | **沃尔玛-Walmart** | 🌟 大师级深度精修 | 32.6 KB | [company.md](Founder/002-沃尔玛-Walmart/company.md) | [founder.md](Founder/002-沃尔玛-Walmart/founder.md) |
-| **#003** | **国家电网-StateGrid** | 🌟 大师级深度精修 | 32.2 KB | [company.md](Founder/003-国家电网-StateGrid/company.md) | [founder.md](Founder/003-国家电网-StateGrid/founder.md) |
-| **#004** | **联合健康-UnitedHealth** | 🌟 大师级深度精修 | 40.2 KB | [company.md](Founder/004-联合健康-UnitedHealth/company.md) | [founder.md](Founder/004-联合健康-UnitedHealth/founder.md) |
-| **#005** | **沙特阿美-SaudiAramco** | 🌟 大师级深度精修 | 47.2 KB | [company.md](Founder/005-沙特阿美-SaudiAramco/company.md) | [founder.md](Founder/005-沙特阿美-SaudiAramco/founder.md) |
-| **#006** | **苹果公司-Apple** | 🌟 大师级深度精修 | 28.4 KB | [company.md](Founder/006-苹果公司-Apple/company.md) | [founder.md](Founder/006-苹果公司-Apple/founder.md) |
-| **#007** | **麦克森-McKesson** | 🌟 大师级深度精修 | 42.0 KB | [company.md](Founder/007-麦克森-McKesson/company.md) | [founder.md](Founder/007-麦克森-McKesson/founder.md) |
-| **#008** | **谷歌-Alphabet** | 🌟 大师级深度精修 | 23.7 KB | [company.md](Founder/008-谷歌-Alphabet/company.md) | [founder.md](Founder/008-谷歌-Alphabet/founder.md) |
-| **#009** | **CVSHealth** | 🌟 大师级深度精修 | 39.1 KB | [company.md](Founder/009-CVSHealth/company.md) | [founder.md](Founder/009-CVSHealth/founder.md) |
-| **#010** | **中国石油-CNPC** | 🌟 大师级深度精修 | 44.9 KB | [company.md](Founder/010-中国石油-CNPC/company.md) | [founder.md](Founder/010-中国石油-CNPC/founder.md) |
-| **#011** | **伯克希尔哈撒韦-BerkshireHathaway** | 🌟 大师级深度精修 | 34.7 KB | [company.md](Founder/011-伯克希尔哈撒韦-BerkshireHathaway/company.md) | [founder.md](Founder/011-伯克希尔哈撒韦-BerkshireHathaway/founder.md) |
-| **#012** | **中国石化-Sinopec** | 🌟 大师级深度精修 | 29.7 KB | [company.md](Founder/012-中国石化-Sinopec/company.md) | [founder.md](Founder/012-中国石化-Sinopec/founder.md) |
-| **#013** | **大众公司-Volkswagen** | 🌟 大师级深度精修 | 51.7 KB | [company.md](Founder/013-大众公司-Volkswagen/company.md) | [founder.md](Founder/013-大众公司-Volkswagen/founder.md) |
-| **#014** | **丰田汽车-Toyota** | 🌟 大师级深度精修 | 56.5 KB | [company.md](Founder/014-丰田汽车-Toyota/company.md) | [founder.md](Founder/014-丰田汽车-Toyota/founder.md) |
-| **#015** | **埃克森美孚-ExxonMobil** | 🌟 大师级深度精修 | 42.2 KB | [company.md](Founder/015-埃克森美孚-ExxonMobil/company.md) | [founder.md](Founder/015-埃克森美孚-ExxonMobil/founder.md) |
-| **#016** | **Cencora** | 🌟 大师级深度精修 | 45.2 KB | [company.md](Founder/016-Cencora/company.md) | [founder.md](Founder/016-Cencora/founder.md) |
-| **#017** | **中国建筑-CSCEC** | 🌟 大师级深度精修 | 21.7 KB | [company.md](Founder/017-中国建筑-CSCEC/company.md) | [founder.md](Founder/017-中国建筑-CSCEC/founder.md) |
-| **#018** | **微软-Microsoft** | 🌟 大师级深度精修 | 62.8 KB | [company.md](Founder/018-微软-Microsoft/company.md) | [founder.md](Founder/018-微软-Microsoft/founder.md) |
-| **#019** | **摩根大通-JPMorganChase** | 🌟 大师级深度精修 | 25.2 KB | [company.md](Founder/019-摩根大通-JPMorganChase/company.md) | [founder.md](Founder/019-摩根大通-JPMorganChase/founder.md) |
-| **#020** | **开市客-Costco** | 🌟 大师级深度精修 | 22.0 KB | [company.md](Founder/020-开市客-Costco/company.md) | [founder.md](Founder/020-开市客-Costco/founder.md) |
-| **#021** | **信诺集团-Cigna** | ✅ 基础全景完成 | 10.1 KB | [company.md](Founder/021-信诺集团-Cigna/company.md) | [founder.md](Founder/021-信诺集团-Cigna/founder.md) |
-| **#022** | **壳牌公司-Shell** | ✅ 基础全景完成 | 10.7 KB | [company.md](Founder/022-壳牌公司-Shell/company.md) | [founder.md](Founder/022-壳牌公司-Shell/founder.md) |
-| **#023** | **鸿海富士康-Foxconn** | ✅ 基础全景完成 | 12.4 KB | [company.md](Founder/023-鸿海富士康-Foxconn/company.md) | [founder.md](Founder/023-鸿海富士康-Foxconn/founder.md) |
-| **#024** | **嘉能可-Glencore** | ✅ 基础全景完成 | 10.5 KB | [company.md](Founder/024-嘉能可-Glencore/company.md) | [founder.md](Founder/024-嘉能可-Glencore/founder.md) |
-| **#025** | **托克集团-Trafigura** | ✅ 基础全景完成 | 9.6 KB | [company.md](Founder/025-托克集团-Trafigura/company.md) | [founder.md](Founder/025-托克集团-Trafigura/founder.md) |
-| **#026** | **三星电子-Samsung** | ✅ 基础全景完成 | 13.4 KB | [company.md](Founder/026-三星电子-Samsung/company.md) | [founder.md](Founder/026-三星电子-Samsung/founder.md) |
-| **#027** | **嘉德诺健康-CardinalHealth** | ✅ 基础全景完成 | 9.3 KB | [company.md](Founder/027-嘉德诺健康-CardinalHealth/company.md) | [founder.md](Founder/027-嘉德诺健康-CardinalHealth/founder.md) |
-| **#028** | **英伟达-NVIDIA** | 🌟 大师级深度精修 | 14.1 KB | [company.md](Founder/028-英伟达-NVIDIA/company.md) | [founder.md](Founder/028-英伟达-NVIDIA/founder.md) |
-| **#029** | **中国工商银行-ICBC** | ✅ 基础全景完成 | 9.3 KB | [company.md](Founder/029-中国工商银行-ICBC/company.md) | [founder.md](Founder/029-中国工商银行-ICBC/founder.md) |
-| **#030** | **Meta公司-Meta** | ✅ 基础全景完成 | 15.2 KB | [company.md](Founder/030-Meta公司-Meta/company.md) | [founder.md](Founder/030-Meta公司-Meta/founder.md) |
-| **#031** | **ElevanceHealth** | ✅ 基础全景完成 | 8.3 KB | [company.md](Founder/031-ElevanceHealth/company.md) | [founder.md](Founder/031-ElevanceHealth/founder.md) |
-| **#032** | **Centene** | ✅ 基础全景完成 | 8.9 KB | [company.md](Founder/032-Centene/company.md) | [founder.md](Founder/032-Centene/founder.md) |
-| **#033** | **英国石油-BP** | ✅ 基础全景完成 | 10.0 KB | [company.md](Founder/033-英国石油-BP/company.md) | [founder.md](Founder/033-英国石油-BP/founder.md) |
-| **#034** | **美国银行-BankOfAmerica** | ✅ 基础全景完成 | 12.4 KB | [company.md](Founder/034-美国银行-BankOfAmerica/company.md) | [founder.md](Founder/034-美国银行-BankOfAmerica/founder.md) |
-| **#035** | **中国农业银行-ABC** | ✅ 基础全景完成 | 8.8 KB | [company.md](Founder/035-中国农业银行-ABC/company.md) | [founder.md](Founder/035-中国农业银行-ABC/founder.md) |
-| **#036** | **雪佛龙-Chevron** | ✅ 基础全景完成 | 8.3 KB | [company.md](Founder/036-雪佛龙-Chevron/company.md) | [founder.md](Founder/036-雪佛龙-Chevron/founder.md) |
-| **#037** | **中国建设银行-CCB** | ✅ 基础全景完成 | 8.7 KB | [company.md](Founder/037-中国建设银行-CCB/company.md) | [founder.md](Founder/037-中国建设银行-CCB/founder.md) |
-| **#038** | **福特汽车-Ford** | ✅ 基础全景完成 | 12.9 KB | [company.md](Founder/038-福特汽车-Ford/company.md) | [founder.md](Founder/038-福特汽车-Ford/founder.md) |
-| **#039** | **通用汽车-GM** | ✅ 基础全景完成 | 9.4 KB | [company.md](Founder/039-通用汽车-GM/company.md) | [founder.md](Founder/039-通用汽车-GM/founder.md) |
-| **#040** | **道达尔能源-TotalEnergies** | ✅ 基础全景完成 | 9.6 KB | [company.md](Founder/040-道达尔能源-TotalEnergies/company.md) | [founder.md](Founder/040-道达尔能源-TotalEnergies/founder.md) |
-| **#041** | **京东集团-JD** | ✅ 基础全景完成 | 11.4 KB | [company.md](Founder/041-京东集团-JD/company.md) | [founder.md](Founder/041-京东集团-JD/founder.md) |
-| **#042** | **中国人寿-ChinaLife** | ✅ 基础全景完成 | 6.6 KB | [company.md](Founder/042-中国人寿-ChinaLife/company.md) | [founder.md](Founder/042-中国人寿-ChinaLife/founder.md) |
-| **#043** | **Stellantis集团** | ✅ 基础全景完成 | 9.1 KB | [company.md](Founder/043-Stellantis集团/company.md) | [founder.md](Founder/043-Stellantis集团/founder.md) |
-| **#044** | **中国银行-BOC** | ✅ 基础全景完成 | 9.3 KB | [company.md](Founder/044-中国银行-BOC/company.md) | [founder.md](Founder/044-中国银行-BOC/founder.md) |
-| **#045** | **花旗集团-Citigroup** | ✅ 基础全景完成 | 8.0 KB | [company.md](Founder/045-花旗集团-Citigroup/company.md) | [founder.md](Founder/045-花旗集团-Citigroup/founder.md) |
-| **#046** | **家得宝-HomeDepot** | ✅ 基础全景完成 | 9.7 KB | [company.md](Founder/046-家得宝-HomeDepot/company.md) | [founder.md](Founder/046-家得宝-HomeDepot/founder.md) |
-| **#047** | **房利美-FannieMae** | ✅ 基础全景完成 | 9.0 KB | [company.md](Founder/047-房利美-FannieMae/company.md) | [founder.md](Founder/047-房利美-FannieMae/founder.md) |
-| **#048** | **中国平安-PingAn** | ✅ 基础全景完成 | 10.6 KB | [company.md](Founder/048-中国平安-PingAn/company.md) | [founder.md](Founder/048-中国平安-PingAn/founder.md) |
-| **#049** | **中国中铁-CREC** | ✅ 基础全景完成 | 9.3 KB | [company.md](Founder/049-中国中铁-CREC/company.md) | [founder.md](Founder/049-中国中铁-CREC/founder.md) |
-| **#050** | **宝马集团-BMW** | ✅ 基础全景完成 | 10.5 KB | [company.md](Founder/050-宝马集团-BMW/company.md) | [founder.md](Founder/050-宝马集团-BMW/founder.md) |
-| **#051** | **奔驰集团-MercedesBenz** | ✅ 基础全景完成 | 10.4 KB | [company.md](Founder/051-奔驰集团-MercedesBenz/company.md) | [founder.md](Founder/051-奔驰集团-MercedesBenz/founder.md) |
-| **#052** | **克罗格-Kroger** | ✅ 基础全景完成 | 8.5 KB | [company.md](Founder/052-克罗格-Kroger/company.md) | [founder.md](Founder/052-克罗格-Kroger/founder.md) |
-| **#053** | **中国移动-ChinaMobile** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/053-中国移动-ChinaMobile/company.md) | [founder.md](Founder/053-中国移动-ChinaMobile/founder.md) |
-| **#054** | **西班牙国家银行-Santander** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/054-西班牙国家银行-Santander/company.md) | [founder.md](Founder/054-西班牙国家银行-Santander/founder.md) |
-| **#055** | **本田汽车-Honda** | ✅ 基础全景完成 | 11.1 KB | [company.md](Founder/055-本田汽车-Honda/company.md) | [founder.md](Founder/055-本田汽车-Honda/founder.md) |
-| **#056** | **阿里巴巴-Alibaba** | 🌟 大师级深度精修 | 12.0 KB | [company.md](Founder/056-阿里巴巴-Alibaba/company.md) | [founder.md](Founder/056-阿里巴巴-Alibaba/founder.md) |
-| **#057** | **中国铁建-CRCC** | ✅ 基础全景完成 | 8.4 KB | [company.md](Founder/057-中国铁建-CRCC/company.md) | [founder.md](Founder/057-中国铁建-CRCC/founder.md) |
-| **#058** | **法国巴黎银行-BNPParibas** | ✅ 基础全景完成 | 7.2 KB | [company.md](Founder/058-法国巴黎银行-BNPParibas/company.md) | [founder.md](Founder/058-法国巴黎银行-BNPParibas/founder.md) |
-| **#059** | **中信集团-CITIC** | ✅ 基础全景完成 | 9.7 KB | [company.md](Founder/059-中信集团-CITIC/company.md) | [founder.md](Founder/059-中信集团-CITIC/founder.md) |
-| **#060** | **威瑞森-Verizon** | ✅ 基础全景完成 | 8.5 KB | [company.md](Founder/060-威瑞森-Verizon/company.md) | [founder.md](Founder/060-威瑞森-Verizon/founder.md) |
-| **#061** | **菲利普斯66-Phillips66** | ✅ 基础全景完成 | 9.9 KB | [company.md](Founder/061-菲利普斯66-Phillips66/company.md) | [founder.md](Founder/061-菲利普斯66-Phillips66/founder.md) |
-| **#062** | **汇丰银行-HSBC** | ✅ 基础全景完成 | 9.3 KB | [company.md](Founder/062-汇丰银行-HSBC/company.md) | [founder.md](Founder/062-汇丰银行-HSBC/founder.md) |
-| **#063** | **马拉松原油-MarathonPetroleum** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/063-马拉松原油-MarathonPetroleum/company.md) | [founder.md](Founder/063-马拉松原油-MarathonPetroleum/founder.md) |
-| **#064** | **俄罗斯联邦储蓄银行-Sberbank** | ✅ 基础全景完成 | 8.0 KB | [company.md](Founder/064-俄罗斯联邦储蓄银行-Sberbank/company.md) | [founder.md](Founder/064-俄罗斯联邦储蓄银行-Sberbank/founder.md) |
-| **#065** | **德国电信-DeutscheTelekom** | ✅ 基础全景完成 | 7.5 KB | [company.md](Founder/065-德国电信-DeutscheTelekom/company.md) | [founder.md](Founder/065-德国电信-DeutscheTelekom/founder.md) |
-| **#066** | **中国交建-CCCC** | ✅ 基础全景完成 | 7.9 KB | [company.md](Founder/066-中国交建-CCCC/company.md) | [founder.md](Founder/066-中国交建-CCCC/founder.md) |
-| **#067** | **安联保险-Allianz** | ✅ 基础全景完成 | 8.0 KB | [company.md](Founder/067-安联保险-Allianz/company.md) | [founder.md](Founder/067-安联保险-Allianz/founder.md) |
-| **#068** | **华润集团-ChinaResources** | ✅ 基础全景完成 | 9.9 KB | [company.md](Founder/068-华润集团-ChinaResources/company.md) | [founder.md](Founder/068-华润集团-ChinaResources/founder.md) |
-| **#069** | **StoneX集团** | ✅ 基础全景完成 | 7.7 KB | [company.md](Founder/069-StoneX集团/company.md) | [founder.md](Founder/069-StoneX集团/founder.md) |
-| **#070** | **州立农业保险-StateFarm** | ✅ 基础全景完成 | 9.1 KB | [company.md](Founder/070-州立农业保险-StateFarm/company.md) | [founder.md](Founder/070-州立农业保险-StateFarm/founder.md) |
-| **#071** | **房地美-FreddieMac** | ✅ 基础全景完成 | 7.7 KB | [company.md](Founder/071-房地美-FreddieMac/company.md) | [founder.md](Founder/071-房地美-FreddieMac/founder.md) |
-| **#072** | **现代汽车-Hyundai** | ✅ 基础全景完成 | 10.6 KB | [company.md](Founder/072-现代汽车-Hyundai/company.md) | [founder.md](Founder/072-现代汽车-Hyundai/founder.md) |
-| **#073** | **哈门那-Humana** | ✅ 基础全景完成 | 8.3 KB | [company.md](Founder/073-哈门那-Humana/company.md) | [founder.md](Founder/073-哈门那-Humana/founder.md) |
-| **#074** | **法国电力-EDF** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/074-法国电力-EDF/company.md) | [founder.md](Founder/074-法国电力-EDF/founder.md) |
-| **#075** | **美国电话电报-ATT** | ✅ 基础全景完成 | 9.0 KB | [company.md](Founder/075-美国电话电报-ATT/company.md) | [founder.md](Founder/075-美国电话电报-ATT/founder.md) |
-| **#076** | **三菱商事-MitsubishiCorp** | ✅ 基础全景完成 | 9.7 KB | [company.md](Founder/076-三菱商事-MitsubishiCorp/company.md) | [founder.md](Founder/076-三菱商事-MitsubishiCorp/founder.md) |
-| **#077** | **高盛集团-GoldmanSachs** | ✅ 基础全景完成 | 9.0 KB | [company.md](Founder/077-高盛集团-GoldmanSachs/company.md) | [founder.md](Founder/077-高盛集团-GoldmanSachs/founder.md) |
-| **#078** | **恒力集团-Hengli** | ✅ 基础全景完成 | 9.8 KB | [company.md](Founder/078-恒力集团-Hengli/company.md) | [founder.md](Founder/078-恒力集团-Hengli/founder.md) |
-| **#079** | **康卡斯特-Comcast** | ✅ 基础全景完成 | 8.3 KB | [company.md](Founder/079-康卡斯特-Comcast/company.md) | [founder.md](Founder/079-康卡斯特-Comcast/founder.md) |
-| **#080** | **富国银行-WellsFargo** | ✅ 基础全景完成 | 8.8 KB | [company.md](Founder/080-富国银行-WellsFargo/company.md) | [founder.md](Founder/080-富国银行-WellsFargo/founder.md) |
-| **#081** | **华为-Huawei** | 🌟 大师级深度精修 | 10.9 KB | [company.md](Founder/081-华为-Huawei/company.md) | [founder.md](Founder/081-华为-Huawei/founder.md) |
-| **#082** | **台积电-TSMC** | 🌟 大师级深度精修 | 9.5 KB | [company.md](Founder/082-台积电-TSMC/company.md) | [founder.md](Founder/082-台积电-TSMC/founder.md) |
-| **#083** | **中海油-CNOOC** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/083-中海油-CNOOC/company.md) | [founder.md](Founder/083-中海油-CNOOC/founder.md) |
-| **#084** | **摩根士丹利-MorganStanley** | ✅ 基础全景完成 | 8.4 KB | [company.md](Founder/084-摩根士丹利-MorganStanley/company.md) | [founder.md](Founder/084-摩根士丹利-MorganStanley/founder.md) |
-| **#085** | **信实工业-Reliance** | ✅ 基础全景完成 | 10.1 KB | [company.md](Founder/085-信实工业-Reliance/company.md) | [founder.md](Founder/085-信实工业-Reliance/founder.md) |
-| **#086** | **南方电网-CSG** | ✅ 基础全景完成 | 7.1 KB | [company.md](Founder/086-南方电网-CSG/company.md) | [founder.md](Founder/086-南方电网-CSG/founder.md) |
-| **#087** | **山东能源-ShandongEnergy** | ✅ 基础全景完成 | 7.3 KB | [company.md](Founder/087-山东能源-ShandongEnergy/company.md) | [founder.md](Founder/087-山东能源-ShandongEnergy/founder.md) |
-| **#088** | **瓦莱罗能源-Valero** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/088-瓦莱罗能源-Valero/company.md) | [founder.md](Founder/088-瓦莱罗能源-Valero/founder.md) |
-| **#089** | **俄罗斯天然气-Gazprom** | ✅ 基础全景完成 | 8.1 KB | [company.md](Founder/089-俄罗斯天然气-Gazprom/company.md) | [founder.md](Founder/089-俄罗斯天然气-Gazprom/founder.md) |
-| **#090** | **戴尔科技-Dell** | ✅ 基础全景完成 | 9.6 KB | [company.md](Founder/090-戴尔科技-Dell/company.md) | [founder.md](Founder/090-戴尔科技-Dell/founder.md) |
-| **#091** | **比亚迪-BYD** | 🌟 大师级深度精修 | 10.6 KB | [company.md](Founder/091-比亚迪-BYD/company.md) | [founder.md](Founder/091-比亚迪-BYD/founder.md) |
-| **#092** | **印度人寿-LIC** | ✅ 基础全景完成 | 7.7 KB | [company.md](Founder/092-印度人寿-LIC/company.md) | [founder.md](Founder/092-印度人寿-LIC/founder.md) |
-| **#093** | **雀巢-Nestle** | ✅ 基础全景完成 | 8.6 KB | [company.md](Founder/093-雀巢-Nestle/company.md) | [founder.md](Founder/093-雀巢-Nestle/founder.md) |
-| **#094** | **安盛-AXA** | ✅ 基础全景完成 | 8.9 KB | [company.md](Founder/094-安盛-AXA/company.md) | [founder.md](Founder/094-安盛-AXA/founder.md) |
-| **#095** | **挪威国家石油-Equinor** | ✅ 基础全景完成 | 9.8 KB | [company.md](Founder/095-挪威国家石油-Equinor/company.md) | [founder.md](Founder/095-挪威国家石油-Equinor/founder.md) |
-| **#096** | **塔吉特-Target** | ✅ 基础全景完成 | 8.4 KB | [company.md](Founder/096-塔吉特-Target/company.md) | [founder.md](Founder/096-塔吉特-Target/founder.md) |
-| **#097** | **腾讯-Tencent** | 🌟 大师级深度精修 | 10.2 KB | [company.md](Founder/097-腾讯-Tencent/company.md) | [founder.md](Founder/097-腾讯-Tencent/founder.md) |
-| **#098** | **阿霍德德尔海兹-AholdDelhaize** | ✅ 基础全景完成 | 7.8 KB | [company.md](Founder/098-阿霍德德尔海兹-AholdDelhaize/company.md) | [founder.md](Founder/098-阿霍德德尔海兹-AholdDelhaize/founder.md) |
-| **#099** | **中国五矿-ChinaMinmetals** | ✅ 基础全景完成 | 7.6 KB | [company.md](Founder/099-中国五矿-ChinaMinmetals/company.md) | [founder.md](Founder/099-中国五矿-ChinaMinmetals/founder.md) |
-| **#100** | **中国宝武-ChinaBaowu** | ✅ 基础全景完成 | 8.8 KB | [company.md](Founder/100-中国宝武-ChinaBaowu/company.md) | [founder.md](Founder/100-中国宝武-ChinaBaowu/founder.md) |
-| **#101** | **REWE集团-REWE** | ✅ 基础全景完成 | 5.8 KB | ❌ 缺失 | [founder.md](Founder/101-REWE集团-REWE/founder.md) |
-| **#102** | **博世集团-Bosch** | ✅ 基础全景完成 | 8.3 KB | ❌ 缺失 | [founder.md](Founder/102-博世集团-Bosch/founder.md) |
-| **#103** | **法国兴业银行-SocieteGenerale** | ✅ 基础全景完成 | 7.2 KB | ❌ 缺失 | [founder.md](Founder/103-法国兴业银行-SocieteGenerale/founder.md) |
-| **#104** | **中国电建-PowerChina** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/104-中国电建-PowerChina/founder.md) |
-| **#105** | **乐购-Tesco** | ✅ 基础全景完成 | 8.3 KB | ❌ 缺失 | [founder.md](Founder/105-乐购-Tesco/founder.md) |
-| **#106** | **家乐福-Carrefour** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/106-家乐福-Carrefour/founder.md) |
-| **#107** | **伊藤忠商事-Itochu** | ✅ 基础全景完成 | 7.8 KB | ❌ 缺失 | [founder.md](Founder/107-伊藤忠商事-Itochu/founder.md) |
-| **#108** | **国家能源集团-CHNEnergy** | ✅ 基础全景完成 | 7.3 KB | ❌ 缺失 | [founder.md](Founder/108-国家能源集团-CHNEnergy/founder.md) |
-| **#109** | **俄罗斯石油-Rosneft** | ✅ 基础全景完成 | 7.4 KB | ❌ 缺失 | [founder.md](Founder/109-俄罗斯石油-Rosneft/founder.md) |
-| **#110** | **加拿大皇家银行-RBC** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/110-加拿大皇家银行-RBC/founder.md) |
-| **#111** | **日本生命保险-NipponLife** | ✅ 基础全景完成 | 8.0 KB | ❌ 缺失 | [founder.md](Founder/111-日本生命保险-NipponLife/founder.md) |
-| **#112** | **建发集团-CDGroup** | ✅ 基础全景完成 | 7.1 KB | ❌ 缺失 | [founder.md](Founder/112-建发集团-CDGroup/founder.md) |
-| **#113** | **三菱日联金融-MUFG** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/113-三菱日联金融-MUFG/founder.md) |
-| **#114** | **日本电信电话-NTT** | ✅ 基础全景完成 | 8.0 KB | ❌ 缺失 | [founder.md](Founder/114-日本电信电话-NTT/founder.md) |
-| **#115** | **荣盛控股-Rongsheng** | ✅ 基础全景完成 | 8.0 KB | ❌ 缺失 | [founder.md](Founder/115-荣盛控股-Rongsheng/founder.md) |
-| **#116** | **特斯拉-Tesla** | ✅ 基础全景完成 | 9.9 KB | ❌ 缺失 | [founder.md](Founder/116-特斯拉-Tesla/founder.md) |
-| **#117** | **华特迪士尼-Disney** | ✅ 基础全景完成 | 9.5 KB | ❌ 缺失 | [founder.md](Founder/117-华特迪士尼-Disney/founder.md) |
-| **#118** | **埃尼石油-Eni** | ✅ 基础全景完成 | 9.2 KB | ❌ 缺失 | [founder.md](Founder/118-埃尼石油-Eni/founder.md) |
-| **#119** | **中国邮政-ChinaPost** | ✅ 基础全景完成 | 7.8 KB | ❌ 缺失 | [founder.md](Founder/119-中国邮政-ChinaPost/founder.md) |
-| **#120** | **强生-JohnsonJohnson** | ✅ 基础全景完成 | 10.7 KB | ❌ 缺失 | [founder.md](Founder/120-强生-JohnsonJohnson/founder.md) |
-| **#121** | **百事公司-PepsiCo** | ✅ 基础全景完成 | 8.7 KB | ❌ 缺失 | [founder.md](Founder/121-百事公司-PepsiCo/founder.md) |
-| **#122** | **敦豪集团-DHL** | ✅ 基础全景完成 | 8.0 KB | ❌ 缺失 | [founder.md](Founder/122-敦豪集团-DHL/founder.md) |
-| **#123** | **中国人保-PICC** | ✅ 基础全景完成 | 7.4 KB | ❌ 缺失 | [founder.md](Founder/123-中国人保-PICC/founder.md) |
-| **#124** | **三井物产-Mitsui** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/124-三井物产-Mitsui/founder.md) |
-| **#125** | **上汽集团-SAIC** | ✅ 基础全景完成 | 8.2 KB | ❌ 缺失 | [founder.md](Founder/125-上汽集团-SAIC/founder.md) |
-| **#126** | **迪奥-ChristianDior** | ✅ 基础全景完成 | 9.7 KB | ❌ 缺失 | [founder.md](Founder/126-迪奥-ChristianDior/founder.md) |
-| **#127** | **意大利国家电力-Enel** | ✅ 基础全景完成 | 7.7 KB | ❌ 缺失 | [founder.md](Founder/127-意大利国家电力-Enel/founder.md) |
-| **#128** | **波音-Boeing** | ✅ 基础全景完成 | 9.6 KB | ❌ 缺失 | [founder.md](Founder/128-波音-Boeing/founder.md) |
-| **#129** | **国药集团-Sinopharm** | ✅ 基础全景完成 | 8.3 KB | ❌ 缺失 | [founder.md](Founder/129-国药集团-Sinopharm/founder.md) |
-| **#130** | **印度石油-IndianOil** | ✅ 基础全景完成 | 7.6 KB | ❌ 缺失 | [founder.md](Founder/130-印度石油-IndianOil/founder.md) |
-| **#131** | **巴西国家石油-Petrobras** | ✅ 基础全景完成 | 7.4 KB | ❌ 缺失 | [founder.md](Founder/131-巴西国家石油-Petrobras/founder.md) |
-| **#132** | **意昂集团-EON** | ✅ 基础全景完成 | 7.5 KB | ❌ 缺失 | [founder.md](Founder/132-意昂集团-EON/founder.md) |
-| **#133** | **联合包裹-UPS** | ✅ 基础全景完成 | 9.0 KB | ❌ 缺失 | [founder.md](Founder/133-联合包裹-UPS/founder.md) |
-| **#134** | **中国电信-ChinaTelecom** | ✅ 基础全景完成 | 8.0 KB | ❌ 缺失 | [founder.md](Founder/134-中国电信-ChinaTelecom/founder.md) |
-| **#135** | **雷神技术-RTX** | ✅ 基础全景完成 | 9.3 KB | ❌ 缺失 | [founder.md](Founder/135-雷神技术-RTX/founder.md) |
-| **#136** | **拉杰什出口-RajeshExports** | ✅ 基础全景完成 | 8.2 KB | ❌ 缺失 | [founder.md](Founder/136-拉杰什出口-RajeshExports/founder.md) |
-| **#137** | **联邦快递-FedEx** | ✅ 基础全景完成 | 10.2 KB | ❌ 缺失 | [founder.md](Founder/137-联邦快递-FedEx/founder.md) |
-| **#138** | **吉利控股-Geely** | ✅ 基础全景完成 | 9.5 KB | ❌ 缺失 | [founder.md](Founder/138-吉利控股-Geely/founder.md) |
-| **#139** | **前进保险-Progressive** | ✅ 基础全景完成 | 8.9 KB | ❌ 缺失 | [founder.md](Founder/139-前进保险-Progressive/founder.md) |
-| **#140** | **道明银行-TDBank** | ✅ 基础全景完成 | 8.4 KB | ❌ 缺失 | [founder.md](Founder/140-道明银行-TDBank/founder.md) |
-| **#141** | **索尼-Sony** | ✅ 基础全景完成 | 9.8 KB | ❌ 缺失 | [founder.md](Founder/141-索尼-Sony/founder.md) |
-| **#142** | **SK集团-SKGroup** | ✅ 基础全景完成 | 8.9 KB | ❌ 缺失 | [founder.md](Founder/142-SK集团-SKGroup/founder.md) |
-| **#143** | **西门子-Siemens** | ✅ 基础全景完成 | 9.3 KB | ❌ 缺失 | [founder.md](Founder/143-西门子-Siemens/founder.md) |
-| **#144** | **西班牙对外银行-BBVA** | ✅ 基础全景完成 | 7.6 KB | ❌ 缺失 | [founder.md](Founder/144-西班牙对外银行-BBVA/founder.md) |
-| **#145** | **劳氏公司-Lowes** | ✅ 基础全景完成 | 8.4 KB | ❌ 缺失 | [founder.md](Founder/145-劳氏公司-Lowes/founder.md) |
-| **#146** | **JBS公司-JBS** | ✅ 基础全景完成 | 8.4 KB | ❌ 缺失 | [founder.md](Founder/146-JBS公司-JBS/founder.md) |
-| **#147** | **能源转移-EnergyTransfer** | ✅ 基础全景完成 | 8.5 KB | ❌ 缺失 | [founder.md](Founder/147-能源转移-EnergyTransfer/founder.md) |
-| **#148** | **劳埃德银行-Lloyds** | ✅ 基础全景完成 | 8.6 KB | ❌ 缺失 | [founder.md](Founder/148-劳埃德银行-Lloyds/founder.md) |
-| **#149** | **万喜集团-VINCI** | ✅ 基础全景完成 | 8.4 KB | ❌ 缺失 | [founder.md](Founder/149-万喜集团-VINCI/founder.md) |
-| **#150** | **法国农业信贷银行-CreditAgricole** | ✅ 基础全景完成 | 7.9 KB | ❌ 缺失 | [founder.md](Founder/150-法国农业信贷银行-CreditAgricole/founder.md) |
-
----
-
-### 🧭 导航链接
-- 📑 [《财富》世界500强全景名录 (list.md)](list.md)
-- 🏛️ [TOP 100 创始人智库主索引 (Founder/README.md)](Founder/README.md)
+| **#001** | **001-亚马逊-Amazon** | 🌟 大师级深度精修 | 32.4 KB | [company.md](Founder/001-亚马逊-Amazon/company.md) | [founder.md](Founder/001-亚马逊-Amazon/founder.md) |
+| **#002** | **002-沃尔玛-Walmart** | 🌟 大师级深度精修 | 32.6 KB | [company.md](Founder/002-沃尔玛-Walmart/company.md) | [founder.md](Founder/002-沃尔玛-Walmart/founder.md) |
+| **#003** | **003-国家电网-StateGrid** | 🌟 大师级深度精修 | 32.2 KB | [company.md](Founder/003-国家电网-StateGrid/company.md) | [founder.md](Founder/003-国家电网-StateGrid/founder.md) |
+| **#004** | **004-联合健康-UnitedHealth** | 🌟 大师级深度精修 | 40.2 KB | [company.md](Founder/004-联合健康-UnitedHealth/company.md) | [founder.md](Founder/004-联合健康-UnitedHealth/founder.md) |
+| **#005** | **005-沙特阿美-SaudiAramco** | 🌟 大师级深度精修 | 47.2 KB | [company.md](Founder/005-沙特阿美-SaudiAramco/company.md) | [founder.md](Founder/005-沙特阿美-SaudiAramco/founder.md) |
+| **#006** | **006-苹果公司-Apple** | 🌟 大师级深度精修 | 28.4 KB | [company.md](Founder/006-苹果公司-Apple/company.md) | [founder.md](Founder/006-苹果公司-Apple/founder.md) |
+| **#007** | **007-麦克森-McKesson** | 🌟 大师级深度精修 | 42.0 KB | [company.md](Founder/007-麦克森-McKesson/company.md) | [founder.md](Founder/007-麦克森-McKesson/founder.md) |
+| **#008** | **008-谷歌-Alphabet** | 🌟 大师级深度精修 | 23.7 KB | [company.md](Founder/008-谷歌-Alphabet/company.md) | [founder.md](Founder/008-谷歌-Alphabet/founder.md) |
+| **#009** | **009-CVSHealth** | 🌟 大师级深度精修 | 39.1 KB | [company.md](Founder/009-CVSHealth/company.md) | [founder.md](Founder/009-CVSHealth/founder.md) |
+| **#010** | **010-中国石油-CNPC** | 🌟 大师级深度精修 | 44.9 KB | [company.md](Founder/010-中国石油-CNPC/company.md) | [founder.md](Founder/010-中国石油-CNPC/founder.md) |
+| **#011** | **011-伯克希尔哈撒韦-BerkshireHathaway** | 🌟 大师级深度精修 | 34.7 KB | [company.md](Founder/011-伯克希尔哈撒韦-BerkshireHathaway/company.md) | [founder.md](Founder/011-伯克希尔哈撒韦-BerkshireHathaway/founder.md) |
+| **#012** | **012-中国石化-Sinopec** | 🌟 大师级深度精修 | 29.7 KB | [company.md](Founder/012-中国石化-Sinopec/company.md) | [founder.md](Founder/012-中国石化-Sinopec/founder.md) |
+| **#013** | **013-大众公司-Volkswagen** | 🌟 大师级深度精修 | 51.7 KB | [company.md](Founder/013-大众公司-Volkswagen/company.md) | [founder.md](Founder/013-大众公司-Volkswagen/founder.md) |
+| **#014** | **014-丰田汽车-Toyota** | 🌟 大师级深度精修 | 56.5 KB | [company.md](Founder/014-丰田汽车-Toyota/company.md) | [founder.md](Founder/014-丰田汽车-Toyota/founder.md) |
+| **#015** | **015-埃克森美孚-ExxonMobil** | 🌟 大师级深度精修 | 42.2 KB | [company.md](Founder/015-埃克森美孚-ExxonMobil/company.md) | [founder.md](Founder/015-埃克森美孚-ExxonMobil/founder.md) |
+| **#016** | **016-Cencora** | 🌟 大师级深度精修 | 45.2 KB | [company.md](Founder/016-Cencora/company.md) | [founder.md](Founder/016-Cencora/founder.md) |
+| **#017** | **017-中国建筑-CSCEC** | 🌟 大师级深度精修 | 21.7 KB | [company.md](Founder/017-中国建筑-CSCEC/company.md) | [founder.md](Founder/017-中国建筑-CSCEC/founder.md) |
+| **#018** | **018-微软-Microsoft** | 🌟 大师级深度精修 | 62.8 KB | [company.md](Founder/018-微软-Microsoft/company.md) | [founder.md](Founder/018-微软-Microsoft/founder.md) |
+| **#019** | **019-摩根大通-JPMorganChase** | 🌟 大师级深度精修 | 25.2 KB | [company.md](Founder/019-摩根大通-JPMorganChase/company.md) | [founder.md](Founder/019-摩根大通-JPMorganChase/founder.md) |
+| **#020** | **020-开市客-Costco** | 🌟 大师级深度精修 | 22.0 KB | [company.md](Founder/020-开市客-Costco/company.md) | [founder.md](Founder/020-开市客-Costco/founder.md) |
+| **#021** | **021-信诺集团-Cigna** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/021-信诺集团-Cigna/company.md) | ⏳ 待撰写 |
+| **#022** | **022-壳牌公司-Shell** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/022-壳牌公司-Shell/company.md) | ⏳ 待撰写 |
+| **#023** | **023-鸿海富士康-Foxconn** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/023-鸿海富士康-Foxconn/company.md) | ⏳ 待撰写 |
+| **#024** | **024-嘉能可-Glencore** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/024-嘉能可-Glencore/company.md) | ⏳ 待撰写 |
+| **#025** | **025-托克集团-Trafigura** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/025-托克集团-Trafigura/company.md) | ⏳ 待撰写 |
+| **#026** | **026-三星电子-Samsung** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/026-三星电子-Samsung/company.md) | ⏳ 待撰写 |
+| **#027** | **027-嘉德诺健康-CardinalHealth** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/027-嘉德诺健康-CardinalHealth/company.md) | ⏳ 待撰写 |
+| **#028** | **028-英伟达-NVIDIA** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/028-英伟达-NVIDIA/company.md) | ⏳ 待撰写 |
+| **#029** | **029-中国工商银行-ICBC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/029-中国工商银行-ICBC/company.md) | ⏳ 待撰写 |
+| **#030** | **030-Meta公司-Meta** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/030-Meta公司-Meta/company.md) | ⏳ 待撰写 |
+| **#031** | **031-ElevanceHealth** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/031-ElevanceHealth/company.md) | ⏳ 待撰写 |
+| **#032** | **032-Centene** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/032-Centene/company.md) | ⏳ 待撰写 |
+| **#033** | **033-英国石油-BP** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/033-英国石油-BP/company.md) | ⏳ 待撰写 |
+| **#034** | **034-美国银行-BankOfAmerica** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/034-美国银行-BankOfAmerica/company.md) | ⏳ 待撰写 |
+| **#035** | **035-中国农业银行-ABC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/035-中国农业银行-ABC/company.md) | ⏳ 待撰写 |
+| **#036** | **036-雪佛龙-Chevron** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/036-雪佛龙-Chevron/company.md) | ⏳ 待撰写 |
+| **#037** | **037-中国建设银行-CCB** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/037-中国建设银行-CCB/company.md) | ⏳ 待撰写 |
+| **#038** | **038-福特汽车-Ford** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/038-福特汽车-Ford/company.md) | ⏳ 待撰写 |
+| **#039** | **039-通用汽车-GM** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/039-通用汽车-GM/company.md) | ⏳ 待撰写 |
+| **#040** | **040-道达尔能源-TotalEnergies** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/040-道达尔能源-TotalEnergies/company.md) | ⏳ 待撰写 |
+| **#041** | **041-京东集团-JD** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/041-京东集团-JD/company.md) | ⏳ 待撰写 |
+| **#042** | **042-中国人寿-ChinaLife** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/042-中国人寿-ChinaLife/company.md) | ⏳ 待撰写 |
+| **#043** | **043-Stellantis集团** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/043-Stellantis集团/company.md) | ⏳ 待撰写 |
+| **#044** | **044-中国银行-BOC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/044-中国银行-BOC/company.md) | ⏳ 待撰写 |
+| **#045** | **045-花旗集团-Citigroup** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/045-花旗集团-Citigroup/company.md) | ⏳ 待撰写 |
+| **#046** | **046-家得宝-HomeDepot** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/046-家得宝-HomeDepot/company.md) | ⏳ 待撰写 |
+| **#047** | **047-房利美-FannieMae** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/047-房利美-FannieMae/company.md) | ⏳ 待撰写 |
+| **#048** | **048-中国平安-PingAn** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/048-中国平安-PingAn/company.md) | ⏳ 待撰写 |
+| **#049** | **049-中国中铁-CREC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/049-中国中铁-CREC/company.md) | ⏳ 待撰写 |
+| **#050** | **050-宝马集团-BMW** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/050-宝马集团-BMW/company.md) | ⏳ 待撰写 |
+| **#051** | **051-奔驰集团-MercedesBenz** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/051-奔驰集团-MercedesBenz/company.md) | ⏳ 待撰写 |
+| **#052** | **052-克罗格-Kroger** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/052-克罗格-Kroger/company.md) | ⏳ 待撰写 |
+| **#053** | **053-中国移动-ChinaMobile** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/053-中国移动-ChinaMobile/company.md) | ⏳ 待撰写 |
+| **#054** | **054-西班牙国家银行-Santander** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/054-西班牙国家银行-Santander/company.md) | ⏳ 待撰写 |
+| **#055** | **055-本田汽车-Honda** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/055-本田汽车-Honda/company.md) | ⏳ 待撰写 |
+| **#056** | **056-阿里巴巴-Alibaba** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/056-阿里巴巴-Alibaba/company.md) | ⏳ 待撰写 |
+| **#057** | **057-中国铁建-CRCC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/057-中国铁建-CRCC/company.md) | ⏳ 待撰写 |
+| **#058** | **058-法国巴黎银行-BNPParibas** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/058-法国巴黎银行-BNPParibas/company.md) | ⏳ 待撰写 |
+| **#059** | **059-中信集团-CITIC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/059-中信集团-CITIC/company.md) | ⏳ 待撰写 |
+| **#060** | **060-威瑞森-Verizon** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/060-威瑞森-Verizon/company.md) | ⏳ 待撰写 |
+| **#061** | **061-菲利普斯66-Phillips66** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/061-菲利普斯66-Phillips66/company.md) | ⏳ 待撰写 |
+| **#062** | **062-汇丰银行-HSBC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/062-汇丰银行-HSBC/company.md) | ⏳ 待撰写 |
+| **#063** | **063-马拉松原油-MarathonPetroleum** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/063-马拉松原油-MarathonPetroleum/company.md) | ⏳ 待撰写 |
+| **#064** | **064-俄罗斯联邦储蓄银行-Sberbank** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/064-俄罗斯联邦储蓄银行-Sberbank/company.md) | ⏳ 待撰写 |
+| **#065** | **065-德国电信-DeutscheTelekom** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/065-德国电信-DeutscheTelekom/company.md) | ⏳ 待撰写 |
+| **#066** | **066-中国交建-CCCC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/066-中国交建-CCCC/company.md) | ⏳ 待撰写 |
+| **#067** | **067-安联保险-Allianz** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/067-安联保险-Allianz/company.md) | ⏳ 待撰写 |
+| **#068** | **068-华润集团-ChinaResources** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/068-华润集团-ChinaResources/company.md) | ⏳ 待撰写 |
+| **#069** | **069-StoneX集团** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/069-StoneX集团/company.md) | ⏳ 待撰写 |
+| **#070** | **070-州立农业保险-StateFarm** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/070-州立农业保险-StateFarm/company.md) | ⏳ 待撰写 |
+| **#071** | **071-房地美-FreddieMac** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/071-房地美-FreddieMac/company.md) | ⏳ 待撰写 |
+| **#072** | **072-现代汽车-Hyundai** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/072-现代汽车-Hyundai/company.md) | ⏳ 待撰写 |
+| **#073** | **073-哈门那-Humana** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/073-哈门那-Humana/company.md) | ⏳ 待撰写 |
+| **#074** | **074-法国电力-EDF** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/074-法国电力-EDF/company.md) | ⏳ 待撰写 |
+| **#075** | **075-美国电话电报-ATT** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/075-美国电话电报-ATT/company.md) | ⏳ 待撰写 |
+| **#076** | **076-三菱商事-MitsubishiCorp** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/076-三菱商事-MitsubishiCorp/company.md) | ⏳ 待撰写 |
+| **#077** | **077-高盛集团-GoldmanSachs** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/077-高盛集团-GoldmanSachs/company.md) | ⏳ 待撰写 |
+| **#078** | **078-恒力集团-Hengli** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/078-恒力集团-Hengli/company.md) | ⏳ 待撰写 |
+| **#079** | **079-康卡斯特-Comcast** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/079-康卡斯特-Comcast/company.md) | ⏳ 待撰写 |
+| **#080** | **080-富国银行-WellsFargo** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/080-富国银行-WellsFargo/company.md) | ⏳ 待撰写 |
+| **#081** | **081-华为-Huawei** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/081-华为-Huawei/company.md) | ⏳ 待撰写 |
+| **#082** | **082-台积电-TSMC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/082-台积电-TSMC/company.md) | ⏳ 待撰写 |
+| **#083** | **083-中海油-CNOOC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/083-中海油-CNOOC/company.md) | ⏳ 待撰写 |
+| **#084** | **084-摩根士丹利-MorganStanley** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/084-摩根士丹利-MorganStanley/company.md) | ⏳ 待撰写 |
+| **#085** | **085-信实工业-Reliance** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/085-信实工业-Reliance/company.md) | ⏳ 待撰写 |
+| **#086** | **086-南方电网-CSG** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/086-南方电网-CSG/company.md) | ⏳ 待撰写 |
+| **#087** | **087-山东能源-ShandongEnergy** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/087-山东能源-ShandongEnergy/company.md) | ⏳ 待撰写 |
+| **#088** | **088-瓦莱罗能源-Valero** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/088-瓦莱罗能源-Valero/company.md) | ⏳ 待撰写 |
+| **#089** | **089-俄罗斯天然气-Gazprom** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/089-俄罗斯天然气-Gazprom/company.md) | ⏳ 待撰写 |
+| **#090** | **090-戴尔科技-Dell** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/090-戴尔科技-Dell/company.md) | ⏳ 待撰写 |
+| **#091** | **091-比亚迪-BYD** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/091-比亚迪-BYD/company.md) | ⏳ 待撰写 |
+| **#092** | **092-印度人寿-LIC** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/092-印度人寿-LIC/company.md) | ⏳ 待撰写 |
+| **#093** | **093-雀巢-Nestle** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/093-雀巢-Nestle/company.md) | ⏳ 待撰写 |
+| **#094** | **094-安盛-AXA** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/094-安盛-AXA/company.md) | ⏳ 待撰写 |
+| **#095** | **095-挪威国家石油-Equinor** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/095-挪威国家石油-Equinor/company.md) | ⏳ 待撰写 |
+| **#096** | **096-塔吉特-Target** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/096-塔吉特-Target/company.md) | ⏳ 待撰写 |
+| **#097** | **097-腾讯-Tencent** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/097-腾讯-Tencent/company.md) | ⏳ 待撰写 |
+| **#098** | **098-阿霍德德尔海兹-AholdDelhaize** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/098-阿霍德德尔海兹-AholdDelhaize/company.md) | ⏳ 待撰写 |
+| **#099** | **099-中国五矿-ChinaMinmetals** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/099-中国五矿-ChinaMinmetals/company.md) | ⏳ 待撰写 |
+| **#100** | **100-中国宝武-ChinaBaowu** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/100-中国宝武-ChinaBaowu/company.md) | ⏳ 待撰写 |
