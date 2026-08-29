@@ -134,7 +134,8 @@ curated_founders = {
     20: "吉姆·辛内格尔 (James Sinegal)",
     21: "戴维·科达尼与信诺奠基先驱 (David Cordani)",
     22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)",
-    23: "郭台铭 (Terry Gou)"
+    23: "郭台铭 (Terry Gou)",
+    24: "马克·里奇与平卡斯·格林 (Marc Rich)"
 }
 
 country_map = {

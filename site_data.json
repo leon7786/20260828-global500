@@ -1,6 +1,6 @@
 {
   "total_companies": 100,
-  "master_count": 23,
+  "master_count": 24,
   "generated_at": "2026-08-29",
   "companies": [
     {
@@ -451,13 +451,13 @@
       "brand_bg": "bg-indigo-900",
       "country": "🇨🇭 瑞士",
       "industry": "⛏️ 资源大宗",
-      "founder_name": "嘉能可创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "马克·里奇与平卡斯·格林 (Marc Rich)",
+      "founder_title": "马克·里奇 (Marc Rich)：石油之王、影子帝国与全球大宗商品创世纪",
+      "founder_quote": "“在枪炮、禁运、革命与意识形态的狂风骤雨背后，有一条真正统治人类文明运转的隐秘河流——大宗商品。世界上没有任何一个国家的统治者能够拒绝石油与粮食，而我的工作，就是让这条河流在所有人都认为不可能流淌的地方，永不停歇地奔流。”",
+      "founder_size": 35516,
+      "founder_size_kb": 34.7,
       "company_size_kb": 4.0,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 25,
