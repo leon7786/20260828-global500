@@ -1,6 +1,6 @@
 {
   "total_companies": 100,
-  "master_count": 22,
+  "master_count": 23,
   "generated_at": "2026-08-29",
   "companies": [
     {
@@ -432,13 +432,13 @@
       "brand_bg": "bg-blue-700",
       "country": "🇨🇳 中国",
       "industry": "⚙️ 制造芯片",
-      "founder_name": "鸿海富士康创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "郭台铭 (Terry Gou)",
+      "founder_title": "郭台铭 (Terry Gou)：虎与狐的造物史诗、精密制造主权与百万大军创世纪",
+      "founder_quote": "“走出实验室，没有高科技，只有执行的纪律！天底下没有完美的计划，只有把手弄脏、把地扫干净、在最残酷的现场用铁血纪律把一件事做到极致的人，才能真正统治全球制造的版图！”",
+      "founder_size": 34765,
+      "founder_size_kb": 34.0,
       "company_size_kb": 4.1,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 24,

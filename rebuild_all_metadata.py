@@ -133,7 +133,8 @@ curated_founders = {
     19: "J. 皮尔庞特·摩根 (J. Pierpont Morgan)",
     20: "吉姆·辛内格尔 (James Sinegal)",
     21: "戴维·科达尼与信诺奠基先驱 (David Cordani)",
-    22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)"
+    22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)",
+    23: "郭台铭 (Terry Gou)"
 }
 
 country_map = {
