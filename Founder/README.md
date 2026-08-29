@@ -26,8 +26,8 @@
 | **#018** | **微软 (Microsoft)** | 比尔·盖茨 (Bill Gates) & 保罗·艾伦 | 🌟 大师级深度精修 | [查看人物志](Founder/018-微软-Microsoft/founder.md) |
 | **#019** | **摩根大通 (JPMorganChase)** | J. 皮尔庞特·摩根 (J. Pierpont Morgan) | 🌟 大师级深度精修 | [查看人物志](Founder/019-摩根大通-JPMorganChase/founder.md) |
 | **#020** | **开市客 (Costco)** | 吉姆·辛内格尔 (James Sinegal) | 🌟 大师级深度精修 | [查看人物志](Founder/020-开市客-Costco/founder.md) |
-| **#021** | **信诺集团 (Cigna)** | 信诺集团创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
-| **#022** | **壳牌公司 (Shell)** | 壳牌公司创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
+| **#021** | **信诺集团 (Cigna)** | 戴维·科达尼与信诺奠基先驱 (David Cordani) | 🌟 大师级深度精修 | [查看人物志](Founder/021-信诺集团-Cigna/founder.md) |
+| **#022** | **壳牌公司 (Shell)** | 马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel) | 🌟 大师级深度精修 | [查看人物志](Founder/022-壳牌公司-Shell/founder.md) |
 | **#023** | **鸿海富士康 (Foxconn)** | 鸿海富士康创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#024** | **嘉能可 (Glencore)** | 嘉能可创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#025** | **托克集团 (Trafigura)** | 托克集团创始团队 | ⏳ 待补充 | ⏳ 待撰写 |

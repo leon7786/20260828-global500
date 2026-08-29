@@ -1,6 +1,6 @@
 {
   "total_companies": 100,
-  "master_count": 20,
+  "master_count": 22,
   "generated_at": "2026-08-29",
   "companies": [
     {
@@ -394,13 +394,13 @@
       "brand_bg": "bg-cyan-700",
       "country": "🇺🇸 美国",
       "industry": "🏥 医疗健康",
-      "founder_name": "信诺集团创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "戴维·科达尼与信诺奠基先驱 (David Cordani)",
+      "founder_title": "戴维·科达尼与信诺奠基先驱：跨越两个世纪的医美创世纪与全人健康帝国",
+      "founder_quote": "“在健康与医疗的漫长赛道上，真正的胜利绝不是计算理赔款的加减法，而是将每一个人视为完整的人（Whole Person）——用铁人三项般的终身耐力与微社区的深厚信任，将对抗疾病的被动防御，转变为守护生命与福祉的崇高信仰。”",
+      "founder_size": 38592,
+      "founder_size_kb": 37.7,
       "company_size_kb": 4.2,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 22,
@@ -413,13 +413,13 @@
       "brand_bg": "bg-amber-400",
       "country": "🇬🇧 英国",
       "industry": "🛢️ 石油能源",
-      "founder_name": "壳牌公司创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)",
+      "founder_title": "马库斯·萨缪尔与亨利·德特丁：贝壳小店、苏伊士突围与皇家壳牌跨世纪商业史诗",
+      "founder_quote": "“世人只看见标准石油帝国的不可一世，却看不见重力与海洋的自然法则。只要我们能把远洋散装油轮开过苏伊士运河，洛克菲勒用昂贵铁桶构筑的价格围墙，就将在一天之内土崩瓦解！”",
+      "founder_size": 34699,
+      "founder_size_kb": 33.9,
       "company_size_kb": 3.8,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 23,

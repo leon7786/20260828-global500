@@ -131,7 +131,9 @@ curated_founders = {
     17: "陆佑九与三天一层楼深圳速度建设者",
     18: "比尔·盖茨 (Bill Gates) & 保罗·艾伦",
     19: "J. 皮尔庞特·摩根 (J. Pierpont Morgan)",
-    20: "吉姆·辛内格尔 (James Sinegal)"
+    20: "吉姆·辛内格尔 (James Sinegal)",
+    21: "戴维·科达尼与信诺奠基先驱 (David Cordani)",
+    22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)"
 }
 
 country_map = {

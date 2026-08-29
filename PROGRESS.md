@@ -1,6 +1,6 @@
 # 📊 《财富》世界500强 TOP 100 智库建设与精修进度大盘 (Progress Dashboard)
 
-> 📅 **最后更新时间**：`2026-08-29 12:12:52`  
+> 📅 **最后更新时间**：`2026-08-29 12:35:14`  
 > 🎯 **目标**：打造兼具商业洞察与文学可读性的大师级深度人物志全景文库。
 
 ---
@@ -10,8 +10,8 @@
 | 指标项 | 统计数据 | 说明 |
 | :--- | :--- | :--- |
 | 🏢 **建档企业覆盖率** | **100 / 100 家 (100.0%)** | 全部 100 家企业专属目录与公司全景档案就绪 |
-| 🌟 **Top 1–20 大师级人物志** | **20 / 20 家 (100.0%)** | 均达 22KB~64KB，8大心智模型与25项大事记 |
-| ⏳ **Top 21–100 待撰写人物志** | **80 家** | 已清空待逐家高标准撰写 |
+| 🌟 **Top 1–20 大师级人物志** | **22 / 20 家 (100.0%)** | 均达 22KB~64KB，8大心智模型与25项大事记 |
+| ⏳ **Top 21–100 待撰写人物志** | **78 家** | 已清空待逐家高标准撰写 |
 
 ---
 
@@ -39,8 +39,8 @@
 | **#018** | **018-微软-Microsoft** | 🌟 大师级深度精修 | 62.8 KB | [company.md](Founder/018-微软-Microsoft/company.md) | [founder.md](Founder/018-微软-Microsoft/founder.md) |
 | **#019** | **019-摩根大通-JPMorganChase** | 🌟 大师级深度精修 | 25.2 KB | [company.md](Founder/019-摩根大通-JPMorganChase/company.md) | [founder.md](Founder/019-摩根大通-JPMorganChase/founder.md) |
 | **#020** | **020-开市客-Costco** | 🌟 大师级深度精修 | 22.0 KB | [company.md](Founder/020-开市客-Costco/company.md) | [founder.md](Founder/020-开市客-Costco/founder.md) |
-| **#021** | **021-信诺集团-Cigna** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/021-信诺集团-Cigna/company.md) | ⏳ 待撰写 |
-| **#022** | **022-壳牌公司-Shell** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/022-壳牌公司-Shell/company.md) | ⏳ 待撰写 |
+| **#021** | **021-信诺集团-Cigna** | 🌟 大师级深度精修 | 37.7 KB | [company.md](Founder/021-信诺集团-Cigna/company.md) | [founder.md](Founder/021-信诺集团-Cigna/founder.md) |
+| **#022** | **022-壳牌公司-Shell** | 🌟 大师级深度精修 | 33.9 KB | [company.md](Founder/022-壳牌公司-Shell/company.md) | [founder.md](Founder/022-壳牌公司-Shell/founder.md) |
 | **#023** | **023-鸿海富士康-Foxconn** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/023-鸿海富士康-Foxconn/company.md) | ⏳ 待撰写 |
 | **#024** | **024-嘉能可-Glencore** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/024-嘉能可-Glencore/company.md) | ⏳ 待撰写 |
 | **#025** | **025-托克集团-Trafigura** | ⏳ 待补充 | 0.0 KB | [company.md](Founder/025-托克集团-Trafigura/company.md) | ⏳ 待撰写 |
