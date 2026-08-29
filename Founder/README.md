@@ -31,7 +31,7 @@
 | **#023** | **鸿海富士康 (Foxconn)** | 郭台铭 (Terry Gou) | 🌟 大师级深度精修 | [查看人物志](Founder/023-鸿海富士康-Foxconn/founder.md) |
 | **#024** | **嘉能可 (Glencore)** | 马克·里奇与平卡斯·格林 (Marc Rich) | 🌟 大师级深度精修 | [查看人物志](Founder/024-嘉能可-Glencore/founder.md) |
 | **#025** | **托克集团 (Trafigura)** | 克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin) | 🌟 大师级深度精修 | [查看人物志](Founder/025-托克集团-Trafigura/founder.md) |
-| **#026** | **三星电子 (Samsung)** | 三星电子创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
+| **#026** | **三星电子 (Samsung)** | 李秉喆 & 李健熙 (Lee Byung-chull & Lee Kun-hee) | 🌟 大师级深度精修 | [查看人物志](Founder/026-三星电子-Samsung/founder.md) |
 | **#027** | **嘉德诺健康 (CardinalHealth)** | 嘉德诺健康创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#028** | **英伟达 (NVIDIA)** | 英伟达创始团队 | ⏳ 待补充 | ⏳ 待撰写 |
 | **#029** | **中国工商银行 (ICBC)** | 中国工商银行创始团队 | ⏳ 待补充 | ⏳ 待撰写 |

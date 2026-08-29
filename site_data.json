@@ -1,6 +1,6 @@
 {
   "total_companies": 100,
-  "master_count": 25,
+  "master_count": 26,
   "generated_at": "2026-08-29",
   "companies": [
     {
@@ -489,13 +489,13 @@
       "brand_bg": "bg-blue-700",
       "country": "🇰🇷 韩国",
       "industry": "🏢 综合产业",
-      "founder_name": "三星电子创始团队",
-      "founder_title": "创始人档案（待完善）",
-      "founder_quote": "",
-      "founder_size": 0,
-      "founder_size_kb": 0.0,
+      "founder_name": "李秉喆 & 李健熙 (Lee Byung-chull & Lee Kun-hee)",
+      "founder_title": "李秉喆与李健熙：干鱼铺、法兰克福狂飙与三星芯片帝国创世纪",
+      "founder_quote": "“除了老婆和孩子，一切都要给我彻底改变！哪怕把价值五千万美元的手机付之一炬，哪怕在半导体最惨烈的严冬把每一分钱都砸进晶圆厂，我们也绝不生产二流货。三星的目标不是在韩国做第一，而是要在全球科技的巅峰，建立谁也无法逾越的‘超差距’！”",
+      "founder_size": 31732,
+      "founder_size_kb": 31.0,
       "company_size_kb": 3.8,
-      "status": "⏳ 待补充"
+      "status": "🌟 大师级深度精修"
     },
     {
       "rank": 27,

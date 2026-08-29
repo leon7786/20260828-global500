@@ -136,7 +136,8 @@ curated_founders = {
     22: "马库斯·萨缪尔与亨利·德特丁 (Marcus Samuel)",
     23: "郭台铭 (Terry Gou)",
     24: "马克·里奇与平卡斯·格林 (Marc Rich)",
-    25: "克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin)"
+    25: "克劳德·多芬与埃里克·德·特克海姆 (Claude Dauphin)",
+    26: "李秉喆 & 李健熙 (Lee Byung-chull & Lee Kun-hee)"
 }
 
 country_map = {
